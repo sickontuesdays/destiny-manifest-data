@@ -1,0 +1,27 @@
+{
+  "version": "236192.25.08.13.2000-2-bnet.61421",
+  "lastUpdated": "2025-08-22T19:53:10.861Z",
+  "data": {
+    "DestinyInventoryItemDefinition": {},
+    "DestinyStatDefinition": {},
+    "DestinyClassDefinition": {},
+    "DestinySocketTypeDefinition": {},
+    "DestinySocketCategoryDefinition": {},
+    "DestinyActivityDefinition": {},
+    "DestinyActivityTypeDefinition": {},
+    "DestinyDamageTypeDefinition": {},
+    "DestinyEnergyTypeDefinition": {},
+    "DestinySeasonDefinition": {}
+  },
+  "metadata": {
+    "itemCount": 0,
+    "processedAt": "2025-08-22T19:53:10.861Z",
+    "source": "admin-pull",
+    "format": "sqlite-extracted",
+    "downloadSize": 28337703,
+    "compressionFormat": "zip",
+    "note": "SQLite database downloaded successfully. Full processing requires sqlite3 extraction.",
+    "processingStatus": "sqlite-downloaded-not-processed",
+    "recommendedAction": "Use local converter for full manifest processing"
+  }
+}
