@@ -1,6 +1,6 @@
 {
   "version": "236192.25.08.13.2000-2-bnet.61421",
-  "lastUpdated": "2025-08-23T01:16:39.237Z",
+  "lastUpdated": "2025-08-24T00:44:51.864Z",
   "data": {
     "DestinyInventoryItemDefinition": {},
     "DestinyStatDefinition": {},
@@ -15,7 +15,7 @@
   },
   "metadata": {
     "itemCount": 0,
-    "processedAt": "2025-08-23T01:16:39.237Z",
+    "processedAt": "2025-08-24T00:44:51.864Z",
     "source": "admin-pull",
     "format": "sqlite-extracted",
     "downloadSize": 28337703,
