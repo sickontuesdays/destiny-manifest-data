@@ -1,0 +1,7289 @@
+{
+  "12026609": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 12026609,
+    "index": 19,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "36226103": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 36226103,
+    "index": 360,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "37177486": {
+    "displayProperties": {
+      "description": "A luminous concentration of [Solar] Solar energy. When picked up, Firesprites grant grenade energy.",
+      "name": "Firesprite",
+      "icon": "/common/destiny2_content/icons/f860d3a456b1b3bbe8f32f0686d56e66.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/f860d3a456b1b3bbe8f32f0686d56e66.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/d0674de8e2671f23fb49c8594bd968ba.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "displayHint": "keyword",
+    "hash": 37177486,
+    "index": 113,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "37938188": {
+    "displayProperties": {
+      "description": "When a frozen target is shattered, they take damage and deal damage to nearby targets. \n\nShatter damage causes [Disruption] Overload Champions to be stunned.",
+      "name": "Shatter",
+      "icon": "/common/destiny2_content/icons/6f945ea91734328150c7523fcb52977c.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/6f945ea91734328150c7523fcb52977c.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/4c12ae7bfc0cb3f35be1386c68238226.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "displayHint": "keyword",
+    "hash": 37938188,
+    "index": 153,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "39669538": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 39669538,
+    "index": 214,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "40465328": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 40465328,
+    "index": 213,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "41448571": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 41448571,
+    "index": 209,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "76377537": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 76377537,
+    "index": 198,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "83383027": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 83383027,
+    "index": 240,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "98187750": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 98187750,
+    "index": 98,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "106947924": {
+    "displayProperties": {
+      "description": "You are fortified by layers of durable [Stasis] Stasis matter, reducing incoming damage. Frost Armor damage resistance grows stronger as you gain additional stacks.",
+      "name": "Frost Armor",
+      "icon": "/common/destiny2_content/icons/888b77538272ec7d76647865c3631d1b.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/888b77538272ec7d76647865c3631d1b.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/937a4a20ad988e59138703aa1aa683cd.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "displayHint": "keyword",
+    "hash": 106947924,
+    "index": 126,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "109880187": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 109880187,
+    "index": 435,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "117031016": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 117031016,
+    "index": 451,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "124084641": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 124084641,
+    "index": 201,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "130863397": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 130863397,
+    "index": 24,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "151064318": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 151064318,
+    "index": 67,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "155197419": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 155197419,
+    "index": 419,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "157469667": {
+    "displayProperties": {
+      "description": "Your weapons are enhanced by the power of the Traveler and deal increased damage to combatants. \n\nWhile you are radiant, your weapons pierce the shields of [Shield-Piercing] Barrier Champions and stun them.",
+      "name": "Radiant",
+      "icon": "/common/destiny2_content/icons/a548069d59fa0bbf671da9e8ce31728e.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/a548069d59fa0bbf671da9e8ce31728e.png",
+            "/common/destiny2_content/icons/8953dac1163f7e63df2b6ea3d5473ca7.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/8953dac1163f7e63df2b6ea3d5473ca7.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "displayHint": "keyword",
+    "hash": 157469667,
+    "index": 112,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "161869928": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 161869928,
+    "index": 259,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "170945933": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 170945933,
+    "index": 92,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "171470558": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 171470558,
+    "index": 293,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "174549790": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 174549790,
+    "index": 253,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "192828432": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 192828432,
+    "index": 6,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "195373008": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 195373008,
+    "index": 30,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "201433599": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 201433599,
+    "index": 13,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "213011245": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 213011245,
+    "index": 434,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "225026090": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 225026090,
+    "index": 352,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "229803920": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 229803920,
+    "index": 234,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "232598396": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 232598396,
+    "index": 421,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "233989961": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 233989961,
+    "index": 349,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "250951477": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 250951477,
+    "index": 320,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "260277218": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 260277218,
+    "index": 191,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "299829906": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 299829906,
+    "index": 298,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "305514763": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 305514763,
+    "index": 422,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "307995396": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 307995396,
+    "index": 232,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "333350185": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 333350185,
+    "index": 325,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "334077092": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 334077092,
+    "index": 428,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "334856989": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 334856989,
+    "index": 314,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "345967499": {
+    "displayProperties": {
+      "description": "You resonate in perfect harmony with Light and Darkness. You gain increased ability regeneration, increased weapon damage, and damage resistance against combatants.\n\nYour grenade is replaced with a unique Prismatic grenade that combines multiple damage types. Defeating targets while Transcendent extends its duration.",
+      "name": "Transcendence",
+      "icon": "/common/destiny2_content/icons/4647800a51389db133279a8ccf87f8be.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/4647800a51389db133279a8ccf87f8be.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/566db72858a66e683c6b631c5deaf8e1.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "displayHint": "keyword",
+    "hash": 345967499,
+    "index": 134,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "370766376": {
+    "displayProperties": {
+      "description": "Exotic gear and catalyst quests.",
+      "name": "Exotics",
+      "icon": "/common/destiny2_content/icons/2ffa90c58bdadcca8226f553315212e7.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/2ffa90c58bdadcca8226f553315212e7.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/df132182236c418a60d26396b103e3c5.jpg"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/72c63c315739705eb5347c4325b76f0e.jpg"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/6ee747a507a8aea719bb83055df58d1b.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/422a17f8e29d08072e7e2711f966e20b.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "displayHint": "",
+    "hash": 370766376,
+    "index": 71,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "374319058": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 374319058,
+    "index": 38,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "434938132": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 434938132,
+    "index": 255,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "446244952": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 446244952,
+    "index": 29,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "468529574": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 468529574,
+    "index": 311,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "482679394": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 482679394,
+    "index": 58,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "500105683": {
+    "displayProperties": {
+      "description": "Vanguard, Crucible, and Gambit quests.",
+      "name": "Playlists",
+      "icon": "/common/destiny2_content/icons/65a31faec8334aa8dccf8c370f78dda1.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/65a31faec8334aa8dccf8c370f78dda1.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/244a04c4b4a0534dc422552c3d7ea38b.jpg"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/c4299a8f9d7cdf09748193d1d5b9ed96.jpg"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/79c9c5d0e6aea154e18d316735db1b6a.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/a39a664534ae72176b048e9d441b1c54.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "displayHint": "",
+    "hash": 500105683,
+    "index": 90,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "500183315": {
+    "displayProperties": {
+      "description": "Combatants are disoriented and cannot fire their weapons. Opposing Guardians' HUD is removed and their vision is obscured.\n\nWhen blinded, [Stagger] Unstoppable Champions are stunned.",
+      "name": "Blind",
+      "icon": "/common/destiny2_content/icons/038cc5626aba34f106fc4b35d5e1b4e1.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/038cc5626aba34f106fc4b35d5e1b4e1.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/d49589053c21c8c8772758c3f22ec951.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "displayHint": "keyword",
+    "hash": 500183315,
+    "index": 145,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "504988698": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 504988698,
+    "index": 392,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "520842014": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 520842014,
+    "index": 364,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "520867389": {
+    "displayProperties": {
+      "description": "Quests related to New Light tutorials and introductions.",
+      "name": "New Light",
+      "icon": "/common/destiny2_content/icons/f56a6ee985a64cf3ee1852419454a8db.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/f56a6ee985a64cf3ee1852419454a8db.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/f56a6ee985a64cf3ee1852419454a8db.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/b8b1dc70ce6e1a1b3d6ed7b49f596fb8.jpg"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/1d24c4aef1ffc08d894b40df400958b1.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/e9e5c572a1ea80780441977e7c4f1e5c.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "displayHint": "",
+    "hash": 520867389,
+    "index": 70,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "520916876": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 520916876,
+    "index": 238,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "522554985": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 522554985,
+    "index": 285,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "537873221": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 537873221,
+    "index": 356,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "546690510": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 546690510,
+    "index": 246,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "547663118": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 547663118,
+    "index": 139,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "562930553": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 562930553,
+    "index": 411,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "567594262": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 567594262,
+    "index": 16,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "569207711": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 569207711,
+    "index": 140,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "577926988": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 577926988,
+    "index": 62,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "582502599": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 582502599,
+    "index": 412,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "593408385": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 593408385,
+    "index": 362,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "597957208": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 597957208,
+    "index": 280,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "597957213": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 597957213,
+    "index": 279,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "598395003": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 598395003,
+    "index": 204,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "601047215": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 601047215,
+    "index": 310,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "617430242": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 617430242,
+    "index": 64,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "618625581": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 618625581,
+    "index": 393,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "621715997": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 621715997,
+    "index": 215,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "635937708": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 635937708,
+    "index": 295,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "648646601": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 648646601,
+    "index": 427,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "655301426": {
+    "displayProperties": {
+      "description": "You vanish from sight and do not appear on radar. While invisible, your radar range is reduced. Performing offensive actions will end invisibility.",
+      "name": "Invisibility",
+      "icon": "/common/destiny2_content/icons/8e0485ef4872e0d9050fa194e77909ae.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/8e0485ef4872e0d9050fa194e77909ae.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/eacd09a17c6ca0716cf631dc224ce96d.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "displayHint": "keyword",
+    "hash": 655301426,
+    "index": 119,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "661041410": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 661041410,
+    "index": 487,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "665715580": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 665715580,
+    "index": 143,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "672814113": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 672814113,
+    "index": 286,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "686448803": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 686448803,
+    "index": 504,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "687504889": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 687504889,
+    "index": 489,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "700104665": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 700104665,
+    "index": 261,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "700752377": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 700752377,
+    "index": 319,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "703084576": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 703084576,
+    "index": 208,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "718957614": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 718957614,
+    "index": 328,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "729741781": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 729741781,
+    "index": 195,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "730562603": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 730562603,
+    "index": 118,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "736781692": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 736781692,
+    "index": 499,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "737900236": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 737900236,
+    "index": 343,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "743967300": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 743967300,
+    "index": 389,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "753559279": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 753559279,
+    "index": 502,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "757182887": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 757182887,
+    "index": 303,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "757611458": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 757611458,
+    "index": 417,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "757986077": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 757986077,
+    "index": 283,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "763053052": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 763053052,
+    "index": 78,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "764811604": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 764811604,
+    "index": 154,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "767429775": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 767429775,
+    "index": 170,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "778733392": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 778733392,
+    "index": 179,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "791394185": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 791394185,
+    "index": 284,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "791530618": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 791530618,
+    "index": 34,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "808443044": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 808443044,
+    "index": 263,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "823756278": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 823756278,
+    "index": 475,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "824035087": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 824035087,
+    "index": 163,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "830531733": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 830531733,
+    "index": 95,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "847948254": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 847948254,
+    "index": 239,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "853784306": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 853784306,
+    "index": 162,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "856705125": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 856705125,
+    "index": 51,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "866931116": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 866931116,
+    "index": 491,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "868106226": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 868106226,
+    "index": 326,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "875772746": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 875772746,
+    "index": 172,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "879546201": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 879546201,
+    "index": 180,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "886353176": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 886353176,
+    "index": 477,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "888082966": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 888082966,
+    "index": 45,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "888940472": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 888940472,
+    "index": 33,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "903130763": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 903130763,
+    "index": 474,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "904453863": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 904453863,
+    "index": 97,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "919908478": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 919908478,
+    "index": 481,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "929402123": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 929402123,
+    "index": 75,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "936686033": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 936686033,
+    "index": 479,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "945613349": {
+    "displayProperties": {
+      "description": "The target is permeated with destructive [Strand] Strand matter. As they take additional damage, they create unraveled projectiles that seek out nearby targets.\n\nUnraveling Rounds from your [Strand] Strand weapons pierce the shields of [Shield-Piercing] Barrier Champions and stun them.\n\nUnraveled targets unwind into a Tangle when defeated.",
+      "name": "Unravel",
+      "icon": "/common/destiny2_content/icons/051ff84191eed83b68476bb7956fedb8.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/051ff84191eed83b68476bb7956fedb8.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/c9039555733d53a3a47cd5b2430fd5e5.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "displayHint": "keyword",
+    "hash": 945613349,
+    "index": 157,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "955734042": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 955734042,
+    "index": 455,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "963390771": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 963390771,
+    "index": 8,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "977620370": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 977620370,
+    "index": 444,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "980358978": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 980358978,
+    "index": 177,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "993452906": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 993452906,
+    "index": 416,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1026496724": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 1026496724,
+    "index": 379,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1030789163": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 1030789163,
+    "index": 55,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1056186694": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 1056186694,
+    "index": 94,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1066204936": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 1066204936,
+    "index": 205,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1075323345": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 1075323345,
+    "index": 36,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1096356879": {
+    "displayProperties": {
+      "description": "The target is singed by destructive [Solar] Solar Light, taking damage over time. Scorch damage increases as the target accumulates more Scorch stacks.\n\nAfter enough Scorch stacks are applied to the target, they ignite.",
+      "name": "Scorch",
+      "icon": "/common/destiny2_content/icons/bd624a7fed32c344941af6337c6e5dab.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/bd624a7fed32c344941af6337c6e5dab.png",
+            "/common/destiny2_content/icons/244f8ad7166580f84f3c8b8cf6296e11.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/244f8ad7166580f84f3c8b8cf6296e11.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "displayHint": "keyword",
+    "hash": 1096356879,
+    "index": 141,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1116551470": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 1116551470,
+    "index": 181,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1133476216": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 1133476216,
+    "index": 183,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1139002406": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 1139002406,
+    "index": 60,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1143070403": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 1143070403,
+    "index": 31,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1147135570": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 1147135570,
+    "index": 200,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1160263324": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 1160263324,
+    "index": 456,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1167385080": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 1167385080,
+    "index": 123,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1172047080": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 1172047080,
+    "index": 257,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1172274382": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 1172274382,
+    "index": 166,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1198087679": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 1198087679,
+    "index": 353,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1198684128": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 1198684128,
+    "index": 287,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1217364247": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 1217364247,
+    "index": 182,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1221030001": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 1221030001,
+    "index": 3,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1250893192": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 1250893192,
+    "index": 56,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1276828373": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 1276828373,
+    "index": 228,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1286856754": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 1286856754,
+    "index": 305,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1300086289": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 1300086289,
+    "index": 387,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1322474937": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 1322474937,
+    "index": 150,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1323904787": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 1323904787,
+    "index": 423,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1331615443": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 1331615443,
+    "index": 254,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1337715751": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 1337715751,
+    "index": 167,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1338670955": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 1338670955,
+    "index": 373,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1345630660": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 1345630660,
+    "index": 2,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1348188306": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 1348188306,
+    "index": 494,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1354420037": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 1354420037,
+    "index": 351,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1356561287": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 1356561287,
+    "index": 388,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1356575523": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 1356575523,
+    "index": 313,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1357347767": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 1357347767,
+    "index": 453,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1367199550": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 1367199550,
+    "index": 224,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1374839702": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 1374839702,
+    "index": 247,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1385893620": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 1385893620,
+    "index": 446,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1416106830": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 1416106830,
+    "index": 447,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1419617178": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 1419617178,
+    "index": 174,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1429525298": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 1429525298,
+    "index": 245,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1434215347": {
+    "displayProperties": {
+      "description": "No Time Filters",
+      "name": "All",
+      "icon": "/common/destiny2_content/icons/92c49392bc339ffcfc3555c1776451a2.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/92c49392bc339ffcfc3555c1776451a2.png",
+            "/common/destiny2_content/icons/b28e8c243b8979b1a640b199a3d8165e.png",
+            "/common/destiny2_content/icons/4a92f65e8e67c83e9fe20d30a8f4a067.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "displayHint": "",
+    "hash": 1434215347,
+    "index": 104,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1437746589": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 1437746589,
+    "index": 370,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1440745919": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 1440745919,
+    "index": 203,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1461075198": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 1461075198,
+    "index": 372,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1466750141": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 1466750141,
+    "index": 304,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1490736758": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 1490736758,
+    "index": 414,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1505749855": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 1505749855,
+    "index": 378,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1514833946": {
+    "displayProperties": {
+      "description": "Darkness debuffs include [Stasis] Slow, [Stasis] Freeze, [Strand] Sever, [Strand] Suspend, and [Strand] Unravel.",
+      "name": "Darkness Debuffs",
+      "icon": "/common/destiny2_content/icons/ffa7bf9f0dcd5708a44ebe1ea21cbc46.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/ffa7bf9f0dcd5708a44ebe1ea21cbc46.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/787c816aa829d6f16fdfa5bf41278d39.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "displayHint": "keyword",
+    "hash": 1514833946,
+    "index": 138,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1517560136": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 1517560136,
+    "index": 363,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1525172678": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 1525172678,
+    "index": 212,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1531673855": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 1531673855,
+    "index": 27,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1558941632": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 1558941632,
+    "index": 317,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1566582046": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 1566582046,
+    "index": 432,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1573004294": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 1573004294,
+    "index": 460,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1577394840": {
+    "displayProperties": {
+      "description": "A knot of [Strand] Strand matter, swirling with potential. Tangles can be shot and destroyed, or picked up and thrown, dealing damage.\n\nDefeating targets afflicted by any [Strand] Strand debuff will unwind them and create a Tangle.",
+      "name": "Tangle",
+      "icon": "/common/destiny2_content/icons/a7e18e7d692b51d034c37a87d361f7d4.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/a7e18e7d692b51d034c37a87d361f7d4.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/b1a0fafca09cb5f4f9565cc245cadaae.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "displayHint": "keyword",
+    "hash": 1577394840,
+    "index": 129,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1586813352": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 1586813352,
+    "index": 194,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1642830122": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 1642830122,
+    "index": 226,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1648572040": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 1648572040,
+    "index": 18,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1654692157": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 1654692157,
+    "index": 206,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1678497680": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 1678497680,
+    "index": 322,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1759345824": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 1759345824,
+    "index": 266,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1781288324": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 1781288324,
+    "index": 159,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1817378482": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 1817378482,
+    "index": 327,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1821231131": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 1821231131,
+    "index": 9,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1823621418": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 1823621418,
+    "index": 146,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1831680715": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 1831680715,
+    "index": 267,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1851377542": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 1851377542,
+    "index": 39,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1858131755": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 1858131755,
+    "index": 500,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1861210184": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 1861210184,
+    "index": 14,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1866367371": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 1866367371,
+    "index": 10,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1880899575": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 1880899575,
+    "index": 347,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1891050213": {
+    "displayProperties": {
+      "description": "Darkness buffs include [Stasis] Frost Armor and [Strand] Woven Mail.",
+      "name": "Darkness Buffs",
+      "icon": "/common/destiny2_content/icons/75581bdecbbdc1165a5c929549d1e18c.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/75581bdecbbdc1165a5c929549d1e18c.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/7c76f2ba7b76ce59a2f786ea87f516b4.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "displayHint": "keyword",
+    "hash": 1891050213,
+    "index": 136,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1928576137": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 1928576137,
+    "index": 431,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1938141081": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 1938141081,
+    "index": 249,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1955898626": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 1955898626,
+    "index": 165,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1968436740": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 1968436740,
+    "index": 37,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1971572531": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 1971572531,
+    "index": 355,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2031890241": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2031890241,
+    "index": 366,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2034403781": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2034403781,
+    "index": 22,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2052231686": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2052231686,
+    "index": 503,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2052424639": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2052424639,
+    "index": 281,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2058756944": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2058756944,
+    "index": 176,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2062186907": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2062186907,
+    "index": 42,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2066884528": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2066884528,
+    "index": 109,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2089125992": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2089125992,
+    "index": 332,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2100142349": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2100142349,
+    "index": 32,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2114179114": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2114179114,
+    "index": 26,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2140607679": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2140607679,
+    "index": 241,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2144866879": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2144866879,
+    "index": 420,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2145159276": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2145159276,
+    "index": 217,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2146550262": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2146550262,
+    "index": 229,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2155608923": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2155608923,
+    "index": 309,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2158851968": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2158851968,
+    "index": 406,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2158851970": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2158851970,
+    "index": 404,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2158851971": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2158851971,
+    "index": 405,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2170664967": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2170664967,
+    "index": 342,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2173587643": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2173587643,
+    "index": 369,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2184280643": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2184280643,
+    "index": 464,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2197868002": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2197868002,
+    "index": 251,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2199535764": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2199535764,
+    "index": 354,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2208921643": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2208921643,
+    "index": 482,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2210483526": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2210483526,
+    "index": 5,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2210876963": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2210876963,
+    "index": 408,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2217328812": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2217328812,
+    "index": 11,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2219844221": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2219844221,
+    "index": 385,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2230116619": {
+    "displayProperties": {
+      "description": "The metric data from the current Season.",
+      "name": "Seasonal",
+      "icon": "/common/destiny2_content/icons/d94044d314b8d662459427143394d286.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/d94044d314b8d662459427143394d286.png",
+            "/common/destiny2_content/icons/2ccb1dd44c9e68c1b6863bb9132e9110.png",
+            "/common/destiny2_content/icons/9f33677e6a695fa3447df5ddd0573370.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "displayHint": "",
+    "hash": 2230116619,
+    "index": 106,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2241939186": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2241939186,
+    "index": 409,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2255585005": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2255585005,
+    "index": 308,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2266583942": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2266583942,
+    "index": 175,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2277369768": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2277369768,
+    "index": 430,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2283789075": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2283789075,
+    "index": 222,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2284968312": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2284968312,
+    "index": 339,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2284968314": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2284968314,
+    "index": 337,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2284968315": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2284968315,
+    "index": 338,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2284968316": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2284968316,
+    "index": 335,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2284968317": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2284968317,
+    "index": 336,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2284968319": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2284968319,
+    "index": 334,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2286246572": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2286246572,
+    "index": 302,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2299257547": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2299257547,
+    "index": 383,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2319679337": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2319679337,
+    "index": 413,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2326993577": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2326993577,
+    "index": 458,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2330159556": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2330159556,
+    "index": 306,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2356777566": {
+    "displayProperties": {
+      "description": "The metric data from the current week.",
+      "name": "Weekly",
+      "icon": "/common/destiny2_content/icons/44becdb3f9c8c7e71da64c81bbb037de.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/44becdb3f9c8c7e71da64c81bbb037de.png",
+            "/common/destiny2_content/icons/994e419e388404997f30dc2fc029eaee.png",
+            "/common/destiny2_content/icons/55a7e6c51be44bda15eee45ea1ae9bb3.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "displayHint": "",
+    "hash": 2356777566,
+    "index": 107,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2365976206": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2365976206,
+    "index": 189,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2387836362": {
+    "displayProperties": {
+      "description": "Quests from past expansions.",
+      "name": "The Past",
+      "icon": "/common/destiny2_content/icons/98ab820785900cef91a4d0927935a8aa.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/98ab820785900cef91a4d0927935a8aa.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/d1115a04234905f8eb4214656db7861d.jpg"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/da6578be07665e533f13be79432eb334.jpg"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/ae372d08d751766c6b8a449fbe60df5b.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/5af2a9b4c9cd0eea4d8ce617a3eeae75.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "displayHint": "",
+    "hash": 2387836362,
+    "index": 91,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2395705665": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2395705665,
+    "index": 269,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2405803211": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2405803211,
+    "index": 462,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2424289530": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2424289530,
+    "index": 210,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2433647538": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2433647538,
+    "index": 244,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2443101659": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2443101659,
+    "index": 53,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2455696884": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2455696884,
+    "index": 44,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2456184651": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2456184651,
+    "index": 376,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2464483374": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2464483374,
+    "index": 415,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2467815459": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2467815459,
+    "index": 324,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2484024184": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2484024184,
+    "index": 258,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2485406866": {
+    "displayProperties": {
+      "description": "You are armored with a protective barrier of [Void] Void Light. Reduces damage taken from combatants.",
+      "name": "Overshield",
+      "icon": "/common/destiny2_content/icons/9aa4002a8b199d7b8c1444d6f0aec030.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/9aa4002a8b199d7b8c1444d6f0aec030.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/0ee7571dcb6679c239df32e4fb41241a.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "displayHint": "keyword",
+    "hash": 2485406866,
+    "index": 121,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2515873973": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2515873973,
+    "index": 211,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2519102437": {
+    "displayProperties": {
+      "description": "The target's connections to the world around them are cut, and their outgoing damage is significantly reduced.\n\nSevered targets unwind into a Tangle when defeated.",
+      "name": "Sever",
+      "icon": "/common/destiny2_content/icons/cf68d8d1181768364c8388206700fb17.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/cf68d8d1181768364c8388206700fb17.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/c1d271f596501f4b63971d53706ff384.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "displayHint": "keyword",
+    "hash": 2519102437,
+    "index": 156,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2547720896": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2547720896,
+    "index": 262,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2570676179": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2570676179,
+    "index": 49,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2572971238": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2572971238,
+    "index": 480,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2575891999": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2575891999,
+    "index": 169,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2578642829": {
+    "displayProperties": {
+      "description": "The target is taken out of any active abilities and cannot activate any abilities or movement modes while suppression persists. Afflicted combatants cannot fire their weapons.\n\nWhen suppressed, [Disruption] Overload Champions are stunned.",
+      "name": "Suppression",
+      "icon": "/common/destiny2_content/icons/740d30660c05efeb92f2b0284b2d4e76.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/740d30660c05efeb92f2b0284b2d4e76.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/dc7a1bbe83b7203a9f64a5c82ad05ea1.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "displayHint": "keyword",
+    "hash": 2578642829,
+    "index": 148,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2582082890": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2582082890,
+    "index": 54,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2583519926": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2583519926,
+    "index": 202,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2588343649": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2588343649,
+    "index": 272,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2598526821": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2598526821,
+    "index": 299,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2603281419": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2603281419,
+    "index": 193,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2606653893": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2606653893,
+    "index": 484,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2610856156": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2610856156,
+    "index": 277,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2612874486": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2612874486,
+    "index": 250,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2620132440": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2620132440,
+    "index": 344,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2639619744": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2639619744,
+    "index": 171,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2639658130": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2639658130,
+    "index": 197,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2641247911": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2641247911,
+    "index": 252,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2652561225": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2652561225,
+    "index": 52,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2656809369": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2656809369,
+    "index": 473,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2658426873": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2658426873,
+    "index": 108,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2659552777": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2659552777,
+    "index": 21,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2661868009": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2661868009,
+    "index": 207,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2675670106": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2675670106,
+    "index": 230,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2677200345": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2677200345,
+    "index": 438,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2679722414": {
+    "displayProperties": {
+      "description": "The target is immobilized by a web of [Strand] Strand matter, lifting them into the air. While suspended, Guardians are unable to move freely, combatants are unable to move or fire their weapon, and [Stagger] Unstoppable Champions are stunned.\n\nSuspended targets unwind into a Tangle when defeated.",
+      "name": "Suspend",
+      "icon": "/common/destiny2_content/icons/cba22aa36145138ddcfb8ac7b7e6345e.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/cba22aa36145138ddcfb8ac7b7e6345e.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/af4ca11c49f4da4ae7968fef63993f40.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "displayHint": "keyword",
+    "hash": 2679722414,
+    "index": 155,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2710080956": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2710080956,
+    "index": 348,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2712954769": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2712954769,
+    "index": 101,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2713325501": {
+    "displayProperties": {
+      "description": "Light buffs include [Arc] Amplified, [Arc] Bolt Charge, [Solar] Cure, [Solar] Radiant, [Solar] Restoration, [Void] Devour, [Void] Invisibility, and [Void] Overshield.",
+      "name": "Light Buffs",
+      "icon": "/common/destiny2_content/icons/b69ea795e7f861c5f6cd4718a7026938.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/b69ea795e7f861c5f6cd4718a7026938.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/56d39e307bdecc34c2857c8fbd421c23.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "displayHint": "keyword",
+    "hash": 2713325501,
+    "index": 135,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2716347296": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2716347296,
+    "index": 260,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2716563063": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2716563063,
+    "index": 161,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2724747993": {
+    "displayProperties": {
+      "description": "A creature woven from pure Strand matter that seeks nearby targets and attacks, dealing damage.",
+      "name": "Threadling",
+      "icon": "/common/destiny2_content/icons/2ebc3ae6a7db8aa91c5c11d4fcde3c64.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/2ebc3ae6a7db8aa91c5c11d4fcde3c64.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/970df6510ded86166f3f66b1a0fdb474.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "displayHint": "keyword",
+    "hash": 2724747993,
+    "index": 130,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2725534325": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2725534325,
+    "index": 501,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2729780558": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2729780558,
+    "index": 17,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2730300482": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2730300482,
+    "index": 131,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2734802942": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2734802942,
+    "index": 330,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2748124432": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2748124432,
+    "index": 463,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2752740613": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2752740613,
+    "index": 465,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2756041021": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2756041021,
+    "index": 190,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2757936819": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2757936819,
+    "index": 391,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2764902019": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2764902019,
+    "index": 466,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2773025918": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2773025918,
+    "index": 506,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2773195676": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2773195676,
+    "index": 237,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2774053628": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2774053628,
+    "index": 429,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2774395792": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2774395792,
+    "index": 74,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2781679734": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2781679734,
+    "index": 468,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2782665440": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2782665440,
+    "index": 441,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2798457321": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2798457321,
+    "index": 470,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2799343944": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2799343944,
+    "index": 96,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2799404325": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2799404325,
+    "index": 127,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2810119860": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2810119860,
+    "index": 333,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2815234908": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2815234908,
+    "index": 472,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2815382067": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2815382067,
+    "index": 450,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2816220614": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2816220614,
+    "index": 437,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2832159654": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2832159654,
+    "index": 448,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2832998329": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2832998329,
+    "index": 439,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2833630124": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2833630124,
+    "index": 63,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2848937241": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2848937241,
+    "index": 445,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2865714828": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2865714828,
+    "index": 457,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2868778669": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2868778669,
+    "index": 478,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2878306895": {
+    "displayProperties": {
+      "description": "Quests from the latest expansion.",
+      "name": "The Final Shape",
+      "icon": "/common/destiny2_content/icons/de8f2fcb3ea3879e3c4b1f3c6b9f1625.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/de8f2fcb3ea3879e3c4b1f3c6b9f1625.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/09e2cb737728b494079b5c3d16988b1f.jpg"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/5e930de4e9914072b5f2f0f5c08e3e43.jpg"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/93969d5a7e55de91e40cabc4a8ba13c0.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/509f2be95b78ecc4342e7fc2d630c0d0.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "displayHint": "",
+    "hash": 2878306895,
+    "index": 89,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2880814943": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2880814943,
+    "index": 424,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2882364680": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2882364680,
+    "index": 220,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2882492543": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2882492543,
+    "index": 454,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2882756503": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2882756503,
+    "index": 331,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2886837563": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2886837563,
+    "index": 425,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2891203715": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2891203715,
+    "index": 23,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2893978702": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2893978702,
+    "index": 46,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2899270098": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2899270098,
+    "index": 452,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2900108773": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2900108773,
+    "index": 443,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2903568500": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2903568500,
+    "index": 312,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2906302736": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2906302736,
+    "index": 493,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2908361097": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2908361097,
+    "index": 265,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2908763903": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2908763903,
+    "index": 73,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2916194876": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2916194876,
+    "index": 488,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2918597027": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2918597027,
+    "index": 225,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2924267458": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2924267458,
+    "index": 221,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2925830706": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2925830706,
+    "index": 382,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2927270320": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2927270320,
+    "index": 433,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2932972463": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2932972463,
+    "index": 490,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2935077680": {
+    "displayProperties": {
+      "description": "Accumulate stacks of Arc Bolt Charge. While you have Bolt Charge, sustained weapon damage generates stacks of Bolt Charge. At maximum stacks, any ability damage generates a powerful bolt of Arc lightning at the target's location.\n\nReceiving a stack of Bolt Charge grants you melee energy.",
+      "name": "Bolt Charge",
+      "icon": "/common/destiny2_content/icons/1a6c7927114c00751fcd2eeed6054563.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/1a6c7927114c00751fcd2eeed6054563.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/476f4b3f5b92f1e4c6e35f5554ea5b9f.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "displayHint": "keyword",
+    "hash": 2935077680,
+    "index": 117,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2936993964": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2936993964,
+    "index": 307,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2941759840": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2941759840,
+    "index": 184,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2944045106": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2944045106,
+    "index": 160,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2949750018": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2949750018,
+    "index": 483,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2951574431": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2951574431,
+    "index": 497,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2951764300": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2951764300,
+    "index": 1,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2966380574": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2966380574,
+    "index": 461,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2966527733": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2966527733,
+    "index": 486,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2968352114": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2968352114,
+    "index": 495,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2968599152": {
+    "displayProperties": {
+      "description": "The target is trapped in [Stasis] Stasis matter and is unable to move.\n\nAfter taking additional damage while frozen, the target shatters.",
+      "name": "Freeze",
+      "icon": "/common/destiny2_content/icons/cf81b048bf3ede7a7295ddf79cb48b49.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/cf81b048bf3ede7a7295ddf79cb48b49.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/dc61f495eb4e11c36c30fca1f9f8323d.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "displayHint": "keyword",
+    "hash": 2968599152,
+    "index": 152,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2971373688": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2971373688,
+    "index": 61,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2973844452": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2973844452,
+    "index": 93,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2976021378": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2976021378,
+    "index": 76,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2983158257": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2983158257,
+    "index": 459,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2985129701": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2985129701,
+    "index": 492,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2987314010": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 2987314010,
+    "index": 505,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3011401061": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3011401061,
+    "index": 77,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3016462557": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3016462557,
+    "index": 380,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3023190802": {
+    "displayProperties": {
+      "description": "Light debuffs include [Arc] Blind, [Arc] Jolt, [Solar] Scorch, [Solar] Ignitions, [Void] Suppression, [Void] Volatile, and [Void] Weaken.",
+      "name": "Light Debuffs",
+      "icon": "/common/destiny2_content/icons/cdd855a2fc535b406d6a09adc395a621.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/cdd855a2fc535b406d6a09adc395a621.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/3bd9201edf92833d03f3f2d3e4b2fbce.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "displayHint": "keyword",
+    "hash": 3023190802,
+    "index": 137,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3024825882": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3024825882,
+    "index": 243,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3034243664": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3034243664,
+    "index": 15,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3045653339": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3045653339,
+    "index": 248,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3066013431": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3066013431,
+    "index": 374,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3078132110": {
+    "displayProperties": {
+      "description": "Feast on the energy of your defeated foes. Final blows restore health, grant grenade energy, and extend Devour.",
+      "name": "Devour",
+      "icon": "/common/destiny2_content/icons/23d1523fc638a2769c7a35633642d0d1.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/23d1523fc638a2769c7a35633642d0d1.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/25b1d51a3764239806c38fc076f6de3c.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "displayHint": "keyword",
+    "hash": 3078132110,
+    "index": 120,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3090596947": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3090596947,
+    "index": 102,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3104860207": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3104860207,
+    "index": 418,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3131123585": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3131123585,
+    "index": 289,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3138052491": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3138052491,
+    "index": 297,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3160944713": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3160944713,
+    "index": 168,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3165517565": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3165517565,
+    "index": 290,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3173573497": {
+    "displayProperties": {
+      "description": "Your body is encased in a protective mesh of tightly woven [Strand] Strand matter, greatly reducing any incoming non-precision damage.",
+      "name": "Woven Mail",
+      "icon": "/common/destiny2_content/icons/4e86fbbeaf00f584a93e231dd2e36421.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/4e86fbbeaf00f584a93e231dd2e36421.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/ff5fbe338c5dd7925480aec15a4041d0.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "displayHint": "keyword",
+    "hash": 3173573497,
+    "index": 128,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3206544293": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3206544293,
+    "index": 386,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3221118171": {
+    "displayProperties": {
+      "description": "The target is energized with destructive [Arc] Arc Light. They take additional damage while jolted and chain lightning to nearby targets.\n\nJolt damage causes [Disruption] Overload Champions to be stunned.",
+      "name": "Jolted",
+      "icon": "/common/destiny2_content/icons/5c5922023e24197459e52dded0bb97ae.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/5c5922023e24197459e52dded0bb97ae.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/269cf1d38cba72fa1fe2c5c80fbe1514.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "displayHint": "keyword",
+    "hash": 3221118171,
+    "index": 144,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3224025418": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3224025418,
+    "index": 57,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3227009207": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3227009207,
+    "index": 315,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3228707019": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3228707019,
+    "index": 178,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3234110852": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3234110852,
+    "index": 196,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3240785387": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3240785387,
+    "index": 316,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3263723277": {
+    "displayProperties": {
+      "description": "You are healed in a burst of mending [Solar] Solar Light.",
+      "name": "Cure",
+      "icon": "/common/destiny2_content/icons/1dd156ec6fa9989e41fc613f13709010.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/1dd156ec6fa9989e41fc613f13709010.png",
+            "/common/destiny2_content/icons/97d37a82c74fec4ce0f7e2b5d85c2017.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/97d37a82c74fec4ce0f7e2b5d85c2017.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "displayHint": "keyword",
+    "hash": 3263723277,
+    "index": 111,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3265951855": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3265951855,
+    "index": 223,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3268862716": {
+    "displayProperties": {
+      "description": "A large [Solar] Solar explosion which deals damage in an area around the target and stuns [Stagger] Unstoppable Champions.",
+      "name": "Ignition",
+      "icon": "/common/destiny2_content/icons/a9f9c3ee61dca93b76abd3fee8323864.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/a9f9c3ee61dca93b76abd3fee8323864.png",
+            "/common/destiny2_content/icons/a6fb525131b3abc0e66c599c271528eb.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/a6fb525131b3abc0e66c599c271528eb.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "displayHint": "keyword",
+    "hash": 3268862716,
+    "index": 142,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3291013836": {
+    "displayProperties": {
+      "description": "Your movement speed and weapon handling are greatly increased. After sprinting for a short time, your movement speed is further increased.\n\nRapidly defeating targets with [Arc] Arc damage makes you amplified.",
+      "name": "Amplified",
+      "icon": "/common/destiny2_content/icons/cc6ce294e996af1310981de31b45fcdd.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/cc6ce294e996af1310981de31b45fcdd.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/57c5b9d9b5027471045cc09e57a79c4c.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "displayHint": "keyword",
+    "hash": 3291013836,
+    "index": 115,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3300229618": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3300229618,
+    "index": 25,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3317459566": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3317459566,
+    "index": 350,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3328352616": {
+    "displayProperties": {
+      "description": "A dimensional rupture teeming with [Void] Void energy. When picked up, Void Breaches grant class ability energy.",
+      "name": "Void Breach",
+      "icon": "/common/destiny2_content/icons/cfc3558f69b69fdd57c0f73dfa1ea9a0.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/cfc3558f69b69fdd57c0f73dfa1ea9a0.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/b798713d763726419338d82452032424.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "displayHint": "keyword",
+    "hash": 3328352616,
+    "index": 122,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3331226384": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3331226384,
+    "index": 4,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3336638905": {
+    "displayProperties": {
+      "description": "The target takes increased damage and has their movement speed slowed.",
+      "name": "Weaken",
+      "icon": "/common/destiny2_content/icons/793b0ba05e19f6e8cca31859cd1c3d14.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/793b0ba05e19f6e8cca31859cd1c3d14.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/3650632dd55402894a71fdc60a25d398.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "displayHint": "keyword",
+    "hash": 3336638905,
+    "index": 147,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3343564992": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3343564992,
+    "index": 401,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3343564993": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3343564993,
+    "index": 400,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3343564994": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3343564994,
+    "index": 399,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3343564995": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3343564995,
+    "index": 398,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3343564996": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3343564996,
+    "index": 397,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3343564997": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3343564997,
+    "index": 396,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3343564998": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3343564998,
+    "index": 395,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3343565006": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3343565006,
+    "index": 403,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3343565007": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3343565007,
+    "index": 402,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3344674544": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3344674544,
+    "index": 186,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3344674545": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3344674545,
+    "index": 187,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3344674547": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3344674547,
+    "index": 185,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3352061006": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3352061006,
+    "index": 426,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3353022846": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3353022846,
+    "index": 471,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3357932111": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3357932111,
+    "index": 358,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3359893241": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3359893241,
+    "index": 0,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3361847320": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3361847320,
+    "index": 467,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3367459877": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3367459877,
+    "index": 40,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3368363296": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3368363296,
+    "index": 133,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3375291347": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3375291347,
+    "index": 292,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3379994017": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3379994017,
+    "index": 381,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3385340084": {
+    "displayProperties": {
+      "description": "A crystal of solidified [Stasis] Stasis matter. Upon creation, freezes nearby combatants and slows nearby players.\n\nCrystals can be destroyed, dealing damage in an area.",
+      "name": "Stasis Crystal",
+      "icon": "/common/destiny2_content/icons/3907940dad92f2b35253d041d083830a.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/3907940dad92f2b35253d041d083830a.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/1d0eb9c1df6f2a2820d1166291d17298.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "displayHint": "keyword",
+    "hash": 3385340084,
+    "index": 124,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3396834334": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3396834334,
+    "index": 268,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3401407364": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3401407364,
+    "index": 188,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3415805210": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3415805210,
+    "index": 367,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3439101959": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3439101959,
+    "index": 164,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3443510161": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3443510161,
+    "index": 365,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3460933757": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3460933757,
+    "index": 103,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3461546327": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3461546327,
+    "index": 384,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3475344486": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3475344486,
+    "index": 12,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3476217238": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3476217238,
+    "index": 288,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3477257717": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3477257717,
+    "index": 65,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3488482714": {
+    "displayProperties": {
+      "description": "You regenerate health and shields over time. Cannot be interrupted by taking damage.",
+      "name": "Restoration",
+      "icon": "/common/destiny2_content/icons/9956959589643e064d304e946365a099.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/9956959589643e064d304e946365a099.png",
+            "/common/destiny2_content/icons/c1f0b09fc449ba2fcd2414799c8684ae.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/c1f0b09fc449ba2fcd2414799c8684ae.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "displayHint": "keyword",
+    "hash": 3488482714,
+    "index": 110,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3531175616": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3531175616,
+    "index": 291,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3539819122": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3539819122,
+    "index": 323,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3553898659": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3553898659,
+    "index": 99,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3554277106": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3554277106,
+    "index": 371,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3559637159": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3559637159,
+    "index": 377,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3577055443": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3577055443,
+    "index": 35,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3594746632": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3594746632,
+    "index": 274,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3594746633": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3594746633,
+    "index": 273,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3594746638": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3594746638,
+    "index": 276,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3594746639": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3594746639,
+    "index": 275,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3596220576": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3596220576,
+    "index": 476,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3596615802": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3596615802,
+    "index": 301,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3602983853": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3602983853,
+    "index": 20,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3607584152": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3607584152,
+    "index": 47,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3619103539": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3619103539,
+    "index": 449,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3619586785": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3619586785,
+    "index": 410,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3634406941": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3634406941,
+    "index": 318,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3635202440": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3635202440,
+    "index": 264,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3639594860": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3639594860,
+    "index": 173,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3640833231": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3640833231,
+    "index": 278,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3640833242": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3640833242,
+    "index": 282,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3658797847": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3658797847,
+    "index": 345,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3668771603": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3668771603,
+    "index": 294,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3671004794": {
+    "displayProperties": {
+      "description": "Quests from the current Season.",
+      "name": "Seasonal",
+      "icon": "/common/destiny2_content/icons/9f4e29f28797ddfab2a0ff1a68219bf2.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/9f4e29f28797ddfab2a0ff1a68219bf2.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/3c16deedc6510cccf8013f1be60921a5.jpg"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/ce297e01c86495c4022cfca3c701265a.jpg"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/410f57e01eebf3506b580d4a75ba009a.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/c44a046e9bbc1b32b9330ea739e8a78b.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "displayHint": "",
+    "hash": 3671004794,
+    "index": 79,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3671265248": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3671265248,
+    "index": 357,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3672688365": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3672688365,
+    "index": 199,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3690635686": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3690635686,
+    "index": 7,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3708449068": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3708449068,
+    "index": 192,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3712629579": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3712629579,
+    "index": 236,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3743641066": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3743641066,
+    "index": 300,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3750900718": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3750900718,
+    "index": 440,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3756966377": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3756966377,
+    "index": 321,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3773650793": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3773650793,
+    "index": 231,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3791840693": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3791840693,
+    "index": 100,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3802844481": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3802844481,
+    "index": 407,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3810743423": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3810743423,
+    "index": 219,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3815294102": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3815294102,
+    "index": 270,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3818283343": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3818283343,
+    "index": 329,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3820193993": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3820193993,
+    "index": 59,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3824458961": {
+    "displayProperties": {
+      "description": "A bolt of pure [Arc] Arc energy that travels along the ground, seeking toward its creator. When picked up, Ionic Traces grant ability energy.",
+      "name": "Ionic Trace",
+      "icon": "/common/destiny2_content/icons/775777a47960f74df521545f7cf109f9.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/775777a47960f74df521545f7cf109f9.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/427078a87193ec416b650fb09920aae3.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "displayHint": "keyword",
+    "hash": 3824458961,
+    "index": 116,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3827007838": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3827007838,
+    "index": 218,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3828004164": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3828004164,
+    "index": 66,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3830019555": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3830019555,
+    "index": 158,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3833926855": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3833926855,
+    "index": 485,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3868581217": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3868581217,
+    "index": 271,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3870807100": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3870807100,
+    "index": 498,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3887072016": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3887072016,
+    "index": 341,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3887072019": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3887072019,
+    "index": 340,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3904180885": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3904180885,
+    "index": 88,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3904180888": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3904180888,
+    "index": 85,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3904180889": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3904180889,
+    "index": 84,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3904180890": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3904180890,
+    "index": 87,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3904180891": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3904180891,
+    "index": 86,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3904180892": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3904180892,
+    "index": 81,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3904180893": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3904180893,
+    "index": 80,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3904180894": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3904180894,
+    "index": 83,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3904180895": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3904180895,
+    "index": 82,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3906525419": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3906525419,
+    "index": 43,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3918774443": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3918774443,
+    "index": 114,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3925016055": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3925016055,
+    "index": 28,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3929525346": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3929525346,
+    "index": 394,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3936371807": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3936371807,
+    "index": 256,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3977049418": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3977049418,
+    "index": 48,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3990406773": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 3990406773,
+    "index": 442,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "4014665450": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 4014665450,
+    "index": 375,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "4020167523": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 4020167523,
+    "index": 469,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "4033669920": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 4033669920,
+    "index": 242,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "4034468802": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 4034468802,
+    "index": 132,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "4036726046": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 4036726046,
+    "index": 68,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "4043161234": {
+    "displayProperties": {
+      "description": "A small shard of [Stasis] Stasis matter that can be collected to restore melee energy.",
+      "name": "Stasis Shard",
+      "icon": "/common/destiny2_content/icons/61e76efa20781304ec9496432ac599c8.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/61e76efa20781304ec9496432ac599c8.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/92f0537a7bc35d09018945def573b7ca.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "displayHint": "keyword",
+    "hash": 4043161234,
+    "index": 125,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "4062681771": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 4062681771,
+    "index": 296,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "4062709591": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 4062709591,
+    "index": 496,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "4063854436": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 4063854436,
+    "index": 69,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "4105407564": {
+    "displayProperties": {
+      "description": "The target is afflicted with unstable [Void] Void energy and will explode upon taking additional damage. \n\nVolatile Rounds from your [Void] Void weapons pierce the shields of [Shield-Piercing] Barrier Champions and stun them.",
+      "name": "Volatile",
+      "icon": "/common/destiny2_content/icons/58db3ed045faba9a408528cd41e31186.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/58db3ed045faba9a408528cd41e31186.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/b0cb4880c2fb561e8911d1d7545fd7e0.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "displayHint": "keyword",
+    "hash": 4105407564,
+    "index": 149,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "4105527943": {
+    "displayProperties": {
+      "description": "Quests from the current Season.",
+      "name": "Seasonal",
+      "icon": "/common/destiny2_content/icons/9f4e29f28797ddfab2a0ff1a68219bf2.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/9f4e29f28797ddfab2a0ff1a68219bf2.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/3c16deedc6510cccf8013f1be60921a5.jpg"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/ce297e01c86495c4022cfca3c701265a.jpg"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/410f57e01eebf3506b580d4a75ba009a.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/c44a046e9bbc1b32b9330ea739e8a78b.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "displayHint": "",
+    "hash": 4105527943,
+    "index": 72,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "4117459644": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 4117459644,
+    "index": 216,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "4118304139": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 4118304139,
+    "index": 50,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "4127329397": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 4127329397,
+    "index": 390,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "4153016323": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 4153016323,
+    "index": 346,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "4162919904": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 4162919904,
+    "index": 233,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "4185800602": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 4185800602,
+    "index": 235,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "4194055032": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 4194055032,
+    "index": 361,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "4216515786": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 4216515786,
+    "index": 227,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "4239423954": {
+    "displayProperties": {
+      "description": "The target has slowed movement and ability regeneration; their weapon performance is reduced. [Disruption] Overload Champions are stunned.\n\nAfter accumulating enough Slow stacks, the target is frozen.",
+      "name": "Slow",
+      "icon": "/common/destiny2_content/icons/4b192aa4a9e52cde43286829fd809bca.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/4b192aa4a9e52cde43286829fd809bca.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/fe50951f9d29cb02b7161ad0807dad13.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "displayHint": "keyword",
+    "hash": 4239423954,
+    "index": 151,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "4252733117": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 4252733117,
+    "index": 41,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "4263853822": {
+    "displayProperties": {
+      "description": "Career metric data where available.",
+      "name": "Career",
+      "icon": "/common/destiny2_content/icons/a04930d70103ffe7af5b3ef78e1c7a0c.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/a04930d70103ffe7af5b3ef78e1c7a0c.png",
+            "/common/destiny2_content/icons/e00d939e3d88efef36e56b076674255b.png",
+            "/common/destiny2_content/icons/55d042d16c749a35795d1dd4d786113d.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "displayHint": "",
+    "hash": 4263853822,
+    "index": 105,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "4272924526": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 4272924526,
+    "index": 368,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "4282889736": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 4282889736,
+    "index": 436,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "4286056546": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayHint": "",
+    "hash": 4286056546,
+    "index": 359,
+    "redacted": false,
+    "blacklisted": false
+  }
+}

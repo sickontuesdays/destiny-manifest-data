@@ -1,0 +1,61 @@
+{
+  "createdAt": "2025-12-20T07:02:33.902Z",
+  "version": "1.0.0",
+  "description": "Optimized Destiny 2 manifest with chunked inventory data",
+  "optimization": {
+    "originalFileSize": 253140436,
+    "totalChunkedSize": 253140444,
+    "chunkCount": 5,
+    "compressionRatio": "-0.00%"
+  },
+  "chunks": {
+    "weapons": {
+      "items": 6752,
+      "size": 79914539,
+      "description": "All weapons (kinetic, energy, power)"
+    },
+    "armor": {
+      "items": 6430,
+      "size": 87247069,
+      "description": "All armor pieces (helmet, arms, chest, legs, class item)"
+    },
+    "consumables": {
+      "items": 3162,
+      "size": 16726936,
+      "description": "Materials, currencies, enhancement items"
+    },
+    "cosmetics": {
+      "items": 5997,
+      "size": 28185367,
+      "description": "Shaders, emblems, ornaments, ships, sparrows"
+    },
+    "uncategorized": {
+      "items": 10709,
+      "size": 41066533,
+      "description": "Items that could not be automatically categorized"
+    }
+  },
+  "loadingStrategy": {
+    "recommendation": "Load chunks on demand to optimize performance",
+    "fastLoad": [
+      "DestinyStatDefinition.json",
+      "DestinyTraitDefinition.json"
+    ],
+    "mediumLoad": [
+      "DestinySandboxPerkDefinition.json",
+      "weapons.json"
+    ],
+    "heavyLoad": [
+      "armor.json",
+      "consumables.json",
+      "cosmetics.json"
+    ]
+  },
+  "performance": {
+    "estimatedLoadTimes": {
+      "weapons": "~39s on mobile",
+      "armor": "~42s on mobile",
+      "fullOriginal": "60+ seconds on mobile (avoided!)"
+    }
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "151347233": {
+    "displayProperties": {
+      "description": "This deals Stasis damage.",
+      "name": "Stasis",
+      "icon": "/common/destiny2_content/icons/DestinyDamageTypeDefinition_530c4c3e7981dc2aefd24fd3293482bf.png",
+      "iconHash": 0,
+      "hasIcon": true
+    },
+    "transparentIconPath": "/img/destiny_content/damage_types/destiny2/stasis-white-96x96.png",
+    "showIcon": true,
+    "enumValue": 6,
+    "color": {
+      "red": 77,
+      "green": 136,
+      "blue": 255,
+      "alpha": 255
+    },
+    "hash": 151347233,
+    "index": 5,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1067729826": {
+    "displayProperties": {
+      "description": "This is a special damage type reserved for some raid activity encounters.",
+      "name": "Raid",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "showIcon": false,
+    "enumValue": 5,
+    "hash": 1067729826,
+    "index": 4,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1847026933": {
+    "displayProperties": {
+      "description": "This deals Solar damage.",
+      "name": "Solar",
+      "icon": "/common/destiny2_content/icons/DestinyDamageTypeDefinition_2a1773e10968f2d088b97c22b22bba9e.png",
+      "iconHash": 0,
+      "hasIcon": true
+    },
+    "transparentIconPath": "/img/destiny_content/damage_types/destiny2/thermal_trans.png",
+    "showIcon": true,
+    "enumValue": 3,
+    "color": {
+      "red": 242,
+      "green": 114,
+      "blue": 27,
+      "alpha": 255
+    },
+    "hash": 1847026933,
+    "index": 2,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2303181850": {
+    "displayProperties": {
+      "description": "This deals Arc damage.",
+      "name": "Arc",
+      "icon": "/common/destiny2_content/icons/DestinyDamageTypeDefinition_092d066688b879c807c3b460afdd61e6.png",
+      "iconHash": 0,
+      "hasIcon": true
+    },
+    "transparentIconPath": "/img/destiny_content/damage_types/destiny2/arc_trans.png",
+    "showIcon": true,
+    "enumValue": 2,
+    "color": {
+      "red": 133,
+      "green": 197,
+      "blue": 236,
+      "alpha": 255
+    },
+    "hash": 2303181850,
+    "index": 1,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3373582085": {
+    "displayProperties": {
+      "description": "This deals Kinetic damage.",
+      "name": "Kinetic",
+      "icon": "/common/destiny2_content/icons/DestinyDamageTypeDefinition_3385a924fd3ccb92c343ade19f19a370.png",
+      "iconHash": 0,
+      "hasIcon": true
+    },
+    "transparentIconPath": "/img/destiny_content/damage_types/destiny2/kinetic_trans.png",
+    "showIcon": false,
+    "enumValue": 1,
+    "color": {
+      "red": 255,
+      "green": 255,
+      "blue": 255,
+      "alpha": 255
+    },
+    "hash": 3373582085,
+    "index": 0,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3454344768": {
+    "displayProperties": {
+      "description": "This deals Void damage.",
+      "name": "Void",
+      "icon": "/common/destiny2_content/icons/DestinyDamageTypeDefinition_ceb2f6197dccf3958bb31cc783eb97a0.png",
+      "iconHash": 0,
+      "hasIcon": true
+    },
+    "transparentIconPath": "/img/destiny_content/damage_types/destiny2/void_trans.png",
+    "showIcon": true,
+    "enumValue": 4,
+    "color": {
+      "red": 177,
+      "green": 132,
+      "blue": 197,
+      "alpha": 255
+    },
+    "hash": 3454344768,
+    "index": 3,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3949783978": {
+    "displayProperties": {
+      "description": "This deals Strand damage.",
+      "name": "Strand",
+      "icon": "/common/destiny2_content/icons/DestinyDamageTypeDefinition_b2fe51a94f3533f97079dfa0d27a4096.png",
+      "iconHash": 0,
+      "hasIcon": true
+    },
+    "transparentIconPath": "/img/destiny_content/damage_types/destiny2/strand-white-185x185.png",
+    "showIcon": true,
+    "enumValue": 7,
+    "color": {
+      "red": 53,
+      "green": 227,
+      "blue": 102,
+      "alpha": 255
+    },
+    "hash": 3949783978,
+    "index": 6,
+    "redacted": false,
+    "blacklisted": false
+  }
+}
