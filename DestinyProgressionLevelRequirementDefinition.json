@@ -1,0 +1,621 @@
+{
+  "492032699": {
+    "requirementCurve": [
+      {
+        "value": 1,
+        "weight": 1
+      },
+      {
+        "value": 7,
+        "weight": 1
+      },
+      {
+        "value": 10,
+        "weight": 4
+      },
+      {
+        "value": 15,
+        "weight": 11
+      },
+      {
+        "value": 24,
+        "weight": 20
+      },
+      {
+        "value": 30,
+        "weight": 20
+      },
+      {
+        "value": 30.1,
+        "weight": 21
+      },
+      {
+        "value": 33,
+        "weight": 25
+      },
+      {
+        "value": 33.1,
+        "weight": 26
+      },
+      {
+        "value": 40,
+        "weight": 30
+      },
+      {
+        "value": 40.1,
+        "weight": 31
+      },
+      {
+        "value": 42,
+        "weight": 32
+      },
+      {
+        "value": 45,
+        "weight": 37
+      },
+      {
+        "value": 55,
+        "weight": 50
+      }
+    ],
+    "progressionHash": 1716568313,
+    "hash": 492032699,
+    "index": 9,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1225003660": {
+    "requirementCurve": [
+      {
+        "value": 1,
+        "weight": 1
+      },
+      {
+        "value": 2,
+        "weight": 1
+      },
+      {
+        "value": 11,
+        "weight": 10
+      },
+      {
+        "value": 21,
+        "weight": 20
+      },
+      {
+        "value": 30,
+        "weight": 20
+      },
+      {
+        "value": 30.1,
+        "weight": 21
+      },
+      {
+        "value": 33,
+        "weight": 25
+      },
+      {
+        "value": 33.1,
+        "weight": 26
+      },
+      {
+        "value": 40,
+        "weight": 30
+      },
+      {
+        "value": 40.1,
+        "weight": 39
+      },
+      {
+        "value": 50,
+        "weight": 49
+      },
+      {
+        "value": 51,
+        "weight": 50
+      }
+    ],
+    "progressionHash": 1716568313,
+    "hash": 1225003660,
+    "index": 1,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1432934783": {
+    "requirementCurve": [
+      {
+        "value": 1,
+        "weight": 1
+      },
+      {
+        "value": 2.5,
+        "weight": 1
+      },
+      {
+        "value": 3,
+        "weight": 3
+      },
+      {
+        "value": 7,
+        "weight": 7
+      },
+      {
+        "value": 20,
+        "weight": 20
+      },
+      {
+        "value": 30,
+        "weight": 20
+      },
+      {
+        "value": 30.1,
+        "weight": 21
+      },
+      {
+        "value": 33,
+        "weight": 25
+      },
+      {
+        "value": 33.1,
+        "weight": 26
+      },
+      {
+        "value": 40,
+        "weight": 30
+      },
+      {
+        "value": 40.1,
+        "weight": 40
+      },
+      {
+        "value": 50,
+        "weight": 50
+      }
+    ],
+    "progressionHash": 1716568313,
+    "hash": 1432934783,
+    "index": 0,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1749211501": {
+    "requirementCurve": [
+      {
+        "value": 10,
+        "weight": 6
+      },
+      {
+        "value": 18,
+        "weight": 15
+      },
+      {
+        "value": 20,
+        "weight": 18
+      },
+      {
+        "value": 22,
+        "weight": 20
+      },
+      {
+        "value": 30,
+        "weight": 20
+      },
+      {
+        "value": 30.1,
+        "weight": 21
+      },
+      {
+        "value": 33,
+        "weight": 25
+      },
+      {
+        "value": 33.1,
+        "weight": 26
+      },
+      {
+        "value": 40,
+        "weight": 30
+      },
+      {
+        "value": 40.1,
+        "weight": 31
+      },
+      {
+        "value": 42,
+        "weight": 32
+      },
+      {
+        "value": 45,
+        "weight": 38
+      },
+      {
+        "value": 50,
+        "weight": 48
+      },
+      {
+        "value": 52,
+        "weight": 50
+      }
+    ],
+    "progressionHash": 1716568313,
+    "hash": 1749211501,
+    "index": 7,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1886361701": {
+    "requirementCurve": [
+      {
+        "value": 1,
+        "weight": 1
+      },
+      {
+        "value": 2.5,
+        "weight": 1
+      },
+      {
+        "value": 3,
+        "weight": 3
+      },
+      {
+        "value": 7,
+        "weight": 7
+      },
+      {
+        "value": 20,
+        "weight": 20
+      },
+      {
+        "value": 30,
+        "weight": 20
+      },
+      {
+        "value": 30.1,
+        "weight": 21
+      },
+      {
+        "value": 33,
+        "weight": 25
+      },
+      {
+        "value": 33.1,
+        "weight": 26
+      },
+      {
+        "value": 40,
+        "weight": 30
+      },
+      {
+        "value": 40.1,
+        "weight": 40
+      },
+      {
+        "value": 50,
+        "weight": 50
+      }
+    ],
+    "progressionHash": 1716568313,
+    "hash": 1886361701,
+    "index": 5,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2042817806": {
+    "requirementCurve": [
+      {
+        "value": 1,
+        "weight": 20
+      },
+      {
+        "value": 100,
+        "weight": 20
+      }
+    ],
+    "progressionHash": 1716568313,
+    "hash": 2042817806,
+    "index": 10,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2393583370": {
+    "requirementCurve": [
+      {
+        "value": 1,
+        "weight": 1
+      },
+      {
+        "value": 2,
+        "weight": 1
+      },
+      {
+        "value": 11,
+        "weight": 10
+      },
+      {
+        "value": 21,
+        "weight": 20
+      },
+      {
+        "value": 30,
+        "weight": 20
+      },
+      {
+        "value": 30.1,
+        "weight": 21
+      },
+      {
+        "value": 33,
+        "weight": 25
+      },
+      {
+        "value": 33.1,
+        "weight": 26
+      },
+      {
+        "value": 40,
+        "weight": 30
+      },
+      {
+        "value": 40.1,
+        "weight": 39
+      },
+      {
+        "value": 50,
+        "weight": 49
+      },
+      {
+        "value": 51,
+        "weight": 50
+      }
+    ],
+    "progressionHash": 1716568313,
+    "hash": 2393583370,
+    "index": 6,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2479027085": {
+    "requirementCurve": [
+      {
+        "value": 1,
+        "weight": 1
+      },
+      {
+        "value": 7,
+        "weight": 1
+      },
+      {
+        "value": 10,
+        "weight": 4
+      },
+      {
+        "value": 15,
+        "weight": 11
+      },
+      {
+        "value": 24,
+        "weight": 20
+      },
+      {
+        "value": 30,
+        "weight": 20
+      },
+      {
+        "value": 30.1,
+        "weight": 21
+      },
+      {
+        "value": 33,
+        "weight": 25
+      },
+      {
+        "value": 33.1,
+        "weight": 26
+      },
+      {
+        "value": 40,
+        "weight": 30
+      },
+      {
+        "value": 40.1,
+        "weight": 31
+      },
+      {
+        "value": 42,
+        "weight": 32
+      },
+      {
+        "value": 45,
+        "weight": 37
+      },
+      {
+        "value": 55,
+        "weight": 50
+      }
+    ],
+    "progressionHash": 1716568313,
+    "hash": 2479027085,
+    "index": 4,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3157915980": {
+    "requirementCurve": [
+      {
+        "value": 1,
+        "weight": 15
+      },
+      {
+        "value": 20,
+        "weight": 15
+      },
+      {
+        "value": 25,
+        "weight": 20
+      },
+      {
+        "value": 30,
+        "weight": 20
+      },
+      {
+        "value": 30.1,
+        "weight": 21
+      },
+      {
+        "value": 33,
+        "weight": 25
+      },
+      {
+        "value": 33.1,
+        "weight": 26
+      },
+      {
+        "value": 40,
+        "weight": 30
+      },
+      {
+        "value": 40.1,
+        "weight": 31
+      },
+      {
+        "value": 42,
+        "weight": 32
+      },
+      {
+        "value": 45,
+        "weight": 37
+      },
+      {
+        "value": 55,
+        "weight": 50
+      }
+    ],
+    "progressionHash": 1716568313,
+    "hash": 3157915980,
+    "index": 8,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3664462623": {
+    "requirementCurve": [
+      {
+        "value": 10,
+        "weight": 6
+      },
+      {
+        "value": 18,
+        "weight": 15
+      },
+      {
+        "value": 20,
+        "weight": 18
+      },
+      {
+        "value": 22,
+        "weight": 20
+      },
+      {
+        "value": 30,
+        "weight": 20
+      },
+      {
+        "value": 30.1,
+        "weight": 21
+      },
+      {
+        "value": 33,
+        "weight": 25
+      },
+      {
+        "value": 33.1,
+        "weight": 26
+      },
+      {
+        "value": 40,
+        "weight": 30
+      },
+      {
+        "value": 40.1,
+        "weight": 31
+      },
+      {
+        "value": 42,
+        "weight": 32
+      },
+      {
+        "value": 45,
+        "weight": 38
+      },
+      {
+        "value": 50,
+        "weight": 48
+      },
+      {
+        "value": 52,
+        "weight": 50
+      }
+    ],
+    "progressionHash": 1716568313,
+    "hash": 3664462623,
+    "index": 2,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3768955166": {
+    "requirementCurve": [
+      {
+        "value": 1,
+        "weight": 15
+      },
+      {
+        "value": 20,
+        "weight": 15
+      },
+      {
+        "value": 25,
+        "weight": 20
+      },
+      {
+        "value": 30,
+        "weight": 20
+      },
+      {
+        "value": 30.1,
+        "weight": 21
+      },
+      {
+        "value": 33,
+        "weight": 25
+      },
+      {
+        "value": 33.1,
+        "weight": 26
+      },
+      {
+        "value": 40,
+        "weight": 30
+      },
+      {
+        "value": 40.1,
+        "weight": 31
+      },
+      {
+        "value": 42,
+        "weight": 32
+      },
+      {
+        "value": 45,
+        "weight": 37
+      },
+      {
+        "value": 55,
+        "weight": 50
+      }
+    ],
+    "progressionHash": 1716568313,
+    "hash": 3768955166,
+    "index": 3,
+    "redacted": false,
+    "blacklisted": false
+  }
+}

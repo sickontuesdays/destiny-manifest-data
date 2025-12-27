@@ -1,0 +1,30 @@
+{
+  "1": {
+    "gearTierOverlayImagePaths": [
+      "/img/destiny_content/items/inventory-item-tier1.png",
+      "/img/destiny_content/items/inventory-item-tier2.png",
+      "/img/destiny_content/items/inventory-item-tier3.png",
+      "/img/destiny_content/items/inventory-item-tier4.png",
+      "/img/destiny_content/items/inventory-item-tier5.png"
+    ],
+    "watermarkDropShadowPath": "/img/destiny_content/items/watermark-layer.png",
+    "craftedBackgroundPath": "/img/destiny_content/items/crafted-icon-background.png",
+    "featuredItemFlagPath": "/img/destiny_content/items/featured-flag.png",
+    "masterworkOverlayPath": "/img/destiny_content/items/masterwork-overlay.png",
+    "masterworkExoticOverlayPath": "/img/destiny_content/items/masterwork-overlay-exotic.png",
+    "masterworkBorderedOverlayPath": "/img/destiny_content/items/masterwork-overlay-border.png",
+    "masterworkExoticBorderedOverlayPath": "/img/destiny_content/items/masterwork-overlay-exotic-border.png",
+    "craftedOverlayPath": "/img/destiny_content/items/crafted-icon-overlay.png",
+    "enhancedItemOverlayPath": "/img/destiny_content/items/enhanced-item-overlay.png",
+    "holofoilBackgroundOverlayPath": "/img/destiny_content/items/holofoil-overlay-layer.png",
+    "holofoil900BackgroundOverlayPath": "/img/destiny_content/items/holofoil-overlay-layer-900.png",
+    "holofoil900AnimatedBackgroundOverlayPath": "/img/destiny_content/items/holofoil-overlay-layer-900.gif",
+    "universalOrnamentBackgroundOverlayPath": "/img/destiny_content/items/ornament-overlay-layer.png",
+    "universalOrnamentLegendaryBackgroundOverlayPath": "/img/destiny_content/items/ornament-overlay-layer-legendary.png",
+    "universalOrnamentExoticBackgroundOverlayPath": "/img/destiny_content/items/ornament-overlay-layer-exotic.png",
+    "hash": 1,
+    "index": 0,
+    "redacted": false,
+    "blacklisted": false
+  }
+}

@@ -55,3 +55,5 @@ Original data from Bungie's Destiny 2 manifest, converted using the optimized ma
 ## License
 
 Data belongs to Bungie. This repository contains processed versions for web application use.
+
+trying new push, needed a change.

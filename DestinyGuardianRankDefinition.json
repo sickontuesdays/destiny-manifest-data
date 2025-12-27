@@ -1,0 +1,188 @@
+{
+  "1": {
+    "displayProperties": {
+      "description": "Newly arisen, you've set forth to find a place in this unfamiliar world.",
+      "name": "New Light",
+      "icon": "/common/destiny2_content/icons/DestinyGuardianRankDefinition_e003bcac03f8ed7a0cf580c4ddd4bf01.png",
+      "iconHash": 0,
+      "hasIcon": true
+    },
+    "rankNumber": 1,
+    "presentationNodeHash": 2485764221,
+    "foregroundImagePath": "/img/destiny_content/guardian_ranks/foregrounds/foreground-01-256x256.png",
+    "hash": 1,
+    "index": 0,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2": {
+    "displayProperties": {
+      "description": "Learn more about being a Guardian on The Steppes of the Cosmodrome by aiding Shaw Han and other Guardians to develop your skills before continuing to explore the solar system.",
+      "name": "Explorer",
+      "icon": "/common/destiny2_content/icons/DestinyGuardianRankDefinition_a9582e55185c7cf3d858b1872085bfc2.png",
+      "iconHash": 0,
+      "hasIcon": true
+    },
+    "rankNumber": 2,
+    "presentationNodeHash": 2329774788,
+    "foregroundImagePath": "/img/destiny_content/guardian_ranks/foregrounds/foreground-02-256x256.png",
+    "hash": 2,
+    "index": 1,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3": {
+    "displayProperties": {
+      "description": "Venture forth and survey threats across the solar system as you continue to explore your skills as a Guardian.",
+      "name": "Initiate",
+      "icon": "/common/destiny2_content/icons/DestinyGuardianRankDefinition_9aacf48fed2b10de10a33d893e414a6a.png",
+      "iconHash": 0,
+      "hasIcon": true
+    },
+    "rankNumber": 3,
+    "presentationNodeHash": 2334031483,
+    "foregroundImagePath": "/img/destiny_content/guardian_ranks/foregrounds/foreground-03-256x256.png",
+    "hash": 3,
+    "index": 2,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "4": {
+    "displayProperties": {
+      "description": "Grow your strength by enhancing your subclasses and expanding your arsenal.",
+      "name": "Scout",
+      "icon": "/common/destiny2_content/icons/DestinyGuardianRankDefinition_52d4c726fdd9ada236795c551f63d1f0.png",
+      "iconHash": 0,
+      "hasIcon": true
+    },
+    "rankNumber": 4,
+    "presentationNodeHash": 464627906,
+    "foregroundImagePath": "/img/destiny_content/guardian_ranks/foregrounds/foreground-04-256x256.png",
+    "hash": 4,
+    "index": 3,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "5": {
+    "displayProperties": {
+      "description": "Team up with other Guardians to take on Vanguard Ops and collect the rewards from those dangerous quests and missions.",
+      "name": "Adventurer",
+      "icon": "/common/destiny2_content/icons/DestinyGuardianRankDefinition_45375d4d185dbac24cd7ed0a950e7617.png",
+      "iconHash": 0,
+      "hasIcon": true
+    },
+    "rankNumber": 5,
+    "presentationNodeHash": 3111288225,
+    "foregroundImagePath": "/img/destiny_content/guardian_ranks/foregrounds/foreground-05-256x256.png",
+    "hash": 5,
+    "index": 4,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "6": {
+    "displayProperties": {
+      "description": "Learn how to modify your gear to increase its potency and fit your combat style to succeed in even the most perilous missions.",
+      "name": "Veteran",
+      "icon": "/common/destiny2_content/icons/DestinyGuardianRankDefinition_a68799ce8ec8aae9237302a25489fd6c.png",
+      "iconHash": 0,
+      "hasIcon": true
+    },
+    "rankNumber": 6,
+    "presentationNodeHash": 4242023272,
+    "foregroundImagePath": "/img/destiny_content/guardian_ranks/foregrounds/foreground-06-256x256.png",
+    "hash": 6,
+    "index": 5,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "7": {
+    "displayProperties": {
+      "description": "Defend humanity and its allies by confronting emerging and challenging threats while fighting alongside your fellow Guardians.",
+      "name": "Elite",
+      "icon": "/common/destiny2_content/icons/DestinyGuardianRankDefinition_82921f2ebcbe0e31253f1c4507297dee.png",
+      "iconHash": 0,
+      "hasIcon": true
+    },
+    "rankNumber": 7,
+    "presentationNodeHash": 861774511,
+    "foregroundImagePath": "/img/destiny_content/guardian_ranks/foregrounds/foreground-07-256x256.png",
+    "overlayImagePath": "/img/destiny_content/guardian_ranks/overlays/overlay-07-08-256x256.png",
+    "overlayMaskImagePath": "/img/destiny_content/guardian_ranks/overlay_masks/overlay-mask-07-08-256x256.png",
+    "hash": 7,
+    "index": 6,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "8": {
+    "displayProperties": {
+      "description": "Challenge yourself by facing the strongest combatants in the solar system found in Nightfalls, raids, dungeons and more.",
+      "name": "Justiciar",
+      "icon": "/common/destiny2_content/icons/DestinyGuardianRankDefinition_6aae064715441dfd3a6fabe0da79d0be.png",
+      "iconHash": 0,
+      "hasIcon": true
+    },
+    "rankNumber": 8,
+    "presentationNodeHash": 724209558,
+    "foregroundImagePath": "/img/destiny_content/guardian_ranks/foregrounds/foreground-08-256x256.png",
+    "overlayImagePath": "/img/destiny_content/guardian_ranks/overlays/overlay-07-08-256x256.png",
+    "overlayMaskImagePath": "/img/destiny_content/guardian_ranks/overlay_masks/overlay-mask-07-08-256x256.png",
+    "hash": 8,
+    "index": 7,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "9": {
+    "displayProperties": {
+      "description": "Overcome adversity and build rapport among humanity's allies by fighting back against our foes, even those lurking in the darkest reaches of the Sol system.",
+      "name": "Vanquisher",
+      "icon": "/common/destiny2_content/icons/DestinyGuardianRankDefinition_de3a8ba7130240d4496f79b07dd082e2.png",
+      "iconHash": 0,
+      "hasIcon": true
+    },
+    "rankNumber": 9,
+    "presentationNodeHash": 1194500405,
+    "foregroundImagePath": "/img/destiny_content/guardian_ranks/foregrounds/foreground-09-256x256.png",
+    "overlayImagePath": "/img/destiny_content/guardian_ranks/overlays/overlay-09-10-256x256.png",
+    "overlayMaskImagePath": "/img/destiny_content/guardian_ranks/overlay_masks/overlay-mask-09-10-256x256.png",
+    "hash": 9,
+    "index": 8,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "10": {
+    "displayProperties": {
+      "description": "Become a paradigm of a leader among your fellow Guardians by earning their recognition and unlocking your full potential while defeating the most challenging foes.",
+      "name": "Exemplar",
+      "icon": "/common/destiny2_content/icons/DestinyGuardianRankDefinition_87cfde7d16cfa92d87eee675cb5e7ac7.png",
+      "iconHash": 0,
+      "hasIcon": true
+    },
+    "rankNumber": 10,
+    "presentationNodeHash": 184846131,
+    "foregroundImagePath": "/img/destiny_content/guardian_ranks/foregrounds/foreground-10-256x256.png",
+    "overlayImagePath": "/img/destiny_content/guardian_ranks/overlays/overlay-09-10-256x256.png",
+    "overlayMaskImagePath": "/img/destiny_content/guardian_ranks/overlay_masks/overlay-mask-09-10-256x256.png",
+    "hash": 10,
+    "index": 9,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "11": {
+    "displayProperties": {
+      "description": "The stories of you grow in myth and legend. Secure your place in the upper echelons of the Tower by achieving feats deemed unachievable by most and earn exaltation through recognition from fellow Guardians.",
+      "name": "Paragon",
+      "icon": "/common/destiny2_content/icons/DestinyGuardianRankDefinition_2ecad704e063abc2769aa24a6dee66a6.png",
+      "iconHash": 0,
+      "hasIcon": true
+    },
+    "rankNumber": 11,
+    "presentationNodeHash": 562783996,
+    "foregroundImagePath": "/img/destiny_content/guardian_ranks/foregrounds/foreground-11-256x256.png",
+    "overlayImagePath": "/img/destiny_content/guardian_ranks/overlays/overlay-11-256x256.png",
+    "overlayMaskImagePath": "/img/destiny_content/guardian_ranks/overlay_masks/overlay-mask-11-256x256.png",
+    "hash": 11,
+    "index": 10,
+    "redacted": false,
+    "blacklisted": false
+  }
+}

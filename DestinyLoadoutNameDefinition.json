@@ -1,0 +1,156 @@
+{
+  "752612096": {
+    "name": "Gambit",
+    "hash": 752612096,
+    "index": 16,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "752612097": {
+    "name": "Crucible",
+    "hash": 752612097,
+    "index": 15,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "752612098": {
+    "name": "Vanguard",
+    "hash": 752612098,
+    "index": 14,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "752612099": {
+    "name": "Epsilon",
+    "hash": 752612099,
+    "index": 4,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "752612100": {
+    "name": "Delta",
+    "hash": 752612100,
+    "index": 3,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "752612101": {
+    "name": "Gamma",
+    "hash": 752612101,
+    "index": 2,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "752612102": {
+    "name": "Beta",
+    "hash": 752612102,
+    "index": 1,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "752612103": {
+    "name": "Alpha",
+    "hash": 752612103,
+    "index": 0,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "752612110": {
+    "name": "Dungeon",
+    "hash": 752612110,
+    "index": 18,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "752612111": {
+    "name": "Raid",
+    "hash": 752612111,
+    "index": 17,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2738852078": {
+    "name": "Support",
+    "hash": 2738852078,
+    "index": 13,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2738852079": {
+    "name": "Prismatic",
+    "hash": 2738852079,
+    "index": 12,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2755629632": {
+    "name": "Strike",
+    "hash": 2755629632,
+    "index": 21,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2755629633": {
+    "name": "PvE",
+    "hash": 2755629633,
+    "index": 5,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2755629634": {
+    "name": "Trials",
+    "hash": 2755629634,
+    "index": 19,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2755629635": {
+    "name": "Nightfall",
+    "hash": 2755629635,
+    "index": 20,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2755629636": {
+    "name": "Solar",
+    "hash": 2755629636,
+    "index": 8,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2755629637": {
+    "name": "Arc",
+    "hash": 2755629637,
+    "index": 9,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2755629638": {
+    "name": "PvP",
+    "hash": 2755629638,
+    "index": 6,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2755629639": {
+    "name": "Stasis",
+    "hash": 2755629639,
+    "index": 7,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2755629642": {
+    "name": "Void",
+    "hash": 2755629642,
+    "index": 10,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2755629643": {
+    "name": "Strand",
+    "hash": 2755629643,
+    "index": 11,
+    "redacted": false,
+    "blacklisted": false
+  }
+}

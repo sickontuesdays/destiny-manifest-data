@@ -1,0 +1,106 @@
+{
+  "507358802": {
+    "displayProperties": {
+      "description": "",
+      "name": "Listing Display",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "descendingSortPriority": 60,
+    "hash": 507358802,
+    "index": 1,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "782826392": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "descendingSortPriority": 0,
+    "hash": 782826392,
+    "index": 0,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1081843287": {
+    "displayProperties": {
+      "description": "",
+      "name": "Minimum Guardian Rank",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "descendingSortPriority": 0,
+    "hash": 1081843287,
+    "index": 6,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1362921228": {
+    "displayProperties": {
+      "description": "",
+      "name": "Listing Display",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "descendingSortPriority": 70,
+    "hash": 1362921228,
+    "index": 7,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1657872321": {
+    "displayProperties": {
+      "description": "",
+      "name": "Communication Language",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "descendingSortPriority": 10,
+    "hash": 1657872321,
+    "index": 5,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2701937801": {
+    "displayProperties": {
+      "description": "",
+      "name": "Communication",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "descendingSortPriority": 20,
+    "hash": 2701937801,
+    "index": 4,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2903655180": {
+    "displayProperties": {
+      "description": "",
+      "name": "Fireteam Size",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "descendingSortPriority": 30,
+    "hash": 2903655180,
+    "index": 3,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3934189557": {
+    "displayProperties": {
+      "description": "",
+      "name": "Join Settings",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "descendingSortPriority": 40,
+    "hash": 3934189557,
+    "index": 2,
+    "redacted": false,
+    "blacklisted": false
+  }
+}

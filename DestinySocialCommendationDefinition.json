@@ -1,0 +1,645 @@
+{
+  "354527503": {
+    "displayProperties": {
+      "description": "Put the needs of others above self and left no one behind.",
+      "name": "Selfless",
+      "icon": "/common/destiny2_content/icons/c19d21d2dac1ce923b003c49255036a1.png",
+      "iconHash": 0,
+      "hasIcon": true
+    },
+    "cardImagePath": "/img/destiny_content/commendations/Selfless.png",
+    "color": {
+      "red": 54,
+      "green": 163,
+      "blue": 137,
+      "alpha": 255
+    },
+    "displayPriority": 0,
+    "activityGivingLimit": 0,
+    "parentCommendationNodeHash": 154475713,
+    "displayActivities": [
+      {
+        "description": "",
+        "name": "Raids",
+        "icon": "/common/destiny2_content/icons/fafb58995ec3abca4c52db82137a6251.png",
+        "iconHash": 0,
+        "hasIcon": true
+      },
+      {
+        "description": "",
+        "name": "Dungeons",
+        "icon": "/common/destiny2_content/icons/fafb58995ec3abca4c52db82137a6251.png",
+        "iconHash": 0,
+        "hasIcon": true
+      }
+    ],
+    "hash": 354527503,
+    "index": 2,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "357212819": {
+    "displayProperties": {
+      "description": "Dress for the job you want, not the job you have.",
+      "name": "Best Dressed",
+      "icon": "/common/destiny2_content/icons/fe0ae6a36248cc0fdb439ef9bfd3015c.png",
+      "iconHash": 0,
+      "hasIcon": true
+    },
+    "cardImagePath": "/img/destiny_content/commendations/BestDressed.png",
+    "color": {
+      "red": 190,
+      "green": 79,
+      "blue": 106,
+      "alpha": 255
+    },
+    "displayPriority": 0,
+    "activityGivingLimit": 0,
+    "parentCommendationNodeHash": 1341823550,
+    "displayActivities": [
+      {
+        "description": "",
+        "name": "Battlegrounds",
+        "icon": "/common/destiny2_content/icons/fafb58995ec3abca4c52db82137a6251.png",
+        "iconHash": 0,
+        "hasIcon": true
+      },
+      {
+        "description": "",
+        "name": "Dares",
+        "icon": "/common/destiny2_content/icons/fafb58995ec3abca4c52db82137a6251.png",
+        "iconHash": 0,
+        "hasIcon": true
+      },
+      {
+        "description": "",
+        "name": "Offensives",
+        "icon": "/common/destiny2_content/icons/fafb58995ec3abca4c52db82137a6251.png",
+        "iconHash": 0,
+        "hasIcon": true
+      },
+      {
+        "description": "",
+        "name": "Vanguard Ops",
+        "icon": "/common/destiny2_content/icons/fafb58995ec3abca4c52db82137a6251.png",
+        "iconHash": 0,
+        "hasIcon": true
+      },
+      {
+        "description": "",
+        "name": "Empire and Nightmare Hunts",
+        "icon": "/common/destiny2_content/icons/fafb58995ec3abca4c52db82137a6251.png",
+        "iconHash": 0,
+        "hasIcon": true
+      },
+      {
+        "description": "",
+        "name": "Crucible",
+        "icon": "/common/destiny2_content/icons/fafb58995ec3abca4c52db82137a6251.png",
+        "iconHash": 0,
+        "hasIcon": true
+      },
+      {
+        "description": "",
+        "name": "Gambit",
+        "icon": "/common/destiny2_content/icons/fafb58995ec3abca4c52db82137a6251.png",
+        "iconHash": 0,
+        "hasIcon": true
+      }
+    ],
+    "hash": 357212819,
+    "index": 15,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "363818544": {
+    "displayProperties": {
+      "description": "Led the offense for the team.",
+      "name": "Primeval Instinct",
+      "icon": "/common/destiny2_content/icons/8dd7794897190131ada6af6359cf348d.png",
+      "iconHash": 0,
+      "hasIcon": true
+    },
+    "cardImagePath": "/img/destiny_content/commendations/PrimevalInstinct.png",
+    "color": {
+      "red": 205,
+      "green": 125,
+      "blue": 44,
+      "alpha": 255
+    },
+    "displayPriority": 0,
+    "activityGivingLimit": 0,
+    "parentCommendationNodeHash": 4180748446,
+    "displayActivities": [
+      {
+        "description": "",
+        "name": "Gambit",
+        "icon": "/common/destiny2_content/icons/fafb58995ec3abca4c52db82137a6251.png",
+        "iconHash": 0,
+        "hasIcon": true
+      }
+    ],
+    "hash": 363818544,
+    "index": 10,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "801121776": {
+    "displayProperties": {
+      "description": "Delightful and thoroughly enjoyable to play with.",
+      "name": "Entertaining",
+      "icon": "/common/destiny2_content/icons/afc6619e81d7e473fcd97b5dc4c4e9db.png",
+      "iconHash": 0,
+      "hasIcon": true
+    },
+    "displayPriority": 0,
+    "activityGivingLimit": 0,
+    "parentCommendationNodeHash": 0,
+    "displayActivities": [],
+    "hash": 801121776,
+    "index": 13,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "965562884": {
+    "displayProperties": {
+      "description": "Expressed instructions and intent clearly and concisely.",
+      "name": "Exceptional Communicator",
+      "icon": "/common/destiny2_content/icons/4e1c5c1d70601ef101af554ffc63d46e.png",
+      "iconHash": 0,
+      "hasIcon": true
+    },
+    "displayPriority": 0,
+    "activityGivingLimit": 0,
+    "parentCommendationNodeHash": 0,
+    "displayActivities": [],
+    "hash": 965562884,
+    "index": 12,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2019871317": {
+    "displayProperties": {
+      "description": "Essential to the team's success.",
+      "name": "Indispensable",
+      "icon": "/common/destiny2_content/icons/23663230f2835395b06b9f8bc7ce1479.png",
+      "iconHash": 0,
+      "hasIcon": true
+    },
+    "cardImagePath": "/img/destiny_content/commendations/Indispensible.png",
+    "color": {
+      "red": 54,
+      "green": 163,
+      "blue": 137,
+      "alpha": 255
+    },
+    "displayPriority": 0,
+    "activityGivingLimit": 0,
+    "parentCommendationNodeHash": 154475713,
+    "displayActivities": [
+      {
+        "description": "",
+        "name": "All Non-matchmade Higher Difficulty Activities",
+        "icon": "/common/destiny2_content/icons/fafb58995ec3abca4c52db82137a6251.png",
+        "iconHash": 0,
+        "hasIcon": true
+      },
+      {
+        "description": "",
+        "name": "Exotic Missions",
+        "icon": "/common/destiny2_content/icons/fafb58995ec3abca4c52db82137a6251.png",
+        "iconHash": 0,
+        "hasIcon": true
+      }
+    ],
+    "hash": 2019871317,
+    "index": 1,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2205006002": {
+    "displayProperties": {
+      "description": "Key strategist, communicated well, and rallied the team together.",
+      "name": "Pacesetter",
+      "icon": "/common/destiny2_content/icons/defdbad26ad2c9ce00e37e2d85a1d95f.png",
+      "iconHash": 0,
+      "hasIcon": true
+    },
+    "cardImagePath": "/img/destiny_content/commendations/Pacesetter.png",
+    "color": {
+      "red": 205,
+      "green": 125,
+      "blue": 44,
+      "alpha": 255
+    },
+    "displayPriority": 0,
+    "activityGivingLimit": 0,
+    "parentCommendationNodeHash": 4180748446,
+    "displayActivities": [
+      {
+        "description": "",
+        "name": "Trials of Osiris",
+        "icon": "/common/destiny2_content/icons/fafb58995ec3abca4c52db82137a6251.png",
+        "iconHash": 0,
+        "hasIcon": true
+      }
+    ],
+    "hash": 2205006002,
+    "index": 9,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2506835299": {
+    "displayProperties": {
+      "description": "Grounded the team with fortitude and compassion.",
+      "name": "Patient and Considerate",
+      "icon": "/common/destiny2_content/icons/cd9bbedfeac830680290296169d67e80.png",
+      "iconHash": 0,
+      "hasIcon": true
+    },
+    "cardImagePath": "/img/destiny_content/commendations/Patient.png",
+    "color": {
+      "red": 54,
+      "green": 163,
+      "blue": 137,
+      "alpha": 255
+    },
+    "displayPriority": 0,
+    "activityGivingLimit": 0,
+    "parentCommendationNodeHash": 154475713,
+    "displayActivities": [
+      {
+        "description": "",
+        "name": "Raids",
+        "icon": "/common/destiny2_content/icons/fafb58995ec3abca4c52db82137a6251.png",
+        "iconHash": 0,
+        "hasIcon": true
+      },
+      {
+        "description": "",
+        "name": "Dungeons",
+        "icon": "/common/destiny2_content/icons/fafb58995ec3abca4c52db82137a6251.png",
+        "iconHash": 0,
+        "hasIcon": true
+      }
+    ],
+    "hash": 2506835299,
+    "index": 11,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3030493827": {
+    "displayProperties": {
+      "description": "Put the needs of others above self and left no one behind.",
+      "name": "Saint's Favorite",
+      "icon": "/common/destiny2_content/icons/aae01789fce45a29d8adcf936838537c.png",
+      "iconHash": 0,
+      "hasIcon": true
+    },
+    "cardImagePath": "/img/destiny_content/commendations/SaintsFavorite.png",
+    "color": {
+      "red": 190,
+      "green": 79,
+      "blue": 106,
+      "alpha": 255
+    },
+    "displayPriority": 0,
+    "activityGivingLimit": 0,
+    "parentCommendationNodeHash": 1341823550,
+    "displayActivities": [
+      {
+        "description": "",
+        "name": "Trials of Osiris",
+        "icon": "/common/destiny2_content/icons/fafb58995ec3abca4c52db82137a6251.png",
+        "iconHash": 0,
+        "hasIcon": true
+      }
+    ],
+    "hash": 3030493827,
+    "index": 8,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3037314846": {
+    "displayProperties": {
+      "description": "Kept it cool despite how intense things were.",
+      "name": "Level-headed",
+      "icon": "/common/destiny2_content/icons/f76b2541c6de3339d3d78c9a98cc5760.png",
+      "iconHash": 0,
+      "hasIcon": true
+    },
+    "cardImagePath": "/img/destiny_content/commendations/LevelHeaded.png",
+    "color": {
+      "red": 190,
+      "green": 79,
+      "blue": 106,
+      "alpha": 255
+    },
+    "displayPriority": 0,
+    "activityGivingLimit": 0,
+    "parentCommendationNodeHash": 1341823550,
+    "displayActivities": [
+      {
+        "description": "",
+        "name": "Crucible",
+        "icon": "/common/destiny2_content/icons/fafb58995ec3abca4c52db82137a6251.png",
+        "iconHash": 0,
+        "hasIcon": true
+      },
+      {
+        "description": "",
+        "name": "Gambit",
+        "icon": "/common/destiny2_content/icons/fafb58995ec3abca4c52db82137a6251.png",
+        "iconHash": 0,
+        "hasIcon": true
+      }
+    ],
+    "hash": 3037314846,
+    "index": 6,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3377580220": {
+    "displayProperties": {
+      "description": "Enriched the game with their presence.",
+      "name": "Joy Bringer",
+      "icon": "/common/destiny2_content/icons/49cb882dd26375c673d13c0d354e82d4.png",
+      "iconHash": 0,
+      "hasIcon": true
+    },
+    "cardImagePath": "/img/destiny_content/commendations/Joybringer.png",
+    "color": {
+      "red": 190,
+      "green": 79,
+      "blue": 106,
+      "alpha": 255
+    },
+    "displayPriority": 0,
+    "activityGivingLimit": 0,
+    "parentCommendationNodeHash": 1341823550,
+    "displayActivities": [
+      {
+        "description": "",
+        "name": "Battlegrounds",
+        "icon": "/common/destiny2_content/icons/fafb58995ec3abca4c52db82137a6251.png",
+        "iconHash": 0,
+        "hasIcon": true
+      },
+      {
+        "description": "",
+        "name": "Dares",
+        "icon": "/common/destiny2_content/icons/fafb58995ec3abca4c52db82137a6251.png",
+        "iconHash": 0,
+        "hasIcon": true
+      },
+      {
+        "description": "",
+        "name": "Offensives",
+        "icon": "/common/destiny2_content/icons/fafb58995ec3abca4c52db82137a6251.png",
+        "iconHash": 0,
+        "hasIcon": true
+      },
+      {
+        "description": "",
+        "name": "Vanguard Ops",
+        "icon": "/common/destiny2_content/icons/fafb58995ec3abca4c52db82137a6251.png",
+        "iconHash": 0,
+        "hasIcon": true
+      },
+      {
+        "description": "",
+        "name": "Empire and Nightmare Hunts",
+        "icon": "/common/destiny2_content/icons/fafb58995ec3abca4c52db82137a6251.png",
+        "iconHash": 0,
+        "hasIcon": true
+      }
+    ],
+    "hash": 3377580220,
+    "index": 0,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3513056018": {
+    "displayProperties": {
+      "description": "Considerate, Kind, and Helpful",
+      "name": "Thoughtful",
+      "icon": "/common/destiny2_content/icons/1597a3ac8617ef00663fc15ef7ba8c12.png",
+      "iconHash": 0,
+      "hasIcon": true
+    },
+    "cardImagePath": "/img/destiny_content/commendations/Thoughtful.png",
+    "color": {
+      "red": 54,
+      "green": 163,
+      "blue": 137,
+      "alpha": 255
+    },
+    "displayPriority": 0,
+    "activityGivingLimit": 0,
+    "parentCommendationNodeHash": 154475713,
+    "displayActivities": [
+      {
+        "description": "",
+        "name": "Battlegrounds",
+        "icon": "/common/destiny2_content/icons/fafb58995ec3abca4c52db82137a6251.png",
+        "iconHash": 0,
+        "hasIcon": true
+      },
+      {
+        "description": "",
+        "name": "Dares",
+        "icon": "/common/destiny2_content/icons/fafb58995ec3abca4c52db82137a6251.png",
+        "iconHash": 0,
+        "hasIcon": true
+      },
+      {
+        "description": "",
+        "name": "Offensives",
+        "icon": "/common/destiny2_content/icons/fafb58995ec3abca4c52db82137a6251.png",
+        "iconHash": 0,
+        "hasIcon": true
+      },
+      {
+        "description": "",
+        "name": "Vanguard Ops",
+        "icon": "/common/destiny2_content/icons/fafb58995ec3abca4c52db82137a6251.png",
+        "iconHash": 0,
+        "hasIcon": true
+      },
+      {
+        "description": "",
+        "name": "Empire and Nightmare Hunts",
+        "icon": "/common/destiny2_content/icons/fafb58995ec3abca4c52db82137a6251.png",
+        "iconHash": 0,
+        "hasIcon": true
+      }
+    ],
+    "hash": 3513056018,
+    "index": 14,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3575743922": {
+    "displayProperties": {
+      "description": "Showcased courage in the face of danger and pushed the team to success.",
+      "name": "Heroic",
+      "icon": "/common/destiny2_content/icons/b351e7ce0cbdcabc2c0047f10759e32c.png",
+      "iconHash": 0,
+      "hasIcon": true
+    },
+    "cardImagePath": "/img/destiny_content/commendations/Heroic.png",
+    "color": {
+      "red": 205,
+      "green": 125,
+      "blue": 44,
+      "alpha": 255
+    },
+    "displayPriority": 0,
+    "activityGivingLimit": 0,
+    "parentCommendationNodeHash": 4180748446,
+    "displayActivities": [
+      {
+        "description": "",
+        "name": "Raids",
+        "icon": "/common/destiny2_content/icons/fafb58995ec3abca4c52db82137a6251.png",
+        "iconHash": 0,
+        "hasIcon": true
+      },
+      {
+        "description": "",
+        "name": "Dungeons",
+        "icon": "/common/destiny2_content/icons/fafb58995ec3abca4c52db82137a6251.png",
+        "iconHash": 0,
+        "hasIcon": true
+      }
+    ],
+    "hash": 3575743922,
+    "index": 3,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3872064891": {
+    "displayProperties": {
+      "description": "Strong situational awareness and observant of the team's needs.",
+      "name": "Perceptive",
+      "icon": "/common/destiny2_content/icons/abef3300df06386bc8e244794d2939e4.png",
+      "iconHash": 0,
+      "hasIcon": true
+    },
+    "cardImagePath": "/img/destiny_content/commendations/Perceptive.png",
+    "color": {
+      "red": 50,
+      "green": 136,
+      "blue": 193,
+      "alpha": 255
+    },
+    "displayPriority": 0,
+    "activityGivingLimit": 0,
+    "parentCommendationNodeHash": 1390663518,
+    "displayActivities": [
+      {
+        "description": "",
+        "name": "Raids",
+        "icon": "/common/destiny2_content/icons/fafb58995ec3abca4c52db82137a6251.png",
+        "iconHash": 0,
+        "hasIcon": true
+      },
+      {
+        "description": "",
+        "name": "Dungeons",
+        "icon": "/common/destiny2_content/icons/fafb58995ec3abca4c52db82137a6251.png",
+        "iconHash": 0,
+        "hasIcon": true
+      }
+    ],
+    "hash": 3872064891,
+    "index": 4,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3970150545": {
+    "displayProperties": {
+      "description": "Seasoned and well-informed of the activity, equipment, and classes of Destiny 2.",
+      "name": "Knowledgeable",
+      "icon": "/common/destiny2_content/icons/ee5cd749d5307598c198843cfb469732.png",
+      "iconHash": 0,
+      "hasIcon": true
+    },
+    "cardImagePath": "/img/destiny_content/commendations/Knowledgeable.png",
+    "color": {
+      "red": 50,
+      "green": 136,
+      "blue": 193,
+      "alpha": 255
+    },
+    "displayPriority": 0,
+    "activityGivingLimit": 0,
+    "parentCommendationNodeHash": 1390663518,
+    "displayActivities": [
+      {
+        "description": "",
+        "name": "Raids",
+        "icon": "/common/destiny2_content/icons/fafb58995ec3abca4c52db82137a6251.png",
+        "iconHash": 0,
+        "hasIcon": true
+      },
+      {
+        "description": "",
+        "name": "Dungeons",
+        "icon": "/common/destiny2_content/icons/fafb58995ec3abca4c52db82137a6251.png",
+        "iconHash": 0,
+        "hasIcon": true
+      },
+      {
+        "description": "",
+        "name": "All Non-matchmade Higher Difficulty Activities",
+        "icon": "/common/destiny2_content/icons/fafb58995ec3abca4c52db82137a6251.png",
+        "iconHash": 0,
+        "hasIcon": true
+      },
+      {
+        "description": "",
+        "name": "Exotic Missions",
+        "icon": "/common/destiny2_content/icons/fafb58995ec3abca4c52db82137a6251.png",
+        "iconHash": 0,
+        "hasIcon": true
+      }
+    ],
+    "hash": 3970150545,
+    "index": 5,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "4209356036": {
+    "displayProperties": {
+      "description": "Led the offense for the team.",
+      "name": "Playmaker",
+      "icon": "/common/destiny2_content/icons/7e863cffe66265e4c33f98ee67036d3c.png",
+      "iconHash": 0,
+      "hasIcon": true
+    },
+    "cardImagePath": "/img/destiny_content/commendations/Playmaker.png",
+    "color": {
+      "red": 205,
+      "green": 125,
+      "blue": 44,
+      "alpha": 255
+    },
+    "displayPriority": 0,
+    "activityGivingLimit": 0,
+    "parentCommendationNodeHash": 4180748446,
+    "displayActivities": [
+      {
+        "description": "",
+        "name": "Crucible",
+        "icon": "/common/destiny2_content/icons/fafb58995ec3abca4c52db82137a6251.png",
+        "iconHash": 0,
+        "hasIcon": true
+      }
+    ],
+    "hash": 4209356036,
+    "index": 7,
+    "redacted": false,
+    "blacklisted": false
+  }
+}

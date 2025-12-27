@@ -1,0 +1,68 @@
+{
+  "1": {
+    "pathfinderConstants": {
+      "thePaleHeartPathfinderRootNodeHash": 0,
+      "allPathfinderRootNodeHashes": [
+        1062988660
+      ],
+      "pathfinderTreeTiers": {},
+      "pathfinderTopology": {},
+      "hash": 1,
+      "index": 0,
+      "redacted": false,
+      "blacklisted": false
+    },
+    "collectionsRootNodeHash": 3790247699,
+    "collectionBadgesRootNodeHash": 498211331,
+    "activeTriumphsRootNodeHash": 1866538467,
+    "activeSealsRootNodeHash": 616318467,
+    "legacyTriumphsRootNodeHash": 3215903653,
+    "legacySealsRootNodeHash": 1881970629,
+    "medalsRootNodeHash": 3901403713,
+    "exoticCatalystsRootNodeHash": 2642502414,
+    "loreRootNodeHash": 1993337477,
+    "metricsRootNodeHash": 1074663644,
+    "craftingRootNodeHash": 3937826784,
+    "guardianRanksRootNodeHash": 3741753466,
+    "seasonalHubEventCardHash": 1809960056,
+    "destinyRewardPassRankSealImages": {
+      "rewardPassRankSealImagePath": "/img/destiny_content/seasons/season_passes/rank-seal.png",
+      "rewardPassRankSealPremiumImagePath": "/img/destiny_content/seasons/season_passes/rank-seal-premium.png",
+      "rewardPassRankSealPrestigeImagePath": "/img/destiny_content/seasons/season_passes/rank-seal-prestige.png",
+      "rewardPassRankSealPremiumPrestigeImagePath": "/img/destiny_content/seasons/season_passes/rank-seal-premium-prestige.png"
+    },
+    "destinySeasonalHubRankIconImages": {
+      "seasonalHubRankIconUnearned": "/img/destiny_content/seasons/seasonal_hub/seasonal-hub-rank-icon-unearned.png",
+      "seasonalHubRankIconEarning": "/img/destiny_content/seasons/seasonal_hub/seasonal-hub-rank-icon-earning.png",
+      "seasonalHubRankIconActive": "/img/destiny_content/seasons/seasonal_hub/seasonal-hub-rank-icon-active.png"
+    },
+    "armorArchetypePlugSetHash": 1315181101,
+    "featuredItemsListHash": 1812452478,
+    "portalActivityGraphRootNodesWithIcons": {
+      "1204273545": "/img/destiny_content/portal/category_solo_ops.png",
+      "1246572235": "/img/destiny_content/portal/category_crucible.png",
+      "2042336100": "/img/destiny_content/portal/category_prestige.png",
+      "2699534027": "/img/destiny_content/portal/category_arena_ops.png",
+      "4038998327": "/img/destiny_content/portal/category_fireteam_ops.png"
+    },
+    "orderRewardsUnlockValueHashesToRewardItemHashes": {
+      "207387605": 2738452221,
+      "783787706": 1356609028,
+      "994595365": 769032057,
+      "2299106475": 3829161419,
+      "3745011343": 4134078229,
+      "3953935840": 3661666550
+    },
+    "questItemTraitToFeaturedQuestImagePath": {
+      "370766376": "/img/destiny_content/quests/exotic_splash.jpg",
+      "520867389": "/img/destiny_content/quests/new_light_quest.jpg",
+      "904453863": "/img/destiny_content/quests/behemoth_splash.jpg",
+      "1056186694": "/img/destiny_content/quests/event_splash.jpg"
+    },
+    "currentReleaseTraitHash": 686448803,
+    "hash": 1,
+    "index": 0,
+    "redacted": false,
+    "blacklisted": false
+  }
+}

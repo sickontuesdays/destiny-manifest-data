@@ -1,0 +1,2414 @@
+{
+  "13168469": {
+    "displayProperties": {
+      "description": "Adjust the General Negative modifiers.",
+      "name": "General Negative Modifiers",
+      "icon": "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+            "/common/destiny2_content/icons/8a4860183c01b0bcfeca5231bb0ed77d.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/ab112a761b64cba125f904b225f5f7a8.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "parentSkullCategoryHash": 2953361283,
+    "availabilityTierRank": 40,
+    "hash": 13168469,
+    "index": 80,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "77818137": {
+    "displayProperties": {
+      "description": "View Feats.",
+      "name": "Feats",
+      "icon": "/common/destiny2_content/icons/6c8e568c2122c78eb7479a3ad0d4f466.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/6c8e568c2122c78eb7479a3ad0d4f466.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/4f2b0d085c7efa6f91e432f3506e6176.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "parentSkullCategoryHash": 2782594556,
+    "availabilityTierRank": 1,
+    "hash": 77818137,
+    "index": 65,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "77818138": {
+    "displayProperties": {
+      "description": "View Feats.",
+      "name": "Feats",
+      "icon": "/common/destiny2_content/icons/6c8e568c2122c78eb7479a3ad0d4f466.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/6c8e568c2122c78eb7479a3ad0d4f466.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/4f2b0d085c7efa6f91e432f3506e6176.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "parentSkullCategoryHash": 2782594556,
+    "availabilityTierRank": 2,
+    "hash": 77818138,
+    "index": 66,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "77818139": {
+    "displayProperties": {
+      "description": "View Feats.",
+      "name": "Feats",
+      "icon": "/common/destiny2_content/icons/6c8e568c2122c78eb7479a3ad0d4f466.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/6c8e568c2122c78eb7479a3ad0d4f466.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/4f2b0d085c7efa6f91e432f3506e6176.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "parentSkullCategoryHash": 2782594556,
+    "availabilityTierRank": 3,
+    "hash": 77818139,
+    "index": 67,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "77818140": {
+    "displayProperties": {
+      "description": "View Feats.",
+      "name": "Feats",
+      "icon": "/common/destiny2_content/icons/6c8e568c2122c78eb7479a3ad0d4f466.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/6c8e568c2122c78eb7479a3ad0d4f466.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/4f2b0d085c7efa6f91e432f3506e6176.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "parentSkullCategoryHash": 2782594556,
+    "availabilityTierRank": 4,
+    "hash": 77818140,
+    "index": 68,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "77818141": {
+    "displayProperties": {
+      "description": "View Feats.",
+      "name": "Feats",
+      "icon": "/common/destiny2_content/icons/6c8e568c2122c78eb7479a3ad0d4f466.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/6c8e568c2122c78eb7479a3ad0d4f466.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/4f2b0d085c7efa6f91e432f3506e6176.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "parentSkullCategoryHash": 2782594556,
+    "availabilityTierRank": 5,
+    "hash": 77818141,
+    "index": 69,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "86461174": {
+    "displayProperties": {
+      "description": "View the challenge modifiers.",
+      "name": "Challenge Modifiers",
+      "icon": "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+            "/common/destiny2_content/icons/8a4860183c01b0bcfeca5231bb0ed77d.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/ab112a761b64cba125f904b225f5f7a8.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "parentSkullCategoryHash": 2953361283,
+    "availabilityTierRank": -1,
+    "hash": 86461174,
+    "index": 85,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "104006042": {
+    "displayProperties": {
+      "description": "View Boon modifiers.",
+      "name": "Boon Modifiers",
+      "icon": "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+            "/common/destiny2_content/icons/8a4860183c01b0bcfeca5231bb0ed77d.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/ab112a761b64cba125f904b225f5f7a8.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "parentSkullCategoryHash": 133988346,
+    "availabilityTierRank": -1,
+    "hash": 104006042,
+    "index": 91,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "147987312": {
+    "displayProperties": {
+      "description": "View the power modifiers for combatants.",
+      "name": "Combatant Power Modifiers",
+      "icon": "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+            "/common/destiny2_content/icons/8a4860183c01b0bcfeca5231bb0ed77d.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/ab112a761b64cba125f904b225f5f7a8.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "parentSkullCategoryHash": 3814335300,
+    "availabilityTierRank": 10,
+    "hash": 147987312,
+    "index": 33,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "222851994": {
+    "displayProperties": {
+      "description": "Adjust Banes.",
+      "name": "Banes",
+      "icon": "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+            "/common/destiny2_content/icons/8a4860183c01b0bcfeca5231bb0ed77d.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/ab112a761b64cba125f904b225f5f7a8.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "parentSkullCategoryHash": 4202143300,
+    "availabilityTierRank": 10,
+    "hash": 222851994,
+    "index": 9,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "222851995": {
+    "displayProperties": {
+      "description": "Adjust Banes.",
+      "name": "Banes",
+      "icon": "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+            "/common/destiny2_content/icons/8a4860183c01b0bcfeca5231bb0ed77d.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/ab112a761b64cba125f904b225f5f7a8.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "parentSkullCategoryHash": 4202143300,
+    "availabilityTierRank": 20,
+    "hash": 222851995,
+    "index": 10,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "244396624": {
+    "displayProperties": {
+      "description": "View the faction modifiers for combatants.",
+      "name": "Faction Modifiers",
+      "icon": "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+            "/common/destiny2_content/icons/8a4860183c01b0bcfeca5231bb0ed77d.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/ab112a761b64cba125f904b225f5f7a8.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "parentSkullCategoryHash": 1470780789,
+    "availabilityTierRank": -1,
+    "hash": 244396624,
+    "index": 4,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "295371032": {
+    "displayProperties": {
+      "description": "View Boon modifiers.",
+      "name": "Boon Modifiers",
+      "icon": "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+            "/common/destiny2_content/icons/8a4860183c01b0bcfeca5231bb0ed77d.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/ab112a761b64cba125f904b225f5f7a8.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "parentSkullCategoryHash": 2685869925,
+    "availabilityTierRank": 30,
+    "hash": 295371032,
+    "index": 49,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "295371033": {
+    "displayProperties": {
+      "description": "View Boon modifiers.",
+      "name": "Boon Modifiers",
+      "icon": "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+            "/common/destiny2_content/icons/8a4860183c01b0bcfeca5231bb0ed77d.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/ab112a761b64cba125f904b225f5f7a8.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "parentSkullCategoryHash": 2685869925,
+    "availabilityTierRank": 30,
+    "hash": 295371033,
+    "index": 50,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "295371034": {
+    "displayProperties": {
+      "description": "View Boon modifiers.",
+      "name": "Boon Modifiers",
+      "icon": "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+            "/common/destiny2_content/icons/8a4860183c01b0bcfeca5231bb0ed77d.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/ab112a761b64cba125f904b225f5f7a8.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "parentSkullCategoryHash": 2685869925,
+    "availabilityTierRank": 30,
+    "hash": 295371034,
+    "index": 51,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "398164684": {
+    "displayProperties": {
+      "description": "View Boon modifiers.",
+      "name": "Boon Modifiers",
+      "icon": "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+            "/common/destiny2_content/icons/8a4860183c01b0bcfeca5231bb0ed77d.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/ab112a761b64cba125f904b225f5f7a8.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "parentSkullCategoryHash": 2685869925,
+    "availabilityTierRank": -1,
+    "hash": 398164684,
+    "index": 52,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "552884640": {
+    "displayProperties": {
+      "description": "Adjust Banes.",
+      "name": "Banes",
+      "icon": "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+            "/common/destiny2_content/icons/8a4860183c01b0bcfeca5231bb0ed77d.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/ab112a761b64cba125f904b225f5f7a8.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "parentSkullCategoryHash": 4202143300,
+    "availabilityTierRank": 0,
+    "hash": 552884640,
+    "index": 7,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "552884641": {
+    "displayProperties": {
+      "description": "Adjust Banes.",
+      "name": "Banes",
+      "icon": "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+            "/common/destiny2_content/icons/8a4860183c01b0bcfeca5231bb0ed77d.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/ab112a761b64cba125f904b225f5f7a8.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "parentSkullCategoryHash": 4202143300,
+    "availabilityTierRank": 4,
+    "hash": 552884641,
+    "index": 8,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "564170231": {
+    "displayProperties": {
+      "description": "Adjust Famine modifiers.",
+      "name": "Famine Modifiers",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "parentSkullCategoryHash": 2953361283,
+    "availabilityTierRank": -1,
+    "hash": 564170231,
+    "index": 83,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "572662545": {
+    "displayProperties": {
+      "description": "Complete this activity with all available Feat slots filled to unlock an additional slot.",
+      "name": "Feat Slot Locked",
+      "icon": "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+            "/common/destiny2_content/icons/8a4860183c01b0bcfeca5231bb0ed77d.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/ab112a761b64cba125f904b225f5f7a8.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "parentSkullCategoryHash": 2782594556,
+    "availabilityTierRank": 1,
+    "hash": 572662545,
+    "index": 70,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "572662546": {
+    "displayProperties": {
+      "description": "Complete this activity with all available Feat slots filled to unlock an additional slot.",
+      "name": "Feat Slot Locked",
+      "icon": "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+            "/common/destiny2_content/icons/8a4860183c01b0bcfeca5231bb0ed77d.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/ab112a761b64cba125f904b225f5f7a8.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "parentSkullCategoryHash": 2782594556,
+    "availabilityTierRank": 1,
+    "hash": 572662546,
+    "index": 71,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "572662547": {
+    "displayProperties": {
+      "description": "Complete this activity with all available Feat slots filled to unlock an additional slot.",
+      "name": "Feat Slot Locked",
+      "icon": "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+            "/common/destiny2_content/icons/8a4860183c01b0bcfeca5231bb0ed77d.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/ab112a761b64cba125f904b225f5f7a8.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "parentSkullCategoryHash": 2782594556,
+    "availabilityTierRank": 1,
+    "hash": 572662547,
+    "index": 72,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "572662548": {
+    "displayProperties": {
+      "description": "Complete this activity with all available Feat slots filled to unlock an additional slot.",
+      "name": "Feat Slot Locked",
+      "icon": "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+            "/common/destiny2_content/icons/8a4860183c01b0bcfeca5231bb0ed77d.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/ab112a761b64cba125f904b225f5f7a8.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "parentSkullCategoryHash": 2782594556,
+    "availabilityTierRank": 1,
+    "hash": 572662548,
+    "index": 73,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "824824156": {
+    "displayProperties": {
+      "description": "Adjust Event modifiers.",
+      "name": "Event Modifiers",
+      "icon": "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+            "/common/destiny2_content/icons/8a4860183c01b0bcfeca5231bb0ed77d.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/ab112a761b64cba125f904b225f5f7a8.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "parentSkullCategoryHash": 2685869925,
+    "availabilityTierRank": 10,
+    "hash": 824824156,
+    "index": 54,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "824824157": {
+    "displayProperties": {
+      "description": "Adjust Event modifiers.",
+      "name": "Event Modifiers",
+      "icon": "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+            "/common/destiny2_content/icons/8a4860183c01b0bcfeca5231bb0ed77d.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/ab112a761b64cba125f904b225f5f7a8.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "parentSkullCategoryHash": 2685869925,
+    "availabilityTierRank": 10,
+    "hash": 824824157,
+    "index": 53,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "875781924": {
+    "displayProperties": {
+      "description": "View potential tiers for combatants.",
+      "name": "Combatant Tiers",
+      "icon": "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+            "/common/destiny2_content/icons/8a4860183c01b0bcfeca5231bb0ed77d.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/ab112a761b64cba125f904b225f5f7a8.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "parentSkullCategoryHash": 1470780789,
+    "availabilityTierRank": 10,
+    "hash": 875781924,
+    "index": 3,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "879646680": {
+    "displayProperties": {
+      "description": "Adjust Banes.",
+      "name": "Banes",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "parentSkullCategoryHash": 2953361283,
+    "availabilityTierRank": 30,
+    "hash": 879646680,
+    "index": 87,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "879646681": {
+    "displayProperties": {
+      "description": "Adjust Banes.",
+      "name": "Banes",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "parentSkullCategoryHash": 2953361283,
+    "availabilityTierRank": 10,
+    "hash": 879646681,
+    "index": 86,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "930499312": {
+    "displayProperties": {
+      "description": "Complete this activity with all available Feat slots filled to unlock an additional slot.",
+      "name": "Feat Slot Locked",
+      "icon": "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+            "/common/destiny2_content/icons/8a4860183c01b0bcfeca5231bb0ed77d.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/ab112a761b64cba125f904b225f5f7a8.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "parentSkullCategoryHash": 597736995,
+    "availabilityTierRank": 1,
+    "hash": 930499312,
+    "index": 61,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "930499314": {
+    "displayProperties": {
+      "description": "Complete this activity with all available Feat slots filled to unlock an additional slot.",
+      "name": "Feat Slot Locked",
+      "icon": "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+            "/common/destiny2_content/icons/8a4860183c01b0bcfeca5231bb0ed77d.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/ab112a761b64cba125f904b225f5f7a8.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "parentSkullCategoryHash": 597736995,
+    "availabilityTierRank": 1,
+    "hash": 930499314,
+    "index": 63,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "930499315": {
+    "displayProperties": {
+      "description": "Complete this activity with all available Feat slots filled to unlock an additional slot.",
+      "name": "Feat Slot Locked",
+      "icon": "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+            "/common/destiny2_content/icons/8a4860183c01b0bcfeca5231bb0ed77d.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/ab112a761b64cba125f904b225f5f7a8.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "parentSkullCategoryHash": 597736995,
+    "availabilityTierRank": 1,
+    "hash": 930499315,
+    "index": 62,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "930499317": {
+    "displayProperties": {
+      "description": "Complete this activity with all available Feat slots filled to unlock an additional slot.",
+      "name": "Feat Slot Locked",
+      "icon": "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+            "/common/destiny2_content/icons/8a4860183c01b0bcfeca5231bb0ed77d.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/ab112a761b64cba125f904b225f5f7a8.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "parentSkullCategoryHash": 597736995,
+    "availabilityTierRank": 1,
+    "hash": 930499317,
+    "index": 64,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "992233101": {
+    "displayProperties": {
+      "description": "View Boon modifiers.",
+      "name": "Daily Boon Modifier",
+      "icon": "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+            "/common/destiny2_content/icons/8a4860183c01b0bcfeca5231bb0ed77d.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/ab112a761b64cba125f904b225f5f7a8.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "parentSkullCategoryHash": 133988346,
+    "availabilityTierRank": -1,
+    "hash": 992233101,
+    "index": 90,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "997267850": {
+    "displayProperties": {
+      "description": "View Feats.",
+      "name": "Feats",
+      "icon": "/common/destiny2_content/icons/6c8e568c2122c78eb7479a3ad0d4f466.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/6c8e568c2122c78eb7479a3ad0d4f466.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/4f2b0d085c7efa6f91e432f3506e6176.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "parentSkullCategoryHash": 597736995,
+    "availabilityTierRank": 5,
+    "hash": 997267850,
+    "index": 60,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "997267851": {
+    "displayProperties": {
+      "description": "View Feats.",
+      "name": "Feats",
+      "icon": "/common/destiny2_content/icons/6c8e568c2122c78eb7479a3ad0d4f466.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/6c8e568c2122c78eb7479a3ad0d4f466.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/4f2b0d085c7efa6f91e432f3506e6176.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "parentSkullCategoryHash": 597736995,
+    "availabilityTierRank": 4,
+    "hash": 997267851,
+    "index": 59,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "997267852": {
+    "displayProperties": {
+      "description": "View Feats.",
+      "name": "Feats",
+      "icon": "/common/destiny2_content/icons/6c8e568c2122c78eb7479a3ad0d4f466.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/6c8e568c2122c78eb7479a3ad0d4f466.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/4f2b0d085c7efa6f91e432f3506e6176.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "parentSkullCategoryHash": 597736995,
+    "availabilityTierRank": 3,
+    "hash": 997267852,
+    "index": 58,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "997267853": {
+    "displayProperties": {
+      "description": "View Feats.",
+      "name": "Feats",
+      "icon": "/common/destiny2_content/icons/6c8e568c2122c78eb7479a3ad0d4f466.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/6c8e568c2122c78eb7479a3ad0d4f466.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/4f2b0d085c7efa6f91e432f3506e6176.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "parentSkullCategoryHash": 597736995,
+    "availabilityTierRank": 2,
+    "hash": 997267853,
+    "index": 57,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "997267854": {
+    "displayProperties": {
+      "description": "View Feats.",
+      "name": "Feats",
+      "icon": "/common/destiny2_content/icons/6c8e568c2122c78eb7479a3ad0d4f466.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/6c8e568c2122c78eb7479a3ad0d4f466.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/4f2b0d085c7efa6f91e432f3506e6176.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "parentSkullCategoryHash": 597736995,
+    "availabilityTierRank": 1,
+    "hash": 997267854,
+    "index": 56,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1278361885": {
+    "displayProperties": {
+      "description": "View Boon modifiers.",
+      "name": "Boon Modifiers",
+      "icon": "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+            "/common/destiny2_content/icons/8a4860183c01b0bcfeca5231bb0ed77d.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/ab112a761b64cba125f904b225f5f7a8.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "parentSkullCategoryHash": 2685869925,
+    "availabilityTierRank": 3,
+    "hash": 1278361885,
+    "index": 48,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1278361886": {
+    "displayProperties": {
+      "description": "View Boon modifiers.",
+      "name": "Boon Modifiers",
+      "icon": "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+            "/common/destiny2_content/icons/8a4860183c01b0bcfeca5231bb0ed77d.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/ab112a761b64cba125f904b225f5f7a8.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "parentSkullCategoryHash": 2685869925,
+    "availabilityTierRank": 2,
+    "hash": 1278361886,
+    "index": 47,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1278361887": {
+    "displayProperties": {
+      "description": "View Boon modifiers.",
+      "name": "Boon Modifiers",
+      "icon": "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+            "/common/destiny2_content/icons/8a4860183c01b0bcfeca5231bb0ed77d.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/ab112a761b64cba125f904b225f5f7a8.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "parentSkullCategoryHash": 2685869925,
+    "availabilityTierRank": 0,
+    "hash": 1278361887,
+    "index": 46,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1332564698": {
+    "displayProperties": {
+      "description": "Access the revive modifiers.",
+      "name": "Revives Modifiers",
+      "icon": "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+            "/common/destiny2_content/icons/8a4860183c01b0bcfeca5231bb0ed77d.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/ab112a761b64cba125f904b225f5f7a8.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "parentSkullCategoryHash": 494403391,
+    "availabilityTierRank": 10,
+    "hash": 1332564698,
+    "index": 30,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1352414822": {
+    "displayProperties": {
+      "description": "Adjust loadout restrictions.",
+      "name": "Loadout Restrictions",
+      "icon": "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+            "/common/destiny2_content/icons/8a4860183c01b0bcfeca5231bb0ed77d.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/ab112a761b64cba125f904b225f5f7a8.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "parentSkullCategoryHash": 3814335300,
+    "availabilityTierRank": 10,
+    "hash": 1352414822,
+    "index": 32,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1475590577": {
+    "displayProperties": {
+      "description": "Adjust your starting ammo.",
+      "name": "Starting Ammo",
+      "icon": "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+            "/common/destiny2_content/icons/8a4860183c01b0bcfeca5231bb0ed77d.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/ab112a761b64cba125f904b225f5f7a8.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "parentSkullCategoryHash": 494403391,
+    "availabilityTierRank": 40,
+    "hash": 1475590577,
+    "index": 27,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1494004912": {
+    "displayProperties": {
+      "description": "Adjust the time-limit modifiers.",
+      "name": "Time-Limit Modifiers",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "parentSkullCategoryHash": 1149589466,
+    "availabilityTierRank": -1,
+    "hash": 1494004912,
+    "index": 76,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1498805392": {
+    "displayProperties": {
+      "description": "Access the revive modifiers.",
+      "name": "Revives Modifiers",
+      "icon": "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+            "/common/destiny2_content/icons/8a4860183c01b0bcfeca5231bb0ed77d.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/ab112a761b64cba125f904b225f5f7a8.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "parentSkullCategoryHash": 494403391,
+    "availabilityTierRank": 10,
+    "hash": 1498805392,
+    "index": 29,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1499000335": {
+    "displayProperties": {
+      "description": "View the faction modifiers for combatants.",
+      "name": "Faction Modifiers",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "parentSkullCategoryHash": 2627457152,
+    "availabilityTierRank": -1,
+    "hash": 1499000335,
+    "index": 79,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1505282064": {
+    "displayProperties": {
+      "description": "View the challenge modifiers.",
+      "name": "Challenge Modifiers",
+      "icon": "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+            "/common/destiny2_content/icons/8a4860183c01b0bcfeca5231bb0ed77d.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/ab112a761b64cba125f904b225f5f7a8.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "parentSkullCategoryHash": 1809282739,
+    "availabilityTierRank": 1,
+    "hash": 1505282064,
+    "index": 37,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1505282066": {
+    "displayProperties": {
+      "description": "View the challenge modifiers.",
+      "name": "Challenge Modifiers",
+      "icon": "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+            "/common/destiny2_content/icons/8a4860183c01b0bcfeca5231bb0ed77d.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/ab112a761b64cba125f904b225f5f7a8.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "parentSkullCategoryHash": 1809282739,
+    "availabilityTierRank": 1,
+    "hash": 1505282066,
+    "index": 39,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1505282067": {
+    "displayProperties": {
+      "description": "View the challenge modifiers.",
+      "name": "Challenge Modifiers",
+      "icon": "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+            "/common/destiny2_content/icons/8a4860183c01b0bcfeca5231bb0ed77d.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/ab112a761b64cba125f904b225f5f7a8.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "parentSkullCategoryHash": 1809282739,
+    "availabilityTierRank": 1,
+    "hash": 1505282067,
+    "index": 38,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1505282068": {
+    "displayProperties": {
+      "description": "View the challenge modifiers.",
+      "name": "Challenge Modifiers",
+      "icon": "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+            "/common/destiny2_content/icons/8a4860183c01b0bcfeca5231bb0ed77d.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/ab112a761b64cba125f904b225f5f7a8.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "parentSkullCategoryHash": 1809282739,
+    "availabilityTierRank": 1,
+    "hash": 1505282068,
+    "index": 41,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1505282069": {
+    "displayProperties": {
+      "description": "View the challenge modifiers.",
+      "name": "Challenge Modifiers",
+      "icon": "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+            "/common/destiny2_content/icons/8a4860183c01b0bcfeca5231bb0ed77d.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/ab112a761b64cba125f904b225f5f7a8.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "parentSkullCategoryHash": 1809282739,
+    "availabilityTierRank": 1,
+    "hash": 1505282069,
+    "index": 40,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1505282070": {
+    "displayProperties": {
+      "description": "View the Rule Modifiers.",
+      "name": "Rule Modifiers",
+      "icon": "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+            "/common/destiny2_content/icons/8a4860183c01b0bcfeca5231bb0ed77d.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/ab112a761b64cba125f904b225f5f7a8.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "parentSkullCategoryHash": 1809282739,
+    "availabilityTierRank": 1,
+    "hash": 1505282070,
+    "index": 43,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1505282071": {
+    "displayProperties": {
+      "description": "View the challenge modifiers.",
+      "name": "Challenge Modifiers",
+      "icon": "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+            "/common/destiny2_content/icons/8a4860183c01b0bcfeca5231bb0ed77d.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/ab112a761b64cba125f904b225f5f7a8.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "parentSkullCategoryHash": 1809282739,
+    "availabilityTierRank": 1,
+    "hash": 1505282071,
+    "index": 42,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1505282072": {
+    "displayProperties": {
+      "description": "View the Rule Modifiers.",
+      "name": "Rule Modifiers",
+      "icon": "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+            "/common/destiny2_content/icons/8a4860183c01b0bcfeca5231bb0ed77d.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/ab112a761b64cba125f904b225f5f7a8.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "parentSkullCategoryHash": 1809282739,
+    "availabilityTierRank": 1,
+    "hash": 1505282072,
+    "index": 45,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1505282073": {
+    "displayProperties": {
+      "description": "View the Rule Modifiers.",
+      "name": "Rule Modifiers",
+      "icon": "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+            "/common/destiny2_content/icons/8a4860183c01b0bcfeca5231bb0ed77d.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/ab112a761b64cba125f904b225f5f7a8.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "parentSkullCategoryHash": 1809282739,
+    "availabilityTierRank": 1,
+    "hash": 1505282073,
+    "index": 44,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1631710912": {
+    "displayProperties": {
+      "description": "View activity scoring type.",
+      "name": "Activity Scoring Type",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "parentSkullCategoryHash": 1149589466,
+    "availabilityTierRank": -1,
+    "hash": 1631710912,
+    "index": 74,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1850287815": {
+    "displayProperties": {
+      "description": "Adjust Event modifiers.",
+      "name": "Event Modifiers",
+      "icon": "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+            "/common/destiny2_content/icons/8a4860183c01b0bcfeca5231bb0ed77d.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/ab112a761b64cba125f904b225f5f7a8.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "parentSkullCategoryHash": 1470780789,
+    "availabilityTierRank": 10,
+    "hash": 1850287815,
+    "index": 5,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1853406892": {
+    "displayProperties": {
+      "description": "Adjust Banes.",
+      "name": "Banes",
+      "icon": "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+            "/common/destiny2_content/icons/8a4860183c01b0bcfeca5231bb0ed77d.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/ab112a761b64cba125f904b225f5f7a8.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "parentSkullCategoryHash": 4202143300,
+    "availabilityTierRank": 0,
+    "hash": 1853406892,
+    "index": 6,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2097158326": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "parentSkullCategoryHash": 2981079369,
+    "availabilityTierRank": -1,
+    "hash": 2097158326,
+    "index": 92,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2232736132": {
+    "displayProperties": {
+      "description": "Adjust HUD modifiers.",
+      "name": "HUD Modifiers",
+      "icon": "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+            "/common/destiny2_content/icons/8a4860183c01b0bcfeca5231bb0ed77d.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/ab112a761b64cba125f904b225f5f7a8.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "parentSkullCategoryHash": 494403391,
+    "availabilityTierRank": 0,
+    "hash": 2232736132,
+    "index": 24,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2453360265": {
+    "displayProperties": {
+      "description": "Adjust the time-limit modifiers.",
+      "name": "Time-Limit Modifiers",
+      "icon": "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+            "/common/destiny2_content/icons/8a4860183c01b0bcfeca5231bb0ed77d.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/ab112a761b64cba125f904b225f5f7a8.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "parentSkullCategoryHash": 494403391,
+    "availabilityTierRank": 10,
+    "hash": 2453360265,
+    "index": 21,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2741483408": {
+    "displayProperties": {
+      "description": "View the challenge modifiers.",
+      "name": "Challenge Modifiers",
+      "icon": "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+            "/common/destiny2_content/icons/8a4860183c01b0bcfeca5231bb0ed77d.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/ab112a761b64cba125f904b225f5f7a8.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "parentSkullCategoryHash": 2953361283,
+    "availabilityTierRank": -1,
+    "hash": 2741483408,
+    "index": 84,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2766003235": {
+    "displayProperties": {
+      "description": "Adjust loadout restrictions.",
+      "name": "Loadout Restrictions",
+      "icon": "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+            "/common/destiny2_content/icons/8a4860183c01b0bcfeca5231bb0ed77d.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/ab112a761b64cba125f904b225f5f7a8.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "parentSkullCategoryHash": 494403391,
+    "availabilityTierRank": 0,
+    "hash": 2766003235,
+    "index": 22,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2872922850": {
+    "displayProperties": {
+      "description": "View potential tiers for combatants.",
+      "name": "Combatant Tiers",
+      "icon": "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+            "/common/destiny2_content/icons/8a4860183c01b0bcfeca5231bb0ed77d.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/ab112a761b64cba125f904b225f5f7a8.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "parentSkullCategoryHash": 2627457152,
+    "availabilityTierRank": 30,
+    "hash": 2872922850,
+    "index": 82,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3049155356": {
+    "displayProperties": {
+      "description": "Adjust Banes.",
+      "name": "Banes",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "parentSkullCategoryHash": 2627457152,
+    "availabilityTierRank": -1,
+    "hash": 3049155356,
+    "index": 88,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3175088736": {
+    "displayProperties": {
+      "description": "Adjust HUD modifiers.",
+      "name": "HUD Modifiers",
+      "icon": "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+            "/common/destiny2_content/icons/8a4860183c01b0bcfeca5231bb0ed77d.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/ab112a761b64cba125f904b225f5f7a8.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "parentSkullCategoryHash": 494403391,
+    "availabilityTierRank": 20,
+    "hash": 3175088736,
+    "index": 25,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3229285969": {
+    "displayProperties": {
+      "description": "Adjust Banes.",
+      "name": "Banes",
+      "icon": "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+            "/common/destiny2_content/icons/8a4860183c01b0bcfeca5231bb0ed77d.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/ab112a761b64cba125f904b225f5f7a8.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "parentSkullCategoryHash": 1809282739,
+    "availabilityTierRank": 1,
+    "hash": 3229285969,
+    "index": 36,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3321365785": {
+    "displayProperties": {
+      "description": "View Boon modifiers.",
+      "name": "Weekly Boon Modifier",
+      "icon": "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+            "/common/destiny2_content/icons/8a4860183c01b0bcfeca5231bb0ed77d.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/ab112a761b64cba125f904b225f5f7a8.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "parentSkullCategoryHash": 133988346,
+    "availabilityTierRank": -1,
+    "hash": 3321365785,
+    "index": 89,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3327373248": {
+    "displayProperties": {
+      "description": "Adjust the health model modifiers.",
+      "name": "Health Model Modifiers",
+      "icon": "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+            "/common/destiny2_content/icons/8a4860183c01b0bcfeca5231bb0ed77d.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/ab112a761b64cba125f904b225f5f7a8.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "parentSkullCategoryHash": 494403391,
+    "availabilityTierRank": 50,
+    "hash": 3327373248,
+    "index": 28,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3375569796": {
+    "displayProperties": {
+      "description": "View the power modifiers for combatants.",
+      "name": "Combatant Power Modifiers",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "parentSkullCategoryHash": 1149589466,
+    "availabilityTierRank": -1,
+    "hash": 3375569796,
+    "index": 77,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3408371390": {
+    "displayProperties": {
+      "description": "Adjust loadout restrictions.",
+      "name": "Loadout Restrictions",
+      "icon": "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+            "/common/destiny2_content/icons/8a4860183c01b0bcfeca5231bb0ed77d.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/ab112a761b64cba125f904b225f5f7a8.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "parentSkullCategoryHash": 494403391,
+    "availabilityTierRank": 30,
+    "hash": 3408371390,
+    "index": 23,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3448894948": {
+    "displayProperties": {
+      "description": "Adjust the time-limit modifiers.",
+      "name": "Time-Limit Modifiers",
+      "icon": "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+            "/common/destiny2_content/icons/8a4860183c01b0bcfeca5231bb0ed77d.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/ab112a761b64cba125f904b225f5f7a8.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "parentSkullCategoryHash": 494403391,
+    "availabilityTierRank": 1,
+    "hash": 3448894948,
+    "index": 20,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3646909815": {
+    "displayProperties": {
+      "description": "Adjust loadout restrictions.",
+      "name": "Loadout Restrictions",
+      "icon": "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+            "/common/destiny2_content/icons/8a4860183c01b0bcfeca5231bb0ed77d.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/ab112a761b64cba125f904b225f5f7a8.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "parentSkullCategoryHash": 1809282739,
+    "availabilityTierRank": 1,
+    "hash": 3646909815,
+    "index": 35,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3665979870": {
+    "displayProperties": {
+      "description": "View the potential opportunity for an additional combatant to appear.",
+      "name": "Hostile Combatants",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "parentSkullCategoryHash": 1149589466,
+    "availabilityTierRank": -1,
+    "hash": 3665979870,
+    "index": 78,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3773271032": {
+    "displayProperties": {
+      "description": "View the challenge modifiers.",
+      "name": "Challenge Modifiers",
+      "icon": "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+            "/common/destiny2_content/icons/8a4860183c01b0bcfeca5231bb0ed77d.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/ab112a761b64cba125f904b225f5f7a8.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "parentSkullCategoryHash": 4202143300,
+    "availabilityTierRank": 3,
+    "hash": 3773271032,
+    "index": 12,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3773271033": {
+    "displayProperties": {
+      "description": "View the challenge modifiers.",
+      "name": "Challenge Modifiers",
+      "icon": "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+            "/common/destiny2_content/icons/8a4860183c01b0bcfeca5231bb0ed77d.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/ab112a761b64cba125f904b225f5f7a8.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "parentSkullCategoryHash": 4202143300,
+    "availabilityTierRank": 1,
+    "hash": 3773271033,
+    "index": 11,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3776719268": {
+    "displayProperties": {
+      "description": "Adjust loadout restrictions.",
+      "name": "Loadout Restrictions",
+      "icon": "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+            "/common/destiny2_content/icons/8a4860183c01b0bcfeca5231bb0ed77d.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/ab112a761b64cba125f904b225f5f7a8.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "parentSkullCategoryHash": 1809282739,
+    "availabilityTierRank": 1,
+    "hash": 3776719268,
+    "index": 34,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3825275556": {
+    "displayProperties": {
+      "description": "View toughness modifiers for combatants.",
+      "name": "Combatant Toughness",
+      "icon": "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+            "/common/destiny2_content/icons/8a4860183c01b0bcfeca5231bb0ed77d.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/ab112a761b64cba125f904b225f5f7a8.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "parentSkullCategoryHash": 1470780789,
+    "availabilityTierRank": -1,
+    "hash": 3825275556,
+    "index": 2,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3826831693": {
+    "displayProperties": {
+      "description": "View the potential opportunity for a Bane to spawn.",
+      "name": "Bane Prevalence",
+      "icon": "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+            "/common/destiny2_content/icons/8a4860183c01b0bcfeca5231bb0ed77d.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/ab112a761b64cba125f904b225f5f7a8.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "parentSkullCategoryHash": 1470780789,
+    "availabilityTierRank": -1,
+    "hash": 3826831693,
+    "index": 1,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3904789156": {
+    "displayProperties": {
+      "description": "Adjust loadout restrictions.",
+      "name": "Loadout Restrictions",
+      "icon": "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+            "/common/destiny2_content/icons/8a4860183c01b0bcfeca5231bb0ed77d.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/ab112a761b64cba125f904b225f5f7a8.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "parentSkullCategoryHash": 3814335300,
+    "availabilityTierRank": 10,
+    "hash": 3904789156,
+    "index": 31,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3939887937": {
+    "displayProperties": {
+      "description": "Adjust the time-limit modifiers.",
+      "name": "Time-Limit Modifiers",
+      "icon": "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+            "/common/destiny2_content/icons/8a4860183c01b0bcfeca5231bb0ed77d.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/ab112a761b64cba125f904b225f5f7a8.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "parentSkullCategoryHash": 494403391,
+    "availabilityTierRank": 1,
+    "hash": 3939887937,
+    "index": 19,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3952796826": {
+    "displayProperties": {
+      "description": "Adjust HUD modifiers.",
+      "name": "HUD Modifiers",
+      "icon": "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+            "/common/destiny2_content/icons/8a4860183c01b0bcfeca5231bb0ed77d.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/ab112a761b64cba125f904b225f5f7a8.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "parentSkullCategoryHash": 494403391,
+    "availabilityTierRank": 50,
+    "hash": 3952796826,
+    "index": 26,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "4050300167": {
+    "displayProperties": {
+      "description": "Adjust the time-limit modifiers.",
+      "name": "Time-Limit Modifiers",
+      "icon": "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+            "/common/destiny2_content/icons/8a4860183c01b0bcfeca5231bb0ed77d.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/ab112a761b64cba125f904b225f5f7a8.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "parentSkullCategoryHash": 494403391,
+    "availabilityTierRank": 1,
+    "hash": 4050300167,
+    "index": 18,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "4085622649": {
+    "displayProperties": {
+      "description": "Adjust the health model modifiers.",
+      "name": "Health Model Modifiers",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "parentSkullCategoryHash": 1149589466,
+    "availabilityTierRank": -1,
+    "hash": 4085622649,
+    "index": 75,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "4227891080": {
+    "displayProperties": {
+      "description": "View activity scoring type.",
+      "name": "Activity Scoring Type",
+      "icon": "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+            "/common/destiny2_content/icons/8a4860183c01b0bcfeca5231bb0ed77d.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/ab112a761b64cba125f904b225f5f7a8.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "parentSkullCategoryHash": 1470780789,
+    "availabilityTierRank": -1,
+    "hash": 4227891080,
+    "index": 0,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "4249673814": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "parentSkullCategoryHash": 2685869925,
+    "availabilityTierRank": 0,
+    "hash": 4249673814,
+    "index": 55,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "4275872350": {
+    "displayProperties": {
+      "description": "View toughness modifiers for combatants.",
+      "name": "Combatant Toughness",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "parentSkullCategoryHash": 2627457152,
+    "availabilityTierRank": 20,
+    "hash": 4275872350,
+    "index": 81,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "4275927072": {
+    "displayProperties": {
+      "description": "View the challenge modifiers.",
+      "name": "Challenge Modifiers",
+      "icon": "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+            "/common/destiny2_content/icons/8a4860183c01b0bcfeca5231bb0ed77d.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/ab112a761b64cba125f904b225f5f7a8.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "parentSkullCategoryHash": 4202143300,
+    "availabilityTierRank": 40,
+    "hash": 4275927072,
+    "index": 16,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "4275927073": {
+    "displayProperties": {
+      "description": "View the challenge modifiers.",
+      "name": "Challenge Modifiers",
+      "icon": "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+            "/common/destiny2_content/icons/8a4860183c01b0bcfeca5231bb0ed77d.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/ab112a761b64cba125f904b225f5f7a8.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "parentSkullCategoryHash": 4202143300,
+    "availabilityTierRank": 30,
+    "hash": 4275927073,
+    "index": 15,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "4275927074": {
+    "displayProperties": {
+      "description": "View the challenge modifiers.",
+      "name": "Challenge Modifiers",
+      "icon": "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+            "/common/destiny2_content/icons/8a4860183c01b0bcfeca5231bb0ed77d.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/ab112a761b64cba125f904b225f5f7a8.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "parentSkullCategoryHash": 4202143300,
+    "availabilityTierRank": 30,
+    "hash": 4275927074,
+    "index": 14,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "4275927075": {
+    "displayProperties": {
+      "description": "View the challenge modifiers.",
+      "name": "Challenge Modifiers",
+      "icon": "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+            "/common/destiny2_content/icons/8a4860183c01b0bcfeca5231bb0ed77d.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/ab112a761b64cba125f904b225f5f7a8.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "parentSkullCategoryHash": 4202143300,
+    "availabilityTierRank": 30,
+    "hash": 4275927075,
+    "index": 13,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "4275927079": {
+    "displayProperties": {
+      "description": "View the challenge modifiers.",
+      "name": "Challenge Modifiers",
+      "icon": "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/847371d9720bc071beaf37b421ba81e5.png",
+            "/common/destiny2_content/icons/8a4860183c01b0bcfeca5231bb0ed77d.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/ab112a761b64cba125f904b225f5f7a8.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "parentSkullCategoryHash": 4202143300,
+    "availabilityTierRank": 50,
+    "hash": 4275927079,
+    "index": 17,
+    "redacted": false,
+    "blacklisted": false
+  }
+}

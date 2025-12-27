@@ -1,0 +1,353 @@
+{
+  "1053168648": {
+    "displayProperties": {
+      "description": "Player intentionally quits during an activity.\n\nExamples: Quit at start, Quit mid-activity",
+      "name": "Quitting",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "reasons": {
+      "2498661653": {
+        "reasonHash": 2498661653,
+        "displayProperties": {
+          "description": "",
+          "name": "Quit Mid-Activity",
+          "iconHash": 0,
+          "hasIcon": false
+        }
+      },
+      "2799518757": {
+        "reasonHash": 2799518757,
+        "displayProperties": {
+          "description": "",
+          "name": "Quit at Start",
+          "iconHash": 0,
+          "hasIcon": false
+        }
+      },
+      "3087590961": {
+        "reasonHash": 3087590961,
+        "displayProperties": {
+          "description": "",
+          "name": "Other",
+          "iconHash": 0,
+          "hasIcon": false
+        }
+      }
+    },
+    "hash": 1053168648,
+    "index": 4,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1225860615": {
+    "displayProperties": {
+      "description": "Abusive chat is any form of hateful, discriminatory, or obscene communications. Threatening or harassing others is unacceptable, regardless of the words used.\n\nExamples: Insult, Harassment",
+      "name": "Abusive Chat",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "reasons": {
+      "50124584": {
+        "reasonHash": 50124584,
+        "displayProperties": {
+          "description": "",
+          "name": "Insult",
+          "iconHash": 0,
+          "hasIcon": false
+        }
+      },
+      "791514073": {
+        "reasonHash": 791514073,
+        "displayProperties": {
+          "description": "",
+          "name": "Harassment",
+          "iconHash": 0,
+          "hasIcon": false
+        }
+      },
+      "3087590961": {
+        "reasonHash": 3087590961,
+        "displayProperties": {
+          "description": "",
+          "name": "Other",
+          "iconHash": 0,
+          "hasIcon": false
+        }
+      }
+    },
+    "hash": 1225860615,
+    "index": 0,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1480507937": {
+    "displayProperties": {
+      "description": "A bad connection may cause a player to move around unnaturally in world, be unresponsive, or disconnect. This player is not believed to be doing this intentionally.\n\nExamples: Moderate, Severe",
+      "name": "Bad Connection",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "reasons": {
+      "1585783321": {
+        "reasonHash": 1585783321,
+        "displayProperties": {
+          "description": "",
+          "name": "Severe",
+          "iconHash": 0,
+          "hasIcon": false
+        }
+      },
+      "2255399878": {
+        "reasonHash": 2255399878,
+        "displayProperties": {
+          "description": "",
+          "name": "Moderate",
+          "iconHash": 0,
+          "hasIcon": false
+        }
+      },
+      "3087590961": {
+        "reasonHash": 3087590961,
+        "displayProperties": {
+          "description": "",
+          "name": "Other",
+          "iconHash": 0,
+          "hasIcon": false
+        }
+      }
+    },
+    "hash": 1480507937,
+    "index": 8,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1851805954": {
+    "displayProperties": {
+      "description": "Cheating involves using methods outside of the game to create an advantage or disadvantage beyond the normal gameplay.\n\nExamples: Hacking, Network Manipulation",
+      "name": "Cheating",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "reasons": {
+      "2352608786": {
+        "reasonHash": 2352608786,
+        "displayProperties": {
+          "description": "",
+          "name": "Hacking",
+          "iconHash": 0,
+          "hasIcon": false
+        }
+      },
+      "2532403339": {
+        "reasonHash": 2532403339,
+        "displayProperties": {
+          "description": "",
+          "name": "Network Manipulation",
+          "iconHash": 0,
+          "hasIcon": false
+        }
+      },
+      "3087590961": {
+        "reasonHash": 3087590961,
+        "displayProperties": {
+          "description": "",
+          "name": "Other",
+          "iconHash": 0,
+          "hasIcon": false
+        }
+      }
+    },
+    "hash": 1851805954,
+    "index": 7,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2032714362": {
+    "displayProperties": {
+      "description": "Exploits are use of bugs or glitches in the game not intended by the game designers, that players take advantage of for personal benefit.\n\nExamples: Exploiting Game, Exploiting Map",
+      "name": "Exploiting",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "reasons": {
+      "508855581": {
+        "reasonHash": 508855581,
+        "displayProperties": {
+          "description": "",
+          "name": "Exploiting Map",
+          "iconHash": 0,
+          "hasIcon": false
+        }
+      },
+      "2749021087": {
+        "reasonHash": 2749021087,
+        "displayProperties": {
+          "description": "",
+          "name": "Exploiting Game",
+          "iconHash": 0,
+          "hasIcon": false
+        }
+      },
+      "3087590961": {
+        "reasonHash": 3087590961,
+        "displayProperties": {
+          "description": "",
+          "name": "Other",
+          "iconHash": 0,
+          "hasIcon": false
+        }
+      }
+    },
+    "hash": 2032714362,
+    "index": 6,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2425050023": {
+    "displayProperties": {
+      "description": "Inactivity includes being intentionally absent or inactive during gameplay.\n\nExamples: AFK, Using bots",
+      "name": "Inactivity",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "reasons": {
+      "1310746887": {
+        "reasonHash": 1310746887,
+        "displayProperties": {
+          "description": "",
+          "name": "AFK",
+          "iconHash": 0,
+          "hasIcon": false
+        }
+      },
+      "2122936176": {
+        "reasonHash": 2122936176,
+        "displayProperties": {
+          "description": "",
+          "name": "Using Bots",
+          "iconHash": 0,
+          "hasIcon": false
+        }
+      },
+      "3087590961": {
+        "reasonHash": 3087590961,
+        "displayProperties": {
+          "description": "",
+          "name": "Other",
+          "iconHash": 0,
+          "hasIcon": false
+        }
+      }
+    },
+    "hash": 2425050023,
+    "index": 3,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2813366390": {
+    "displayProperties": {
+      "description": "Griefing intentionally irritates other players, often using the game in unintended ways to do so.\n\nExamples: Sabotage, Kicked from fireteam",
+      "name": "Griefing",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "reasons": {
+      "3087590961": {
+        "reasonHash": 3087590961,
+        "displayProperties": {
+          "description": "",
+          "name": "Other",
+          "iconHash": 0,
+          "hasIcon": false
+        }
+      },
+      "3795025700": {
+        "reasonHash": 3795025700,
+        "displayProperties": {
+          "description": "",
+          "name": "Kicked from fireteam",
+          "iconHash": 0,
+          "hasIcon": false
+        }
+      },
+      "4003403301": {
+        "reasonHash": 4003403301,
+        "displayProperties": {
+          "description": "",
+          "name": "Sabotage",
+          "iconHash": 0,
+          "hasIcon": false
+        }
+      }
+    },
+    "hash": 2813366390,
+    "index": 5,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3542520966": {
+    "displayProperties": {
+      "description": "Unsolicited invitations or messages sent frequently or to large numbers of recipients.\n\nExamples: Friend Invite, Whisper, Chat.",
+      "name": "Spam",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "reasons": {
+      "3087590961": {
+        "reasonHash": 3087590961,
+        "displayProperties": {
+          "description": "",
+          "name": "Other",
+          "iconHash": 0,
+          "hasIcon": false
+        }
+      }
+    },
+    "hash": 3542520966,
+    "index": 2,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "4291247038": {
+    "displayProperties": {
+      "description": "Verbal abuse is the delivery of hateful communications.\n\nExamples: Yelling, Vulgar Language",
+      "name": "Verbal Abuse",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "reasons": {
+      "3087590961": {
+        "reasonHash": 3087590961,
+        "displayProperties": {
+          "description": "",
+          "name": "Other",
+          "iconHash": 0,
+          "hasIcon": false
+        }
+      },
+      "3850141219": {
+        "reasonHash": 3850141219,
+        "displayProperties": {
+          "description": "",
+          "name": "Vulgar Language",
+          "iconHash": 0,
+          "hasIcon": false
+        }
+      },
+      "3894597393": {
+        "reasonHash": 3894597393,
+        "displayProperties": {
+          "description": "",
+          "name": "Yelling",
+          "iconHash": 0,
+          "hasIcon": false
+        }
+      }
+    },
+    "hash": 4291247038,
+    "index": 1,
+    "redacted": false,
+    "blacklisted": false
+  }
+}

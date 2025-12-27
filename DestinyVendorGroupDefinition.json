@@ -1,0 +1,82 @@
+{
+  "427939601": {
+    "order": 3,
+    "categoryName": "Seasonal",
+    "hash": 427939601,
+    "index": 3,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "611624255": {
+    "order": 1,
+    "categoryName": "Renegades",
+    "hash": 611624255,
+    "index": 1,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "679769104": {
+    "order": 4,
+    "categoryName": "Tower",
+    "hash": 679769104,
+    "index": 4,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1767960256": {
+    "order": 6,
+    "categoryName": "LIGHTFALL",
+    "hash": 1767960256,
+    "index": 6,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2537374699": {
+    "order": 9,
+    "categoryName": "Destination",
+    "hash": 2537374699,
+    "index": 9,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3227191227": {
+    "order": 0,
+    "categoryName": "Limited Time",
+    "hash": 3227191227,
+    "index": 0,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3350514087": {
+    "order": 5,
+    "categoryName": "The Pale Heart",
+    "hash": 3350514087,
+    "index": 5,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3667761105": {
+    "order": 7,
+    "categoryName": "The Witch Queen",
+    "hash": 3667761105,
+    "index": 7,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "4171455936": {
+    "order": 2,
+    "categoryName": "Kepler",
+    "hash": 4171455936,
+    "index": 2,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "4179305295": {
+    "order": 8,
+    "categoryName": "30th Anniversary",
+    "hash": 4179305295,
+    "index": 8,
+    "redacted": false,
+    "blacklisted": false
+  }
+}

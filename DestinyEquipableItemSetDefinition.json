@@ -1,0 +1,743 @@
+{
+  "239346083": {
+    "displayProperties": {
+      "description": "",
+      "name": "Techsec",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "setItems": [
+      3129990424,
+      4150538093,
+      503854896,
+      2292070913,
+      1589715538,
+      2709760314,
+      2719854935,
+      2401760398,
+      517096395,
+      95722356,
+      489126477,
+      1963424554,
+      4052965875,
+      2082858804,
+      1159925519
+    ],
+    "setPerks": [
+      {
+        "requiredSetCount": 2,
+        "sandboxPerkHash": 1130213040
+      },
+      {
+        "requiredSetCount": 4,
+        "sandboxPerkHash": 1130213041
+      }
+    ],
+    "hash": 239346083,
+    "index": 2,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "305966751": {
+    "displayProperties": {
+      "description": "",
+      "name": "Iron Panoply Set",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "setItems": [
+      1800556337,
+      2195844199,
+      2911341942,
+      4193009504,
+      1631809155,
+      3578811197,
+      4126332611,
+      3408036410,
+      3631616612,
+      1649469535,
+      717101494,
+      3053825914,
+      2702279243,
+      2898513455,
+      1929483792
+    ],
+    "setPerks": [
+      {
+        "requiredSetCount": 2,
+        "sandboxPerkHash": 3157066724
+      },
+      {
+        "requiredSetCount": 4,
+        "sandboxPerkHash": 3157066725
+      }
+    ],
+    "hash": 305966751,
+    "index": 11,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "894715166": {
+    "displayProperties": {
+      "description": "",
+      "name": "AION Adapter",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "setItems": [
+      1629686472,
+      2725736573,
+      3798581184,
+      3013134961,
+      2306671522,
+      1764010530,
+      3374948591,
+      2632499718,
+      4271003923,
+      4274190428,
+      1828890675,
+      119770768,
+      2528292701,
+      2247786986,
+      1563741445
+    ],
+    "setPerks": [
+      {
+        "requiredSetCount": 2,
+        "sandboxPerkHash": 2840280305
+      },
+      {
+        "requiredSetCount": 4,
+        "sandboxPerkHash": 2840280304
+      }
+    ],
+    "hash": 894715166,
+    "index": 1,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1007956300": {
+    "displayProperties": {
+      "description": "",
+      "name": "Collective Psyche",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "setItems": [
+      2565439347,
+      3858892752,
+      2396904861,
+      2559878186,
+      2300393285,
+      1004271921,
+      4131269494,
+      3415771751,
+      3396725088,
+      835524739,
+      285521900,
+      3090407945,
+      1880646964,
+      1822989949,
+      931254038
+    ],
+    "setPerks": [
+      {
+        "requiredSetCount": 2,
+        "sandboxPerkHash": 1901305283
+      },
+      {
+        "requiredSetCount": 4,
+        "sandboxPerkHash": 1901305282
+      }
+    ],
+    "hash": 1007956300,
+    "index": 4,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1083114430": {
+    "displayProperties": {
+      "description": "",
+      "name": "Bushido",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "setItems": [
+      81786728,
+      464665629,
+      1154629600,
+      1465235089,
+      1183125954,
+      2195895938,
+      2517367247,
+      2199272806,
+      407922163,
+      4281618492,
+      970712027,
+      743956488,
+      2046361909,
+      545935602,
+      3715719501
+    ],
+    "setPerks": [
+      {
+        "requiredSetCount": 2,
+        "sandboxPerkHash": 1964062929
+      },
+      {
+        "requiredSetCount": 4,
+        "sandboxPerkHash": 1964062928
+      }
+    ],
+    "hash": 1083114430,
+    "index": 5,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1223381128": {
+    "displayProperties": {
+      "description": "",
+      "name": "AION Renewal",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "setItems": [
+      94775422,
+      3389206211,
+      3218422834,
+      1021364471,
+      938718424,
+      1148225208,
+      3070333453,
+      3718617552,
+      351882401,
+      3478460146,
+      3406093957,
+      1643127154,
+      2903426907,
+      4251796172,
+      3328966151
+    ],
+    "setPerks": [
+      {
+        "requiredSetCount": 2,
+        "sandboxPerkHash": 2140508055
+      },
+      {
+        "requiredSetCount": 4,
+        "sandboxPerkHash": 2140508054
+      }
+    ],
+    "hash": 1223381128,
+    "index": 0,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2132906400": {
+    "displayProperties": {
+      "description": "",
+      "name": "New Demotic",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "setItems": [
+      3676598776,
+      4096683536,
+      3023838797,
+      2838679265,
+      1711866418,
+      3990156004,
+      2195018204,
+      3480851793,
+      1019345429,
+      1201273998,
+      1971091137,
+      4154731415,
+      1988083558,
+      2214884208,
+      3041479219
+    ],
+    "setPerks": [
+      {
+        "requiredSetCount": 2,
+        "sandboxPerkHash": 3160370591
+      },
+      {
+        "requiredSetCount": 4,
+        "sandboxPerkHash": 3160370590
+      }
+    ],
+    "hash": 2132906400,
+    "index": 16,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2151917545": {
+    "displayProperties": {
+      "description": "",
+      "name": "Thriving Survivor",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "setItems": [
+      2419726011,
+      365930261,
+      3358389096,
+      1953372754,
+      828189485,
+      3917237407,
+      3093390809,
+      537150100,
+      2891930926,
+      2838384481,
+      690430270,
+      3781374706,
+      123224963,
+      1616916151,
+      1109812632
+    ],
+    "setPerks": [
+      {
+        "requiredSetCount": 2,
+        "sandboxPerkHash": 681117218
+      },
+      {
+        "requiredSetCount": 4,
+        "sandboxPerkHash": 681117219
+      }
+    ],
+    "hash": 2151917545,
+    "index": 18,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2258577662": {
+    "displayProperties": {
+      "description": "",
+      "name": "Wild Anthem",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "setItems": [
+      361848666,
+      217940910,
+      536035447,
+      2039591531,
+      1618320532,
+      225063086,
+      1644825026,
+      1334855187,
+      2278464039,
+      2732598696,
+      2394455241,
+      2134373071,
+      3805886046,
+      1930651768,
+      2686397083
+    ],
+    "setPerks": [
+      {
+        "requiredSetCount": 2,
+        "sandboxPerkHash": 3390457361
+      },
+      {
+        "requiredSetCount": 4,
+        "sandboxPerkHash": 3390457360
+      }
+    ],
+    "hash": 2258577662,
+    "index": 13,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2391762223": {
+    "displayProperties": {
+      "description": "",
+      "name": "Swordmaster",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "setItems": [
+      2697887125,
+      1604556427,
+      385833378,
+      1343009820,
+      445076215,
+      2347181257,
+      262826703,
+      1934339678,
+      1883377784,
+      2639123099,
+      4172973116,
+      1504698788,
+      2248528889,
+      3520307277,
+      3558781766
+    ],
+    "setPerks": [
+      {
+        "requiredSetCount": 2,
+        "sandboxPerkHash": 3916960436
+      },
+      {
+        "requiredSetCount": 4,
+        "sandboxPerkHash": 3916960437
+      }
+    ],
+    "hash": 2391762223,
+    "index": 15,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2450108908": {
+    "displayProperties": {
+      "description": "",
+      "name": "Wayward Psyche Set",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "setItems": [
+      1575226736,
+      1550311576,
+      4240773301,
+      2061864953,
+      1892285258,
+      3110734908,
+      2919430564,
+      3663260665,
+      2458069069,
+      2496543558,
+      2578879401,
+      1182916911,
+      2896109758,
+      2115178968,
+      2404890235
+    ],
+    "setPerks": [
+      {
+        "requiredSetCount": 2,
+        "sandboxPerkHash": 3376007203
+      },
+      {
+        "requiredSetCount": 4,
+        "sandboxPerkHash": 3376007202
+      }
+    ],
+    "hash": 2450108908,
+    "index": 10,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2751989785": {
+    "displayProperties": {
+      "description": "",
+      "name": "Smoke Jumper Set",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "setItems": [
+      2280816555,
+      1003997240,
+      2348082405,
+      2941172034,
+      3755454909,
+      589006711,
+      4129998876,
+      3347493825,
+      1575046822,
+      2397541401,
+      986078848,
+      1619647653,
+      3788059976,
+      3577550601,
+      63899322
+    ],
+    "setPerks": [
+      {
+        "requiredSetCount": 2,
+        "sandboxPerkHash": 3078673682
+      },
+      {
+        "requiredSetCount": 4,
+        "sandboxPerkHash": 3078673683
+      }
+    ],
+    "hash": 2751989785,
+    "index": 8,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2839368623": {
+    "displayProperties": {
+      "description": "",
+      "name": "Shrewd Survivor",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "setItems": [
+      1722491869,
+      3531425635,
+      2430248538,
+      2158178052,
+      4046540927,
+      1849147777,
+      2629237079,
+      462589222,
+      2051364144,
+      3343993331,
+      938861252,
+      3475188156,
+      932088625,
+      2263018101,
+      2869507310
+    ],
+    "setPerks": [
+      {
+        "requiredSetCount": 2,
+        "sandboxPerkHash": 219133236
+      },
+      {
+        "requiredSetCount": 4,
+        "sandboxPerkHash": 219133237
+      }
+    ],
+    "hash": 2839368623,
+    "index": 17,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2947197258": {
+    "displayProperties": {
+      "description": "",
+      "name": "Disaster Corps Set",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "setItems": [
+      517814638,
+      3957372883,
+      438409602,
+      2571112423,
+      2600892776,
+      250597586,
+      2757996223,
+      3428369046,
+      3408026115,
+      651836012,
+      2557300061,
+      1703017178,
+      2804194275,
+      2992986244,
+      586381823
+    ],
+    "setPerks": [
+      {
+        "requiredSetCount": 2,
+        "sandboxPerkHash": 2513809221
+      },
+      {
+        "requiredSetCount": 4,
+        "sandboxPerkHash": 2513809220
+      }
+    ],
+    "hash": 2947197258,
+    "index": 9,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3252452908": {
+    "displayProperties": {
+      "description": "",
+      "name": "Last Discipline",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "setItems": [
+      1172384181,
+      1109145282,
+      2752429099,
+      4112577340,
+      2748506263,
+      4079706495,
+      2773786868,
+      1459620921,
+      2629942414,
+      3000956609,
+      2403923088,
+      420604757,
+      2025110456,
+      2932138009,
+      2762558442
+    ],
+    "setPerks": [
+      {
+        "requiredSetCount": 2,
+        "sandboxPerkHash": 2433863523
+      },
+      {
+        "requiredSetCount": 4,
+        "sandboxPerkHash": 2433863522
+      }
+    ],
+    "hash": 3252452908,
+    "index": 3,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3259216565": {
+    "displayProperties": {
+      "description": "",
+      "name": "Twofold Crown",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "setItems": [
+      2116325413,
+      4241698066,
+      1590014587,
+      2962027628,
+      2463655079,
+      2534133191,
+      3384001164,
+      1230148081,
+      1330142838,
+      1286938889,
+      3453853118,
+      3533586691,
+      2896769138,
+      85371703,
+      3873235480
+    ],
+    "setPerks": [
+      {
+        "requiredSetCount": 2,
+        "sandboxPerkHash": 1025384966
+      },
+      {
+        "requiredSetCount": 4,
+        "sandboxPerkHash": 1025384967
+      }
+    ],
+    "hash": 3259216565,
+    "index": 6,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3734029045": {
+    "displayProperties": {
+      "description": "",
+      "name": "Ferropotent",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "setItems": [
+      4199055647,
+      2849508185,
+      293267476,
+      3173749166,
+      3120202721,
+      2370945771,
+      3554497829,
+      2676446840,
+      3031404418,
+      3462703357,
+      4037429988,
+      4066564572,
+      1057430865,
+      1066619413,
+      1248547982
+    ],
+    "setPerks": [
+      {
+        "requiredSetCount": 2,
+        "sandboxPerkHash": 3458982982
+      },
+      {
+        "requiredSetCount": 4,
+        "sandboxPerkHash": 3458982983
+      }
+    ],
+    "hash": 3734029045,
+    "index": 12,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3737690559": {
+    "displayProperties": {
+      "description": "",
+      "name": "Lustrous",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "setItems": [
+      3446591075,
+      3643047597,
+      1756958880,
+      1209319450,
+      1072603541,
+      2739996165,
+      2901472731,
+      1641172978,
+      3585698380,
+      2662868359,
+      1806024532,
+      1809917548,
+      213708705,
+      1025347717,
+      2052186462
+    ],
+    "setPerks": [
+      {
+        "requiredSetCount": 2,
+        "sandboxPerkHash": 4048287940
+      },
+      {
+        "requiredSetCount": 4,
+        "sandboxPerkHash": 4048287941
+      }
+    ],
+    "hash": 3737690559,
+    "index": 7,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "4222859846": {
+    "displayProperties": {
+      "description": "",
+      "name": "Sage Protector",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "setItems": [
+      2354448750,
+      1867581826,
+      1091577811,
+      112779239,
+      142559592,
+      919358834,
+      279565494,
+      3945736543,
+      4118260899,
+      1320597132,
+      2249815529,
+      640369263,
+      1887527934,
+      1786011928,
+      2541757371
+    ],
+    "setPerks": [
+      {
+        "requiredSetCount": 2,
+        "sandboxPerkHash": 109046537
+      },
+      {
+        "requiredSetCount": 4,
+        "sandboxPerkHash": 109046536
+      }
+    ],
+    "hash": 4222859846,
+    "index": 14,
+    "redacted": false,
+    "blacklisted": false
+  }
+}

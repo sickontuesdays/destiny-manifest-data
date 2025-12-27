@@ -1,0 +1,58 @@
+{
+  "1": {
+    "displayProperties": {
+      "description": "A structured core progression system to the Destiny experience.",
+      "name": "Guardian Ranks",
+      "icon": "/common/destiny2_content/icons/DestinyPresentationNodeDefinition_dc104657e08a78f3f46fa9833c23d720.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/9968dbb3c54b1a46b12d3cb4d49fc036.png",
+            "/common/destiny2_content/icons/d9727702387c7ac128f403e97b7766b2.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/d5fdfcca1610f6133782dff2ac0dd5c9.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "rankCount": 11,
+    "guardianRankHashes": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "rootNodeHash": 3741753466,
+    "iconBackgrounds": {
+      "backgroundEmptyBorderedImagePath": "/img/destiny_content/guardian_ranks/backgrounds/background-empty-bordered.png",
+      "backgroundEmptyBlueGradientBorderedImagePath": "/img/destiny_content/guardian_ranks/backgrounds/background-empty-blue-gradient-bordered.png",
+      "backgroundFilledBlueBorderedImagePath": "/img/destiny_content/guardian_ranks/backgrounds/background-filled-blue-bordered.png",
+      "backgroundFilledBlueGradientBorderedImagePath": "/img/destiny_content/guardian_ranks/backgrounds/background-filled-blue-gradient-bordered.png",
+      "backgroundFilledBlueLowAlphaImagePath": "/img/destiny_content/guardian_ranks/backgrounds/background-filled-blue-low-alpha.png",
+      "backgroundFilledBlueMediumAlphaImagePath": "/img/destiny_content/guardian_ranks/backgrounds/background-filled-blue-medium-alpha.png",
+      "backgroundFilledGrayMediumAlphaBorderedImagePath": "/img/destiny_content/guardian_ranks/backgrounds/background-filled-gray-medium-alpha-bordered.png",
+      "backgroundFilledGrayHeavyAlphaBorderedImagePath": "/img/destiny_content/guardian_ranks/backgrounds/background-filled-gray-heavy-alpha-bordered.png",
+      "backgroundFilledWhiteMediumAlphaImagePath": "/img/destiny_content/guardian_ranks/backgrounds/background-filled-white-medium-alpha.png",
+      "backgroundFilledWhiteImagePath": "/img/destiny_content/guardian_ranks/backgrounds/background-filled-white.png",
+      "backgroundPlateWhiteImagePath": "/img/destiny_content/guardian_ranks/backgrounds/background-plate-white.png",
+      "backgroundPlateBlackImagePath": "/img/destiny_content/guardian_ranks/backgrounds/background-plate-black.png",
+      "backgroundPlateBlackAlphaImagePath": "/img/destiny_content/guardian_ranks/backgrounds/background-plate-black-alpha.png"
+    },
+    "hash": 1,
+    "index": 0,
+    "redacted": false,
+    "blacklisted": false
+  }
+}

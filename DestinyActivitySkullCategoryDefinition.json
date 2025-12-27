@@ -1,0 +1,182 @@
+{
+  "133988346": {
+    "displayProperties": {
+      "description": "Adjust Boon or Event modifiers.",
+      "name": "Boon Modifiers",
+      "icon": "/common/destiny2_content/icons/a000554856477974d5a3d42cfb1316ef.png",
+      "iconHash": 0,
+      "hasIcon": true
+    },
+    "hash": 133988346,
+    "index": 10,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "494403391": {
+    "displayProperties": {
+      "description": "Adjust Player Stake Modifiers.",
+      "name": "Player Stakes",
+      "icon": "/common/destiny2_content/icons/72f558d605b5721453347fa8c1685656.png",
+      "iconHash": 0,
+      "hasIcon": true
+    },
+    "hash": 494403391,
+    "index": 2,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "597736995": {
+    "displayProperties": {
+      "description": "Adjust feat selections.",
+      "name": "Feats",
+      "icon": "/common/destiny2_content/icons/3e9b4aea265110d17887c03e1bc0b01a.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/3e9b4aea265110d17887c03e1bc0b01a.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/654b250d614eac743cd7665023e096ec.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "hash": 597736995,
+    "index": 6,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1149589466": {
+    "displayProperties": {
+      "description": "View the Rule Modifiers.",
+      "name": "Rule Modifiers",
+      "icon": "/common/destiny2_content/icons/d6865f6477c07ee8215a76f917f2e64f.png",
+      "iconHash": 0,
+      "hasIcon": true
+    },
+    "hash": 1149589466,
+    "index": 8,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1470780789": {
+    "displayProperties": {
+      "description": "View the Rule Modifiers.",
+      "name": "Rule Modifiers",
+      "icon": "/common/destiny2_content/icons/d6865f6477c07ee8215a76f917f2e64f.png",
+      "iconHash": 0,
+      "hasIcon": true
+    },
+    "hash": 1470780789,
+    "index": 0,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1809282739": {
+    "displayProperties": {
+      "description": "View the challenge modifiers.",
+      "name": "Challenge Modifiers",
+      "icon": "/common/destiny2_content/icons/8d6a97c7d46f3fa5e4948f32a37dfec3.png",
+      "iconHash": 0,
+      "hasIcon": true
+    },
+    "hash": 1809282739,
+    "index": 4,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2627457152": {
+    "displayProperties": {
+      "description": "View the modifiers for combatants.",
+      "name": "Combatant Modifiers",
+      "icon": "/common/destiny2_content/icons/11c539dac4d37454a83155834d9c96b5.png",
+      "iconHash": 0,
+      "hasIcon": true
+    },
+    "hash": 2627457152,
+    "index": 11,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2685869925": {
+    "displayProperties": {
+      "description": "Adjust Boon or Event modifiers.",
+      "name": "Boon and Event Modifiers",
+      "icon": "/common/destiny2_content/icons/a000554856477974d5a3d42cfb1316ef.png",
+      "iconHash": 0,
+      "hasIcon": true
+    },
+    "hash": 2685869925,
+    "index": 5,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2782594556": {
+    "displayProperties": {
+      "description": "Adjust feat selections.",
+      "name": "Feats",
+      "icon": "/common/destiny2_content/icons/6a0db1a9acfddf2f0633ccc70abfde0d.png",
+      "iconHash": 0,
+      "hasIcon": true
+    },
+    "hash": 2782594556,
+    "index": 7,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2953361283": {
+    "displayProperties": {
+      "description": "Adjust the Challenge Modifiers.",
+      "name": "Challenge Modifiers",
+      "icon": "/common/destiny2_content/icons/8d6a97c7d46f3fa5e4948f32a37dfec3.png",
+      "iconHash": 0,
+      "hasIcon": true
+    },
+    "hash": 2953361283,
+    "index": 9,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2981079369": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "hash": 2981079369,
+    "index": 12,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3814335300": {
+    "displayProperties": {
+      "description": "Adjust Player Stake Modifiers.",
+      "name": "Player Stakes",
+      "icon": "/common/destiny2_content/icons/48cee008ff157b38d22afc98884b09cf.png",
+      "iconHash": 0,
+      "hasIcon": true
+    },
+    "hash": 3814335300,
+    "index": 3,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "4202143300": {
+    "displayProperties": {
+      "description": "Adjust the Challenge Modifiers.",
+      "name": "Challenge Modifiers",
+      "icon": "/common/destiny2_content/icons/8d6a97c7d46f3fa5e4948f32a37dfec3.png",
+      "iconHash": 0,
+      "hasIcon": true
+    },
+    "hash": 4202143300,
+    "index": 1,
+    "redacted": false,
+    "blacklisted": false
+  }
+}
