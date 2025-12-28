@@ -1,0 +1,383 @@
+name: Weekly Manifest Update
+
+on:
+  schedule:
+    # Tuesday 1:15 PM EST (18:15 UTC, accounting for EST/EDT)
+    - cron: '15 18 * * 2'
+  workflow_dispatch: # Manual trigger option
+
+env:
+  BUNGIE_API_KEY: ${{ secrets.BUNGIE_API_KEY }}
+
+jobs:
+  update-manifest:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '18'
+
+    - name: Install dependencies
+      run: |
+        # Install required Node.js packages
+        npm install sqlite3 jszip
+
+    - name: Check for new manifest version
+      id: check-version
+      run: |
+        # Call Bungie API to get current manifest version
+        CURRENT_VERSION=$(curl -s -H "X-API-Key: $BUNGIE_API_KEY" \
+          "https://www.bungie.net/Platform/Destiny2/Manifest/" | \
+          jq -r '.Response.version')
+
+        echo "Current manifest version: $CURRENT_VERSION"
+
+        # Compare with stored version (if metadata.json exists)
+        if [ -f "metadata.json" ]; then
+          STORED_VERSION=$(cat metadata.json | jq -r '.manifestVersion // "none"')
+          echo "Stored manifest version: $STORED_VERSION"
+        else
+          STORED_VERSION="none"
+          echo "No metadata.json found, treating as first run"
+        fi
+
+        if [ "$CURRENT_VERSION" != "$STORED_VERSION" ]; then
+          echo "New version detected: $CURRENT_VERSION"
+          echo "new-version=true" >> $GITHUB_OUTPUT
+          echo "version=$CURRENT_VERSION" >> $GITHUB_OUTPUT
+        else
+          echo "No new version available"
+          echo "new-version=false" >> $GITHUB_OUTPUT
+        fi
+
+    - name: Download and convert manifest
+      if: steps.check-version.outputs.new-version == 'true'
+      run: |
+        echo "Downloading manifest version ${{ steps.check-version.outputs.version }}"
+
+        # Get manifest download URL
+        MANIFEST_URL=$(curl -s -H "X-API-Key: $BUNGIE_API_KEY" \
+          "https://www.bungie.net/Platform/Destiny2/Manifest/" | \
+          jq -r '.Response.mobileWorldContentPaths.en')
+
+        echo "Manifest URL: https://www.bungie.net$MANIFEST_URL"
+
+        # Download manifest file
+        curl -o manifest.content "https://www.bungie.net$MANIFEST_URL"
+
+        # Verify download
+        if [ ! -f "manifest.content" ] || [ ! -s "manifest.content" ]; then
+          echo "Error: Failed to download manifest.content or file is empty"
+          exit 1
+        fi
+
+        echo "Downloaded manifest.content ($(stat -f%z manifest.content 2>/dev/null || stat -c%s manifest.content) bytes)"
+
+        # Create convert-manifest.js from the converter project
+        cat > convert-manifest.js << 'EOF'
+        // convert-manifest.js - Simplified version for GitHub Actions
+        const fs = require('fs');
+        const path = require('path');
+        const sqlite3 = require('sqlite3').verbose();
+        const zlib = require('zlib');
+
+        let JSZip = null;
+        try {
+            JSZip = require('jszip');
+        } catch (e) {
+            console.log('⚠️  JSZip not installed. ZIP file support disabled.');
+        }
+
+        const INPUT_FILE = process.argv[2] || 'manifest.content';
+        const OUTPUT_DIR = './';
+        const MAX_FILE_SIZE_MB = 70;
+        const CHUNK_FILES = ['DestinyInventoryItemDefinition'];
+
+        function getFileSizeMB(data) {
+            const jsonString = JSON.stringify(data);
+            const sizeBytes = Buffer.byteLength(jsonString, 'utf8');
+            return sizeBytes / 1024 / 1024;
+        }
+
+        function chunkLargeFile(tableName, tableData) {
+            const entries = Object.entries(tableData);
+            const totalSize = getFileSizeMB(tableData);
+            const numberOfChunks = Math.ceil(totalSize / MAX_FILE_SIZE_MB);
+            const itemsPerChunk = Math.ceil(entries.length / numberOfChunks);
+
+            console.log(`📦 Chunking ${tableName}: ${totalSize.toFixed(2)} MB → ${numberOfChunks} chunks`);
+
+            const chunks = [];
+            for (let i = 0; i < entries.length; i += itemsPerChunk) {
+                const chunkEntries = entries.slice(i, i + itemsPerChunk);
+                const chunk = Object.fromEntries(chunkEntries);
+                chunks.push(chunk);
+            }
+
+            return chunks;
+        }
+
+        function saveChunkedFile(tableName, chunks) {
+            chunks.forEach((chunk, index) => {
+                const chunkFileName = `${tableName}_part${index + 1}.json`;
+                fs.writeFileSync(chunkFileName, JSON.stringify(chunk, null, 2));
+                console.log(`✅ Saved ${chunkFileName}: ${Object.keys(chunk).length} items`);
+            });
+            return chunks.length;
+        }
+
+        async function processManifest() {
+            console.log(`📖 Reading manifest file: ${INPUT_FILE}`);
+            let manifestBuffer = fs.readFileSync(INPUT_FILE);
+
+            // Handle gzip decompression if needed
+            if (manifestBuffer.length >= 2 && manifestBuffer[0] === 0x1f && manifestBuffer[1] === 0x8b) {
+                console.log('🗜️  File is gzipped, decompressing...');
+                manifestBuffer = zlib.gunzipSync(manifestBuffer);
+            }
+
+            // Handle ZIP extraction if needed
+            if (manifestBuffer.length >= 2 && manifestBuffer[0] === 0x50 && manifestBuffer[1] === 0x4b) {
+                console.log('📦 File is a ZIP archive, extracting...');
+                if (!JSZip) throw new Error('JSZip required for ZIP files');
+
+                const zip = await JSZip.loadAsync(manifestBuffer);
+                let dbFile = null;
+
+                for (const filename in zip.files) {
+                    const file = zip.files[filename];
+                    if (!file.dir && (filename.includes('world') || filename.endsWith('.db'))) {
+                        dbFile = file;
+                        break;
+                    }
+                }
+
+                if (!dbFile) {
+                    for (const filename in zip.files) {
+                        const file = zip.files[filename];
+                        if (!file.dir) {
+                            dbFile = file;
+                            break;
+                        }
+                    }
+                }
+
+                manifestBuffer = await dbFile.async('nodebuffer');
+            }
+
+            // Write processed file for SQLite access
+            const dbPath = 'manifest.db';
+            fs.writeFileSync(dbPath, manifestBuffer);
+
+            return { dbPath };
+        }
+
+        processManifest().then(({ dbPath }) => {
+            console.log('✅ Opening SQLite database...');
+
+            const db = new sqlite3.Database(dbPath, sqlite3.OPEN_READONLY, (err) => {
+                if (err) {
+                    console.error('❌ Error opening database:', err.message);
+                    process.exit(1);
+                }
+            });
+
+            db.all("SELECT name FROM sqlite_master WHERE type='table'", [], (err, tables) => {
+                if (err) {
+                    console.error('❌ Error listing tables:', err);
+                    process.exit(1);
+                }
+
+                console.log(`📊 Found ${tables.length} tables in manifest`);
+
+                let processedCount = 0;
+                const allData = {};
+
+                const processTable = (index) => {
+                    if (index >= tables.length) {
+                        console.log('✅ Conversion complete!');
+
+                        // Save metadata
+                        const metadata = {
+                            extractedAt: new Date().toISOString(),
+                            manifestVersion: '${{ steps.check-version.outputs.version }}',
+                            source: 'automated',
+                            tablesExtracted: Object.keys(allData),
+                            totalTables: tables.length
+                        };
+
+                        fs.writeFileSync('metadata.json', JSON.stringify(metadata, null, 2));
+                        console.log('📋 Saved metadata.json');
+
+                        // Cleanup
+                        fs.unlinkSync(dbPath);
+                        fs.unlinkSync('manifest.content');
+
+                        db.close();
+                        return;
+                    }
+
+                    const tableName = tables[index].name;
+                    console.log(`Processing ${tableName}...`);
+
+                    db.all(`SELECT * FROM ${tableName}`, [], (err, rows) => {
+                        if (err) {
+                            console.error(`❌ Error reading ${tableName}:`, err);
+                            processTable(index + 1);
+                            return;
+                        }
+
+                        const tableData = {};
+                        rows.forEach(row => {
+                            try {
+                                let key, data;
+
+                                if (row.json) {
+                                    data = JSON.parse(row.json);
+                                    key = data.hash || row.id || row.key;
+                                } else {
+                                    key = row.id || row.key;
+                                    data = row;
+                                }
+
+                                if (key !== undefined && key !== null) {
+                                    if (typeof key === 'number' && key < 0) {
+                                        key = (key >>> 0).toString();
+                                    }
+                                    tableData[key] = data;
+                                }
+                            } catch (e) {
+                                console.error(`⚠️ Error parsing row in ${tableName}:`, e.message);
+                            }
+                        });
+
+                        if (Object.keys(tableData).length > 0) {
+                            allData[tableName] = tableData;
+
+                            // Check if file needs chunking
+                            if (CHUNK_FILES.includes(tableName)) {
+                                const fileSize = getFileSizeMB(tableData);
+                                if (fileSize > MAX_FILE_SIZE_MB) {
+                                    const chunks = chunkLargeFile(tableName, tableData);
+                                    saveChunkedFile(tableName, chunks);
+                                } else {
+                                    fs.writeFileSync(`${tableName}.json`, JSON.stringify(tableData, null, 2));
+                                    console.log(`✅ Saved ${tableName}.json (${Object.keys(tableData).length} items)`);
+                                }
+                            } else {
+                                fs.writeFileSync(`${tableName}.json`, JSON.stringify(tableData, null, 2));
+                                console.log(`✅ Saved ${tableName}.json (${Object.keys(tableData).length} items)`);
+                            }
+                        }
+
+                        processTable(index + 1);
+                    });
+                };
+
+                processTable(0);
+            });
+        }).catch(error => {
+            console.error('❌ Failed to process manifest file:', error.message);
+            process.exit(1);
+        });
+        EOF
+
+        # Run conversion
+        node convert-manifest.js manifest.content
+
+    - name: Validate conversion
+      if: steps.check-version.outputs.new-version == 'true'
+      run: |
+        echo "Validating conversion results..."
+
+        # Check that expected files exist
+        REQUIRED_FILES="metadata.json"
+        EXPECTED_CHUNKS="DestinyInventoryItemDefinition_part1.json DestinyInventoryItemDefinition_part2.json DestinyInventoryItemDefinition_part3.json"
+
+        for file in $REQUIRED_FILES; do
+          if [ ! -f "$file" ]; then
+            echo "❌ Required file $file not found"
+            exit 1
+          fi
+        done
+
+        # Check for chunked files
+        CHUNK_COUNT=0
+        for chunk in $EXPECTED_CHUNKS; do
+          if [ -f "$chunk" ]; then
+            CHUNK_COUNT=$((CHUNK_COUNT + 1))
+            echo "✅ Found chunk: $chunk ($(stat -f%z "$chunk" 2>/dev/null || stat -c%s "$chunk") bytes)"
+          fi
+        done
+
+        if [ $CHUNK_COUNT -eq 0 ]; then
+          echo "⚠️ No chunked files found, checking for single file..."
+          if [ -f "DestinyInventoryItemDefinition.json" ]; then
+            echo "✅ Found single DestinyInventoryItemDefinition.json"
+          else
+            echo "❌ No DestinyInventoryItemDefinition files found"
+            exit 1
+          fi
+        else
+          echo "✅ Found $CHUNK_COUNT chunked files"
+        fi
+
+        # Count total JSON files
+        JSON_COUNT=$(ls *.json | wc -l)
+        echo "📊 Total JSON files created: $JSON_COUNT"
+
+        if [ $JSON_COUNT -lt 10 ]; then
+          echo "❌ Too few JSON files created ($JSON_COUNT), something went wrong"
+          exit 1
+        fi
+
+        echo "✅ Validation complete"
+
+    - name: Commit and push changes
+      if: steps.check-version.outputs.new-version == 'true'
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+
+        # Add all new JSON files
+        git add *.json
+
+        # Check if there are changes to commit
+        if git diff --staged --quiet; then
+          echo "No changes to commit"
+          exit 0
+        fi
+
+        git commit -m "Auto-update manifest to version ${{ steps.check-version.outputs.version }}
+
+        📊 Manifest Update Details:
+        - Version: ${{ steps.check-version.outputs.version }}
+        - Updated: $(date -u '+%Y-%m-%d %H:%M:%S UTC')
+        - Source: Automated GitHub Actions
+        - Files: $(ls *.json | wc -l) definition files
+
+        🤖 This update was performed automatically every Tuesday at 1:15 PM EST
+        when a new Destiny 2 manifest version is detected."
+
+        git push
+
+    - name: Summary
+      if: always()
+      run: |
+        if [ "${{ steps.check-version.outputs.new-version }}" = "true" ]; then
+          if [ "${{ job.status }}" = "success" ]; then
+            echo "✅ Manifest updated successfully to version ${{ steps.check-version.outputs.version }}"
+            echo "📊 Files are now available at: https://raw.githubusercontent.com/${{ github.repository }}/main/"
+          else
+            echo "❌ Manifest update failed"
+          fi
+        else
+          echo "ℹ️ No new manifest version available - no update needed"
+        fi
