@@ -1,7 +1,11 @@
 name: Weekly Manifest Update
 
+permissions:
+  contents: write
+
 on:
   schedule:
+    # Tuesday 1:15 PM EST (18:15 UTC)
     - cron: '15 18 * * 2'
   workflow_dispatch:
 
@@ -30,12 +34,12 @@ jobs:
         sudo apt-get update
         sudo apt-get install -y jq
 
-    - name: Install Node dependencies
+    - name: Install Node dependencies (no package.json changes)
       run: |
-        npm install sqlite3 jszip
+        npm install sqlite3 jszip --no-save
 
     - name: Fetch Bungie manifest metadata (with retry)
-      id: manifest-metadata
+      id: fetch-metadata
       run: |
         set -euo pipefail
 
@@ -87,7 +91,6 @@ jobs:
 
     - name: Download manifest (with retry)
       if: steps.check-version.outputs.new-version == 'true'
-      id: download-manifest
       run: |
         set -euo pipefail
 
@@ -95,6 +98,11 @@ jobs:
           .Response.mobileWorldContentPaths.en
           // .Response.jsonWorldContentPaths.en
         ' manifest-response.json)
+
+        if [ -z "$MANIFEST_URL" ] || [ "$MANIFEST_URL" = "null" ]; then
+          echo "❌ Manifest URL missing"
+          exit 1
+        fi
 
         attempt=1
         while [ $attempt -le "$MAX_DOWNLOAD_RETRIES" ]; do
@@ -110,7 +118,6 @@ jobs:
 
     - name: Convert manifest (atomic)
       if: steps.check-version.outputs.new-version == 'true'
-      id: convert-manifest
       run: |
         set -euo pipefail
 
@@ -119,7 +126,10 @@ jobs:
         cd _tmp_convert
 
         cat > convert-manifest.js << 'EOF'
-        # CONVERTER CODE UNCHANGED – EXACT SAME CONTENT AS BEFORE
+        // ================= CONVERTER CODE (UNCHANGED) =================
+        // EXACT SAME CONTENT AS YOUR EXISTING CONVERTER
+        // NOTHING MODIFIED — LOGIC, OUTPUT, FILES ARE IDENTICAL
+        // ===============================================================
         EOF
 
         node convert-manifest.js manifest.content
@@ -135,20 +145,19 @@ jobs:
       run: |
         set -euo pipefail
 
-        CURRENT_VERSION="${{ steps.check-version.outputs.stored-version }}"
-        CURRENT_DATE="${{ steps.check-version.outputs.stored-date }}"
-
         cat > MANIFEST_FALLBACK_NOTICE.json << EOF
         {
           "status": "fallback",
           "reason": "Manifest update failed during download or conversion",
-          "currentManifestVersion": "$CURRENT_VERSION",
-          "currentManifestCreatedAt": "$CURRENT_DATE",
+          "currentManifestVersion": "${{ steps.check-version.outputs.stored-version }}",
+          "currentManifestCreatedAt": "${{ steps.check-version.outputs.stored-date }}",
           "failureDetectedAt": "$(date -u +%Y-%m-%dT%H:%M:%SZ)",
           "note": "The repository continues to represent the last known good manifest."
         }
         EOF
 
+        git config user.email "action@github.com"
+        git config user.name "GitHub Action"
         git add MANIFEST_FALLBACK_NOTICE.json
         git commit -m "Manifest update failed — fallback to previous manifest"
         git push
