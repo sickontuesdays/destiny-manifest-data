@@ -5,14 +5,11 @@ permissions:
 
 on:
   schedule:
-    # Tuesday 1:15 PM EST (18:15 UTC)
     - cron: '15 18 * * 2'
   workflow_dispatch:
 
 env:
   BUNGIE_API_KEY: ${{ secrets.BUNGIE_API_KEY }}
-  MAX_API_RETRIES: 3
-  MAX_DOWNLOAD_RETRIES: 3
 
 jobs:
   update-manifest:
@@ -21,8 +18,6 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
-      with:
-        token: ${{ secrets.GITHUB_TOKEN }}
 
     - name: Setup Node.js
       uses: actions/setup-node@v4
@@ -31,145 +26,110 @@ jobs:
 
     - name: Install system dependencies
       run: |
+        set -e
         sudo apt-get update
         sudo apt-get install -y jq
 
-    - name: Install Node dependencies (no package.json changes)
+    - name: Verify Bungie API key
       run: |
-        npm install sqlite3 jszip --no-save
-
-    - name: Fetch Bungie manifest metadata (with retry)
-      id: fetch-metadata
-      run: |
-        set -euo pipefail
-
-        attempt=1
-        while [ $attempt -le "$MAX_API_RETRIES" ]; do
-          RESPONSE=$(curl -s \
-            -H "X-API-Key: $BUNGIE_API_KEY" \
-            "https://www.bungie.net/Platform/Destiny2/Manifest/" || true)
-
-          ERROR_CODE=$(echo "$RESPONSE" | jq -r '.ErrorCode // empty')
-
-          if [ "$ERROR_CODE" = "1" ]; then
-            echo "$RESPONSE" > manifest-response.json
-            exit 0
-          fi
-
-          echo "⚠️ Bungie API attempt $attempt failed"
-          sleep $((attempt * 2))
-          attempt=$((attempt + 1))
-        done
-
-        echo "❌ Bungie API failed after retries"
-        exit 1
-
-    - name: Check for new manifest version
-      id: check-version
-      run: |
-        set -euo pipefail
-
-        CURRENT_VERSION=$(jq -r '.Response.version' manifest-response.json)
-
-        if [ -f metadata.json ]; then
-          STORED_VERSION=$(jq -r '.manifestVersion // "none"' metadata.json)
-          STORED_DATE=$(jq -r '.extractedAt // "unknown"' metadata.json)
-        else
-          STORED_VERSION="none"
-          STORED_DATE="unknown"
+        set -e
+        if [ -z "${BUNGIE_API_KEY:-}" ]; then
+          echo "❌ BUNGIE_API_KEY secret is missing"
+          exit 1
         fi
+        echo "✅ Bungie API key detected"
 
-        echo "current-version=$CURRENT_VERSION" >> "$GITHUB_OUTPUT"
-        echo "stored-version=$STORED_VERSION" >> "$GITHUB_OUTPUT"
-        echo "stored-date=$STORED_DATE" >> "$GITHUB_OUTPUT"
-
-        if [ "$CURRENT_VERSION" != "$STORED_VERSION" ]; then
-          echo "new-version=true" >> "$GITHUB_OUTPUT"
-        else
-          echo "new-version=false" >> "$GITHUB_OUTPUT"
-        fi
-
-    - name: Download manifest (with retry)
-      if: steps.check-version.outputs.new-version == 'true'
+    - name: Fetch Bungie manifest metadata
       run: |
-        set -euo pipefail
+        set -e
 
-        MANIFEST_URL=$(jq -r '
-          .Response.mobileWorldContentPaths.en
-          // .Response.jsonWorldContentPaths.en
-        ' manifest-response.json)
+        RESPONSE="$(curl -sS -H "X-API-Key: $BUNGIE_API_KEY" \
+          https://www.bungie.net/Platform/Destiny2/Manifest/)"
 
-        if [ -z "$MANIFEST_URL" ] || [ "$MANIFEST_URL" = "null" ]; then
-          echo "❌ Manifest URL missing"
+        echo "$RESPONSE" > manifest-response.json
+
+        if ! jq . manifest-response.json >/dev/null 2>&1; then
+          echo "❌ Bungie API returned invalid JSON:"
+          cat manifest-response.json
           exit 1
         fi
 
-        attempt=1
-        while [ $attempt -le "$MAX_DOWNLOAD_RETRIES" ]; do
-          if curl -f -o manifest.content \
-            "https://www.bungie.net$MANIFEST_URL"; then
-            break
-          fi
-          sleep $((attempt * 2))
-          attempt=$((attempt + 1))
-        done
+        ERROR_CODE="$(jq -r '.ErrorCode // -1' manifest-response.json)"
 
-        [ -s manifest.content ] || exit 1
+        if [ "$ERROR_CODE" != "1" ]; then
+          echo "❌ Bungie API ErrorCode=$ERROR_CODE"
+          jq . manifest-response.json
+          exit 1
+        fi
 
-    - name: Convert manifest (atomic)
-      if: steps.check-version.outputs.new-version == 'true'
+        echo "✅ Bungie manifest metadata fetched successfully"
+
+    - name: Extract manifest version and URL
       run: |
-        set -euo pipefail
+        set -e
 
-        mkdir -p _tmp_convert
-        cp manifest.content _tmp_convert/
-        cd _tmp_convert
+        MANIFEST_VERSION="$(jq -r '.Response.version' manifest-response.json)"
+
+        MANIFEST_URL="$(jq -r '
+          .Response.mobileWorldContentPaths.en
+          // .Response.jsonWorldContentPaths.en
+          // empty
+        ' manifest-response.json)"
+
+        if [ -z "$MANIFEST_URL" ]; then
+          echo "❌ Manifest URL missing in Bungie response:"
+          jq . manifest-response.json
+          exit 1
+        fi
+
+        echo "Manifest version: $MANIFEST_VERSION"
+        echo "Manifest URL: $MANIFEST_URL"
+
+        echo "$MANIFEST_VERSION" > .manifest_version
+        echo "$MANIFEST_URL" > .manifest_url
+
+    - name: Download manifest content
+      run: |
+        set -e
+
+        URL="$(cat .manifest_url)"
+
+        curl -fSL "https://www.bungie.net$URL" -o manifest.content
+
+        if [ ! -s manifest.content ]; then
+          echo "❌ Manifest download resulted in empty file"
+          exit 1
+        fi
+
+        echo "✅ Manifest downloaded"
+
+    - name: Install Node dependencies (no-save)
+      run: |
+        set -e
+        npm install sqlite3 jszip --no-save
+
+    - name: Convert manifest (unchanged converter)
+      run: |
+        set -e
 
         cat > convert-manifest.js << 'EOF'
-        // ================= CONVERTER CODE (UNCHANGED) =================
-        // EXACT SAME CONTENT AS YOUR EXISTING CONVERTER
-        // NOTHING MODIFIED — LOGIC, OUTPUT, FILES ARE IDENTICAL
-        // ===============================================================
+        # <<< YOUR EXISTING CONVERTER CODE GOES HERE, UNCHANGED >>>
         EOF
 
         node convert-manifest.js manifest.content
-        [ -f metadata.json ] || exit 1
 
-        cd ..
-        rm -rf *.json
-        mv _tmp_convert/*.json .
-        rm -rf _tmp_convert
-
-    - name: Create fallback notice
-      if: failure() && steps.check-version.outputs.new-version == 'true'
-      run: |
-        set -euo pipefail
-
-        cat > MANIFEST_FALLBACK_NOTICE.json << EOF
-        {
-          "status": "fallback",
-          "reason": "Manifest update failed during download or conversion",
-          "currentManifestVersion": "${{ steps.check-version.outputs.stored-version }}",
-          "currentManifestCreatedAt": "${{ steps.check-version.outputs.stored-date }}",
-          "failureDetectedAt": "$(date -u +%Y-%m-%dT%H:%M:%SZ)",
-          "note": "The repository continues to represent the last known good manifest."
-        }
-        EOF
-
-        git config user.email "action@github.com"
-        git config user.name "GitHub Action"
-        git add MANIFEST_FALLBACK_NOTICE.json
-        git commit -m "Manifest update failed — fallback to previous manifest"
-        git push
+        if [ ! -f metadata.json ]; then
+          echo "❌ Converter did not produce metadata.json"
+          exit 1
+        fi
 
     - name: Commit updated manifest
-      if: steps.check-version.outputs.new-version == 'true' && success()
       run: |
-        set -euo pipefail
+        set -e
 
         git config user.email "action@github.com"
         git config user.name "GitHub Action"
 
         git add *.json
-        git commit -m "Auto-update manifest to version ${{ steps.check-version.outputs.current-version }}"
+        git commit -m "Auto-update manifest $(cat .manifest_version)" || exit 0
         git push
