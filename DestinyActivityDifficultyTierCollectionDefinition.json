@@ -7255,7 +7255,7 @@
         "tierRank": 90,
         "minimumFireteamLeaderPower": -1,
         "maximumFireteamLeaderPower": -1,
-        "scoreTimeLimitMultiplier": 1,
+        "scoreTimeLimitMultiplier": 2,
         "selectableSkullCollectionHashes": [
           1334945175,
           740670987,

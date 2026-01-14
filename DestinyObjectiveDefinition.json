@@ -135022,7 +135022,7 @@
       "hasIcon": false
     },
     "unlockValueHash": 0,
-    "completionValue": 15,
+    "completionValue": 5,
     "scope": 3,
     "locationHash": 0,
     "allowNegativeValue": false,
@@ -237782,7 +237782,7 @@
     },
     "unlockValueHash": 0,
     "completionValue": 3,
-    "scope": 4,
+    "scope": 3,
     "locationHash": 0,
     "allowNegativeValue": false,
     "allowValueChangeWhenCompleted": false,

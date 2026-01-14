@@ -1537,6 +1537,9 @@
     "modifiers": [
       {
         "activityModifierHash": 1783825372
+      },
+      {
+        "activityModifierHash": 1783825372
       }
     ],
     "isPlaylist": false,
@@ -1889,6 +1892,9 @@
     "pgcrImage": "/img/destiny_content/pgcr/lawless_frontier_mars.jpg",
     "rewards": [],
     "modifiers": [
+      {
+        "activityModifierHash": 1783825372
+      },
       {
         "activityModifierHash": 1783825372
       }
@@ -3368,6 +3374,9 @@
       },
       {
         "activityModifierHash": 3520387869
+      },
+      {
+        "activityModifierHash": 1783825372
       }
     ],
     "isPlaylist": true,
@@ -3434,6 +3443,12 @@
     "requirements": {
       "leaderRequirementLabels": [
         {
+          "displayString": "Access Restricted"
+        },
+        {
+          "displayString": "Access Restricted"
+        },
+        {
           "displayString": "PlayStation®Plus Required"
         },
         {
@@ -3452,6 +3467,12 @@
         },
         {
           "displayString": "This activity is currently disabled."
+        },
+        {
+          "displayString": "Access Restricted"
+        },
+        {
+          "displayString": "Access Restricted"
         },
         {
           "displayString": "PlayStation®Plus Required"
@@ -17797,18 +17818,6 @@
       "maxPlayers": 6,
       "requiresGuardianOath": false
     },
-    "directActivityModeHash": 4110605575,
-    "directActivityModeType": 3,
-    "activityModeHashes": [
-      4110605575,
-      2394616003,
-      1164760493
-    ],
-    "activityModeTypes": [
-      3,
-      18,
-      7
-    ],
     "isPvP": false,
     "insertionPoints": [],
     "activityLocationMappings": [],
@@ -31029,6 +31038,9 @@
     "modifiers": [
       {
         "activityModifierHash": 1783825372
+      },
+      {
+        "activityModifierHash": 1783825372
       }
     ],
     "isPlaylist": false,
@@ -33092,18 +33104,6 @@
       "maxPlayers": 6,
       "requiresGuardianOath": false
     },
-    "directActivityModeHash": 4110605575,
-    "directActivityModeType": 3,
-    "activityModeHashes": [
-      4110605575,
-      2394616003,
-      1164760493
-    ],
-    "activityModeTypes": [
-      3,
-      18,
-      7
-    ],
     "isPvP": false,
     "insertionPoints": [],
     "activityLocationMappings": [],
@@ -33914,6 +33914,9 @@
       }
     ],
     "modifiers": [
+      {
+        "activityModifierHash": 1783825372
+      },
       {
         "activityModifierHash": 1783825372
       }
@@ -42943,6 +42946,9 @@
     "modifiers": [
       {
         "activityModifierHash": 1783825372
+      },
+      {
+        "activityModifierHash": 1783825372
       }
     ],
     "isPlaylist": false,
@@ -43333,14 +43339,14 @@
   },
   "274733542": {
     "displayProperties": {
-      "description": "Hunt a notorious outlaw and secure their bounty in the Imperium Forging Matrix on Europa.",
+      "description": "Sabotage hostile assets in the Imperium Forging Matrix on Europa.",
       "name": "Forging Matrix, Europa: Sabotage: Matchmade",
       "icon": "/common/destiny2_content/icons/3642cf9e2acd174dcab5b5f9e3a3a45d.png",
       "iconHash": 0,
       "hasIcon": true
     },
     "originalDisplayProperties": {
-      "description": "Hunt a notorious outlaw and secure their bounty in the Imperium Forging Matrix on Europa.",
+      "description": "Sabotage hostile assets in the Imperium Forging Matrix on Europa.",
       "name": "Forging Matrix, Europa: Sabotage",
       "icon": "/img/misc/missing_icon_d2.png",
       "iconHash": 0,
@@ -43363,6 +43369,9 @@
     "pgcrImage": "/img/destiny_content/pgcr/lawless_frontier_europa.jpg",
     "rewards": [],
     "modifiers": [
+      {
+        "activityModifierHash": 1783825372
+      },
       {
         "activityModifierHash": 1783825372
       }
@@ -48557,6 +48566,9 @@
     "pgcrImage": "/img/destiny_content/pgcr/lawless_frontier_europa.jpg",
     "rewards": [],
     "modifiers": [
+      {
+        "activityModifierHash": 1783825372
+      },
       {
         "activityModifierHash": 1783825372
       }
@@ -55075,6 +55087,9 @@
       },
       {
         "activityModifierHash": 3762799504
+      },
+      {
+        "activityModifierHash": 1783825372
       }
     ],
     "isPlaylist": true,
@@ -55120,6 +55135,12 @@
     "requirements": {
       "leaderRequirementLabels": [
         {
+          "displayString": "Access Restricted"
+        },
+        {
+          "displayString": "Access Restricted"
+        },
+        {
           "displayString": "PlayStation®Plus Required"
         },
         {
@@ -55138,6 +55159,12 @@
         },
         {
           "displayString": "This activity is currently disabled."
+        },
+        {
+          "displayString": "Access Restricted"
+        },
+        {
+          "displayString": "Access Restricted"
         },
         {
           "displayString": "PlayStation®Plus Required"
@@ -55622,14 +55649,14 @@
   },
   "385790626": {
     "displayProperties": {
-      "description": "Hunt a notorious outlaw and secure their bounty in the Imperium Forging Matrix on Europa.",
+      "description": "Sabotage hostile assets in the Imperium Forging Matrix on Europa.",
       "name": "Forging Matrix, Europa: Sabotage: Private",
       "icon": "/common/destiny2_content/icons/3642cf9e2acd174dcab5b5f9e3a3a45d.png",
       "iconHash": 0,
       "hasIcon": true
     },
     "originalDisplayProperties": {
-      "description": "Hunt a notorious outlaw and secure their bounty in the Imperium Forging Matrix on Europa.",
+      "description": "Sabotage hostile assets in the Imperium Forging Matrix on Europa.",
       "name": "Forging Matrix, Europa: Sabotage",
       "icon": "/img/misc/missing_icon_d2.png",
       "iconHash": 0,
@@ -62488,6 +62515,9 @@
     "modifiers": [
       {
         "activityModifierHash": 1783825372
+      },
+      {
+        "activityModifierHash": 1783825372
       }
     ],
     "isPlaylist": false,
@@ -63392,6 +63422,9 @@
       },
       {
         "activityModifierHash": 1610597702
+      },
+      {
+        "activityModifierHash": 1783825372
       }
     ],
     "isPlaylist": true,
@@ -63458,6 +63491,12 @@
     "requirements": {
       "leaderRequirementLabels": [
         {
+          "displayString": "Access Restricted"
+        },
+        {
+          "displayString": "Access Restricted"
+        },
+        {
           "displayString": "PlayStation®Plus Required"
         },
         {
@@ -63476,6 +63515,12 @@
         },
         {
           "displayString": "This activity is currently disabled."
+        },
+        {
+          "displayString": "Access Restricted"
+        },
+        {
+          "displayString": "Access Restricted"
         },
         {
           "displayString": "PlayStation®Plus Required"
@@ -73799,6 +73844,9 @@
     "modifiers": [
       {
         "activityModifierHash": 1783825372
+      },
+      {
+        "activityModifierHash": 1783825372
       }
     ],
     "isPlaylist": false,
@@ -74700,6 +74748,9 @@
       }
     ],
     "modifiers": [
+      {
+        "activityModifierHash": 1783825372
+      },
       {
         "activityModifierHash": 1783825372
       }
@@ -76514,18 +76565,6 @@
       "maxPlayers": 6,
       "requiresGuardianOath": false
     },
-    "directActivityModeHash": 4110605575,
-    "directActivityModeType": 3,
-    "activityModeHashes": [
-      4110605575,
-      2394616003,
-      1164760493
-    ],
-    "activityModeTypes": [
-      3,
-      18,
-      7
-    ],
     "isPvP": false,
     "insertionPoints": [],
     "activityLocationMappings": [],
@@ -85716,6 +85755,9 @@
     "modifiers": [
       {
         "activityModifierHash": 1783825372
+      },
+      {
+        "activityModifierHash": 1783825372
       }
     ],
     "isPlaylist": false,
@@ -86753,7 +86795,7 @@
     "placeHash": 2227522752,
     "activityTypeHash": 1686739444,
     "tier": -1,
-    "pgcrImage": "/img/theme/destiny/bgs/pgcrs/placeholder.jpg",
+    "pgcrImage": "/img/destiny_content/pgcr/campaign_renegades.jpg",
     "rewards": [],
     "modifiers": [
       {
@@ -86854,14 +86896,14 @@
       "maxPlayers": 3,
       "requiresGuardianOath": false
     },
-    "directActivityModeHash": 2393950216,
-    "directActivityModeType": 93,
+    "directActivityModeHash": 1686739444,
+    "directActivityModeType": 2,
     "activityModeHashes": [
-      2393950216,
+      1686739444,
       1164760493
     ],
     "activityModeTypes": [
-      93,
+      2,
       7
     ],
     "isPvP": false,
@@ -88366,6 +88408,9 @@
     "pgcrImage": "/img/destiny_content/pgcr/lawless_frontier_mars.jpg",
     "rewards": [],
     "modifiers": [
+      {
+        "activityModifierHash": 1783825372
+      },
       {
         "activityModifierHash": 1783825372
       }
@@ -92020,6 +92065,9 @@
     "modifiers": [
       {
         "activityModifierHash": 1783825372
+      },
+      {
+        "activityModifierHash": 1783825372
       }
     ],
     "isPlaylist": false,
@@ -93011,6 +93059,9 @@
     "modifiers": [
       {
         "activityModifierHash": 1783825372
+      },
+      {
+        "activityModifierHash": 1783825372
       }
     ],
     "isPlaylist": false,
@@ -93162,6 +93213,9 @@
     "pgcrImage": "/img/destiny_content/pgcr/lawless_frontier_venus.jpg",
     "rewards": [],
     "modifiers": [
+      {
+        "activityModifierHash": 1783825372
+      },
       {
         "activityModifierHash": 1783825372
       }
@@ -94451,6 +94505,9 @@
       }
     ],
     "modifiers": [
+      {
+        "activityModifierHash": 1783825372
+      },
       {
         "activityModifierHash": 1783825372
       }
@@ -98700,6 +98757,9 @@
       }
     ],
     "modifiers": [
+      {
+        "activityModifierHash": 1783825372
+      },
       {
         "activityModifierHash": 1783825372
       }
@@ -104253,6 +104313,9 @@
     "pgcrImage": "/img/destiny_content/pgcr/lawless_frontier_europa.jpg",
     "rewards": [],
     "modifiers": [
+      {
+        "activityModifierHash": 1783825372
+      },
       {
         "activityModifierHash": 1783825372
       }
@@ -110068,6 +110131,9 @@
     "modifiers": [
       {
         "activityModifierHash": 1783825372
+      },
+      {
+        "activityModifierHash": 1783825372
       }
     ],
     "isPlaylist": false,
@@ -110204,6 +110270,9 @@
     "pgcrImage": "/img/destiny_content/pgcr/lawless_frontier_europa.jpg",
     "rewards": [],
     "modifiers": [
+      {
+        "activityModifierHash": 1783825372
+      },
       {
         "activityModifierHash": 1783825372
       }
@@ -111970,6 +112039,9 @@
       },
       {
         "activityModifierHash": 1783825372
+      },
+      {
+        "activityModifierHash": 1783825372
       }
     ],
     "isPlaylist": false,
@@ -112161,6 +112233,9 @@
     "pgcrImage": "/img/destiny_content/pgcr/lawless_frontier_venus.jpg",
     "rewards": [],
     "modifiers": [
+      {
+        "activityModifierHash": 1783825372
+      },
       {
         "activityModifierHash": 1783825372
       }
@@ -118246,7 +118321,7 @@
     "placeHash": 1358664432,
     "activityTypeHash": 1686739444,
     "tier": -1,
-    "pgcrImage": "/img/theme/destiny/bgs/pgcrs/placeholder.jpg",
+    "pgcrImage": "/img/destiny_content/pgcr/campaign_renegades.jpg",
     "rewards": [],
     "modifiers": [
       {
@@ -118989,6 +119064,9 @@
       },
       {
         "activityModifierHash": 3893690555
+      },
+      {
+        "activityModifierHash": 1783825372
       }
     ],
     "isPlaylist": true,
@@ -119034,6 +119112,12 @@
     "requirements": {
       "leaderRequirementLabels": [
         {
+          "displayString": "Access Restricted"
+        },
+        {
+          "displayString": "Access Restricted"
+        },
+        {
           "displayString": "PlayStation®Plus Required"
         },
         {
@@ -119055,6 +119139,12 @@
         },
         {
           "displayString": "This activity is currently disabled."
+        },
+        {
+          "displayString": "Access Restricted"
+        },
+        {
+          "displayString": "Access Restricted"
         },
         {
           "displayString": "PlayStation®Plus Required"
@@ -121861,6 +121951,9 @@
     "modifiers": [
       {
         "activityModifierHash": 1783825372
+      },
+      {
+        "activityModifierHash": 1783825372
       }
     ],
     "isPlaylist": false,
@@ -123475,6 +123568,9 @@
       },
       {
         "activityModifierHash": 1783825372
+      },
+      {
+        "activityModifierHash": 1783825372
       }
     ],
     "isPlaylist": false,
@@ -124702,9 +124798,9 @@
     "displayProperties": {
       "description": "Keep the stolen disk, the Drifter, and yourself out of the Barant Imperium's hands.",
       "name": "Imperium: Brave",
-      "icon": "/common/destiny2_content/icons/DestinyActivityDefinition_a9b7ef060d778cf9271b82d046e2ff8e.png",
+      "icon": "/img/misc/missing_icon_d2.png",
       "iconHash": 0,
-      "hasIcon": true
+      "hasIcon": false
     },
     "originalDisplayProperties": {
       "description": "Keep the stolen disk, the Drifter, and yourself out of the Barant Imperium's hands.",
@@ -124727,7 +124823,7 @@
     "placeHash": 1358664432,
     "activityTypeHash": 1686739444,
     "tier": -1,
-    "pgcrImage": "/img/destiny_content/pgcr/mission_dredge.jpg",
+    "pgcrImage": "/img/destiny_content/pgcr/campaign_renegades.jpg",
     "rewards": [],
     "modifiers": [
       {
@@ -128779,6 +128875,9 @@
     "modifiers": [
       {
         "activityModifierHash": 1783825372
+      },
+      {
+        "activityModifierHash": 1783825372
       }
     ],
     "isPlaylist": false,
@@ -130108,6 +130207,9 @@
     "pgcrImage": "/img/destiny_content/pgcr/lawless_frontier_mars.jpg",
     "rewards": [],
     "modifiers": [
+      {
+        "activityModifierHash": 1783825372
+      },
       {
         "activityModifierHash": 1783825372
       }
@@ -140154,6 +140256,9 @@
       }
     ],
     "modifiers": [
+      {
+        "activityModifierHash": 1783825372
+      },
       {
         "activityModifierHash": 1783825372
       }
@@ -167651,6 +167756,9 @@
     "modifiers": [
       {
         "activityModifierHash": 1783825372
+      },
+      {
+        "activityModifierHash": 1783825372
       }
     ],
     "isPlaylist": false,
@@ -173594,6 +173702,9 @@
     "modifiers": [
       {
         "activityModifierHash": 1783825372
+      },
+      {
+        "activityModifierHash": 1783825372
       }
     ],
     "isPlaylist": false,
@@ -177412,6 +177523,9 @@
     "modifiers": [
       {
         "activityModifierHash": 1783825372
+      },
+      {
+        "activityModifierHash": 1783825372
       }
     ],
     "isPlaylist": false,
@@ -179630,6 +179744,9 @@
     "pgcrImage": "/img/destiny_content/pgcr/lawless_frontier_mars.jpg",
     "rewards": [],
     "modifiers": [
+      {
+        "activityModifierHash": 1783825372
+      },
       {
         "activityModifierHash": 1783825372
       }
@@ -185398,6 +185515,9 @@
     "modifiers": [
       {
         "activityModifierHash": 1783825372
+      },
+      {
+        "activityModifierHash": 1783825372
       }
     ],
     "isPlaylist": false,
@@ -186247,6 +186367,9 @@
     "pgcrImage": "/img/destiny_content/pgcr/lawless_frontier_mars.jpg",
     "rewards": [],
     "modifiers": [
+      {
+        "activityModifierHash": 1783825372
+      },
       {
         "activityModifierHash": 1783825372
       }
@@ -188365,6 +188488,9 @@
     "pgcrImage": "/img/destiny_content/pgcr/lawless_frontier_venus.jpg",
     "rewards": [],
     "modifiers": [
+      {
+        "activityModifierHash": 1783825372
+      },
       {
         "activityModifierHash": 1783825372
       }
@@ -192523,6 +192649,9 @@
     "modifiers": [
       {
         "activityModifierHash": 1783825372
+      },
+      {
+        "activityModifierHash": 1783825372
       }
     ],
     "isPlaylist": false,
@@ -195424,6 +195553,9 @@
     "pgcrImage": "/img/destiny_content/pgcr/lawless_frontier_mars.jpg",
     "rewards": [],
     "modifiers": [
+      {
+        "activityModifierHash": 1783825372
+      },
       {
         "activityModifierHash": 1783825372
       }
@@ -205286,6 +205418,9 @@
     "modifiers": [
       {
         "activityModifierHash": 1783825372
+      },
+      {
+        "activityModifierHash": 1783825372
       }
     ],
     "isPlaylist": false,
@@ -209050,6 +209185,9 @@
     "pgcrImage": "/img/destiny_content/pgcr/lawless_frontier_venus.jpg",
     "rewards": [],
     "modifiers": [
+      {
+        "activityModifierHash": 1783825372
+      },
       {
         "activityModifierHash": 1783825372
       }
@@ -213152,6 +213290,9 @@
     "modifiers": [
       {
         "activityModifierHash": 1783825372
+      },
+      {
+        "activityModifierHash": 1783825372
       }
     ],
     "isPlaylist": false,
@@ -214355,6 +214496,9 @@
       }
     ],
     "modifiers": [
+      {
+        "activityModifierHash": 1783825372
+      },
       {
         "activityModifierHash": 1783825372
       }
@@ -229863,6 +230007,9 @@
     "modifiers": [
       {
         "activityModifierHash": 1783825372
+      },
+      {
+        "activityModifierHash": 1783825372
       }
     ],
     "isPlaylist": false,
@@ -235676,18 +235823,6 @@
       "maxPlayers": 6,
       "requiresGuardianOath": false
     },
-    "directActivityModeHash": 4110605575,
-    "directActivityModeType": 3,
-    "activityModeHashes": [
-      4110605575,
-      2394616003,
-      1164760493
-    ],
-    "activityModeTypes": [
-      3,
-      18,
-      7
-    ],
     "isPvP": false,
     "insertionPoints": [],
     "activityLocationMappings": [],
@@ -239161,6 +239296,9 @@
     "modifiers": [
       {
         "activityModifierHash": 1783825372
+      },
+      {
+        "activityModifierHash": 1783825372
       }
     ],
     "isPlaylist": false,
@@ -241244,6 +241382,9 @@
       },
       {
         "activityModifierHash": 2578907858
+      },
+      {
+        "activityModifierHash": 1783825372
       },
       {
         "activityModifierHash": 1783825372
@@ -244291,6 +244432,9 @@
       }
     ],
     "modifiers": [
+      {
+        "activityModifierHash": 1783825372
+      },
       {
         "activityModifierHash": 1783825372
       }
@@ -264937,7 +265081,7 @@
     "placeHash": 2790172253,
     "activityTypeHash": 608898761,
     "tier": -1,
-    "pgcrImage": "/img/theme/destiny/bgs/pgcrs/placeholder.jpg",
+    "pgcrImage": "/img/destiny_content/pgcr/dungeon_equilibrium.jpg",
     "rewards": [],
     "modifiers": [
       {
@@ -265741,6 +265885,9 @@
     "modifiers": [
       {
         "activityModifierHash": 1783825372
+      },
+      {
+        "activityModifierHash": 1783825372
       }
     ],
     "isPlaylist": false,
@@ -265890,6 +266037,9 @@
     "pgcrImage": "/img/destiny_content/pgcr/lawless_frontier_mars.jpg",
     "rewards": [],
     "modifiers": [
+      {
+        "activityModifierHash": 1783825372
+      },
       {
         "activityModifierHash": 1783825372
       }
@@ -266594,6 +266744,9 @@
     "modifiers": [
       {
         "activityModifierHash": 1783825372
+      },
+      {
+        "activityModifierHash": 1783825372
       }
     ],
     "isPlaylist": false,
@@ -266682,18 +266835,6 @@
       "maxPlayers": 6,
       "requiresGuardianOath": false
     },
-    "directActivityModeHash": 4110605575,
-    "directActivityModeType": 3,
-    "activityModeHashes": [
-      4110605575,
-      2394616003,
-      1164760493
-    ],
-    "activityModeTypes": [
-      3,
-      18,
-      7
-    ],
     "isPvP": false,
     "insertionPoints": [],
     "activityLocationMappings": [],
@@ -271001,6 +271142,9 @@
     "modifiers": [
       {
         "activityModifierHash": 1783825372
+      },
+      {
+        "activityModifierHash": 1783825372
       }
     ],
     "isPlaylist": false,
@@ -274604,6 +274748,9 @@
     "pgcrImage": "/img/destiny_content/pgcr/lawless_frontier_europa.jpg",
     "rewards": [],
     "modifiers": [
+      {
+        "activityModifierHash": 1783825372
+      },
       {
         "activityModifierHash": 1783825372
       }
@@ -278422,6 +278569,9 @@
       }
     ],
     "modifiers": [
+      {
+        "activityModifierHash": 1783825372
+      },
       {
         "activityModifierHash": 1783825372
       }
@@ -289046,6 +289196,9 @@
     "modifiers": [
       {
         "activityModifierHash": 1783825372
+      },
+      {
+        "activityModifierHash": 1783825372
       }
     ],
     "isPlaylist": false,
@@ -295608,6 +295761,9 @@
     "modifiers": [
       {
         "activityModifierHash": 1783825372
+      },
+      {
+        "activityModifierHash": 1783825372
       }
     ],
     "isPlaylist": false,
@@ -302148,6 +302304,9 @@
     "modifiers": [
       {
         "activityModifierHash": 1783825372
+      },
+      {
+        "activityModifierHash": 1783825372
       }
     ],
     "isPlaylist": false,
@@ -306101,9 +306260,9 @@
     "displayProperties": {
       "description": "Keep the stolen disk, the Drifter, and yourself out of the Barant Imperium's hands.",
       "name": "Imperium: Legendary",
-      "icon": "/common/destiny2_content/icons/DestinyActivityDefinition_a9b7ef060d778cf9271b82d046e2ff8e.png",
+      "icon": "/img/misc/missing_icon_d2.png",
       "iconHash": 0,
-      "hasIcon": true
+      "hasIcon": false
     },
     "originalDisplayProperties": {
       "description": "Keep the stolen disk, the Drifter, and yourself out of the Barant Imperium's hands.",
@@ -306126,7 +306285,7 @@
     "placeHash": 1358664432,
     "activityTypeHash": 1686739444,
     "tier": -1,
-    "pgcrImage": "/img/destiny_content/pgcr/mission_dredge.jpg",
+    "pgcrImage": "/img/destiny_content/pgcr/campaign_renegades.jpg",
     "rewards": [
       {
         "rewardText": "",
@@ -307900,6 +308059,9 @@
       }
     ],
     "modifiers": [
+      {
+        "activityModifierHash": 1783825372
+      },
       {
         "activityModifierHash": 1783825372
       }
@@ -312298,6 +312460,9 @@
     "modifiers": [
       {
         "activityModifierHash": 1783825372
+      },
+      {
+        "activityModifierHash": 1783825372
       }
     ],
     "isPlaylist": false,
@@ -315795,6 +315960,9 @@
     "pgcrImage": "/img/destiny_content/pgcr/lawless_frontier_venus.jpg",
     "rewards": [],
     "modifiers": [
+      {
+        "activityModifierHash": 1783825372
+      },
       {
         "activityModifierHash": 1783825372
       }
@@ -326826,6 +326994,9 @@
       }
     ],
     "modifiers": [
+      {
+        "activityModifierHash": 1783825372
+      },
       {
         "activityModifierHash": 1783825372
       }
@@ -339783,6 +339954,9 @@
     "modifiers": [
       {
         "activityModifierHash": 1783825372
+      },
+      {
+        "activityModifierHash": 1783825372
       }
     ],
     "isPlaylist": false,
@@ -343340,6 +343514,9 @@
       }
     ],
     "modifiers": [
+      {
+        "activityModifierHash": 1783825372
+      },
       {
         "activityModifierHash": 1783825372
       }
@@ -359945,6 +360122,9 @@
     "modifiers": [
       {
         "activityModifierHash": 1783825372
+      },
+      {
+        "activityModifierHash": 1783825372
       }
     ],
     "isPlaylist": false,
@@ -360930,18 +361110,6 @@
       "maxPlayers": 6,
       "requiresGuardianOath": false
     },
-    "directActivityModeHash": 4110605575,
-    "directActivityModeType": 3,
-    "activityModeHashes": [
-      4110605575,
-      2394616003,
-      1164760493
-    ],
-    "activityModeTypes": [
-      3,
-      18,
-      7
-    ],
     "isPvP": false,
     "insertionPoints": [],
     "activityLocationMappings": [],
@@ -365729,7 +365897,7 @@
     "placeHash": 2227522752,
     "activityTypeHash": 1686739444,
     "tier": -1,
-    "pgcrImage": "/img/theme/destiny/bgs/pgcrs/placeholder.jpg",
+    "pgcrImage": "/img/destiny_content/pgcr/campaign_renegades.jpg",
     "rewards": [],
     "modifiers": [
       {
@@ -365822,14 +365990,14 @@
       "maxPlayers": 3,
       "requiresGuardianOath": false
     },
-    "directActivityModeHash": 2393950216,
-    "directActivityModeType": 93,
+    "directActivityModeHash": 1686739444,
+    "directActivityModeType": 2,
     "activityModeHashes": [
-      2393950216,
+      1686739444,
       1164760493
     ],
     "activityModeTypes": [
-      93,
+      2,
       7
     ],
     "isPvP": false,
@@ -372513,6 +372681,9 @@
       },
       {
         "activityModifierHash": 4229728744
+      },
+      {
+        "activityModifierHash": 1783825372
       }
     ],
     "isPlaylist": true,
@@ -372558,6 +372729,12 @@
     "requirements": {
       "leaderRequirementLabels": [
         {
+          "displayString": "Access Restricted"
+        },
+        {
+          "displayString": "Access Restricted"
+        },
+        {
           "displayString": "PlayStation®Plus Required"
         },
         {
@@ -372576,6 +372753,12 @@
         },
         {
           "displayString": "This activity is currently disabled."
+        },
+        {
+          "displayString": "Access Restricted"
+        },
+        {
+          "displayString": "Access Restricted"
         },
         {
           "displayString": "PlayStation®Plus Required"
@@ -376018,6 +376201,9 @@
     "modifiers": [
       {
         "activityModifierHash": 1783825372
+      },
+      {
+        "activityModifierHash": 1783825372
       }
     ],
     "isPlaylist": false,
@@ -377582,6 +377768,9 @@
     "pgcrImage": "/img/destiny_content/pgcr/lawless_frontier_mars.jpg",
     "rewards": [],
     "modifiers": [
+      {
+        "activityModifierHash": 1783825372
+      },
       {
         "activityModifierHash": 1783825372
       }
@@ -382265,6 +382454,9 @@
       },
       {
         "activityModifierHash": 3456379103
+      },
+      {
+        "activityModifierHash": 1783825372
       }
     ],
     "isPlaylist": true,
@@ -382343,6 +382535,12 @@
           "displayString": "Access Restricted"
         },
         {
+          "displayString": "Access Restricted"
+        },
+        {
+          "displayString": "Access Restricted"
+        },
+        {
           "displayString": "Requires Account Validation"
         },
         {
@@ -382364,6 +382562,12 @@
         },
         {
           "displayString": "This activity is currently disabled."
+        },
+        {
+          "displayString": "Access Restricted"
+        },
+        {
+          "displayString": "Access Restricted"
         },
         {
           "displayString": "Access Restricted"
@@ -385946,6 +386150,9 @@
     "modifiers": [
       {
         "activityModifierHash": 1783825372
+      },
+      {
+        "activityModifierHash": 1783825372
       }
     ],
     "isPlaylist": false,
@@ -386673,6 +386880,9 @@
     "pgcrImage": "/img/destiny_content/pgcr/lawless_frontier_venus.jpg",
     "rewards": [],
     "modifiers": [
+      {
+        "activityModifierHash": 1783825372
+      },
       {
         "activityModifierHash": 1783825372
       }
@@ -390352,6 +390562,9 @@
     "modifiers": [
       {
         "activityModifierHash": 1783825372
+      },
+      {
+        "activityModifierHash": 1783825372
       }
     ],
     "isPlaylist": false,
@@ -391311,6 +391524,9 @@
       }
     ],
     "modifiers": [
+      {
+        "activityModifierHash": 1783825372
+      },
       {
         "activityModifierHash": 1783825372
       },
@@ -394657,6 +394873,9 @@
       },
       {
         "activityModifierHash": 3762799504
+      },
+      {
+        "activityModifierHash": 1783825372
       }
     ],
     "isPlaylist": true,
@@ -394721,6 +394940,12 @@
     "requirements": {
       "leaderRequirementLabels": [
         {
+          "displayString": "Access Restricted"
+        },
+        {
+          "displayString": "Access Restricted"
+        },
+        {
           "displayString": "PlayStation®Plus Required"
         },
         {
@@ -394739,6 +394964,12 @@
         },
         {
           "displayString": "This activity is currently disabled."
+        },
+        {
+          "displayString": "Access Restricted"
+        },
+        {
+          "displayString": "Access Restricted"
         },
         {
           "displayString": "PlayStation®Plus Required"
@@ -397313,6 +397544,9 @@
       }
     ],
     "modifiers": [
+      {
+        "activityModifierHash": 1783825372
+      },
       {
         "activityModifierHash": 1783825372
       }
@@ -399993,6 +400227,9 @@
     "modifiers": [
       {
         "activityModifierHash": 1783825372
+      },
+      {
+        "activityModifierHash": 1783825372
       }
     ],
     "isPlaylist": false,
@@ -400716,6 +400953,9 @@
       },
       {
         "activityModifierHash": 372037179
+      },
+      {
+        "activityModifierHash": 1783825372
       }
     ],
     "isPlaylist": true,
@@ -400794,6 +401034,12 @@
           "displayString": "Access Restricted"
         },
         {
+          "displayString": "Access Restricted"
+        },
+        {
+          "displayString": "Access Restricted"
+        },
+        {
           "displayString": "Requires Account Validation"
         },
         {
@@ -400815,6 +401061,12 @@
         },
         {
           "displayString": "This activity is currently disabled."
+        },
+        {
+          "displayString": "Access Restricted"
+        },
+        {
+          "displayString": "Access Restricted"
         },
         {
           "displayString": "Access Restricted"
@@ -418109,6 +418361,9 @@
       },
       {
         "activityModifierHash": 1783825372
+      },
+      {
+        "activityModifierHash": 1783825372
       }
     ],
     "isPlaylist": false,
@@ -420426,6 +420681,9 @@
       },
       {
         "activityModifierHash": 3762799504
+      },
+      {
+        "activityModifierHash": 1783825372
       }
     ],
     "isPlaylist": true,
@@ -420492,6 +420750,12 @@
     "requirements": {
       "leaderRequirementLabels": [
         {
+          "displayString": "Access Restricted"
+        },
+        {
+          "displayString": "Access Restricted"
+        },
+        {
           "displayString": "PlayStation®Plus Required"
         },
         {
@@ -420510,6 +420774,12 @@
         },
         {
           "displayString": "This activity is currently disabled."
+        },
+        {
+          "displayString": "Access Restricted"
+        },
+        {
+          "displayString": "Access Restricted"
         },
         {
           "displayString": "PlayStation®Plus Required"
@@ -424051,6 +424321,9 @@
     "modifiers": [
       {
         "activityModifierHash": 1783825372
+      },
+      {
+        "activityModifierHash": 1783825372
       }
     ],
     "isPlaylist": false,
@@ -424139,18 +424412,6 @@
       "maxPlayers": 6,
       "requiresGuardianOath": false
     },
-    "directActivityModeHash": 4110605575,
-    "directActivityModeType": 3,
-    "activityModeHashes": [
-      4110605575,
-      2394616003,
-      1164760493
-    ],
-    "activityModeTypes": [
-      3,
-      18,
-      7
-    ],
     "isPvP": false,
     "insertionPoints": [],
     "activityLocationMappings": [],
@@ -425101,6 +425362,9 @@
       },
       {
         "activityModifierHash": 3666600199
+      },
+      {
+        "activityModifierHash": 1783825372
       }
     ],
     "isPlaylist": true,
@@ -425179,6 +425443,12 @@
           "displayString": "Access Restricted"
         },
         {
+          "displayString": "Access Restricted"
+        },
+        {
+          "displayString": "Access Restricted"
+        },
+        {
           "displayString": "Requires Account Validation"
         },
         {
@@ -425200,6 +425470,12 @@
         },
         {
           "displayString": "This activity is currently disabled."
+        },
+        {
+          "displayString": "Access Restricted"
+        },
+        {
+          "displayString": "Access Restricted"
         },
         {
           "displayString": "Access Restricted"
@@ -429569,6 +429845,9 @@
     "modifiers": [
       {
         "activityModifierHash": 1783825372
+      },
+      {
+        "activityModifierHash": 1783825372
       }
     ],
     "isPlaylist": false,
@@ -432324,6 +432603,9 @@
       },
       {
         "activityModifierHash": 4028333781
+      },
+      {
+        "activityModifierHash": 1783825372
       }
     ],
     "isPlaylist": true,
@@ -432384,6 +432666,12 @@
           "displayString": "Access Restricted"
         },
         {
+          "displayString": "Access Restricted"
+        },
+        {
+          "displayString": "Access Restricted"
+        },
+        {
           "displayString": "Requires Destiny 2: Renegades"
         },
         {
@@ -432411,6 +432699,12 @@
         },
         {
           "displayString": "This activity is currently disabled."
+        },
+        {
+          "displayString": "Access Restricted"
+        },
+        {
+          "displayString": "Access Restricted"
         },
         {
           "displayString": "Access Restricted"
@@ -433608,6 +433902,9 @@
       },
       {
         "activityModifierHash": 3520387869
+      },
+      {
+        "activityModifierHash": 1783825372
       }
     ],
     "isPlaylist": true,
@@ -433674,6 +433971,12 @@
     "requirements": {
       "leaderRequirementLabels": [
         {
+          "displayString": "Access Restricted"
+        },
+        {
+          "displayString": "Access Restricted"
+        },
+        {
           "displayString": "PlayStation®Plus Required"
         },
         {
@@ -433692,6 +433995,12 @@
         },
         {
           "displayString": "This activity is currently disabled."
+        },
+        {
+          "displayString": "Access Restricted"
+        },
+        {
+          "displayString": "Access Restricted"
         },
         {
           "displayString": "PlayStation®Plus Required"
@@ -435071,7 +435380,7 @@
     "placeHash": 2790172253,
     "activityTypeHash": 608898761,
     "tier": -1,
-    "pgcrImage": "/img/theme/destiny/bgs/pgcrs/placeholder.jpg",
+    "pgcrImage": "/img/destiny_content/pgcr/dungeon_equilibrium.jpg",
     "rewards": [],
     "modifiers": [
       {
@@ -435918,6 +436227,9 @@
       },
       {
         "activityModifierHash": 1493777741
+      },
+      {
+        "activityModifierHash": 1783825372
       }
     ],
     "isPlaylist": true,
@@ -435963,6 +436275,12 @@
     "requirements": {
       "leaderRequirementLabels": [
         {
+          "displayString": "Access Restricted"
+        },
+        {
+          "displayString": "Access Restricted"
+        },
+        {
           "displayString": "PlayStation®Plus Required"
         },
         {
@@ -435981,6 +436299,12 @@
         },
         {
           "displayString": "This activity is currently disabled."
+        },
+        {
+          "displayString": "Access Restricted"
+        },
+        {
+          "displayString": "Access Restricted"
         },
         {
           "displayString": "PlayStation®Plus Required"
@@ -437566,6 +437890,9 @@
       }
     ],
     "modifiers": [
+      {
+        "activityModifierHash": 1783825372
+      },
       {
         "activityModifierHash": 1783825372
       }
@@ -445462,7 +445789,7 @@
     "placeHash": 2790172253,
     "activityTypeHash": 1686739444,
     "tier": -1,
-    "pgcrImage": "/img/theme/destiny/bgs/pgcrs/placeholder.jpg",
+    "pgcrImage": "/img/destiny_content/pgcr/campaign_renegades.jpg",
     "rewards": [],
     "modifiers": [
       {
@@ -445552,14 +445879,14 @@
       "maxPlayers": 3,
       "requiresGuardianOath": false
     },
-    "directActivityModeHash": 2393950216,
-    "directActivityModeType": 93,
+    "directActivityModeHash": 1686739444,
+    "directActivityModeType": 2,
     "activityModeHashes": [
-      2393950216,
+      1686739444,
       1164760493
     ],
     "activityModeTypes": [
-      93,
+      2,
       7
     ],
     "isPvP": false,
@@ -451426,6 +451753,9 @@
     "modifiers": [
       {
         "activityModifierHash": 1783825372
+      },
+      {
+        "activityModifierHash": 1783825372
       }
     ],
     "isPlaylist": false,
@@ -454409,6 +454739,9 @@
       },
       {
         "activityModifierHash": 1493777741
+      },
+      {
+        "activityModifierHash": 1783825372
       }
     ],
     "isPlaylist": true,
@@ -454454,6 +454787,12 @@
     "requirements": {
       "leaderRequirementLabels": [
         {
+          "displayString": "Access Restricted"
+        },
+        {
+          "displayString": "Access Restricted"
+        },
+        {
           "displayString": "PlayStation®Plus Required"
         },
         {
@@ -454472,6 +454811,12 @@
         },
         {
           "displayString": "This activity is currently disabled."
+        },
+        {
+          "displayString": "Access Restricted"
+        },
+        {
+          "displayString": "Access Restricted"
         },
         {
           "displayString": "PlayStation®Plus Required"
@@ -457140,6 +457485,9 @@
       },
       {
         "activityModifierHash": 2201679031
+      },
+      {
+        "activityModifierHash": 1783825372
       }
     ],
     "isPlaylist": true,
@@ -457199,6 +457547,12 @@
           "displayString": "Access Restricted"
         },
         {
+          "displayString": "Access Restricted"
+        },
+        {
+          "displayString": "Access Restricted"
+        },
+        {
           "displayString": "Requires Account Validation"
         },
         {
@@ -457220,6 +457574,12 @@
         },
         {
           "displayString": "This activity is currently disabled."
+        },
+        {
+          "displayString": "Access Restricted"
+        },
+        {
+          "displayString": "Access Restricted"
         },
         {
           "displayString": "Access Restricted"
@@ -463182,6 +463542,9 @@
       },
       {
         "activityModifierHash": 2851586761
+      },
+      {
+        "activityModifierHash": 1783825372
       }
     ],
     "isPlaylist": false,
@@ -463883,7 +464246,7 @@
     "placeHash": 2790172253,
     "activityTypeHash": 1686739444,
     "tier": -1,
-    "pgcrImage": "/img/theme/destiny/bgs/pgcrs/placeholder.jpg",
+    "pgcrImage": "/img/destiny_content/pgcr/campaign_renegades.jpg",
     "rewards": [],
     "modifiers": [
       {
@@ -463976,14 +464339,14 @@
       "maxPlayers": 3,
       "requiresGuardianOath": false
     },
-    "directActivityModeHash": 2393950216,
-    "directActivityModeType": 93,
+    "directActivityModeHash": 1686739444,
+    "directActivityModeType": 2,
     "activityModeHashes": [
-      2393950216,
+      1686739444,
       1164760493
     ],
     "activityModeTypes": [
-      93,
+      2,
       7
     ],
     "isPvP": false,
@@ -472733,6 +473096,9 @@
     "modifiers": [
       {
         "activityModifierHash": 1783825372
+      },
+      {
+        "activityModifierHash": 1783825372
       }
     ],
     "isPlaylist": false,
@@ -477885,7 +478251,7 @@
     "placeHash": 682521729,
     "activityTypeHash": 1686739444,
     "tier": -1,
-    "pgcrImage": "/img/theme/destiny/bgs/pgcrs/placeholder.jpg",
+    "pgcrImage": "/img/destiny_content/pgcr/campaign_renegades.jpg",
     "rewards": [],
     "modifiers": [
       {
@@ -477978,14 +478344,14 @@
       "maxPlayers": 3,
       "requiresGuardianOath": false
     },
-    "directActivityModeHash": 2393950216,
-    "directActivityModeType": 93,
+    "directActivityModeHash": 1686739444,
+    "directActivityModeType": 2,
     "activityModeHashes": [
-      2393950216,
+      1686739444,
       1164760493
     ],
     "activityModeTypes": [
-      93,
+      2,
       7
     ],
     "isPvP": false,
@@ -480889,6 +481255,9 @@
       }
     ],
     "modifiers": [
+      {
+        "activityModifierHash": 1783825372
+      },
       {
         "activityModifierHash": 1783825372
       }
@@ -484763,6 +485132,9 @@
       },
       {
         "activityModifierHash": 1493777741
+      },
+      {
+        "activityModifierHash": 1783825372
       }
     ],
     "isPlaylist": true,
@@ -484808,6 +485180,12 @@
     "requirements": {
       "leaderRequirementLabels": [
         {
+          "displayString": "Access Restricted"
+        },
+        {
+          "displayString": "Access Restricted"
+        },
+        {
           "displayString": "PlayStation®Plus Required"
         },
         {
@@ -484826,6 +485204,12 @@
         },
         {
           "displayString": "This activity is currently disabled."
+        },
+        {
+          "displayString": "Access Restricted"
+        },
+        {
+          "displayString": "Access Restricted"
         },
         {
           "displayString": "PlayStation®Plus Required"
@@ -493292,6 +493676,9 @@
     "modifiers": [
       {
         "activityModifierHash": 1783825372
+      },
+      {
+        "activityModifierHash": 1783825372
       }
     ],
     "isPlaylist": false,
@@ -496232,6 +496619,9 @@
     "modifiers": [
       {
         "activityModifierHash": 1783825372
+      },
+      {
+        "activityModifierHash": 1783825372
       }
     ],
     "isPlaylist": false,
@@ -498533,6 +498923,9 @@
     "modifiers": [
       {
         "activityModifierHash": 1783825372
+      },
+      {
+        "activityModifierHash": 1783825372
       }
     ],
     "isPlaylist": false,
@@ -499446,6 +499839,9 @@
     "pgcrImage": "/img/destiny_content/pgcr/lawless_frontier_mars.jpg",
     "rewards": [],
     "modifiers": [
+      {
+        "activityModifierHash": 1783825372
+      },
       {
         "activityModifierHash": 1783825372
       }
@@ -504837,6 +505233,9 @@
     "modifiers": [
       {
         "activityModifierHash": 1783825372
+      },
+      {
+        "activityModifierHash": 1783825372
       }
     ],
     "isPlaylist": false,
@@ -505537,6 +505936,9 @@
       }
     ],
     "modifiers": [
+      {
+        "activityModifierHash": 1783825372
+      },
       {
         "activityModifierHash": 1783825372
       }
@@ -510480,18 +510882,6 @@
       "maxPlayers": 6,
       "requiresGuardianOath": false
     },
-    "directActivityModeHash": 4110605575,
-    "directActivityModeType": 3,
-    "activityModeHashes": [
-      4110605575,
-      2394616003,
-      1164760493
-    ],
-    "activityModeTypes": [
-      3,
-      18,
-      7
-    ],
     "isPvP": false,
     "insertionPoints": [],
     "activityLocationMappings": [],
@@ -514019,6 +514409,9 @@
     "modifiers": [
       {
         "activityModifierHash": 1783825372
+      },
+      {
+        "activityModifierHash": 1783825372
       }
     ],
     "isPlaylist": false,
@@ -517331,6 +517724,9 @@
     "pgcrImage": "/img/destiny_content/pgcr/lawless_frontier_mars.jpg",
     "rewards": [],
     "modifiers": [
+      {
+        "activityModifierHash": 1783825372
+      },
       {
         "activityModifierHash": 1783825372
       }
@@ -522141,6 +522537,9 @@
       },
       {
         "activityModifierHash": 2851586761
+      },
+      {
+        "activityModifierHash": 1783825372
       }
     ],
     "isPlaylist": false,
@@ -522868,6 +523267,9 @@
       },
       {
         "activityModifierHash": 3751099522
+      },
+      {
+        "activityModifierHash": 1783825372
       }
     ],
     "isPlaylist": true,
@@ -522934,6 +523336,12 @@
     "requirements": {
       "leaderRequirementLabels": [
         {
+          "displayString": "Access Restricted"
+        },
+        {
+          "displayString": "Access Restricted"
+        },
+        {
           "displayString": "PlayStation®Plus Required"
         },
         {
@@ -522952,6 +523360,12 @@
         },
         {
           "displayString": "This activity is currently disabled."
+        },
+        {
+          "displayString": "Access Restricted"
+        },
+        {
+          "displayString": "Access Restricted"
         },
         {
           "displayString": "PlayStation®Plus Required"
@@ -524975,6 +525389,9 @@
     "modifiers": [
       {
         "activityModifierHash": 1783825372
+      },
+      {
+        "activityModifierHash": 1783825372
       }
     ],
     "isPlaylist": false,
@@ -526724,7 +527141,7 @@
     "placeHash": 1358664432,
     "activityTypeHash": 1686739444,
     "tier": -1,
-    "pgcrImage": "/img/theme/destiny/bgs/pgcrs/placeholder.jpg",
+    "pgcrImage": "/img/destiny_content/pgcr/campaign_renegades.jpg",
     "rewards": [],
     "modifiers": [
       {
@@ -527227,7 +527644,7 @@
     "placeHash": 2227522752,
     "activityTypeHash": 1686739444,
     "tier": -1,
-    "pgcrImage": "/img/theme/destiny/bgs/pgcrs/placeholder.jpg",
+    "pgcrImage": "/img/destiny_content/pgcr/campaign_renegades.jpg",
     "rewards": [],
     "modifiers": [
       {
@@ -527317,14 +527734,14 @@
       "maxPlayers": 3,
       "requiresGuardianOath": false
     },
-    "directActivityModeHash": 2393950216,
-    "directActivityModeType": 93,
+    "directActivityModeHash": 1686739444,
+    "directActivityModeType": 2,
     "activityModeHashes": [
-      2393950216,
+      1686739444,
       1164760493
     ],
     "activityModeTypes": [
-      93,
+      2,
       7
     ],
     "isPvP": false,
@@ -535155,6 +535572,9 @@
       },
       {
         "activityModifierHash": 1783825372
+      },
+      {
+        "activityModifierHash": 1783825372
       }
     ],
     "isPlaylist": true,
@@ -536987,6 +537407,9 @@
     "pgcrImage": "/img/destiny_content/pgcr/lawless_frontier_venus.jpg",
     "rewards": [],
     "modifiers": [
+      {
+        "activityModifierHash": 1783825372
+      },
       {
         "activityModifierHash": 1783825372
       }
@@ -539074,6 +539497,9 @@
     "modifiers": [
       {
         "activityModifierHash": 1783825372
+      },
+      {
+        "activityModifierHash": 1783825372
       }
     ],
     "isPlaylist": false,
@@ -539584,6 +540010,9 @@
     "pgcrImage": "/img/destiny_content/pgcr/lawless_frontier_mars.jpg",
     "rewards": [],
     "modifiers": [
+      {
+        "activityModifierHash": 1783825372
+      },
       {
         "activityModifierHash": 1783825372
       }
@@ -541191,6 +541620,9 @@
     "pgcrImage": "/img/destiny_content/pgcr/lawless_frontier_europa.jpg",
     "rewards": [],
     "modifiers": [
+      {
+        "activityModifierHash": 1783825372
+      },
       {
         "activityModifierHash": 1783825372
       }
@@ -544466,6 +544898,9 @@
       }
     ],
     "modifiers": [
+      {
+        "activityModifierHash": 1783825372
+      },
       {
         "activityModifierHash": 1783825372
       }
@@ -548898,6 +549333,9 @@
     "modifiers": [
       {
         "activityModifierHash": 1783825372
+      },
+      {
+        "activityModifierHash": 1783825372
       }
     ],
     "isPlaylist": false,
@@ -552981,7 +553419,7 @@
     "placeHash": 682521729,
     "activityTypeHash": 1686739444,
     "tier": -1,
-    "pgcrImage": "/img/theme/destiny/bgs/pgcrs/placeholder.jpg",
+    "pgcrImage": "/img/destiny_content/pgcr/campaign_renegades.jpg",
     "rewards": [],
     "modifiers": [
       {
@@ -553071,14 +553509,14 @@
       "maxPlayers": 3,
       "requiresGuardianOath": false
     },
-    "directActivityModeHash": 2393950216,
-    "directActivityModeType": 93,
+    "directActivityModeHash": 1686739444,
+    "directActivityModeType": 2,
     "activityModeHashes": [
-      2393950216,
+      1686739444,
       1164760493
     ],
     "activityModeTypes": [
-      93,
+      2,
       7
     ],
     "isPvP": false,
@@ -557041,6 +557479,9 @@
       },
       {
         "activityModifierHash": 3762799504
+      },
+      {
+        "activityModifierHash": 1783825372
       }
     ],
     "isPlaylist": true,
@@ -557107,6 +557548,12 @@
     "requirements": {
       "leaderRequirementLabels": [
         {
+          "displayString": "Access Restricted"
+        },
+        {
+          "displayString": "Access Restricted"
+        },
+        {
           "displayString": "PlayStation®Plus Required"
         },
         {
@@ -557125,6 +557572,12 @@
         },
         {
           "displayString": "This activity is currently disabled."
+        },
+        {
+          "displayString": "Access Restricted"
+        },
+        {
+          "displayString": "Access Restricted"
         },
         {
           "displayString": "PlayStation®Plus Required"
@@ -558695,6 +559148,9 @@
     "modifiers": [
       {
         "activityModifierHash": 1783825372
+      },
+      {
+        "activityModifierHash": 1783825372
       }
     ],
     "isPlaylist": false,
@@ -559313,6 +559769,9 @@
     "pgcrImage": "/img/destiny_content/pgcr/lawless_frontier_mars.jpg",
     "rewards": [],
     "modifiers": [
+      {
+        "activityModifierHash": 1783825372
+      },
       {
         "activityModifierHash": 1783825372
       }
@@ -564178,6 +564637,9 @@
       },
       {
         "activityModifierHash": 1821598914
+      },
+      {
+        "activityModifierHash": 1783825372
       },
       {
         "activityModifierHash": 1783825372
@@ -569911,6 +570373,9 @@
     "pgcrImage": "/img/destiny_content/pgcr/lawless_frontier_europa.jpg",
     "rewards": [],
     "modifiers": [
+      {
+        "activityModifierHash": 1783825372
+      },
       {
         "activityModifierHash": 1783825372
       }
@@ -577534,7 +577999,7 @@
     "placeHash": 682521729,
     "activityTypeHash": 2292427391,
     "tier": -1,
-    "pgcrImage": "/img/destiny_content/pgcr/lawless_frontier_mars.jpg",
+    "pgcrImage": "/img/destiny_content/pgcr/campaign_renegades.jpg",
     "rewards": [],
     "modifiers": [
       {
@@ -577597,14 +578062,14 @@
       "maxPlayers": 1,
       "requiresGuardianOath": false
     },
-    "directActivityModeHash": 2393950216,
-    "directActivityModeType": 93,
+    "directActivityModeHash": 1686739444,
+    "directActivityModeType": 2,
     "activityModeHashes": [
-      2393950216,
+      1686739444,
       1164760493
     ],
     "activityModeTypes": [
-      93,
+      2,
       7
     ],
     "isPvP": false,
@@ -579908,6 +580373,9 @@
       },
       {
         "activityModifierHash": 1493777741
+      },
+      {
+        "activityModifierHash": 1783825372
       }
     ],
     "isPlaylist": true,
@@ -579953,6 +580421,12 @@
     "requirements": {
       "leaderRequirementLabels": [
         {
+          "displayString": "Access Restricted"
+        },
+        {
+          "displayString": "Access Restricted"
+        },
+        {
           "displayString": "PlayStation®Plus Required"
         },
         {
@@ -579971,6 +580445,12 @@
         },
         {
           "displayString": "This activity is currently disabled."
+        },
+        {
+          "displayString": "Access Restricted"
+        },
+        {
+          "displayString": "Access Restricted"
         },
         {
           "displayString": "PlayStation®Plus Required"
@@ -586637,6 +587117,9 @@
       },
       {
         "activityModifierHash": 3388053151
+      },
+      {
+        "activityModifierHash": 1783825372
       }
     ],
     "isPlaylist": true,
@@ -586684,6 +587167,12 @@
     "requirements": {
       "leaderRequirementLabels": [
         {
+          "displayString": "Access Restricted"
+        },
+        {
+          "displayString": "Access Restricted"
+        },
+        {
           "displayString": "PlayStation®Plus Required"
         },
         {
@@ -586702,6 +587191,12 @@
         },
         {
           "displayString": "This activity is currently disabled."
+        },
+        {
+          "displayString": "Access Restricted"
+        },
+        {
+          "displayString": "Access Restricted"
         },
         {
           "displayString": "PlayStation®Plus Required"
@@ -589041,6 +589536,9 @@
       },
       {
         "activityModifierHash": 1493777741
+      },
+      {
+        "activityModifierHash": 1783825372
       }
     ],
     "isPlaylist": true,
@@ -589086,6 +589584,12 @@
     "requirements": {
       "leaderRequirementLabels": [
         {
+          "displayString": "Access Restricted"
+        },
+        {
+          "displayString": "Access Restricted"
+        },
+        {
           "displayString": "PlayStation®Plus Required"
         },
         {
@@ -589104,6 +589608,12 @@
         },
         {
           "displayString": "This activity is currently disabled."
+        },
+        {
+          "displayString": "Access Restricted"
+        },
+        {
+          "displayString": "Access Restricted"
         },
         {
           "displayString": "PlayStation®Plus Required"
@@ -591969,6 +592479,9 @@
     "pgcrImage": "/img/destiny_content/pgcr/lawless_frontier_mars.jpg",
     "rewards": [],
     "modifiers": [
+      {
+        "activityModifierHash": 1783825372
+      },
       {
         "activityModifierHash": 1783825372
       }
@@ -599636,6 +600149,9 @@
       },
       {
         "activityModifierHash": 1359116199
+      },
+      {
+        "activityModifierHash": 1783825372
       }
     ],
     "isPlaylist": true,
@@ -599683,6 +600199,12 @@
     "requirements": {
       "leaderRequirementLabels": [
         {
+          "displayString": "Access Restricted"
+        },
+        {
+          "displayString": "Access Restricted"
+        },
+        {
           "displayString": "PlayStation®Plus Required"
         },
         {
@@ -599701,6 +600223,12 @@
         },
         {
           "displayString": "This activity is currently disabled."
+        },
+        {
+          "displayString": "Access Restricted"
+        },
+        {
+          "displayString": "Access Restricted"
         },
         {
           "displayString": "PlayStation®Plus Required"
@@ -600391,6 +600919,9 @@
       },
       {
         "activityModifierHash": 1783825372
+      },
+      {
+        "activityModifierHash": 1783825372
       }
     ],
     "isPlaylist": false,
@@ -601040,6 +601571,9 @@
       },
       {
         "activityModifierHash": 1493777741
+      },
+      {
+        "activityModifierHash": 1783825372
       }
     ],
     "isPlaylist": true,
@@ -601085,6 +601619,12 @@
     "requirements": {
       "leaderRequirementLabels": [
         {
+          "displayString": "Access Restricted"
+        },
+        {
+          "displayString": "Access Restricted"
+        },
+        {
           "displayString": "PlayStation®Plus Required"
         },
         {
@@ -601103,6 +601643,12 @@
         },
         {
           "displayString": "This activity is currently disabled."
+        },
+        {
+          "displayString": "Access Restricted"
+        },
+        {
+          "displayString": "Access Restricted"
         },
         {
           "displayString": "PlayStation®Plus Required"
@@ -609832,6 +610378,9 @@
     "modifiers": [
       {
         "activityModifierHash": 1783825372
+      },
+      {
+        "activityModifierHash": 1783825372
       }
     ],
     "isPlaylist": false,
@@ -609918,18 +610467,6 @@
       "maxPlayers": 6,
       "requiresGuardianOath": false
     },
-    "directActivityModeHash": 4110605575,
-    "directActivityModeType": 3,
-    "activityModeHashes": [
-      4110605575,
-      2394616003,
-      1164760493
-    ],
-    "activityModeTypes": [
-      3,
-      18,
-      7
-    ],
     "isPvP": false,
     "insertionPoints": [],
     "activityLocationMappings": [],
@@ -610480,6 +611017,9 @@
       },
       {
         "activityModifierHash": 1493777741
+      },
+      {
+        "activityModifierHash": 1783825372
       }
     ],
     "isPlaylist": true,
@@ -610525,6 +611065,12 @@
     "requirements": {
       "leaderRequirementLabels": [
         {
+          "displayString": "Access Restricted"
+        },
+        {
+          "displayString": "Access Restricted"
+        },
+        {
           "displayString": "PlayStation®Plus Required"
         },
         {
@@ -610543,6 +611089,12 @@
         },
         {
           "displayString": "This activity is currently disabled."
+        },
+        {
+          "displayString": "Access Restricted"
+        },
+        {
+          "displayString": "Access Restricted"
         },
         {
           "displayString": "PlayStation®Plus Required"
@@ -614579,6 +615131,9 @@
       },
       {
         "activityModifierHash": 1783825372
+      },
+      {
+        "activityModifierHash": 1783825372
       }
     ],
     "isPlaylist": false,
@@ -614729,7 +615284,7 @@
     "placeHash": 2227522752,
     "activityTypeHash": 1686739444,
     "tier": -1,
-    "pgcrImage": "/img/theme/destiny/bgs/pgcrs/placeholder.jpg",
+    "pgcrImage": "/img/destiny_content/pgcr/campaign_renegades.jpg",
     "rewards": [],
     "modifiers": [
       {
@@ -614818,14 +615373,14 @@
       "maxPlayers": 3,
       "requiresGuardianOath": false
     },
-    "directActivityModeHash": 2393950216,
-    "directActivityModeType": 93,
+    "directActivityModeHash": 1686739444,
+    "directActivityModeType": 2,
     "activityModeHashes": [
-      2393950216,
+      1686739444,
       1164760493
     ],
     "activityModeTypes": [
-      93,
+      2,
       7
     ],
     "isPvP": false,
@@ -615919,6 +616474,9 @@
       }
     ],
     "modifiers": [
+      {
+        "activityModifierHash": 1783825372
+      },
       {
         "activityModifierHash": 1783825372
       }
@@ -622048,6 +622606,9 @@
     "modifiers": [
       {
         "activityModifierHash": 1783825372
+      },
+      {
+        "activityModifierHash": 1783825372
       }
     ],
     "isPlaylist": false,
@@ -624580,6 +625141,9 @@
     "pgcrImage": "/img/destiny_content/pgcr/lawless_frontier_europa.jpg",
     "rewards": [],
     "modifiers": [
+      {
+        "activityModifierHash": 1783825372
+      },
       {
         "activityModifierHash": 1783825372
       }
@@ -627355,6 +627919,9 @@
       },
       {
         "activityModifierHash": 1821598914
+      },
+      {
+        "activityModifierHash": 1783825372
       },
       {
         "activityModifierHash": 1783825372
@@ -634216,6 +634783,9 @@
       },
       {
         "activityModifierHash": 1783825372
+      },
+      {
+        "activityModifierHash": 1783825372
       }
     ],
     "isPlaylist": true,
@@ -640129,6 +640699,9 @@
     "modifiers": [
       {
         "activityModifierHash": 1783825372
+      },
+      {
+        "activityModifierHash": 1783825372
       }
     ],
     "isPlaylist": true,
@@ -640560,6 +641133,9 @@
     "pgcrImage": "/img/destiny_content/pgcr/lawless_frontier_europa.jpg",
     "rewards": [],
     "modifiers": [
+      {
+        "activityModifierHash": 1783825372
+      },
       {
         "activityModifierHash": 1783825372
       }
@@ -650499,6 +651075,9 @@
       },
       {
         "activityModifierHash": 1783825372
+      },
+      {
+        "activityModifierHash": 1783825372
       }
     ],
     "isPlaylist": true,
@@ -650563,6 +651142,12 @@
     "requirements": {
       "leaderRequirementLabels": [
         {
+          "displayString": "Access Restricted"
+        },
+        {
+          "displayString": "Access Restricted"
+        },
+        {
           "displayString": "PlayStation®Plus Required"
         },
         {
@@ -650581,6 +651166,12 @@
         },
         {
           "displayString": "This activity is currently disabled."
+        },
+        {
+          "displayString": "Access Restricted"
+        },
+        {
+          "displayString": "Access Restricted"
         },
         {
           "displayString": "PlayStation®Plus Required"
