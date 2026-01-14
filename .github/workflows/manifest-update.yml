@@ -5,6 +5,7 @@ permissions:
 
 on:
   schedule:
+    # Tuesday 1:15 PM EST (18:15 UTC)
     - cron: '15 18 * * 2'
   workflow_dispatch:
 
@@ -49,7 +50,7 @@ jobs:
         echo "$RESPONSE" > manifest-response.json
 
         if ! jq . manifest-response.json >/dev/null 2>&1; then
-          echo "❌ Bungie API returned invalid JSON:"
+          echo "❌ Bungie API returned invalid JSON"
           cat manifest-response.json
           exit 1
         fi
@@ -62,14 +63,7 @@ jobs:
           exit 1
         fi
 
-        echo "✅ Bungie manifest metadata fetched successfully"
-
-    - name: Extract manifest version and URL
-      run: |
-        set -e
-
         MANIFEST_VERSION="$(jq -r '.Response.version' manifest-response.json)"
-
         MANIFEST_URL="$(jq -r '
           .Response.mobileWorldContentPaths.en
           // .Response.jsonWorldContentPaths.en
@@ -77,49 +71,51 @@ jobs:
         ' manifest-response.json)"
 
         if [ -z "$MANIFEST_URL" ]; then
-          echo "❌ Manifest URL missing in Bungie response:"
+          echo "❌ Manifest URL missing"
           jq . manifest-response.json
           exit 1
         fi
 
-        echo "Manifest version: $MANIFEST_VERSION"
-        echo "Manifest URL: $MANIFEST_URL"
-
         echo "$MANIFEST_VERSION" > .manifest_version
         echo "$MANIFEST_URL" > .manifest_url
+
+        echo "✅ Manifest version: $MANIFEST_VERSION"
+        echo "✅ Manifest URL: $MANIFEST_URL"
 
     - name: Download manifest content
       run: |
         set -e
 
         URL="$(cat .manifest_url)"
-
         curl -fSL "https://www.bungie.net$URL" -o manifest.content
 
         if [ ! -s manifest.content ]; then
-          echo "❌ Manifest download resulted in empty file"
+          echo "❌ Manifest download failed or file is empty"
           exit 1
         fi
 
-        echo "✅ Manifest downloaded"
+        echo "✅ Manifest downloaded ($(stat -c%s manifest.content) bytes)"
 
     - name: Install Node dependencies (no-save)
       run: |
         set -e
         npm install sqlite3 jszip --no-save
 
-    - name: Convert manifest (unchanged converter)
+    - name: Run manifest converter
       run: |
         set -e
 
-        cat > convert-manifest.js << 'EOF'
-        # <<< YOUR EXISTING CONVERTER CODE GOES HERE, UNCHANGED >>>
-        EOF
+        if [ ! -f ".github/workflows/full-convert-and-optimize.bat" ]; then
+          echo "❌ Converter file not found: .github/workflows/full-convert-and-optimize.bat"
+          exit 1
+        fi
 
-        node convert-manifest.js manifest.content
+        chmod +x .github/workflows/full-convert-and-optimize.bat
 
-        if [ ! -f metadata.json ]; then
-          echo "❌ Converter did not produce metadata.json"
+        .github/workflows/full-convert-and-optimize.bat manifest.content
+
+        if [ ! -f "metadata.json" ]; then
+          echo "❌ metadata.json was not produced by converter"
           exit 1
         fi
 
@@ -131,5 +127,11 @@ jobs:
         git config user.name "GitHub Action"
 
         git add *.json
-        git commit -m "Auto-update manifest $(cat .manifest_version)" || exit 0
+
+        if git diff --staged --quiet; then
+          echo "ℹ️ No changes to commit"
+          exit 0
+        fi
+
+        git commit -m "Auto-update manifest to version $(cat .manifest_version)"
         git push
