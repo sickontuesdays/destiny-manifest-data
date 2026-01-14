@@ -1,0 +1,8 @@
+{
+  "status": "fallback",
+  "reason": "Manifest update failed during download or conversion",
+  "currentManifestVersion": "none",
+  "currentManifestCreatedAt": "2025-12-27T07:22:33.369Z",
+  "failureDetectedAt": "2026-01-14T00:50:56Z",
+  "note": "The repository continues to represent the last known good manifest."
+}
