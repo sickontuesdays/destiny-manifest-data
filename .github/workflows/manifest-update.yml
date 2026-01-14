@@ -5,7 +5,6 @@ permissions:
 
 on:
   schedule:
-    # Tuesday 1:15 PM EST (18:15 UTC)
     - cron: '15 18 * * 2'
   workflow_dispatch:
 
@@ -17,121 +16,42 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v4
+    - uses: actions/checkout@v4
 
-    - name: Setup Node.js
-      uses: actions/setup-node@v4
+    - uses: actions/setup-node@v4
       with:
         node-version: '18'
 
     - name: Install system dependencies
+      run: sudo apt-get update && sudo apt-get install -y jq
+
+    - name: Fetch manifest metadata
       run: |
-        set -e
-        sudo apt-get update
-        sudo apt-get install -y jq
+        curl -sS -H "X-API-Key: $BUNGIE_API_KEY" \
+          https://www.bungie.net/Platform/Destiny2/Manifest/ \
+          > manifest-response.json
 
-    - name: Verify Bungie API key
+        jq -e '.ErrorCode == 1' manifest-response.json
+
+        jq -r '.Response.version' manifest-response.json > .manifest_version
+        jq -r '.Response.mobileWorldContentPaths.en // .Response.jsonWorldContentPaths.en' \
+          manifest-response.json > .manifest_url
+
+    - name: Download manifest
       run: |
-        set -e
-        if [ -z "${BUNGIE_API_KEY:-}" ]; then
-          echo "❌ BUNGIE_API_KEY secret is missing"
-          exit 1
-        fi
-        echo "✅ Bungie API key detected"
+        curl -fSL "https://www.bungie.net$(cat .manifest_url)" -o manifest.content
 
-    - name: Fetch Bungie manifest metadata
+    - name: Install Node dependencies
+      run: npm install sqlite3 jszip --no-save
+
+    - name: Convert manifest
       run: |
-        set -e
+        node .github/workflows/full-convert-and-optimize.js manifest.content
 
-        RESPONSE="$(curl -sS -H "X-API-Key: $BUNGIE_API_KEY" \
-          https://www.bungie.net/Platform/Destiny2/Manifest/)"
-
-        echo "$RESPONSE" > manifest-response.json
-
-        if ! jq . manifest-response.json >/dev/null 2>&1; then
-          echo "❌ Bungie API returned invalid JSON"
-          cat manifest-response.json
-          exit 1
-        fi
-
-        ERROR_CODE="$(jq -r '.ErrorCode // -1' manifest-response.json)"
-
-        if [ "$ERROR_CODE" != "1" ]; then
-          echo "❌ Bungie API ErrorCode=$ERROR_CODE"
-          jq . manifest-response.json
-          exit 1
-        fi
-
-        MANIFEST_VERSION="$(jq -r '.Response.version' manifest-response.json)"
-        MANIFEST_URL="$(jq -r '
-          .Response.mobileWorldContentPaths.en
-          // .Response.jsonWorldContentPaths.en
-          // empty
-        ' manifest-response.json)"
-
-        if [ -z "$MANIFEST_URL" ]; then
-          echo "❌ Manifest URL missing"
-          jq . manifest-response.json
-          exit 1
-        fi
-
-        echo "$MANIFEST_VERSION" > .manifest_version
-        echo "$MANIFEST_URL" > .manifest_url
-
-        echo "✅ Manifest version: $MANIFEST_VERSION"
-        echo "✅ Manifest URL: $MANIFEST_URL"
-
-    - name: Download manifest content
+    - name: Commit results
       run: |
-        set -e
-
-        URL="$(cat .manifest_url)"
-        curl -fSL "https://www.bungie.net$URL" -o manifest.content
-
-        if [ ! -s manifest.content ]; then
-          echo "❌ Manifest download failed or file is empty"
-          exit 1
-        fi
-
-        echo "✅ Manifest downloaded ($(stat -c%s manifest.content) bytes)"
-
-    - name: Install Node dependencies (no-save)
-      run: |
-        set -e
-        npm install sqlite3 jszip --no-save
-
-    - name: Run manifest converter
-      run: |
-        set -e
-
-        if [ ! -f ".github/workflows/full-convert-and-optimize.bat" ]; then
-          echo "❌ Converter file not found: .github/workflows/full-convert-and-optimize.bat"
-          exit 1
-        fi
-
-        chmod +x .github/workflows/full-convert-and-optimize.bat
-
-        .github/workflows/full-convert-and-optimize.bat manifest.content
-
-        if [ ! -f "metadata.json" ]; then
-          echo "❌ metadata.json was not produced by converter"
-          exit 1
-        fi
-
-    - name: Commit updated manifest
-      run: |
-        set -e
-
-        git config user.email "action@github.com"
         git config user.name "GitHub Action"
-
+        git config user.email "action@github.com"
         git add *.json
-
-        if git diff --staged --quiet; then
-          echo "ℹ️ No changes to commit"
-          exit 0
-        fi
-
-        git commit -m "Auto-update manifest to version $(cat .manifest_version)"
+        git commit -m "Auto-update manifest $(cat .manifest_version)" || exit 0
         git push
