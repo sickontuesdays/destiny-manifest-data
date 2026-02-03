@@ -4557,7 +4557,7 @@
     "avoidDuplicatesOnInitialization": false,
     "currencyScalars": [],
     "hash": 449002359,
-    "index": 1341,
+    "index": 1344,
     "redacted": false,
     "blacklisted": false
   },
@@ -4741,7 +4741,7 @@
     "avoidDuplicatesOnInitialization": false,
     "currencyScalars": [],
     "hash": 456763785,
-    "index": 1370,
+    "index": 1373,
     "redacted": false,
     "blacklisted": false
   },
@@ -9770,7 +9770,7 @@
     "avoidDuplicatesOnInitialization": false,
     "currencyScalars": [],
     "hash": 861885639,
-    "index": 1367,
+    "index": 1370,
     "redacted": false,
     "blacklisted": false
   },
@@ -10498,7 +10498,7 @@
     "avoidDuplicatesOnInitialization": false,
     "currencyScalars": [],
     "hash": 913821463,
-    "index": 1368,
+    "index": 1371,
     "redacted": false,
     "blacklisted": false
   },
@@ -11118,7 +11118,7 @@
     "avoidDuplicatesOnInitialization": false,
     "currencyScalars": [],
     "hash": 962335996,
-    "index": 1345,
+    "index": 1348,
     "redacted": false,
     "blacklisted": false
   },
@@ -13269,7 +13269,7 @@
     "avoidDuplicatesOnInitialization": false,
     "currencyScalars": [],
     "hash": 1119034468,
-    "index": 1357,
+    "index": 1360,
     "redacted": false,
     "blacklisted": false
   },
@@ -13301,7 +13301,7 @@
     "avoidDuplicatesOnInitialization": false,
     "currencyScalars": [],
     "hash": 1119034469,
-    "index": 1358,
+    "index": 1361,
     "redacted": false,
     "blacklisted": false
   },
@@ -13877,7 +13877,7 @@
     "avoidDuplicatesOnInitialization": false,
     "currencyScalars": [],
     "hash": 1154003710,
-    "index": 1338,
+    "index": 1341,
     "redacted": false,
     "blacklisted": false
   },
@@ -15241,7 +15241,7 @@
     "avoidDuplicatesOnInitialization": false,
     "currencyScalars": [],
     "hash": 1236048334,
-    "index": 1343,
+    "index": 1346,
     "redacted": false,
     "blacklisted": false
   },
@@ -15877,7 +15877,7 @@
     "avoidDuplicatesOnInitialization": false,
     "currencyScalars": [],
     "hash": 1271523453,
-    "index": 1363,
+    "index": 1366,
     "redacted": false,
     "blacklisted": false
   },
@@ -16747,7 +16747,7 @@
     "avoidDuplicatesOnInitialization": false,
     "currencyScalars": [],
     "hash": 1332259665,
-    "index": 1361,
+    "index": 1364,
     "redacted": false,
     "blacklisted": false
   },
@@ -17131,7 +17131,7 @@
     "avoidDuplicatesOnInitialization": false,
     "currencyScalars": [],
     "hash": 1388043332,
-    "index": 1351,
+    "index": 1354,
     "redacted": false,
     "blacklisted": false
   },
@@ -18167,7 +18167,7 @@
     "avoidDuplicatesOnInitialization": false,
     "currencyScalars": [],
     "hash": 1452535784,
-    "index": 1340,
+    "index": 1343,
     "redacted": false,
     "blacklisted": false
   },
@@ -18712,6 +18712,42 @@
     "currencyScalars": [],
     "hash": 1494628469,
     "index": 351,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1495603817": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "insertAction": {
+      "actionExecuteSeconds": 1,
+      "actionSoundHash": 0,
+      "isPositiveAction": false,
+      "actionType": 0
+    },
+    "plugWhitelist": [
+      {
+        "categoryHash": 3833883083,
+        "categoryIdentifier": "v950_guardian_games_trace_rifle0_skins"
+      },
+      {
+        "categoryHash": 1092466115,
+        "categoryIdentifier": "weapon_tiering_tier5_skins"
+      }
+    ],
+    "socketCategoryHash": 2048875504,
+    "visibility": 0,
+    "alwaysRandomizeSockets": false,
+    "isPreviewEnabled": false,
+    "hideDuplicateReusablePlugs": false,
+    "overridesUiAppearance": true,
+    "avoidDuplicatesOnInitialization": false,
+    "currencyScalars": [],
+    "hash": 1495603817,
+    "index": 1338,
     "redacted": false,
     "blacklisted": false
   },
@@ -20356,6 +20392,42 @@
     "redacted": false,
     "blacklisted": false
   },
+  "1636721552": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "insertAction": {
+      "actionExecuteSeconds": 1,
+      "actionSoundHash": 0,
+      "isPositiveAction": false,
+      "actionType": 0
+    },
+    "plugWhitelist": [
+      {
+        "categoryHash": 2651686574,
+        "categoryIdentifier": "v950_guardian_games_fusion_rifle0_skins"
+      },
+      {
+        "categoryHash": 1092466115,
+        "categoryIdentifier": "weapon_tiering_tier5_skins"
+      }
+    ],
+    "socketCategoryHash": 2048875504,
+    "visibility": 0,
+    "alwaysRandomizeSockets": false,
+    "isPreviewEnabled": false,
+    "hideDuplicateReusablePlugs": false,
+    "overridesUiAppearance": true,
+    "avoidDuplicatesOnInitialization": false,
+    "currencyScalars": [],
+    "hash": 1636721552,
+    "index": 1336,
+    "redacted": false,
+    "blacklisted": false
+  },
   "1639475139": {
     "displayProperties": {
       "description": "",
@@ -21343,7 +21415,7 @@
     "avoidDuplicatesOnInitialization": false,
     "currencyScalars": [],
     "hash": 1683579090,
-    "index": 1355,
+    "index": 1358,
     "redacted": false,
     "blacklisted": false
   },
@@ -23488,6 +23560,42 @@
     "redacted": false,
     "blacklisted": false
   },
+  "1929976526": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "insertAction": {
+      "actionExecuteSeconds": 1,
+      "actionSoundHash": 0,
+      "isPositiveAction": false,
+      "actionType": 0
+    },
+    "plugWhitelist": [
+      {
+        "categoryHash": 3624687000,
+        "categoryIdentifier": "v950_guardian_games_hand_cannon0_skins"
+      },
+      {
+        "categoryHash": 1092466115,
+        "categoryIdentifier": "weapon_tiering_tier5_skins"
+      }
+    ],
+    "socketCategoryHash": 2048875504,
+    "visibility": 0,
+    "alwaysRandomizeSockets": false,
+    "isPreviewEnabled": false,
+    "hideDuplicateReusablePlugs": false,
+    "overridesUiAppearance": true,
+    "avoidDuplicatesOnInitialization": false,
+    "currencyScalars": [],
+    "hash": 1929976526,
+    "index": 1337,
+    "redacted": false,
+    "blacklisted": false
+  },
   "1931019788": {
     "displayProperties": {
       "description": "",
@@ -24444,7 +24552,7 @@
     "avoidDuplicatesOnInitialization": false,
     "currencyScalars": [],
     "hash": 1997000211,
-    "index": 1346,
+    "index": 1349,
     "redacted": false,
     "blacklisted": false
   },
@@ -25382,7 +25490,7 @@
     "avoidDuplicatesOnInitialization": false,
     "currencyScalars": [],
     "hash": 2062372863,
-    "index": 1371,
+    "index": 1374,
     "redacted": false,
     "blacklisted": false
   },
@@ -25668,7 +25776,7 @@
     "avoidDuplicatesOnInitialization": false,
     "currencyScalars": [],
     "hash": 2104613635,
-    "index": 1362,
+    "index": 1365,
     "redacted": false,
     "blacklisted": false
   },
@@ -26767,7 +26875,7 @@
     "avoidDuplicatesOnInitialization": false,
     "currencyScalars": [],
     "hash": 2211007631,
-    "index": 1347,
+    "index": 1350,
     "redacted": false,
     "blacklisted": false
   },
@@ -26835,7 +26943,7 @@
     "avoidDuplicatesOnInitialization": false,
     "currencyScalars": [],
     "hash": 2212837421,
-    "index": 1364,
+    "index": 1367,
     "redacted": false,
     "blacklisted": false
   },
@@ -27217,7 +27325,7 @@
     "avoidDuplicatesOnInitialization": false,
     "currencyScalars": [],
     "hash": 2245791923,
-    "index": 1336,
+    "index": 1339,
     "redacted": false,
     "blacklisted": false
   },
@@ -28207,7 +28315,7 @@
     "avoidDuplicatesOnInitialization": false,
     "currencyScalars": [],
     "hash": 2325294452,
-    "index": 1337,
+    "index": 1340,
     "redacted": false,
     "blacklisted": false
   },
@@ -34298,7 +34406,7 @@
     "avoidDuplicatesOnInitialization": false,
     "currencyScalars": [],
     "hash": 2888503332,
-    "index": 1344,
+    "index": 1347,
     "redacted": false,
     "blacklisted": false
   },
@@ -34558,7 +34666,7 @@
     "avoidDuplicatesOnInitialization": false,
     "currencyScalars": [],
     "hash": 2899644539,
-    "index": 1369,
+    "index": 1372,
     "redacted": false,
     "blacklisted": false
   },
@@ -36394,7 +36502,7 @@
     "avoidDuplicatesOnInitialization": false,
     "currencyScalars": [],
     "hash": 3068605379,
-    "index": 1342,
+    "index": 1345,
     "redacted": false,
     "blacklisted": false
   },
@@ -39004,7 +39112,7 @@
     "avoidDuplicatesOnInitialization": false,
     "currencyScalars": [],
     "hash": 3285220594,
-    "index": 1352,
+    "index": 1355,
     "redacted": false,
     "blacklisted": false
   },
@@ -39353,7 +39461,7 @@
     "avoidDuplicatesOnInitialization": false,
     "currencyScalars": [],
     "hash": 3303600813,
-    "index": 1365,
+    "index": 1368,
     "redacted": false,
     "blacklisted": false
   },
@@ -42805,7 +42913,7 @@
     "avoidDuplicatesOnInitialization": false,
     "currencyScalars": [],
     "hash": 3548370717,
-    "index": 1349,
+    "index": 1352,
     "redacted": false,
     "blacklisted": false
   },
@@ -43824,7 +43932,7 @@
     "avoidDuplicatesOnInitialization": false,
     "currencyScalars": [],
     "hash": 3615823056,
-    "index": 1339,
+    "index": 1342,
     "redacted": false,
     "blacklisted": false
   },
@@ -46296,7 +46404,7 @@
     "avoidDuplicatesOnInitialization": false,
     "currencyScalars": [],
     "hash": 3833399976,
-    "index": 1359,
+    "index": 1362,
     "redacted": false,
     "blacklisted": false
   },
@@ -46328,7 +46436,7 @@
     "avoidDuplicatesOnInitialization": false,
     "currencyScalars": [],
     "hash": 3833399977,
-    "index": 1360,
+    "index": 1363,
     "redacted": false,
     "blacklisted": false
   },
@@ -47140,7 +47248,7 @@
     "avoidDuplicatesOnInitialization": false,
     "currencyScalars": [],
     "hash": 3898156960,
-    "index": 1354,
+    "index": 1357,
     "redacted": false,
     "blacklisted": false
   },
@@ -47775,7 +47883,7 @@
     "avoidDuplicatesOnInitialization": false,
     "currencyScalars": [],
     "hash": 3954618873,
-    "index": 1356,
+    "index": 1359,
     "redacted": false,
     "blacklisted": false
   },
@@ -48859,7 +48967,7 @@
     "avoidDuplicatesOnInitialization": false,
     "currencyScalars": [],
     "hash": 4054455795,
-    "index": 1353,
+    "index": 1356,
     "redacted": false,
     "blacklisted": false
   },
@@ -50325,7 +50433,7 @@
     "avoidDuplicatesOnInitialization": false,
     "currencyScalars": [],
     "hash": 4152355154,
-    "index": 1348,
+    "index": 1351,
     "redacted": false,
     "blacklisted": false
   },
@@ -50361,7 +50469,7 @@
     "avoidDuplicatesOnInitialization": false,
     "currencyScalars": [],
     "hash": 4153038987,
-    "index": 1350,
+    "index": 1353,
     "redacted": false,
     "blacklisted": false
   },
@@ -51307,7 +51415,7 @@
     "avoidDuplicatesOnInitialization": false,
     "currencyScalars": [],
     "hash": 4231297664,
-    "index": 1366,
+    "index": 1369,
     "redacted": false,
     "blacklisted": false
   },

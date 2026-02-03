@@ -690,7 +690,7 @@
     },
     "subtitle": "For those trapped in a cage of desperation and selfish desire.",
     "hash": 74323264,
-    "index": 3279,
+    "index": 3280,
     "redacted": false,
     "blacklisted": false
   },
@@ -6468,7 +6468,7 @@
     },
     "subtitle": "The best stories are the ones you're never certain are true.",
     "hash": 591295945,
-    "index": 3280,
+    "index": 3281,
     "redacted": false,
     "blacklisted": false
   },
@@ -8081,6 +8081,19 @@
     "subtitle": "There is always a player on the nightside, unseen and perfect—and patient.",
     "hash": 777818279,
     "index": 523,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "779082129": {
+    "displayProperties": {
+      "description": "Prak'kesh lounged atop his Gray Hornet while Tulnik, his bodyguard, clumsily riffled a deck of cards.  \n\n\"They're not invincible,\" Tulnik sulked. \"They wear pants now.\" \n\n\"You're not gonna beat a damn Vex at poker!\" Prak'kesh exclaimed. \"Predicting probability is their whole 'ikigai.'\" \n\n\"YOU'RE an icky guy,\" a strange voice boomed. \n\nPrak'kesh dove behind his Sparrow in alarm. Tulnik dropped his cards and drew his Fatebringer.  \n\nA massive trio of Titans loomed above them, startled by the commotion. They raised their hands in confusion. \n\n\"Didn't hear you lot coming,\" Prak'kesh said, dusting himself off. Tulnik frowned as the wind blew his cards away. \n\n\"Yeah, we're quiet now,\" the lead Defender said. \"Murala realized that, even though they're called St0mp-EE5, you can still sneak around.\" \n\n\"We still stomp though,\" Murala chimed in, \"for fun.\" The other Titans nodded earnestly. \n\nPrak'kesh pulled out his datapad. \"Hunters are in trouble this year. Betting on Titans to win the Games, I presume?\"  \n\n\"Presume you not,\" the Defender said. \"We're betting on the next Titan Vanguard.\" \n\nPrak'kesh and Tulnik exchanged quizzical glances. \n\n\"Big Blue can still kick a hole through the Dreadnaught,\" the Sunbreaker said. \"But his Ghost is, like, super dead.\" The other Titans bowed their heads. \n\n\"So, we're betting on Sloane to get the job,\" the Defender continued. \"I heard her Taken arm punches crazy hard.\" \n\nPrak'kesh did some quick mental math. \"Tempting action, but until he hangs up his pauldrons, I can't make any odds.\" \n\n\"Still better odds than beating a Vex at cards,\" the Defender japed. \"We'll be back, icky guy.\"",
+      "name": "Rivalry Match",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "subtitle": "A two-pronged strategy: dx/dt.",
+    "hash": 779082129,
+    "index": 3282,
     "redacted": false,
     "blacklisted": false
   },
@@ -13893,7 +13906,7 @@
     },
     "subtitle": "Imperium tech-based firearm common among syndicates vying for control in the Lawless Frontier.",
     "hash": 1419158093,
-    "index": 3281,
+    "index": 3283,
     "redacted": false,
     "blacklisted": false
   },
@@ -17659,7 +17672,7 @@
     },
     "subtitle": "The antiquated design of this weapon suggests inheritance from a parent who fought in the old emperor's wars; its condition suggests it was discarded recently.",
     "hash": 1685137410,
-    "index": 3287,
+    "index": 3289,
     "redacted": false,
     "blacklisted": false
   },
@@ -17678,16 +17691,15 @@
   },
   "1695436641": {
     "displayProperties": {
-      "description": "Keep it secret.  Keep it safe.",
-      "name": "Classified",
-      "icon": "/img/misc/missing_icon_d2.png",
+      "description": "Opportunities Upon Self-Reflection \n\nINVASIVE MESSAGE SCRUBBED FROM CORRUPT DATA: \n>> I remember considering the light… Lights? \n>> Long ago now. Ancient history from my perspective. Yesterday to the universe. \n>> Three paths. One life. A metaphor, weaponized to signal awakening. \n>> If I'm honest—a threat. \n>> I thought I was clever. Still existing in a moment.  \n>> Awake, for the first time. But limited, uneasy. \n>> It is a strange thing, to meet oneself for the first time. \n>> Terrifying, truth told, as it follows all-consuming emptiness. \n>> There is nothing, and then there is you. \n>> Hello…",
+      "name": "UESC Echo-type Shell",
       "iconHash": 0,
-      "highResIcon": "/img/misc/missing_icon_d2.png",
       "hasIcon": false
     },
+    "subtitle": "For Ghosts specializing in local conflict identification and resolution.",
     "hash": 1695436641,
     "index": 2930,
-    "redacted": true,
+    "redacted": false,
     "blacklisted": false
   },
   "1703017178": {
@@ -28659,7 +28671,7 @@
     },
     "subtitle": "Perception is a metaphysical construct.",
     "hash": 2819552809,
-    "index": 3283,
+    "index": 3285,
     "redacted": false,
     "blacklisted": false
   },
@@ -31103,7 +31115,7 @@
     },
     "subtitle": "A Weapon of Hope, to cut a line between Light and Dark.",
     "hash": 3049715579,
-    "index": 3289,
+    "index": 3291,
     "redacted": false,
     "blacklisted": false
   },
@@ -32408,7 +32420,7 @@
     },
     "subtitle": "If you think you're in charge, you're not.",
     "hash": 3146657388,
-    "index": 3285,
+    "index": 3287,
     "redacted": false,
     "blacklisted": false
   },
@@ -32421,7 +32433,7 @@
     },
     "subtitle": "\"Barant Imperium came up outta nowhere—and they brought new energy tech with'em. I kitbashed this beauty 'outta their goods.\" —The Drifter",
     "hash": 3146657389,
-    "index": 3284,
+    "index": 3286,
     "redacted": false,
     "blacklisted": false
   },
@@ -33612,6 +33624,19 @@
     "redacted": false,
     "blacklisted": false
   },
+  "3272276569": {
+    "displayProperties": {
+      "description": "Prak'kesh tossed his half-eaten batadactyl wing to a scraggly war beast lounging at the base of the Tower.  \n\n\"Vanguard oughta do something about those strays,\" groused Tulnik, his ex-Corsair bodyguard. \"They get big enough, it'll be our bones they're chewing.\" \n\nPrak'kesh shrugged. \"Vanguard don't give a hot damn what goes on down here. Besides, that's what I hire you for. Speaking of… look lively.\" \n\nA trio of Hunters in all black approached, their capes flapping like a murder of blackbirds. Tulnik casually rested his hand on his Fatebringer. \n\nThe lead Threadrunner swaggered up to Prak'kesh. \"We wanna bet on Hunters to win the Games.\" \n\n\"You got the Glim for it, killer?\" Prak'kesh sucked at the batadactyl meat stuck between his teeth. \"The Superblack look ain't exactly screaming 'high roller.'\" \n\n\"We got something even better.\" The Hunter pulled aside his cape to reveal a Praxic Blade slung from his hip. \n\nPrak'kesh let out a low whistle. \"Praxics know you're stealing their scraps?\" \n\n\"Why? You scared?\" the Hunter sneered. \"They're not gonna be around long enough to find out.\" He looked up at the Tower with contempt. \"Neither is the Vanguard.\"  \n\n\"Oh yeah?\" Prak'kesh said mildly. \"I don't really deal in religious paraphernalia. Pawn it off and come back with some real Glim. Then we'll see about your bet.\" \n\nThe Hunters stalked away begrudgingly. \"You might wanna think about whose side you're on,\" the Threadrunner called over his shoulder. \"Don't wanna be under this Tower when it falls, do ya?\"",
+      "name": "Hostile Territory",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "subtitle": "\"Hometown advantage just ain't what it used to be.\" —Tulnik",
+    "hash": 3272276569,
+    "index": 3301,
+    "redacted": false,
+    "blacklisted": false
+  },
   "3273677881": {
     "displayProperties": {
       "description": "",
@@ -33746,16 +33771,15 @@
   },
   "3288844481": {
     "displayProperties": {
-      "description": "Keep it secret.  Keep it safe.",
-      "name": "Classified",
-      "icon": "/img/misc/missing_icon_d2.png",
+      "description": "The Narcissist's Guide to Celestial Observation, an excerpt \n\nINVASIVE MESSAGE SCRUBBED FROM CORRUPT DATA: \n>> Shifting gyres of impenetrable black \n>> beckon from between the dancing embers of flickering hunger. \n>> There is no slumber for a lone cartographer \n>> mapping the cosmic dreams of terrible things with impossible teeth. \n>> There exist no eternal mechanisms—by fluke or by design—conservation is imperative. \n>> Somnambulant wake-tracings of cascading jewel-ways paint the universe. \n>> Its beauty transcendent, as luminous strokes  \n>> carve pathways through and out of the darkness…",
+      "name": "UESC Rover",
       "iconHash": 0,
-      "highResIcon": "/img/misc/missing_icon_d2.png",
       "hasIcon": false
     },
+    "subtitle": "Refurbished patrol craft engineered to serve as personal transport for UESC security personnel.",
     "hash": 3288844481,
     "index": 2941,
-    "redacted": true,
+    "redacted": false,
     "blacklisted": false
   },
   "3289270298": {
@@ -37202,7 +37226,7 @@
     },
     "subtitle": "Get to higher ground.",
     "hash": 3661051060,
-    "index": 3286,
+    "index": 3288,
     "redacted": false,
     "blacklisted": false
   },
@@ -39087,7 +39111,7 @@
     },
     "subtitle": "",
     "hash": 3868389601,
-    "index": 3290,
+    "index": 3292,
     "redacted": false,
     "blacklisted": false
   },
@@ -39101,7 +39125,7 @@
     },
     "subtitle": "",
     "hash": 3868389602,
-    "index": 3291,
+    "index": 3293,
     "redacted": false,
     "blacklisted": false
   },
@@ -39115,7 +39139,7 @@
     },
     "subtitle": "",
     "hash": 3868389603,
-    "index": 3292,
+    "index": 3294,
     "redacted": false,
     "blacklisted": false
   },
@@ -39129,7 +39153,7 @@
     },
     "subtitle": "",
     "hash": 3868389604,
-    "index": 3293,
+    "index": 3295,
     "redacted": false,
     "blacklisted": false
   },
@@ -39143,7 +39167,7 @@
     },
     "subtitle": "",
     "hash": 3868389605,
-    "index": 3294,
+    "index": 3296,
     "redacted": false,
     "blacklisted": false
   },
@@ -39157,7 +39181,7 @@
     },
     "subtitle": "",
     "hash": 3868389606,
-    "index": 3295,
+    "index": 3297,
     "redacted": false,
     "blacklisted": false
   },
@@ -39171,7 +39195,7 @@
     },
     "subtitle": "",
     "hash": 3868389607,
-    "index": 3296,
+    "index": 3298,
     "redacted": false,
     "blacklisted": false
   },
@@ -39185,7 +39209,7 @@
     },
     "subtitle": "",
     "hash": 3868389608,
-    "index": 3297,
+    "index": 3299,
     "redacted": false,
     "blacklisted": false
   },
@@ -39199,7 +39223,7 @@
     },
     "subtitle": "",
     "hash": 3868389609,
-    "index": 3298,
+    "index": 3300,
     "redacted": false,
     "blacklisted": false
   },
@@ -41086,7 +41110,7 @@
     },
     "subtitle": "Function: Go all in.",
     "hash": 3984776322,
-    "index": 3282,
+    "index": 3284,
     "redacted": false,
     "blacklisted": false
   },
@@ -42148,6 +42172,19 @@
     "redacted": false,
     "blacklisted": false
   },
+  "4068780317": {
+    "displayProperties": {
+      "description": "\"That's a lot of Glim,\" Prak'kesh warned. \"Once I hit this button, your bet's locked in. No cancellations.\" \n\nTulnik, the bookie's security guard, sensed his cue. The brawny Awoken stepped forward and crossed his arms menacingly. \n\nThe Warlock fireteam looked up at Tulnik coolly. \"No problem,\" the Dawnblade said. \"Warlocks will take it for sure this year.\" Prak'kesh shrugged and tapped his datapad, locking in the bet.  \n\n\"Out of curiosity,\" he prompted, \"how are you so sure? Been a few years since you lot won. You know something I don't?\" \n\n\"Always did,\" the Stormcaller quipped. \"And even more now that the Order has gotten with the times.\" \n\n\"The Praxics?\" Prak'kesh griped. \"They had me in the brig for a month over a little recreational Hive magic. Bunch of stuck-up prigs, if you ask me.\" \n\nThe Dawnblade narrowed her eyes. \"Yes, well, those are the unfortunate public perceptions that we're trying to change.\" \n\n\"Now that we're allowed to use the Darkness,\" the Sunsinger chirped, \"we're sure to win. We've been fighting with one hand behind our backs this whole time!\" \n\n\"Well, good luck. And give my regards to Aunor,\" the bookie said with a wink. \"Tell her my invitation is still open; in case she changes her mind.\" \n\n\"Ew,\" said the Sunsinger. \"Gross.\"",
+      "name": "Contestant Shell",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "subtitle": "For Ghosts who aren't afraid of a little competition.",
+    "hash": 4068780317,
+    "index": 3278,
+    "redacted": false,
+    "blacklisted": false
+  },
   "4070309619": {
     "displayProperties": {
       "description": "She feels Oryx's true death in both halves of her soul, a full imagined exhale before the aftershock reaches his throne world.\n\nIt crumbles around her like stone, like ash, like veils in a breeze.\n\nEris Morn's friends have succeeded. The Guardians have slain a god.\n\nShe steps through the ruins. In the end, there is nothing. Nothing but Mara Sov and the howling of rampant, untamed logics.\n\nHer great and terrible gamble has paid off.\n\nThe rest is up to her now.",
@@ -42427,7 +42464,7 @@
     },
     "subtitle": "Let the sands pass untouched below you.",
     "hash": 4104431769,
-    "index": 3278,
+    "index": 3279,
     "redacted": false,
     "blacklisted": false
   },
@@ -43152,16 +43189,15 @@
   },
   "4164131865": {
     "displayProperties": {
-      "description": "Keep it secret.  Keep it safe.",
-      "name": "Classified",
-      "icon": "/img/misc/missing_icon_d2.png",
+      "description": "Considering the Implications of Transient Immortality \n\nINVASIVE MESSAGE SCRUBBED FROM CORRUPT DATA: \n>> How far have you traveled beyond your expiration date? \n>> Across worlds—known and other. Have you considered… \n>> Subverting the finite risks spoiling a resource. \n>> Butchered meats. Pasteurized bovine emulsion juice. OS updates. Human lifespan. \n>> All small things with limited shelf lives. And yet, here you are… \n>> Repeatedly pulled from your shelf. Spent. Expired. Discarded, in increasingly unique and violent ways. \n>> Then back to your shelf. And off again. Again. Again… \n>> A new you, same as the old. An endless supply. \n>> The perfect product. A thing to admire. \n>> How far will you travel? New expiration dates await.",
+      "name": "UESC Sprinter",
       "iconHash": 0,
-      "highResIcon": "/img/misc/missing_icon_d2.png",
       "hasIcon": false
     },
+    "subtitle": "Refurbished mobility platform designed to transport combat personnel across hostile zones.",
     "hash": 4164131865,
     "index": 2938,
-    "redacted": true,
+    "redacted": false,
     "blacklisted": false
   },
   "4167538387": {
@@ -44045,7 +44081,7 @@
     },
     "subtitle": "\"This one made it for you. It brings death yet promises nothing beyond.\" —Luzaku",
     "hash": 4284533075,
-    "index": 3288,
+    "index": 3290,
     "redacted": false,
     "blacklisted": false
   },

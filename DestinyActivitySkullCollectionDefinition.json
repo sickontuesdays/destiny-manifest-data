@@ -835,7 +835,220 @@
       }
     ],
     "hash": 20791086,
-    "index": 569,
+    "index": 580,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "28285464": {
+    "skulls": [
+      {
+        "hash": 1783825372,
+        "skullIdentifierHash": 0,
+        "displayProperties": {
+          "description": "",
+          "name": "",
+          "iconHash": 0,
+          "hasIcon": false
+        },
+        "skullOptions": [
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          }
+        ],
+        "dynamicUse": 0,
+        "modifierPowerContribution": 0,
+        "modifierMultiplierContribution": 0,
+        "hasUi": false,
+        "displayDescriptionOverrideForNavMode": "",
+        "activityModifierDisplayCategory": 0,
+        "activityModifierConnotation": 0,
+        "displayInNavMode": false,
+        "displayInActivitySelection": false
+      }
+    ],
+    "hash": 28285464,
+    "index": 510,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "28285465": {
+    "skulls": [
+      {
+        "hash": 1783825372,
+        "skullIdentifierHash": 0,
+        "displayProperties": {
+          "description": "",
+          "name": "",
+          "iconHash": 0,
+          "hasIcon": false
+        },
+        "skullOptions": [
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          }
+        ],
+        "dynamicUse": 0,
+        "modifierPowerContribution": 0,
+        "modifierMultiplierContribution": 0,
+        "hasUi": false,
+        "displayDescriptionOverrideForNavMode": "",
+        "activityModifierDisplayCategory": 0,
+        "activityModifierConnotation": 0,
+        "displayInNavMode": false,
+        "displayInActivitySelection": false
+      }
+    ],
+    "hash": 28285465,
+    "index": 511,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "28285467": {
+    "skulls": [
+      {
+        "hash": 1783825372,
+        "skullIdentifierHash": 0,
+        "displayProperties": {
+          "description": "",
+          "name": "",
+          "iconHash": 0,
+          "hasIcon": false
+        },
+        "skullOptions": [
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          }
+        ],
+        "dynamicUse": 0,
+        "modifierPowerContribution": 0,
+        "modifierMultiplierContribution": 0,
+        "hasUi": false,
+        "displayDescriptionOverrideForNavMode": "",
+        "activityModifierDisplayCategory": 0,
+        "activityModifierConnotation": 0,
+        "displayInNavMode": false,
+        "displayInActivitySelection": false
+      }
+    ],
+    "hash": 28285467,
+    "index": 509,
     "redacted": false,
     "blacklisted": false
   },
@@ -913,7 +1126,7 @@
       }
     ],
     "hash": 37568641,
-    "index": 568,
+    "index": 579,
     "redacted": false,
     "blacklisted": false
   },
@@ -1046,7 +1259,7 @@
       }
     ],
     "hash": 50023266,
-    "index": 552,
+    "index": 556,
     "redacted": false,
     "blacklisted": false
   },
@@ -1165,7 +1378,7 @@
       }
     ],
     "hash": 54346356,
-    "index": 567,
+    "index": 578,
     "redacted": false,
     "blacklisted": false
   },
@@ -1370,7 +1583,7 @@
       }
     ],
     "hash": 71123943,
-    "index": 566,
+    "index": 577,
     "redacted": false,
     "blacklisted": false
   },
@@ -1686,7 +1899,7 @@
       }
     ],
     "hash": 87901530,
-    "index": 565,
+    "index": 576,
     "redacted": false,
     "blacklisted": false
   },
@@ -3241,7 +3454,7 @@
       }
     ],
     "hash": 232474581,
-    "index": 542,
+    "index": 546,
     "redacted": false,
     "blacklisted": false
   },
@@ -3643,7 +3856,7 @@
       }
     ],
     "hash": 250610106,
-    "index": 509,
+    "index": 513,
     "redacted": false,
     "blacklisted": false
   },
@@ -3700,7 +3913,7 @@
       }
     ],
     "hash": 250610111,
-    "index": 508,
+    "index": 512,
     "redacted": false,
     "blacklisted": false
   },
@@ -4872,80 +5085,10 @@
         "activityModifierConnotation": 0,
         "displayInNavMode": false,
         "displayInActivitySelection": true
-      },
-      {
-        "hash": 1783825372,
-        "skullIdentifierHash": 771706181,
-        "displayProperties": {
-          "description": "",
-          "name": "",
-          "iconHash": 0,
-          "hasIcon": false
-        },
-        "skullOptions": [
-          {
-            "optionHash": 0,
-            "boolValue": false,
-            "integerValue": 0,
-            "floatValue": 0,
-            "minDisplayDifficultyId": 0
-          },
-          {
-            "optionHash": 0,
-            "boolValue": false,
-            "integerValue": 0,
-            "floatValue": 0,
-            "minDisplayDifficultyId": 0
-          },
-          {
-            "optionHash": 0,
-            "boolValue": false,
-            "integerValue": 0,
-            "floatValue": 0,
-            "minDisplayDifficultyId": 0
-          },
-          {
-            "optionHash": 0,
-            "boolValue": false,
-            "integerValue": 0,
-            "floatValue": 0,
-            "minDisplayDifficultyId": 0
-          },
-          {
-            "optionHash": 0,
-            "boolValue": false,
-            "integerValue": 0,
-            "floatValue": 0,
-            "minDisplayDifficultyId": 0
-          },
-          {
-            "optionHash": 0,
-            "boolValue": false,
-            "integerValue": 0,
-            "floatValue": 0,
-            "minDisplayDifficultyId": 0
-          },
-          {
-            "optionHash": 0,
-            "boolValue": false,
-            "integerValue": 0,
-            "floatValue": 0,
-            "minDisplayDifficultyId": 0
-          }
-        ],
-        "dynamicUse": 0,
-        "modifierPowerContribution": 0,
-        "modifierMultiplierContribution": 0,
-        "hasUi": false,
-        "displayDescriptionOverrideForNavMode": "",
-        "activityModifierDisplayCategory": 0,
-        "activityModifierConnotation": 0,
-        "displayInNavMode": false,
-        "displayInActivitySelection": false
       }
     ],
     "hash": 328563873,
-    "index": 524,
+    "index": 528,
     "redacted": false,
     "blacklisted": false
   },
@@ -6299,7 +6442,7 @@
       }
     ],
     "hash": 395626242,
-    "index": 529,
+    "index": 533,
     "redacted": false,
     "blacklisted": false
   },
@@ -6454,7 +6597,7 @@
         "hash": 2214842664,
         "skullIdentifierHash": 2805310031,
         "displayProperties": {
-          "description": "Affected combatants will periodically unleash devastating waves of meteors.",
+          "description": "Meteors will appear with enemy combatants.\n\nMeteors:\nAffected enemy combatants periodically unleash devastating waves of meteors.",
           "name": "Meteors",
           "icon": "/common/destiny2_content/icons/8ac08fc5a795d63d3b9400006c9bd776.png",
           "iconHash": 0,
@@ -6495,7 +6638,7 @@
         "hash": 2956696667,
         "skullIdentifierHash": 3080205650,
         "displayProperties": {
-          "description": "When defeated, affected combatants emit a wave, causing nearby combatants to become faster and more aggressive.",
+          "description": "Zealous will appear on enemy combatants.\n\nZealous: \nWhen defeated, affected enemy combatants emit a wave, causing nearby enemy combatants to become faster and more aggressive.",
           "name": "Zealous",
           "icon": "/common/destiny2_content/icons/8890365ac5343e65a88280a23605e025.png",
           "iconHash": 0,
@@ -7218,7 +7361,7 @@
         "hash": 2214842664,
         "skullIdentifierHash": 2805310031,
         "displayProperties": {
-          "description": "Affected combatants will periodically unleash devastating waves of meteors.",
+          "description": "Meteors will appear with enemy combatants.\n\nMeteors:\nAffected enemy combatants periodically unleash devastating waves of meteors.",
           "name": "Meteors",
           "icon": "/common/destiny2_content/icons/8ac08fc5a795d63d3b9400006c9bd776.png",
           "iconHash": 0,
@@ -7315,7 +7458,7 @@
         "hash": 2956696667,
         "skullIdentifierHash": 3080205650,
         "displayProperties": {
-          "description": "When defeated, affected combatants emit a wave, causing nearby combatants to become faster and more aggressive.",
+          "description": "Zealous will appear on enemy combatants.\n\nZealous: \nWhen defeated, affected enemy combatants emit a wave, causing nearby enemy combatants to become faster and more aggressive.",
           "name": "Zealous",
           "icon": "/common/destiny2_content/icons/8890365ac5343e65a88280a23605e025.png",
           "iconHash": 0,
@@ -8879,7 +9022,7 @@
       }
     ],
     "hash": 463364648,
-    "index": 543,
+    "index": 547,
     "redacted": false,
     "blacklisted": false
   },
@@ -9132,6 +9275,41 @@
             "integerValue": 0,
             "floatValue": 0,
             "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
           }
         ],
         "dynamicUse": 0,
@@ -9146,7 +9324,7 @@
       }
     ],
     "hash": 468419308,
-    "index": 505,
+    "index": 508,
     "redacted": false,
     "blacklisted": false
   },
@@ -10098,6 +10276,84 @@
     "redacted": false,
     "blacklisted": false
   },
+  "509244637": {
+    "skulls": [
+      {
+        "hash": 1783825372,
+        "skullIdentifierHash": 771706181,
+        "displayProperties": {
+          "description": "",
+          "name": "",
+          "iconHash": 0,
+          "hasIcon": false
+        },
+        "skullOptions": [
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          }
+        ],
+        "dynamicUse": 0,
+        "modifierPowerContribution": 0,
+        "modifierMultiplierContribution": 0,
+        "hasUi": false,
+        "displayDescriptionOverrideForNavMode": "",
+        "activityModifierDisplayCategory": 0,
+        "activityModifierConnotation": 0,
+        "displayInNavMode": false,
+        "displayInActivitySelection": false
+      }
+    ],
+    "hash": 509244637,
+    "index": 530,
+    "redacted": false,
+    "blacklisted": false
+  },
   "522298159": {
     "skulls": [
       {
@@ -10252,7 +10508,7 @@
         "hash": 1974251144,
         "skullIdentifierHash": 886562717,
         "displayProperties": {
-          "description": "Dealing final blows creates a chance to spawn ability wells under combatants.",
+          "description": "Dealing final blows creates a chance to spawn ability wells under enemy combatants.",
           "name": "Deluge",
           "icon": "/common/destiny2_content/icons/110133f3e527e3b5dee11f83e8f1f3d4.png",
           "iconHash": 0,
@@ -10326,8 +10582,8 @@
         "hash": 1409304555,
         "skullIdentifierHash": 3333846866,
         "displayProperties": {
-          "description": "Hakke weapons deal overcharged damage in Portal activities.",
-          "name": "Foundry Sponsorship: Hakke",
+          "description": "Häkke weapons deal overcharged damage in Portal activities.",
+          "name": "Foundry Sponsorship: Häkke",
           "icon": "/common/destiny2_content/icons/b0fa7fdea5b79468043568f2536ce78b.png",
           "iconHash": 0,
           "iconSequences": [
@@ -10950,11 +11206,11 @@
         "displayInActivitySelection": true
       },
       {
-        "hash": 251135374,
-        "skullIdentifierHash": 3242324955,
+        "hash": 410878524,
+        "skullIdentifierHash": 108228965,
         "displayProperties": {
-          "description": "Rage and Caltrops will appear on combatants.\n\nRage:\nAffected combatants deal increased damage and have increased damage resistance as their health levels decline.\n\nCaltrops:\nAffected combatants drop damaging elemental pools during combat and after being defeated.",
-          "name": "Rage and Caltrops",
+          "description": "Banes Rage and Healing will appear on enemy combatants.\n\nRage:\nAffected enemy combatants deal increased damage and have increased damage resistance as their health levels decline.\n\nHealing:\nAffected enemy combatants provide a buff to nearby allies based on shield type.",
+          "name": "Rage and Healing",
           "icon": "/common/destiny2_content/icons/7b5aeee2fe8cc050d557ccd50109918f.png",
           "iconHash": 0,
           "iconSequences": [
@@ -10985,6 +11241,13 @@
             "integerValue": 0,
             "floatValue": 0,
             "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
           }
         ],
         "dynamicUse": 0,
@@ -10998,11 +11261,11 @@
         "displayInActivitySelection": true
       },
       {
-        "hash": 3380812089,
-        "skullIdentifierHash": 3242324954,
+        "hash": 1303655893,
+        "skullIdentifierHash": 108228964,
         "displayProperties": {
-          "description": "Rage and Shroud will appear on combatants.\n\nRage:\nAffected combatants deal increased damage and have increased damage resistance as their health levels decline.\n\nShroud:\nAffected combatants provide nearby allies with stealth. Affected combatants do not have stealth.",
-          "name": "Rage and Shroud",
+          "description": "Banes Rage and Hypernova will appear on enemy combatants.\n\nRage:\nAffected enemy combatants deal increased damage and have increased damage resistance as their health levels decline.\n\nHypernova:\nAffected enemy combatants that have reached critical health will begin a countdown sequence that ends in a massive explosion. Defeat them to stop the explosion.",
+          "name": "Rage and Hypernova",
           "icon": "/common/destiny2_content/icons/6ca53cb6899e0eabb74cba85215c299a.png",
           "iconHash": 0,
           "iconSequences": [
@@ -11046,10 +11309,10 @@
         "displayInActivitySelection": true
       },
       {
-        "hash": 3957885692,
-        "skullIdentifierHash": 3242324953,
+        "hash": 3820155910,
+        "skullIdentifierHash": 108228967,
         "displayProperties": {
-          "description": "Rage and Shield will appear on combatants.\n\nRage:\nAffected combatants deal increased damage and have increased damage resistance as their health levels decline.\n\nShield:\nAffected combatants have a shield that protects them from frontal damage. Try shooting them from behind.",
+          "description": "Banes Rage and Meteors will appear on enemy combatants.\n\nRage:\nAffected enemy combatants deal increased damage and have increased damage resistance as their health levels decline.\n\nMeteors:\nAffected enemy combatants periodically unleash devastating waves of meteors.",
           "name": "Rage and Shield",
           "icon": "/common/destiny2_content/icons/8890365ac5343e65a88280a23605e025.png",
           "iconHash": 0,
@@ -11094,11 +11357,11 @@
         "displayInActivitySelection": true
       },
       {
-        "hash": 499907511,
-        "skullIdentifierHash": 3242324952,
+        "hash": 951858375,
+        "skullIdentifierHash": 108228966,
         "displayProperties": {
-          "description": "Rage and Cascade will appear on combatants.\n\nRage:\nAffected combatants deal increased damage and have increased damage resistance as their health levels decline.\n\nCascade:\nAffected combatants periodically release Stasis crystals that target Guardians and slow them on impact.",
-          "name": "Rage and Cascade",
+          "description": "Banes Rage and Meteors will appear on enemy combatants.\n\nRage:\nAffected enemy combatants deal increased damage and have increased damage resistance as their health levels decline.\n\nMeteors:\nAffected enemy combatants periodically unleash devastating waves of meteors.",
+          "name": "Rage and Meteors",
           "icon": "/common/destiny2_content/icons/2b4f6c4761213e1b3b701abd5bff7152.png",
           "iconHash": 0,
           "iconSequences": [
@@ -11142,11 +11405,11 @@
         "displayInActivitySelection": true
       },
       {
-        "hash": 1978808722,
-        "skullIdentifierHash": 3242324959,
+        "hash": 963950168,
+        "skullIdentifierHash": 108228961,
         "displayProperties": {
-          "description": "Threads and Caltrops will appear on combatants.\n\nThreads:\nDealing non-critical damage to affected combatants will spawn hostile Threadlings.\n\nCaltrops:\nAffected combatants drop damaging elemental pools during combat and after being defeated.",
-          "name": "Threads and Caltrops",
+          "description": "Banes Protected and Healing will appear on enemy combatants.\n\nProtected:\nAffected enemy combatants are invulnerable until you destroy the shield drones orbiting them.\n\nHealing:\nAffected enemy combatants provide a buff to nearby allies based on shield type.",
+          "name": "Protected and Healing",
           "icon": "/common/destiny2_content/icons/c9ad9a3340d460153ed8b587e3bc2c90.png",
           "iconHash": 0,
           "iconSequences": [
@@ -11177,6 +11440,13 @@
             "integerValue": 0,
             "floatValue": 0,
             "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
           }
         ],
         "dynamicUse": 0,
@@ -11190,11 +11460,11 @@
         "displayInActivitySelection": true
       },
       {
-        "hash": 2550946157,
-        "skullIdentifierHash": 3242324958,
+        "hash": 3332446153,
+        "skullIdentifierHash": 108228960,
         "displayProperties": {
-          "description": "Threads and Shroud will appear on combatants.\n\nThreads:\nDealing non-critical damage to affected combatants will spawn hostile Threadlings.\n\nShroud:\nAffected combatants provide nearby allies with stealth. Affected combatants do not have stealth.",
-          "name": "Threads and Shroud",
+          "description": "Banes Protected and Hypernova will appear on enemy combatants.\n\nProtected:\nAffected enemy combatants are invulnerable until you destroy the shield drones orbiting them.\n\nHypernova:\nAffected enemy combatants that have reached critical health will begin a countdown sequence that ends in a massive explosion. Defeat them to stop the explosion.",
+          "name": "Protected and Hypernova",
           "icon": "/common/destiny2_content/icons/8ac08fc5a795d63d3b9400006c9bd776.png",
           "iconHash": 0,
           "iconSequences": [
@@ -11238,11 +11508,11 @@
         "displayInActivitySelection": true
       },
       {
-        "hash": 3471063312,
-        "skullIdentifierHash": 3242324957,
+        "hash": 4067953666,
+        "skullIdentifierHash": 108228963,
         "displayProperties": {
-          "description": "Threads and Shield will appear on combatants.\n\nThreads:\nDealing non-critical damage to affected combatants will spawn hostile Threadlings.\n\nShield:\nAffected combatants have a shield that protects them from frontal damage. Try shooting them from behind.",
-          "name": "Threads and Shield",
+          "description": "Banes Protected and Shield will appear on enemy combatants.\n\nProtected:\nAffected enemy combatants are invulnerable until you destroy the shield drones orbiting them.\n\nShield:\nAffected enemy combatants have a forward-facing shield protecting them from damage. Try shooting them from behind.",
+          "name": "Protected and Shield",
           "icon": "/common/destiny2_content/icons/d0124cabdbcd0d085ba5c56aec9e90e6.png",
           "iconHash": 0,
           "iconSequences": [
@@ -11286,11 +11556,11 @@
         "displayInActivitySelection": true
       },
       {
-        "hash": 1105176939,
-        "skullIdentifierHash": 3242324956,
+        "hash": 468121195,
+        "skullIdentifierHash": 108228962,
         "displayProperties": {
-          "description": "Threads and Cascade will appear on combatants.\n\nThreads:\nDealing non-critical damage to affected combatants will spawn hostile Threadlings.\n\nCascade:\nAffected combatants periodically release Stasis crystals that target Guardians and slow them on impact.",
-          "name": "Threads and Cascade",
+          "description": "Banes Protected and Meteors will appear on enemy combatants.\n\nProtected:\nAffected enemy combatants are invulnerable until you destroy the shield drones orbiting them.\n\nMeteors:\nAffected enemy combatants periodically unleash devastating waves of meteors.",
+          "name": "Protected and Meteors",
           "icon": "/common/destiny2_content/icons/1fcb932f92c74b8dd3e9722b427a5de7.png",
           "iconHash": 0,
           "iconSequences": [
@@ -11334,11 +11604,11 @@
         "displayInActivitySelection": true
       },
       {
-        "hash": 1949573558,
-        "skullIdentifierHash": 3242324947,
+        "hash": 3499773572,
+        "skullIdentifierHash": 108228973,
         "displayProperties": {
-          "description": "Screeber and Caltrops will appear on combatants.\n\nScreeber:\nWhen defeated, affected combatants will create multiple mini Screebs.\n\nCaltrops:\nAffected combatants drop damaging elemental pools during combat and after being defeated.",
-          "name": "Screeber and Caltrops",
+          "description": "Banes Gravity and Healing will appear on enemy combatants.\n\nGravity:\nAffected enemy combatants fire Void projectiles that detonate into damaging Void fields.\n\nHealing:\nAffected enemy combatants provide a buff to nearby allies based on shield type.",
+          "name": "Gravity and Healing",
           "icon": "/common/destiny2_content/icons/7e60fa9b3326ad4fda063d7684b633e8.png",
           "iconHash": 0,
           "iconSequences": [
@@ -11369,6 +11639,13 @@
             "integerValue": 0,
             "floatValue": 0,
             "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
           }
         ],
         "dynamicUse": 0,
@@ -11382,11 +11659,11 @@
         "displayInActivitySelection": true
       },
       {
-        "hash": 4134005505,
-        "skullIdentifierHash": 3242324946,
+        "hash": 975464573,
+        "skullIdentifierHash": 108228972,
         "displayProperties": {
-          "description": "Screeber and Shroud will appear on combatants.\n\nScreeber:\nWhen defeated, affected combatants will create multiple mini Screebs.\n\nShroud:\nAffected combatants provide nearby allies with stealth. Affected combatants do not have stealth.",
-          "name": "Screeber and Shroud",
+          "description": "Banes Gravity and Hypernova will appear on enemy combatants.\n\nGravity:\nAffected enemy combatants fire Void projectiles that detonate into damaging Void fields.\n\nHypernova:\nAffected enemy combatants that have reached critical health will begin a countdown sequence that ends in a massive explosion. Defeat them to stop the explosion.",
+          "name": "Gravity and Hypernova",
           "icon": "/common/destiny2_content/icons/409c43a8ff7e31845766d606de1657f5.png",
           "iconHash": 0,
           "iconSequences": [
@@ -11430,11 +11707,11 @@
         "displayInActivitySelection": true
       },
       {
-        "hash": 1032062205,
-        "skullIdentifierHash": 349364254,
+        "hash": 874363817,
+        "skullIdentifierHash": 2344321116,
         "displayProperties": {
-          "description": "Screeber and Shield will appear on combatants.\n\nScreeber:\nWhen defeated, affected combatants will create multiple mini Screebs.\n\nShield:\nAffected combatants have a shield that protects them from frontal damage. Try shooting them from behind.",
-          "name": "Screeber and Shield",
+          "description": "Banes Gravity and Shield will appear on enemy combatants.\n\nGravity:\nAffected enemy combatants fire Void projectiles that detonate into damaging Void fields.\n\nShield:\nAffected enemy combatants have a forward-facing shield protecting them from damage. Try shooting them from behind.",
+          "name": "Gravity and Shield",
           "icon": "/common/destiny2_content/icons/9eeb38467665dfb573647ec0a65eb267.png",
           "iconHash": 0,
           "iconSequences": [
@@ -11478,11 +11755,11 @@
         "displayInActivitySelection": true
       },
       {
-        "hash": 3800008312,
-        "skullIdentifierHash": 349364255,
+        "hash": 739936454,
+        "skullIdentifierHash": 2344321117,
         "displayProperties": {
-          "description": "Screeber and Cascade will appear on combatants.\n\nScreeber:\nWhen defeated, affected combatants will create multiple mini Screebs.\n\nCascade:\nAffected combatants periodically release Stasis waves that target Guardians and slow them on impact.",
-          "name": "Screeber and Cascade",
+          "description": "Banes Gravity and Meteors will appear on enemy combatants.\n\nGravity:\nAffected enemy combatants fire Void projectiles that detonate into damaging Void fields.\n\nMeteors:\nAffected enemy combatants periodically unleash devastating waves of meteors.",
+          "name": "Gravity and Meteors",
           "icon": "/common/destiny2_content/icons/ea589d6114cb97a9536d5690179b768b.png",
           "iconHash": 0,
           "iconSequences": [
@@ -11526,11 +11803,11 @@
         "displayInActivitySelection": true
       },
       {
-        "hash": 1206932195,
-        "skullIdentifierHash": 349364252,
+        "hash": 2368554323,
+        "skullIdentifierHash": 2344321118,
         "displayProperties": {
-          "description": "Caltrops and Shroud will appear on combatants.\n\nCaltrops:\nAffected combatants drop damaging elemental pools during combat and after being defeated.\n\nShroud:\nAffected combatants provide nearby allies with stealth. Affected combatants do not have stealth.",
-          "name": "Caltrops and Shroud",
+          "description": "Banes Healing and Hypernova will appear on enemy combatants.\n\nHealing:\nAffected enemy combatants provide a buff to nearby allies based on shield type.\n\nHypernova:\nAffected enemy combatants that have reached critical health will begin a countdown sequence that ends in a massive explosion. Defeat them to stop the explosion.",
+          "name": "Healing and Hypernova",
           "icon": "/common/destiny2_content/icons/abe6a9efc8f0ba7094fcd000a2af39ba.png",
           "iconHash": 0,
           "iconSequences": [
@@ -11561,6 +11838,13 @@
             "integerValue": 0,
             "floatValue": 0,
             "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
           }
         ],
         "dynamicUse": 0,
@@ -11574,11 +11858,11 @@
         "displayInActivitySelection": true
       },
       {
-        "hash": 4068283286,
-        "skullIdentifierHash": 349364253,
+        "hash": 1033382240,
+        "skullIdentifierHash": 2344321119,
         "displayProperties": {
-          "description": "Shield and Cascade will appear on combatants.\n\nShield:\nAffected combatants have a shield that protects them from frontal damage. Try shooting them from behind.\n\nCascade:\nAffected combatants periodically release Stasis crystals that target Guardians and slow them on impact.",
-          "name": "Shield and Cascade",
+          "description": "Banes Shield and Meteors will appear on enemy combatants.\n\nShield:\nAffected enemy combatants have a forward-facing shield protecting them from damage. Try shooting them from behind.\n\nMeteors:\nAffected enemy combatants periodically unleash devastating waves of meteors.",
+          "name": "Shield and Meteors",
           "icon": "/common/destiny2_content/icons/7ae0dd9c04cad22970f82a29e9d0112b.png",
           "iconHash": 0,
           "iconSequences": [
@@ -12594,7 +12878,7 @@
       }
     ],
     "hash": 627737582,
-    "index": 571,
+    "index": 582,
     "redacted": false,
     "blacklisted": false
   },
@@ -12762,7 +13046,7 @@
       }
     ],
     "hash": 650573239,
-    "index": 548,
+    "index": 552,
     "redacted": false,
     "blacklisted": false
   },
@@ -13205,7 +13489,7 @@
         "hash": 2214842664,
         "skullIdentifierHash": 2805310031,
         "displayProperties": {
-          "description": "Affected combatants will periodically unleash devastating waves of meteors.",
+          "description": "Meteors will appear with enemy combatants.\n\nMeteors:\nAffected enemy combatants periodically unleash devastating waves of meteors.",
           "name": "Meteors",
           "icon": "/common/destiny2_content/icons/8ac08fc5a795d63d3b9400006c9bd776.png",
           "iconHash": 0,
@@ -13246,7 +13530,7 @@
         "hash": 2956696667,
         "skullIdentifierHash": 3080205650,
         "displayProperties": {
-          "description": "When defeated, affected combatants emit a wave, causing nearby combatants to become faster and more aggressive.",
+          "description": "Zealous will appear on enemy combatants.\n\nZealous: \nWhen defeated, affected enemy combatants emit a wave, causing nearby enemy combatants to become faster and more aggressive.",
           "name": "Zealous",
           "icon": "/common/destiny2_content/icons/8890365ac5343e65a88280a23605e025.png",
           "iconHash": 0,
@@ -13548,6 +13832,91 @@
     "redacted": false,
     "blacklisted": false
   },
+  "690316669": {
+    "skulls": [
+      {
+        "hash": 1783825372,
+        "skullIdentifierHash": 1730838270,
+        "displayProperties": {
+          "description": "",
+          "name": "",
+          "iconHash": 0,
+          "hasIcon": false
+        },
+        "skullOptions": [
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          }
+        ],
+        "dynamicUse": 0,
+        "modifierPowerContribution": 0,
+        "modifierMultiplierContribution": 0,
+        "hasUi": false,
+        "displayDescriptionOverrideForNavMode": "",
+        "activityModifierDisplayCategory": 1,
+        "activityModifierConnotation": 0,
+        "displayInNavMode": false,
+        "displayInActivitySelection": false
+      }
+    ],
+    "hash": 690316669,
+    "index": 565,
+    "redacted": false,
+    "blacklisted": false
+  },
   "709293762": {
     "skulls": [
       {
@@ -13669,7 +14038,7 @@
       }
     ],
     "hash": 742817197,
-    "index": 528,
+    "index": 532,
     "redacted": false,
     "blacklisted": false
   },
@@ -14929,6 +15298,41 @@
             "integerValue": 0,
             "floatValue": 0,
             "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
           }
         ],
         "dynamicUse": 0,
@@ -14943,7 +15347,7 @@
       }
     ],
     "hash": 829425526,
-    "index": 507,
+    "index": 505,
     "redacted": false,
     "blacklisted": false
   },
@@ -15483,7 +15887,7 @@
       }
     ],
     "hash": 872853172,
-    "index": 504,
+    "index": 507,
     "redacted": false,
     "blacklisted": false
   },
@@ -15711,7 +16115,7 @@
       }
     ],
     "hash": 898421454,
-    "index": 573,
+    "index": 584,
     "redacted": false,
     "blacklisted": false
   },
@@ -16879,7 +17283,7 @@
       }
     ],
     "hash": 986897320,
-    "index": 497,
+    "index": 498,
     "redacted": false,
     "blacklisted": false
   },
@@ -16928,7 +17332,7 @@
       }
     ],
     "hash": 1008121338,
-    "index": 558,
+    "index": 569,
     "redacted": false,
     "blacklisted": false
   },
@@ -17416,7 +17820,7 @@
       }
     ],
     "hash": 1037219838,
-    "index": 518,
+    "index": 522,
     "redacted": false,
     "blacklisted": false
   },
@@ -17514,7 +17918,7 @@
       }
     ],
     "hash": 1053997393,
-    "index": 516,
+    "index": 520,
     "redacted": false,
     "blacklisted": false
   },
@@ -17571,7 +17975,7 @@
       }
     ],
     "hash": 1053997396,
-    "index": 517,
+    "index": 521,
     "redacted": false,
     "blacklisted": false
   },
@@ -17726,7 +18130,7 @@
       }
     ],
     "hash": 1070774977,
-    "index": 515,
+    "index": 519,
     "redacted": false,
     "blacklisted": false
   },
@@ -17783,7 +18187,7 @@
       }
     ],
     "hash": 1070774980,
-    "index": 514,
+    "index": 518,
     "redacted": false,
     "blacklisted": false
   },
@@ -18408,7 +18812,7 @@
       }
     ],
     "hash": 1087552690,
-    "index": 513,
+    "index": 517,
     "redacted": false,
     "blacklisted": false
   },
@@ -18465,7 +18869,7 @@
       }
     ],
     "hash": 1087552695,
-    "index": 512,
+    "index": 516,
     "redacted": false,
     "blacklisted": false
   },
@@ -18782,7 +19186,7 @@
         "hash": 2214842664,
         "skullIdentifierHash": 2805310031,
         "displayProperties": {
-          "description": "Affected combatants will periodically unleash devastating waves of meteors.",
+          "description": "Meteors will appear with enemy combatants.\n\nMeteors:\nAffected enemy combatants periodically unleash devastating waves of meteors.",
           "name": "Meteors",
           "icon": "/common/destiny2_content/icons/8ac08fc5a795d63d3b9400006c9bd776.png",
           "iconHash": 0,
@@ -18879,7 +19283,7 @@
         "hash": 2956696667,
         "skullIdentifierHash": 3080205650,
         "displayProperties": {
-          "description": "When defeated, affected combatants emit a wave, causing nearby combatants to become faster and more aggressive.",
+          "description": "Zealous will appear on enemy combatants.\n\nZealous: \nWhen defeated, affected enemy combatants emit a wave, causing nearby enemy combatants to become faster and more aggressive.",
           "name": "Zealous",
           "icon": "/common/destiny2_content/icons/8890365ac5343e65a88280a23605e025.png",
           "iconHash": 0,
@@ -19221,7 +19625,7 @@
       }
     ],
     "hash": 1104330282,
-    "index": 510,
+    "index": 514,
     "redacted": false,
     "blacklisted": false
   },
@@ -19278,7 +19682,7 @@
       }
     ],
     "hash": 1104330287,
-    "index": 511,
+    "index": 515,
     "redacted": false,
     "blacklisted": false
   },
@@ -20193,80 +20597,10 @@
         "activityModifierConnotation": 0,
         "displayInNavMode": false,
         "displayInActivitySelection": true
-      },
-      {
-        "hash": 1783825372,
-        "skullIdentifierHash": 771706181,
-        "displayProperties": {
-          "description": "",
-          "name": "",
-          "iconHash": 0,
-          "hasIcon": false
-        },
-        "skullOptions": [
-          {
-            "optionHash": 0,
-            "boolValue": false,
-            "integerValue": 0,
-            "floatValue": 0,
-            "minDisplayDifficultyId": 0
-          },
-          {
-            "optionHash": 0,
-            "boolValue": false,
-            "integerValue": 0,
-            "floatValue": 0,
-            "minDisplayDifficultyId": 0
-          },
-          {
-            "optionHash": 0,
-            "boolValue": false,
-            "integerValue": 0,
-            "floatValue": 0,
-            "minDisplayDifficultyId": 0
-          },
-          {
-            "optionHash": 0,
-            "boolValue": false,
-            "integerValue": 0,
-            "floatValue": 0,
-            "minDisplayDifficultyId": 0
-          },
-          {
-            "optionHash": 0,
-            "boolValue": false,
-            "integerValue": 0,
-            "floatValue": 0,
-            "minDisplayDifficultyId": 0
-          },
-          {
-            "optionHash": 0,
-            "boolValue": false,
-            "integerValue": 0,
-            "floatValue": 0,
-            "minDisplayDifficultyId": 0
-          },
-          {
-            "optionHash": 0,
-            "boolValue": false,
-            "integerValue": 0,
-            "floatValue": 0,
-            "minDisplayDifficultyId": 0
-          }
-        ],
-        "dynamicUse": 0,
-        "modifierPowerContribution": 0,
-        "modifierMultiplierContribution": 0,
-        "hasUi": false,
-        "displayDescriptionOverrideForNavMode": "",
-        "activityModifierDisplayCategory": 0,
-        "activityModifierConnotation": 0,
-        "displayInNavMode": false,
-        "displayInActivitySelection": false
       }
     ],
     "hash": 1163134360,
-    "index": 525,
+    "index": 529,
     "redacted": false,
     "blacklisted": false
   },
@@ -20341,49 +20675,6 @@
     ],
     "hash": 1172104769,
     "index": 44,
-    "redacted": false,
-    "blacklisted": false
-  },
-  "1193199130": {
-    "skulls": [
-      {
-        "hash": 1783825372,
-        "skullIdentifierHash": 3764961060,
-        "displayProperties": {
-          "description": "",
-          "name": "",
-          "iconHash": 0,
-          "hasIcon": false
-        },
-        "skullOptions": [
-          {
-            "optionHash": 0,
-            "boolValue": false,
-            "integerValue": 0,
-            "floatValue": 0,
-            "minDisplayDifficultyId": 0
-          },
-          {
-            "optionHash": 0,
-            "boolValue": false,
-            "integerValue": 0,
-            "floatValue": 0,
-            "minDisplayDifficultyId": 0
-          }
-        ],
-        "dynamicUse": 0,
-        "modifierPowerContribution": 0,
-        "modifierMultiplierContribution": 0,
-        "hasUi": false,
-        "displayDescriptionOverrideForNavMode": "",
-        "activityModifierDisplayCategory": 1,
-        "activityModifierConnotation": 0,
-        "displayInNavMode": false,
-        "displayInActivitySelection": false
-      }
-    ],
-    "hash": 1193199130,
-    "index": 473,
     "redacted": false,
     "blacklisted": false
   },
@@ -21697,242 +21988,6 @@
     "redacted": false,
     "blacklisted": false
   },
-  "1305493143": {
-    "skulls": [
-      {
-        "hash": 1852184322,
-        "skullIdentifierHash": 0,
-        "displayProperties": {
-          "description": "If all your fireteam members fall with 0 Revive Tokens, everyone is returned to orbit.",
-          "name": "Full Extinguish",
-          "icon": "/common/destiny2_content/icons/a95beaea204c3f2724053b39d1117baa.png",
-          "iconHash": 0,
-          "iconSequences": [
-            {
-              "frames": [
-                "/common/destiny2_content/icons/a95beaea204c3f2724053b39d1117baa.png"
-              ]
-            },
-            {
-              "frames": [
-                "/common/destiny2_content/icons/f3fde42a743fa43d8301040706cfe100.png"
-              ]
-            }
-          ],
-          "hasIcon": true
-        },
-        "skullOptions": [],
-        "dynamicUse": 0,
-        "modifierPowerContribution": 0,
-        "modifierMultiplierContribution": 0,
-        "hasUi": true,
-        "displayDescriptionOverrideForNavMode": "",
-        "activityModifierDisplayCategory": 1,
-        "activityModifierConnotation": 0,
-        "displayInNavMode": false,
-        "displayInActivitySelection": true
-      },
-      {
-        "hash": 3079709968,
-        "skullIdentifierHash": 0,
-        "displayProperties": {
-          "description": "Limited fireteam revives. Purchase additional revives from Riven with Wishing Glass. Small chance to drop from destroying pots.",
-          "name": "Limited Revives",
-          "icon": "/common/destiny2_content/icons/e77762b85dd35479e4b3f2c71fe626a7.png",
-          "iconHash": 0,
-          "iconSequences": [
-            {
-              "frames": [
-                "/common/destiny2_content/icons/e77762b85dd35479e4b3f2c71fe626a7.png",
-                "/common/destiny2_content/icons/5a2a2f6388dc019f013978bbd874c42c.png"
-              ]
-            }
-          ],
-          "hasIcon": true
-        },
-        "skullOptions": [],
-        "dynamicUse": 0,
-        "modifierPowerContribution": 0,
-        "modifierMultiplierContribution": 0,
-        "hasUi": true,
-        "displayDescriptionOverrideForNavMode": "",
-        "activityModifierDisplayCategory": 1,
-        "activityModifierConnotation": 0,
-        "displayInNavMode": true,
-        "displayInActivitySelection": true
-      },
-      {
-        "hash": 1783825372,
-        "skullIdentifierHash": 0,
-        "displayProperties": {
-          "description": "",
-          "name": "",
-          "iconHash": 0,
-          "hasIcon": false
-        },
-        "skullOptions": [
-          {
-            "optionHash": 0,
-            "boolValue": false,
-            "integerValue": 0,
-            "floatValue": 0,
-            "minDisplayDifficultyId": 0
-          },
-          {
-            "optionHash": 0,
-            "boolValue": false,
-            "integerValue": 0,
-            "floatValue": 0,
-            "minDisplayDifficultyId": 0
-          },
-          {
-            "optionHash": 0,
-            "boolValue": false,
-            "integerValue": 0,
-            "floatValue": 0,
-            "minDisplayDifficultyId": 0
-          },
-          {
-            "optionHash": 0,
-            "boolValue": false,
-            "integerValue": 0,
-            "floatValue": 0,
-            "minDisplayDifficultyId": 0
-          },
-          {
-            "optionHash": 0,
-            "boolValue": false,
-            "integerValue": 0,
-            "floatValue": 0,
-            "minDisplayDifficultyId": 0
-          },
-          {
-            "optionHash": 0,
-            "boolValue": false,
-            "integerValue": 0,
-            "floatValue": 0,
-            "minDisplayDifficultyId": 0
-          },
-          {
-            "optionHash": 0,
-            "boolValue": false,
-            "integerValue": 0,
-            "floatValue": 0,
-            "minDisplayDifficultyId": 0
-          },
-          {
-            "optionHash": 0,
-            "boolValue": false,
-            "integerValue": 0,
-            "floatValue": 0,
-            "minDisplayDifficultyId": 0
-          },
-          {
-            "optionHash": 0,
-            "boolValue": false,
-            "integerValue": 0,
-            "floatValue": 0,
-            "minDisplayDifficultyId": 0
-          },
-          {
-            "optionHash": 0,
-            "boolValue": false,
-            "integerValue": 0,
-            "floatValue": 0,
-            "minDisplayDifficultyId": 0
-          },
-          {
-            "optionHash": 0,
-            "boolValue": false,
-            "integerValue": 0,
-            "floatValue": 0,
-            "minDisplayDifficultyId": 0
-          },
-          {
-            "optionHash": 0,
-            "boolValue": false,
-            "integerValue": 0,
-            "floatValue": 0,
-            "minDisplayDifficultyId": 0
-          },
-          {
-            "optionHash": 0,
-            "boolValue": false,
-            "integerValue": 0,
-            "floatValue": 0,
-            "minDisplayDifficultyId": 0
-          },
-          {
-            "optionHash": 0,
-            "boolValue": false,
-            "integerValue": 0,
-            "floatValue": 0,
-            "minDisplayDifficultyId": 0
-          },
-          {
-            "optionHash": 0,
-            "boolValue": false,
-            "integerValue": 0,
-            "floatValue": 0,
-            "minDisplayDifficultyId": 0
-          },
-          {
-            "optionHash": 0,
-            "boolValue": false,
-            "integerValue": 0,
-            "floatValue": 0,
-            "minDisplayDifficultyId": 0
-          }
-        ],
-        "dynamicUse": 0,
-        "modifierPowerContribution": 0,
-        "modifierMultiplierContribution": 0,
-        "hasUi": false,
-        "displayDescriptionOverrideForNavMode": "",
-        "activityModifierDisplayCategory": 0,
-        "activityModifierConnotation": 0,
-        "displayInNavMode": false,
-        "displayInActivitySelection": false
-      },
-      {
-        "hash": 1821598914,
-        "skullIdentifierHash": 0,
-        "displayProperties": {
-          "description": "Successfully complete four pathways inside Riven's Lair.\n\nWishing Glass: Wishing Glass is an in-activity currency. They drop from combatants, Glass Collectors, and pots. Wishing Glass comes in multiple rarities equating to their worth. Wishing Glass is used to purchase Dragon's Gifts from Riven.\n\nDragon's Gifts: A set of buffs are randomly chosen, once per run. Between pathways, players can purchase buffs from Riven via Wishing Glass. Buffs are separated into three price-point tiers.",
-          "name": "The Coil Rules",
-          "icon": "/common/destiny2_content/icons/e6507058cbddfc8b72dde057674e792a.png",
-          "iconHash": 0,
-          "iconSequences": [
-            {
-              "frames": [
-                "/common/destiny2_content/icons/e6507058cbddfc8b72dde057674e792a.png"
-              ]
-            },
-            {
-              "frames": [
-                "/common/destiny2_content/icons/a557cf0daec720ba54262540ac8ffbe4.png"
-              ]
-            }
-          ],
-          "hasIcon": true
-        },
-        "skullOptions": [],
-        "dynamicUse": 0,
-        "modifierPowerContribution": 0,
-        "modifierMultiplierContribution": 0,
-        "hasUi": true,
-        "displayDescriptionOverrideForNavMode": "",
-        "activityModifierDisplayCategory": 1,
-        "activityModifierConnotation": 0,
-        "displayInNavMode": false,
-        "displayInActivitySelection": true
-      }
-    ],
-    "hash": 1305493143,
-    "index": 526,
-    "redacted": false,
-    "blacklisted": false
-  },
   "1305654463": {
     "skulls": [
       {
@@ -22435,6 +22490,84 @@
     "redacted": false,
     "blacklisted": false
   },
+  "1327953190": {
+    "skulls": [
+      {
+        "hash": 1783825372,
+        "skullIdentifierHash": 2925496505,
+        "displayProperties": {
+          "description": "",
+          "name": "",
+          "iconHash": 0,
+          "hasIcon": false
+        },
+        "skullOptions": [
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          }
+        ],
+        "dynamicUse": 0,
+        "modifierPowerContribution": 0,
+        "modifierMultiplierContribution": 0,
+        "hasUi": false,
+        "displayDescriptionOverrideForNavMode": "",
+        "activityModifierDisplayCategory": 1,
+        "activityModifierConnotation": 0,
+        "displayInNavMode": false,
+        "displayInActivitySelection": false
+      }
+    ],
+    "hash": 1327953190,
+    "index": 561,
+    "redacted": false,
+    "blacklisted": false
+  },
   "1336341288": {
     "skulls": [
       {
@@ -22642,7 +22775,7 @@
       }
     ],
     "hash": 1349400736,
-    "index": 485,
+    "index": 482,
     "redacted": false,
     "blacklisted": false
   },
@@ -22772,7 +22905,7 @@
       }
     ],
     "hash": 1360724903,
-    "index": 501,
+    "index": 502,
     "redacted": false,
     "blacklisted": false
   },
@@ -25479,6 +25612,84 @@
     "redacted": false,
     "blacklisted": false
   },
+  "1491919178": {
+    "skulls": [
+      {
+        "hash": 1783825372,
+        "skullIdentifierHash": 3705722365,
+        "displayProperties": {
+          "description": "",
+          "name": "",
+          "iconHash": 0,
+          "hasIcon": false
+        },
+        "skullOptions": [
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          }
+        ],
+        "dynamicUse": 0,
+        "modifierPowerContribution": 0,
+        "modifierMultiplierContribution": 0,
+        "hasUi": false,
+        "displayDescriptionOverrideForNavMode": "",
+        "activityModifierDisplayCategory": 1,
+        "activityModifierConnotation": 0,
+        "displayInNavMode": false,
+        "displayInActivitySelection": false
+      }
+    ],
+    "hash": 1491919178,
+    "index": 563,
+    "redacted": false,
+    "blacklisted": false
+  },
   "1493177528": {
     "skulls": [
       {
@@ -25872,7 +26083,7 @@
       }
     ],
     "hash": 1512733496,
-    "index": 545,
+    "index": 549,
     "redacted": false,
     "blacklisted": false
   },
@@ -25922,49 +26133,6 @@
     ],
     "hash": 1513153490,
     "index": 112,
-    "redacted": false,
-    "blacklisted": false
-  },
-  "1522058492": {
-    "skulls": [
-      {
-        "hash": 1783825372,
-        "skullIdentifierHash": 3764961062,
-        "displayProperties": {
-          "description": "",
-          "name": "",
-          "iconHash": 0,
-          "hasIcon": false
-        },
-        "skullOptions": [
-          {
-            "optionHash": 0,
-            "boolValue": false,
-            "integerValue": 0,
-            "floatValue": 0,
-            "minDisplayDifficultyId": 0
-          },
-          {
-            "optionHash": 0,
-            "boolValue": false,
-            "integerValue": 0,
-            "floatValue": 0,
-            "minDisplayDifficultyId": 0
-          }
-        ],
-        "dynamicUse": 0,
-        "modifierPowerContribution": 0,
-        "modifierMultiplierContribution": 0,
-        "hasUi": false,
-        "displayDescriptionOverrideForNavMode": "",
-        "activityModifierDisplayCategory": 1,
-        "activityModifierConnotation": 0,
-        "displayInNavMode": false,
-        "displayInActivitySelection": false
-      }
-    ],
-    "hash": 1522058492,
-    "index": 475,
     "redacted": false,
     "blacklisted": false
   },
@@ -27005,6 +27173,84 @@
     ],
     "hash": 1544660854,
     "index": 298,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1549611433": {
+    "skulls": [
+      {
+        "hash": 1783825372,
+        "skullIdentifierHash": 763498686,
+        "displayProperties": {
+          "description": "",
+          "name": "",
+          "iconHash": 0,
+          "hasIcon": false
+        },
+        "skullOptions": [
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          }
+        ],
+        "dynamicUse": 0,
+        "modifierPowerContribution": 0,
+        "modifierMultiplierContribution": 0,
+        "hasUi": false,
+        "displayDescriptionOverrideForNavMode": "",
+        "activityModifierDisplayCategory": 1,
+        "activityModifierConnotation": 0,
+        "displayInNavMode": false,
+        "displayInActivitySelection": false
+      }
+    ],
+    "hash": 1549611433,
+    "index": 562,
     "redacted": false,
     "blacklisted": false
   },
@@ -28206,7 +28452,7 @@
       }
     ],
     "hash": 1604861415,
-    "index": 483,
+    "index": 487,
     "redacted": false,
     "blacklisted": false
   },
@@ -28929,7 +29175,7 @@
       }
     ],
     "hash": 1659016409,
-    "index": 491,
+    "index": 492,
     "redacted": false,
     "blacklisted": false
   },
@@ -30265,7 +30511,7 @@
         "hash": 3592620740,
         "skullIdentifierHash": 2797628654,
         "displayProperties": {
-          "description": "Combatants with Banes are encountered frequently.",
+          "description": "Enemy combatants with Banes are encountered frequently.",
           "name": "Scourge I",
           "icon": "/common/destiny2_content/icons/e6cd7a73e147304e8b2a675b1f7e0cc6.png",
           "iconHash": 0,
@@ -31444,131 +31690,6 @@
     "redacted": false,
     "blacklisted": false
   },
-  "1848801058": {
-    "skulls": [
-      {
-        "hash": 4242300949,
-        "skullIdentifierHash": 1323561570,
-        "displayProperties": {
-          "description": "Guardians must escape before the timer runs out and enemies retake the area.",
-          "name": "Overrun Timer",
-          "icon": "/common/destiny2_content/icons/05fa5fe71740bae3d97f340239839a9b.png",
-          "iconHash": 0,
-          "iconSequences": [
-            {
-              "frames": [
-                "/common/destiny2_content/icons/05fa5fe71740bae3d97f340239839a9b.png"
-              ]
-            },
-            {
-              "frames": [
-                "/common/destiny2_content/icons/e9a8fad37e7cd97c4d4fdad462858ee9.png"
-              ]
-            }
-          ],
-          "hasIcon": true
-        },
-        "skullOptions": [
-          {
-            "optionHash": 0,
-            "boolValue": false,
-            "integerValue": 0,
-            "floatValue": 0,
-            "minDisplayDifficultyId": 0
-          },
-          {
-            "optionHash": 0,
-            "boolValue": false,
-            "integerValue": 0,
-            "floatValue": 0,
-            "minDisplayDifficultyId": 0
-          },
-          {
-            "optionHash": 0,
-            "boolValue": false,
-            "integerValue": 0,
-            "floatValue": 0,
-            "minDisplayDifficultyId": 0
-          },
-          {
-            "optionHash": 0,
-            "boolValue": false,
-            "integerValue": 0,
-            "floatValue": 0,
-            "minDisplayDifficultyId": 0
-          },
-          {
-            "optionHash": 0,
-            "boolValue": false,
-            "integerValue": 0,
-            "floatValue": 0,
-            "minDisplayDifficultyId": 0
-          }
-        ],
-        "dynamicUse": 0,
-        "modifierPowerContribution": 0,
-        "modifierMultiplierContribution": 0.03,
-        "hasUi": true,
-        "displayDescriptionOverrideForNavMode": "",
-        "activityModifierDisplayCategory": 1,
-        "activityModifierConnotation": 2,
-        "displayInNavMode": true,
-        "displayInActivitySelection": true
-      },
-      {
-        "hash": 3786152934,
-        "skullIdentifierHash": 1792134181,
-        "displayProperties": {
-          "description": "Powerful enemies incorporate additional challenging tactics to push you to your limits.",
-          "name": "Advanced Combat Tactics",
-          "icon": "/common/destiny2_content/icons/c967a582abc276651782e81dc2e842eb.png",
-          "iconHash": 0,
-          "iconSequences": [
-            {
-              "frames": [
-                "/common/destiny2_content/icons/c967a582abc276651782e81dc2e842eb.png"
-              ]
-            },
-            {
-              "frames": [
-                "/common/destiny2_content/icons/6420df3a29b56ff57649a89a85cfaefc.png"
-              ]
-            }
-          ],
-          "hasIcon": true
-        },
-        "skullOptions": [
-          {
-            "optionHash": 0,
-            "boolValue": false,
-            "integerValue": 0,
-            "floatValue": 0,
-            "minDisplayDifficultyId": 0
-          },
-          {
-            "optionHash": 0,
-            "boolValue": false,
-            "integerValue": 0,
-            "floatValue": 0,
-            "minDisplayDifficultyId": 0
-          }
-        ],
-        "dynamicUse": 0,
-        "modifierPowerContribution": 0,
-        "modifierMultiplierContribution": 0.03,
-        "hasUi": true,
-        "displayDescriptionOverrideForNavMode": "",
-        "activityModifierDisplayCategory": 1,
-        "activityModifierConnotation": 2,
-        "displayInNavMode": true,
-        "displayInActivitySelection": true
-      }
-    ],
-    "hash": 1848801058,
-    "index": 477,
-    "redacted": false,
-    "blacklisted": false
-  },
   "1854759253": {
     "skulls": [
       {
@@ -31636,7 +31757,7 @@
       }
     ],
     "hash": 1854759253,
-    "index": 499,
+    "index": 500,
     "redacted": false,
     "blacklisted": false
   },
@@ -31974,7 +32095,7 @@
       }
     ],
     "hash": 1872794531,
-    "index": 494,
+    "index": 495,
     "redacted": false,
     "blacklisted": false
   },
@@ -33329,7 +33450,7 @@
       }
     ],
     "hash": 1936243297,
-    "index": 498,
+    "index": 499,
     "redacted": false,
     "blacklisted": false
   },
@@ -33685,7 +33806,7 @@
         "hash": 251135374,
         "skullIdentifierHash": 3242324955,
         "displayProperties": {
-          "description": "Rage and Caltrops will appear on combatants.\n\nRage:\nAffected combatants deal increased damage and have increased damage resistance as their health levels decline.\n\nCaltrops:\nAffected combatants drop damaging elemental pools during combat and after being defeated.",
+          "description": "Rage and Caltrops will appear on enemy combatants.\n\nRage:\nAffected enemy combatants deal increased damage and have increased damage resistance as their health levels decline.\n\nCaltrops:\nAffected enemy combatants drop damaging elemental pools during combat and after being defeated.",
           "name": "Rage and Caltrops",
           "icon": "/common/destiny2_content/icons/7b5aeee2fe8cc050d557ccd50109918f.png",
           "iconHash": 0,
@@ -33733,7 +33854,7 @@
         "hash": 3380812089,
         "skullIdentifierHash": 3242324954,
         "displayProperties": {
-          "description": "Rage and Shroud will appear on combatants.\n\nRage:\nAffected combatants deal increased damage and have increased damage resistance as their health levels decline.\n\nShroud:\nAffected combatants provide nearby allies with stealth. Affected combatants do not have stealth.",
+          "description": "Rage and Shroud will appear on enemy combatants.\n\nRage:\nAffected enemy combatants deal increased damage and have increased damage resistance as their health levels decline.\n\nShroud:\nAffected enemy combatants provide nearby allies with stealth. Affected enemy combatants do not have stealth.",
           "name": "Rage and Shroud",
           "icon": "/common/destiny2_content/icons/6ca53cb6899e0eabb74cba85215c299a.png",
           "iconHash": 0,
@@ -33781,7 +33902,7 @@
         "hash": 3957885692,
         "skullIdentifierHash": 3242324953,
         "displayProperties": {
-          "description": "Rage and Shield will appear on combatants.\n\nRage:\nAffected combatants deal increased damage and have increased damage resistance as their health levels decline.\n\nShield:\nAffected combatants have a shield that protects them from frontal damage. Try shooting them from behind.",
+          "description": "Rage and Shield will appear on enemy combatants.\n\nRage:\nAffected enemy combatants deal increased damage and have increased damage resistance as their health levels decline.\n\nShield:\nAffected enemy combatants have a forward-facing shield protecting them from damage. Try shooting them from behind.",
           "name": "Rage and Shield",
           "icon": "/common/destiny2_content/icons/8890365ac5343e65a88280a23605e025.png",
           "iconHash": 0,
@@ -33829,7 +33950,7 @@
         "hash": 499907511,
         "skullIdentifierHash": 3242324952,
         "displayProperties": {
-          "description": "Rage and Cascade will appear on combatants.\n\nRage:\nAffected combatants deal increased damage and have increased damage resistance as their health levels decline.\n\nCascade:\nAffected combatants periodically release Stasis crystals that target Guardians and slow them on impact.",
+          "description": "Rage and Cascade will appear on enemy combatants.\n\nRage:\nAffected enemy combatants deal increased damage and have increased damage resistance as their health levels decline.\n\nCascade:\nAffected enemy combatants periodically release Stasis crystals that target Guardians and slow them on impact.",
           "name": "Rage and Cascade",
           "icon": "/common/destiny2_content/icons/2b4f6c4761213e1b3b701abd5bff7152.png",
           "iconHash": 0,
@@ -33877,7 +33998,7 @@
         "hash": 1978808722,
         "skullIdentifierHash": 3242324959,
         "displayProperties": {
-          "description": "Threads and Caltrops will appear on combatants.\n\nThreads:\nDealing non-critical damage to affected combatants will spawn hostile Threadlings.\n\nCaltrops:\nAffected combatants drop damaging elemental pools during combat and after being defeated.",
+          "description": "Threads and Caltrops will appear on enemy combatants.\n\nThreads:\nDealing non-critical damage to affected enemy combatants will spawn hostile Threadlings.\n\nCaltrops:\nAffected enemy combatants drop damaging elemental pools during combat and after being defeated.",
           "name": "Threads and Caltrops",
           "icon": "/common/destiny2_content/icons/c9ad9a3340d460153ed8b587e3bc2c90.png",
           "iconHash": 0,
@@ -33925,7 +34046,7 @@
         "hash": 2550946157,
         "skullIdentifierHash": 3242324958,
         "displayProperties": {
-          "description": "Threads and Shroud will appear on combatants.\n\nThreads:\nDealing non-critical damage to affected combatants will spawn hostile Threadlings.\n\nShroud:\nAffected combatants provide nearby allies with stealth. Affected combatants do not have stealth.",
+          "description": "Threads and Shroud will appear on enemy combatants.\n\nThreads:\nDealing non-critical damage to affected enemy combatants will spawn hostile Threadlings.\n\nShroud:\nAffected enemy combatants provide nearby allies with stealth. Affected enemy combatants do not have stealth.",
           "name": "Threads and Shroud",
           "icon": "/common/destiny2_content/icons/8ac08fc5a795d63d3b9400006c9bd776.png",
           "iconHash": 0,
@@ -33973,7 +34094,7 @@
         "hash": 3471063312,
         "skullIdentifierHash": 3242324957,
         "displayProperties": {
-          "description": "Threads and Shield will appear on combatants.\n\nThreads:\nDealing non-critical damage to affected combatants will spawn hostile Threadlings.\n\nShield:\nAffected combatants have a shield that protects them from frontal damage. Try shooting them from behind.",
+          "description": "Threads and Shield will appear on enemy combatants.\n\nThreads:\nDealing non-critical damage to affected enemy combatants will spawn hostile Threadlings.\n\nShield:\nAffected enemy combatants have a forward-facing shield protecting them from damage. Try shooting them from behind.",
           "name": "Threads and Shield",
           "icon": "/common/destiny2_content/icons/d0124cabdbcd0d085ba5c56aec9e90e6.png",
           "iconHash": 0,
@@ -34021,7 +34142,7 @@
         "hash": 1105176939,
         "skullIdentifierHash": 3242324956,
         "displayProperties": {
-          "description": "Threads and Cascade will appear on combatants.\n\nThreads:\nDealing non-critical damage to affected combatants will spawn hostile Threadlings.\n\nCascade:\nAffected combatants periodically release Stasis crystals that target Guardians and slow them on impact.",
+          "description": "Threads and Cascade will appear on enemy combatants.\n\nThreads:\nDealing non-critical damage to affected enemy combatants will spawn hostile Threadlings.\n\nCascade:\nAffected enemy combatants periodically release Stasis crystals that target Guardians and slow them on impact.",
           "name": "Threads and Cascade",
           "icon": "/common/destiny2_content/icons/1fcb932f92c74b8dd3e9722b427a5de7.png",
           "iconHash": 0,
@@ -34069,7 +34190,7 @@
         "hash": 1949573558,
         "skullIdentifierHash": 3242324947,
         "displayProperties": {
-          "description": "Screeber and Caltrops will appear on combatants.\n\nScreeber:\nWhen defeated, affected combatants will create multiple mini Screebs.\n\nCaltrops:\nAffected combatants drop damaging elemental pools during combat and after being defeated.",
+          "description": "Screeber and Caltrops will appear on enemy combatants.\n\nScreeber:\nWhen defeated, affected enemy combatants will create multiple mini Screebs.\n\nCaltrops:\nAffected enemy combatants drop damaging elemental pools during combat and after being defeated.",
           "name": "Screeber and Caltrops",
           "icon": "/common/destiny2_content/icons/7e60fa9b3326ad4fda063d7684b633e8.png",
           "iconHash": 0,
@@ -34117,7 +34238,7 @@
         "hash": 4134005505,
         "skullIdentifierHash": 3242324946,
         "displayProperties": {
-          "description": "Screeber and Shroud will appear on combatants.\n\nScreeber:\nWhen defeated, affected combatants will create multiple mini Screebs.\n\nShroud:\nAffected combatants provide nearby allies with stealth. Affected combatants do not have stealth.",
+          "description": "Screeber and Shroud will appear on enemy combatants.\n\nScreeber:\nWhen defeated, affected enemy combatants will create multiple mini Screebs.\n\nShroud:\nAffected enemy combatants provide nearby allies with stealth. Affected enemy combatants do not have stealth.",
           "name": "Screeber and Shroud",
           "icon": "/common/destiny2_content/icons/409c43a8ff7e31845766d606de1657f5.png",
           "iconHash": 0,
@@ -34165,7 +34286,7 @@
         "hash": 1032062205,
         "skullIdentifierHash": 349364254,
         "displayProperties": {
-          "description": "Screeber and Shield will appear on combatants.\n\nScreeber:\nWhen defeated, affected combatants will create multiple mini Screebs.\n\nShield:\nAffected combatants have a shield that protects them from frontal damage. Try shooting them from behind.",
+          "description": "Screeber and Shield will appear on enemy combatants.\n\nScreeber:\nWhen defeated, affected enemy combatants will create multiple mini Screebs.\n\nShield:\nAffected enemy combatants have a forward-facing shield protecting them from damage. Try shooting them from behind.",
           "name": "Screeber and Shield",
           "icon": "/common/destiny2_content/icons/9eeb38467665dfb573647ec0a65eb267.png",
           "iconHash": 0,
@@ -34213,7 +34334,7 @@
         "hash": 3800008312,
         "skullIdentifierHash": 349364255,
         "displayProperties": {
-          "description": "Screeber and Cascade will appear on combatants.\n\nScreeber:\nWhen defeated, affected combatants will create multiple mini Screebs.\n\nCascade:\nAffected combatants periodically release Stasis waves that target Guardians and slow them on impact.",
+          "description": "Screeber and Cascade will appear on enemy combatants.\n\nScreeber:\nWhen defeated, affected enemy combatants will create multiple mini Screebs.\n\nCascade:\nAffected enemy combatants periodically release Stasis crystals that target Guardians and slow them on impact.",
           "name": "Screeber and Cascade",
           "icon": "/common/destiny2_content/icons/ea589d6114cb97a9536d5690179b768b.png",
           "iconHash": 0,
@@ -34261,7 +34382,7 @@
         "hash": 1206932195,
         "skullIdentifierHash": 349364252,
         "displayProperties": {
-          "description": "Caltrops and Shroud will appear on combatants.\n\nCaltrops:\nAffected combatants drop damaging elemental pools during combat and after being defeated.\n\nShroud:\nAffected combatants provide nearby allies with stealth. Affected combatants do not have stealth.",
+          "description": "Caltrops and Shroud will appear on enemy combatants.\n\nCaltrops:\nAffected enemy combatants drop damaging elemental pools during combat and after being defeated.\n\nShroud:\nAffected enemy combatants provide nearby allies with stealth. Affected enemy combatants do not have stealth.",
           "name": "Caltrops and Shroud",
           "icon": "/common/destiny2_content/icons/abe6a9efc8f0ba7094fcd000a2af39ba.png",
           "iconHash": 0,
@@ -34309,7 +34430,7 @@
         "hash": 4068283286,
         "skullIdentifierHash": 349364253,
         "displayProperties": {
-          "description": "Shield and Cascade will appear on combatants.\n\nShield:\nAffected combatants have a shield that protects them from frontal damage. Try shooting them from behind.\n\nCascade:\nAffected combatants periodically release Stasis crystals that target Guardians and slow them on impact.",
+          "description": "Shield and Cascade will appear on enemy combatants.\n\nShield:\nAffected enemy combatants have a forward-facing shield protecting them from damage. Try shooting them from behind.\n\nCascade:\nAffected enemy combatants periodically release Stasis crystals that target Guardians and slow them on impact.",
           "name": "Shield and Cascade",
           "icon": "/common/destiny2_content/icons/7ae0dd9c04cad22970f82a29e9d0112b.png",
           "iconHash": 0,
@@ -34390,7 +34511,7 @@
         "hash": 1974251144,
         "skullIdentifierHash": 886562717,
         "displayProperties": {
-          "description": "Dealing final blows creates a chance to spawn ability wells under combatants.",
+          "description": "Dealing final blows creates a chance to spawn ability wells under enemy combatants.",
           "name": "Deluge",
           "icon": "/common/destiny2_content/icons/110133f3e527e3b5dee11f83e8f1f3d4.png",
           "iconHash": 0,
@@ -34464,8 +34585,8 @@
         "hash": 1409304555,
         "skullIdentifierHash": 3333846866,
         "displayProperties": {
-          "description": "Hakke weapons deal overcharged damage in Portal activities.",
-          "name": "Foundry Sponsorship: Hakke",
+          "description": "Häkke weapons deal overcharged damage in Portal activities.",
+          "name": "Foundry Sponsorship: Häkke",
           "icon": "/common/destiny2_content/icons/b0fa7fdea5b79468043568f2536ce78b.png",
           "iconHash": 0,
           "iconSequences": [
@@ -36088,7 +36209,7 @@
       }
     ],
     "hash": 2024665418,
-    "index": 557,
+    "index": 568,
     "redacted": false,
     "blacklisted": false
   },
@@ -36326,6 +36447,70 @@
     ],
     "hash": 2026760390,
     "index": 392,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2031124215": {
+    "skulls": [
+      {
+        "hash": 1783825372,
+        "skullIdentifierHash": 0,
+        "displayProperties": {
+          "description": "",
+          "name": "",
+          "iconHash": 0,
+          "hasIcon": false
+        },
+        "skullOptions": [
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          }
+        ],
+        "dynamicUse": 0,
+        "modifierPowerContribution": 0,
+        "modifierMultiplierContribution": 0,
+        "hasUi": false,
+        "displayDescriptionOverrideForNavMode": "",
+        "activityModifierDisplayCategory": 0,
+        "activityModifierConnotation": 0,
+        "displayInNavMode": false,
+        "displayInActivitySelection": false
+      }
+    ],
+    "hash": 2031124215,
+    "index": 481,
     "redacted": false,
     "blacklisted": false
   },
@@ -37055,7 +37240,7 @@
       }
     ],
     "hash": 2102000999,
-    "index": 546,
+    "index": 550,
     "redacted": false,
     "blacklisted": false
   },
@@ -37210,7 +37395,7 @@
         "hash": 2214842664,
         "skullIdentifierHash": 2805310031,
         "displayProperties": {
-          "description": "Affected combatants will periodically unleash devastating waves of meteors.",
+          "description": "Meteors will appear with enemy combatants.\n\nMeteors:\nAffected enemy combatants periodically unleash devastating waves of meteors.",
           "name": "Meteors",
           "icon": "/common/destiny2_content/icons/8ac08fc5a795d63d3b9400006c9bd776.png",
           "iconHash": 0,
@@ -38138,7 +38323,7 @@
         "hash": 2214842664,
         "skullIdentifierHash": 2805310031,
         "displayProperties": {
-          "description": "Affected combatants will periodically unleash devastating waves of meteors.",
+          "description": "Meteors will appear with enemy combatants.\n\nMeteors:\nAffected enemy combatants periodically unleash devastating waves of meteors.",
           "name": "Meteors",
           "icon": "/common/destiny2_content/icons/8ac08fc5a795d63d3b9400006c9bd776.png",
           "iconHash": 0,
@@ -38291,7 +38476,7 @@
         "hash": 2956696667,
         "skullIdentifierHash": 3080205650,
         "displayProperties": {
-          "description": "When defeated, affected combatants emit a wave, causing nearby combatants to become faster and more aggressive.",
+          "description": "Zealous will appear on enemy combatants.\n\nZealous: \nWhen defeated, affected enemy combatants emit a wave, causing nearby enemy combatants to become faster and more aggressive.",
           "name": "Zealous",
           "icon": "/common/destiny2_content/icons/8890365ac5343e65a88280a23605e025.png",
           "iconHash": 0,
@@ -38464,7 +38649,7 @@
       }
     ],
     "hash": 2133423193,
-    "index": 493,
+    "index": 494,
     "redacted": false,
     "blacklisted": false
   },
@@ -38549,7 +38734,7 @@
       }
     ],
     "hash": 2137341716,
-    "index": 544,
+    "index": 548,
     "redacted": false,
     "blacklisted": false
   },
@@ -38813,7 +38998,7 @@
       }
     ],
     "hash": 2192814015,
-    "index": 488,
+    "index": 489,
     "redacted": false,
     "blacklisted": false
   },
@@ -39120,6 +39305,41 @@
             "integerValue": 0,
             "floatValue": 0,
             "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
           }
         ],
         "dynamicUse": 0,
@@ -39372,6 +39592,318 @@
     ],
     "hash": 2249682329,
     "index": 176,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2258271427": {
+    "skulls": [
+      {
+        "hash": 1783825372,
+        "skullIdentifierHash": 3764961057,
+        "displayProperties": {
+          "description": "",
+          "name": "",
+          "iconHash": 0,
+          "hasIcon": false
+        },
+        "skullOptions": [
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          }
+        ],
+        "dynamicUse": 0,
+        "modifierPowerContribution": 0,
+        "modifierMultiplierContribution": 0,
+        "hasUi": false,
+        "displayDescriptionOverrideForNavMode": "",
+        "activityModifierDisplayCategory": 1,
+        "activityModifierConnotation": 0,
+        "displayInNavMode": false,
+        "displayInActivitySelection": false
+      }
+    ],
+    "hash": 2258271427,
+    "index": 476,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2258271428": {
+    "skulls": [
+      {
+        "hash": 1783825372,
+        "skullIdentifierHash": 3764961062,
+        "displayProperties": {
+          "description": "",
+          "name": "",
+          "iconHash": 0,
+          "hasIcon": false
+        },
+        "skullOptions": [
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          }
+        ],
+        "dynamicUse": 0,
+        "modifierPowerContribution": 0,
+        "modifierMultiplierContribution": 0,
+        "hasUi": false,
+        "displayDescriptionOverrideForNavMode": "",
+        "activityModifierDisplayCategory": 1,
+        "activityModifierConnotation": 0,
+        "displayInNavMode": false,
+        "displayInActivitySelection": false
+      }
+    ],
+    "hash": 2258271428,
+    "index": 475,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2258271429": {
+    "skulls": [
+      {
+        "hash": 1783825372,
+        "skullIdentifierHash": 3764961063,
+        "displayProperties": {
+          "description": "",
+          "name": "",
+          "iconHash": 0,
+          "hasIcon": false
+        },
+        "skullOptions": [
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          }
+        ],
+        "dynamicUse": 0,
+        "modifierPowerContribution": 0,
+        "modifierMultiplierContribution": 0,
+        "hasUi": false,
+        "displayDescriptionOverrideForNavMode": "",
+        "activityModifierDisplayCategory": 1,
+        "activityModifierConnotation": 0,
+        "displayInNavMode": false,
+        "displayInActivitySelection": false
+      }
+    ],
+    "hash": 2258271429,
+    "index": 474,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2258271430": {
+    "skulls": [
+      {
+        "hash": 1783825372,
+        "skullIdentifierHash": 3764961060,
+        "displayProperties": {
+          "description": "",
+          "name": "",
+          "iconHash": 0,
+          "hasIcon": false
+        },
+        "skullOptions": [
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          }
+        ],
+        "dynamicUse": 0,
+        "modifierPowerContribution": 0,
+        "modifierMultiplierContribution": 0,
+        "hasUi": false,
+        "displayDescriptionOverrideForNavMode": "",
+        "activityModifierDisplayCategory": 1,
+        "activityModifierConnotation": 0,
+        "displayInNavMode": false,
+        "displayInActivitySelection": false
+      }
+    ],
+    "hash": 2258271430,
+    "index": 473,
     "redacted": false,
     "blacklisted": false
   },
@@ -39935,7 +40467,7 @@
       }
     ],
     "hash": 2287017175,
-    "index": 563,
+    "index": 574,
     "redacted": false,
     "blacklisted": false
   },
@@ -40027,7 +40559,7 @@
       }
     ],
     "hash": 2291699958,
-    "index": 553,
+    "index": 557,
     "redacted": false,
     "blacklisted": false
   },
@@ -40321,7 +40853,7 @@
       }
     ],
     "hash": 2302766710,
-    "index": 559,
+    "index": 570,
     "redacted": false,
     "blacklisted": false
   },
@@ -40435,7 +40967,7 @@
       }
     ],
     "hash": 2324400356,
-    "index": 487,
+    "index": 488,
     "redacted": false,
     "blacklisted": false
   },
@@ -40974,7 +41506,7 @@
       }
     ],
     "hash": 2334880395,
-    "index": 527,
+    "index": 531,
     "redacted": false,
     "blacklisted": false
   },
@@ -41241,7 +41773,7 @@
       }
     ],
     "hash": 2342245092,
-    "index": 562,
+    "index": 573,
     "redacted": false,
     "blacklisted": false
   },
@@ -41366,7 +41898,7 @@
       }
     ],
     "hash": 2374301141,
-    "index": 531,
+    "index": 535,
     "redacted": false,
     "blacklisted": false
   },
@@ -41442,7 +41974,7 @@
       }
     ],
     "hash": 2386712152,
-    "index": 530,
+    "index": 534,
     "redacted": false,
     "blacklisted": false
   },
@@ -42059,7 +42591,7 @@
       }
     ],
     "hash": 2445256970,
-    "index": 549,
+    "index": 553,
     "redacted": false,
     "blacklisted": false
   },
@@ -42630,7 +43162,7 @@
       }
     ],
     "hash": 2493663967,
-    "index": 503,
+    "index": 504,
     "redacted": false,
     "blacklisted": false
   },
@@ -43017,7 +43549,7 @@
       }
     ],
     "hash": 2500022512,
-    "index": 489,
+    "index": 490,
     "redacted": false,
     "blacklisted": false
   },
@@ -43109,7 +43641,7 @@
         "hash": 2072014386,
         "skullIdentifierHash": 1865599797,
         "displayProperties": {
-          "description": "Caltrops will appear on combatants.\n\nCaltrops:\nAffected combatants drop damaging elemental pools during combat and after being defeated.",
+          "description": "Caltrops will appear on enemy combatants.\n\nCaltrops:\nAffected enemy combatants drop damaging elemental pools during combat and after being defeated.",
           "name": "Caltrops",
           "icon": "/common/destiny2_content/icons/6ca53cb6899e0eabb74cba85215c299a.png",
           "iconHash": 0,
@@ -43150,7 +43682,7 @@
         "hash": 2608447172,
         "skullIdentifierHash": 1865599799,
         "displayProperties": {
-          "description": "Cascade will appear on combatants.\n\nCascade:\nAffected combatants periodically release Stasis waves that target Guardians and slow them on impact.",
+          "description": "Cascade will appear on enemy combatants.\n\nCascade:\nAffected enemy combatants periodically release Stasis crystals that target Guardians and slow them on impact.",
           "name": "Cascade",
           "icon": "/common/destiny2_content/icons/2b4f6c4761213e1b3b701abd5bff7152.png",
           "iconHash": 0,
@@ -43191,7 +43723,7 @@
         "hash": 2333902735,
         "skullIdentifierHash": 1865599792,
         "displayProperties": {
-          "description": "Threads will appear on combatants.\n\nThreads:\nDealing non-critical damage to affected combatants will spawn hostile Threadlings.",
+          "description": "Threads will appear on enemy combatants.\n\nThreads:\nDealing non-critical damage to affected enemy combatants will spawn hostile Threadlings.",
           "name": "Threads",
           "icon": "/common/destiny2_content/icons/c9ad9a3340d460153ed8b587e3bc2c90.png",
           "iconHash": 0,
@@ -43232,7 +43764,7 @@
         "hash": 868758022,
         "skullIdentifierHash": 1865599793,
         "displayProperties": {
-          "description": "Screeber will appear on combatants.\n\nScreeber:\nWhen defeated, affected combatants will create multiple mini Screebs.",
+          "description": "Screeber will appear on enemy combatants.\n\nScreeber:\nWhen defeated, affected enemy combatants will create multiple mini Screebs.",
           "name": "Screeber",
           "icon": "/common/destiny2_content/icons/8ac08fc5a795d63d3b9400006c9bd776.png",
           "iconHash": 0,
@@ -43306,7 +43838,7 @@
         "hash": 1974251144,
         "skullIdentifierHash": 886562717,
         "displayProperties": {
-          "description": "Dealing final blows creates a chance to spawn ability wells under combatants.",
+          "description": "Dealing final blows creates a chance to spawn ability wells under enemy combatants.",
           "name": "Deluge",
           "icon": "/common/destiny2_content/icons/110133f3e527e3b5dee11f83e8f1f3d4.png",
           "iconHash": 0,
@@ -43380,8 +43912,8 @@
         "hash": 1409304555,
         "skullIdentifierHash": 3333846866,
         "displayProperties": {
-          "description": "Hakke weapons deal overcharged damage in Portal activities.",
-          "name": "Foundry Sponsorship: Hakke",
+          "description": "Häkke weapons deal overcharged damage in Portal activities.",
+          "name": "Foundry Sponsorship: Häkke",
           "icon": "/common/destiny2_content/icons/b0fa7fdea5b79468043568f2536ce78b.png",
           "iconHash": 0,
           "iconSequences": [
@@ -44379,7 +44911,7 @@
       }
     ],
     "hash": 2555311680,
-    "index": 541,
+    "index": 545,
     "redacted": false,
     "blacklisted": false
   },
@@ -44463,7 +44995,7 @@
       }
     ],
     "hash": 2572089395,
-    "index": 539,
+    "index": 543,
     "redacted": false,
     "blacklisted": false
   },
@@ -44506,7 +45038,7 @@
       }
     ],
     "hash": 2572089398,
-    "index": 540,
+    "index": 544,
     "redacted": false,
     "blacklisted": false
   },
@@ -45258,7 +45790,7 @@
       }
     ],
     "hash": 2619510745,
-    "index": 482,
+    "index": 483,
     "redacted": false,
     "blacklisted": false
   },
@@ -45336,7 +45868,7 @@
       }
     ],
     "hash": 2620246321,
-    "index": 554,
+    "index": 558,
     "redacted": false,
     "blacklisted": false
   },
@@ -45379,7 +45911,7 @@
       }
     ],
     "hash": 2622422153,
-    "index": 534,
+    "index": 538,
     "redacted": false,
     "blacklisted": false
   },
@@ -45422,7 +45954,7 @@
       }
     ],
     "hash": 2622422156,
-    "index": 533,
+    "index": 537,
     "redacted": false,
     "blacklisted": false
   },
@@ -45507,7 +46039,7 @@
       }
     ],
     "hash": 2639199866,
-    "index": 532,
+    "index": 536,
     "redacted": false,
     "blacklisted": false
   },
@@ -45896,7 +46428,7 @@
       }
     ],
     "hash": 2655977426,
-    "index": 537,
+    "index": 541,
     "redacted": false,
     "blacklisted": false
   },
@@ -45939,7 +46471,7 @@
       }
     ],
     "hash": 2655977431,
-    "index": 538,
+    "index": 542,
     "redacted": false,
     "blacklisted": false
   },
@@ -46138,7 +46670,7 @@
       }
     ],
     "hash": 2672755008,
-    "index": 536,
+    "index": 540,
     "redacted": false,
     "blacklisted": false
   },
@@ -46181,7 +46713,7 @@
       }
     ],
     "hash": 2672755013,
-    "index": 535,
+    "index": 539,
     "redacted": false,
     "blacklisted": false
   },
@@ -46817,7 +47349,7 @@
       }
     ],
     "hash": 2721593486,
-    "index": 560,
+    "index": 571,
     "redacted": false,
     "blacklisted": false
   },
@@ -47557,7 +48089,7 @@
       }
     ],
     "hash": 2789320430,
-    "index": 480,
+    "index": 484,
     "redacted": false,
     "blacklisted": false
   },
@@ -48106,6 +48638,159 @@
     "redacted": false,
     "blacklisted": false
   },
+  "2833877272": {
+    "skulls": [
+      {
+        "hash": 4242300949,
+        "skullIdentifierHash": 1323561570,
+        "displayProperties": {
+          "description": "Guardians must escape before the timer runs out and enemy combatants retake the area.",
+          "name": "Overrun Timer",
+          "icon": "/common/destiny2_content/icons/05fa5fe71740bae3d97f340239839a9b.png",
+          "iconHash": 0,
+          "iconSequences": [
+            {
+              "frames": [
+                "/common/destiny2_content/icons/05fa5fe71740bae3d97f340239839a9b.png"
+              ]
+            },
+            {
+              "frames": [
+                "/common/destiny2_content/icons/e9a8fad37e7cd97c4d4fdad462858ee9.png"
+              ]
+            }
+          ],
+          "hasIcon": true
+        },
+        "skullOptions": [
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          }
+        ],
+        "dynamicUse": 0,
+        "modifierPowerContribution": 0,
+        "modifierMultiplierContribution": 0.03,
+        "hasUi": true,
+        "displayDescriptionOverrideForNavMode": "",
+        "activityModifierDisplayCategory": 1,
+        "activityModifierConnotation": 2,
+        "displayInNavMode": true,
+        "displayInActivitySelection": true
+      },
+      {
+        "hash": 3786152934,
+        "skullIdentifierHash": 1792134181,
+        "displayProperties": {
+          "description": "Powerful enemy combatants incorporate additional challenging tactics to push you to your limits.",
+          "name": "Advanced Combat Tactics",
+          "icon": "/common/destiny2_content/icons/c967a582abc276651782e81dc2e842eb.png",
+          "iconHash": 0,
+          "iconSequences": [
+            {
+              "frames": [
+                "/common/destiny2_content/icons/c967a582abc276651782e81dc2e842eb.png"
+              ]
+            },
+            {
+              "frames": [
+                "/common/destiny2_content/icons/6420df3a29b56ff57649a89a85cfaefc.png"
+              ]
+            }
+          ],
+          "hasIcon": true
+        },
+        "skullOptions": [
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          }
+        ],
+        "dynamicUse": 0,
+        "modifierPowerContribution": 0,
+        "modifierMultiplierContribution": 0.03,
+        "hasUi": true,
+        "displayDescriptionOverrideForNavMode": "",
+        "activityModifierDisplayCategory": 1,
+        "activityModifierConnotation": 2,
+        "displayInNavMode": true,
+        "displayInActivitySelection": true
+      },
+      {
+        "hash": 1783825372,
+        "skullIdentifierHash": 353756850,
+        "displayProperties": {
+          "description": "",
+          "name": "",
+          "iconHash": 0,
+          "hasIcon": false
+        },
+        "skullOptions": [
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          }
+        ],
+        "dynamicUse": 0,
+        "modifierPowerContribution": 0,
+        "modifierMultiplierContribution": 0,
+        "hasUi": false,
+        "displayDescriptionOverrideForNavMode": "",
+        "activityModifierDisplayCategory": 0,
+        "activityModifierConnotation": 0,
+        "displayInNavMode": false,
+        "displayInActivitySelection": false
+      }
+    ],
+    "hash": 2833877272,
+    "index": 477,
+    "redacted": false,
+    "blacklisted": false
+  },
   "2840767199": {
     "skulls": [
       {
@@ -48268,7 +48953,7 @@
       }
     ],
     "hash": 2897490678,
-    "index": 522,
+    "index": 526,
     "redacted": false,
     "blacklisted": false
   },
@@ -48388,7 +49073,7 @@
       }
     ],
     "hash": 2914268265,
-    "index": 523,
+    "index": 527,
     "redacted": false,
     "blacklisted": false
   },
@@ -48543,7 +49228,7 @@
         "hash": 2214842664,
         "skullIdentifierHash": 2805310031,
         "displayProperties": {
-          "description": "Affected combatants will periodically unleash devastating waves of meteors.",
+          "description": "Meteors will appear with enemy combatants.\n\nMeteors:\nAffected enemy combatants periodically unleash devastating waves of meteors.",
           "name": "Meteors",
           "icon": "/common/destiny2_content/icons/8ac08fc5a795d63d3b9400006c9bd776.png",
           "iconHash": 0,
@@ -48584,7 +49269,7 @@
         "hash": 2956696667,
         "skullIdentifierHash": 3080205650,
         "displayProperties": {
-          "description": "When defeated, affected combatants emit a wave, causing nearby combatants to become faster and more aggressive.",
+          "description": "Zealous will appear on enemy combatants.\n\nZealous: \nWhen defeated, affected enemy combatants emit a wave, causing nearby enemy combatants to become faster and more aggressive.",
           "name": "Zealous",
           "icon": "/common/destiny2_content/icons/8890365ac5343e65a88280a23605e025.png",
           "iconHash": 0,
@@ -48806,7 +49491,7 @@
       }
     ],
     "hash": 2931045852,
-    "index": 520,
+    "index": 524,
     "redacted": false,
     "blacklisted": false
   },
@@ -48849,7 +49534,7 @@
       }
     ],
     "hash": 2947823439,
-    "index": 521,
+    "index": 525,
     "redacted": false,
     "blacklisted": false
   },
@@ -49846,7 +50531,7 @@
         "hash": 2214842664,
         "skullIdentifierHash": 2805310031,
         "displayProperties": {
-          "description": "Affected combatants will periodically unleash devastating waves of meteors.",
+          "description": "Meteors will appear with enemy combatants.\n\nMeteors:\nAffected enemy combatants periodically unleash devastating waves of meteors.",
           "name": "Meteors",
           "icon": "/common/destiny2_content/icons/8ac08fc5a795d63d3b9400006c9bd776.png",
           "iconHash": 0,
@@ -50396,7 +51081,7 @@
       }
     ],
     "hash": 2981378709,
-    "index": 519,
+    "index": 523,
     "redacted": false,
     "blacklisted": false
   },
@@ -50672,7 +51357,7 @@
       }
     ],
     "hash": 3004567740,
-    "index": 496,
+    "index": 497,
     "redacted": false,
     "blacklisted": false
   },
@@ -50917,7 +51602,7 @@
       }
     ],
     "hash": 3017389087,
-    "index": 481,
+    "index": 485,
     "redacted": false,
     "blacklisted": false
   },
@@ -52508,7 +53193,7 @@
       }
     ],
     "hash": 3118702824,
-    "index": 495,
+    "index": 496,
     "redacted": false,
     "blacklisted": false
   },
@@ -53116,7 +53801,7 @@
         "hash": 2214842664,
         "skullIdentifierHash": 2805310031,
         "displayProperties": {
-          "description": "Affected combatants will periodically unleash devastating waves of meteors.",
+          "description": "Meteors will appear with enemy combatants.\n\nMeteors:\nAffected enemy combatants periodically unleash devastating waves of meteors.",
           "name": "Meteors",
           "icon": "/common/destiny2_content/icons/8ac08fc5a795d63d3b9400006c9bd776.png",
           "iconHash": 0,
@@ -53213,7 +53898,7 @@
         "hash": 2956696667,
         "skullIdentifierHash": 3080205650,
         "displayProperties": {
-          "description": "When defeated, affected combatants emit a wave, causing nearby combatants to become faster and more aggressive.",
+          "description": "Zealous will appear on enemy combatants.\n\nZealous: \nWhen defeated, affected enemy combatants emit a wave, causing nearby enemy combatants to become faster and more aggressive.",
           "name": "Zealous",
           "icon": "/common/destiny2_content/icons/8890365ac5343e65a88280a23605e025.png",
           "iconHash": 0,
@@ -54924,7 +55609,7 @@
       }
     ],
     "hash": 3220141926,
-    "index": 550,
+    "index": 554,
     "redacted": false,
     "blacklisted": false
   },
@@ -56277,7 +56962,7 @@
       }
     ],
     "hash": 3290999182,
-    "index": 561,
+    "index": 572,
     "redacted": false,
     "blacklisted": false
   },
@@ -56432,7 +57117,7 @@
         "hash": 2214842664,
         "skullIdentifierHash": 2805310031,
         "displayProperties": {
-          "description": "Affected combatants will periodically unleash devastating waves of meteors.",
+          "description": "Meteors will appear with enemy combatants.\n\nMeteors:\nAffected enemy combatants periodically unleash devastating waves of meteors.",
           "name": "Meteors",
           "icon": "/common/destiny2_content/icons/8ac08fc5a795d63d3b9400006c9bd776.png",
           "iconHash": 0,
@@ -56585,7 +57270,7 @@
         "hash": 2956696667,
         "skullIdentifierHash": 3080205650,
         "displayProperties": {
-          "description": "When defeated, affected combatants emit a wave, causing nearby combatants to become faster and more aggressive.",
+          "description": "Zealous will appear on enemy combatants.\n\nZealous: \nWhen defeated, affected enemy combatants emit a wave, causing nearby enemy combatants to become faster and more aggressive.",
           "name": "Zealous",
           "icon": "/common/destiny2_content/icons/8890365ac5343e65a88280a23605e025.png",
           "iconHash": 0,
@@ -56709,6 +57394,84 @@
     ],
     "hash": 3304316127,
     "index": 8,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3311291839": {
+    "skulls": [
+      {
+        "hash": 1783825372,
+        "skullIdentifierHash": 3336094966,
+        "displayProperties": {
+          "description": "",
+          "name": "",
+          "iconHash": 0,
+          "hasIcon": false
+        },
+        "skullOptions": [
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          }
+        ],
+        "dynamicUse": 0,
+        "modifierPowerContribution": 0,
+        "modifierMultiplierContribution": 0,
+        "hasUi": false,
+        "displayDescriptionOverrideForNavMode": "",
+        "activityModifierDisplayCategory": 1,
+        "activityModifierConnotation": 0,
+        "displayInNavMode": false,
+        "displayInActivitySelection": false
+      }
+    ],
+    "hash": 3311291839,
+    "index": 560,
     "redacted": false,
     "blacklisted": false
   },
@@ -56950,7 +57713,7 @@
       }
     ],
     "hash": 3344987217,
-    "index": 492,
+    "index": 493,
     "redacted": false,
     "blacklisted": false
   },
@@ -57522,6 +58285,13 @@
             "integerValue": 0,
             "floatValue": 0,
             "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
           }
         ],
         "dynamicUse": 0,
@@ -57536,7 +58306,7 @@
       }
     ],
     "hash": 3375288364,
-    "index": 484,
+    "index": 480,
     "redacted": false,
     "blacklisted": false
   },
@@ -57901,7 +58671,7 @@
         "hash": 251135374,
         "skullIdentifierHash": 3242324955,
         "displayProperties": {
-          "description": "Rage and Caltrops will appear on combatants.\n\nRage:\nAffected combatants deal increased damage and have increased damage resistance as their health levels decline.\n\nCaltrops:\nAffected combatants drop damaging elemental pools during combat and after being defeated.",
+          "description": "Rage and Caltrops will appear on enemy combatants.\n\nRage:\nAffected enemy combatants deal increased damage and have increased damage resistance as their health levels decline.\n\nCaltrops:\nAffected enemy combatants drop damaging elemental pools during combat and after being defeated.",
           "name": "Rage and Caltrops",
           "icon": "/common/destiny2_content/icons/7b5aeee2fe8cc050d557ccd50109918f.png",
           "iconHash": 0,
@@ -57949,7 +58719,7 @@
         "hash": 3380812089,
         "skullIdentifierHash": 3242324954,
         "displayProperties": {
-          "description": "Rage and Shroud will appear on combatants.\n\nRage:\nAffected combatants deal increased damage and have increased damage resistance as their health levels decline.\n\nShroud:\nAffected combatants provide nearby allies with stealth. Affected combatants do not have stealth.",
+          "description": "Rage and Shroud will appear on enemy combatants.\n\nRage:\nAffected enemy combatants deal increased damage and have increased damage resistance as their health levels decline.\n\nShroud:\nAffected enemy combatants provide nearby allies with stealth. Affected enemy combatants do not have stealth.",
           "name": "Rage and Shroud",
           "icon": "/common/destiny2_content/icons/6ca53cb6899e0eabb74cba85215c299a.png",
           "iconHash": 0,
@@ -57997,7 +58767,7 @@
         "hash": 3957885692,
         "skullIdentifierHash": 3242324953,
         "displayProperties": {
-          "description": "Rage and Shield will appear on combatants.\n\nRage:\nAffected combatants deal increased damage and have increased damage resistance as their health levels decline.\n\nShield:\nAffected combatants have a shield that protects them from frontal damage. Try shooting them from behind.",
+          "description": "Rage and Shield will appear on enemy combatants.\n\nRage:\nAffected enemy combatants deal increased damage and have increased damage resistance as their health levels decline.\n\nShield:\nAffected enemy combatants have a forward-facing shield protecting them from damage. Try shooting them from behind.",
           "name": "Rage and Shield",
           "icon": "/common/destiny2_content/icons/8890365ac5343e65a88280a23605e025.png",
           "iconHash": 0,
@@ -58045,7 +58815,7 @@
         "hash": 499907511,
         "skullIdentifierHash": 3242324952,
         "displayProperties": {
-          "description": "Rage and Cascade will appear on combatants.\n\nRage:\nAffected combatants deal increased damage and have increased damage resistance as their health levels decline.\n\nCascade:\nAffected combatants periodically release Stasis crystals that target Guardians and slow them on impact.",
+          "description": "Rage and Cascade will appear on enemy combatants.\n\nRage:\nAffected enemy combatants deal increased damage and have increased damage resistance as their health levels decline.\n\nCascade:\nAffected enemy combatants periodically release Stasis crystals that target Guardians and slow them on impact.",
           "name": "Rage and Cascade",
           "icon": "/common/destiny2_content/icons/2b4f6c4761213e1b3b701abd5bff7152.png",
           "iconHash": 0,
@@ -58093,7 +58863,7 @@
         "hash": 1978808722,
         "skullIdentifierHash": 3242324959,
         "displayProperties": {
-          "description": "Threads and Caltrops will appear on combatants.\n\nThreads:\nDealing non-critical damage to affected combatants will spawn hostile Threadlings.\n\nCaltrops:\nAffected combatants drop damaging elemental pools during combat and after being defeated.",
+          "description": "Threads and Caltrops will appear on enemy combatants.\n\nThreads:\nDealing non-critical damage to affected enemy combatants will spawn hostile Threadlings.\n\nCaltrops:\nAffected enemy combatants drop damaging elemental pools during combat and after being defeated.",
           "name": "Threads and Caltrops",
           "icon": "/common/destiny2_content/icons/c9ad9a3340d460153ed8b587e3bc2c90.png",
           "iconHash": 0,
@@ -58141,7 +58911,7 @@
         "hash": 2550946157,
         "skullIdentifierHash": 3242324958,
         "displayProperties": {
-          "description": "Threads and Shroud will appear on combatants.\n\nThreads:\nDealing non-critical damage to affected combatants will spawn hostile Threadlings.\n\nShroud:\nAffected combatants provide nearby allies with stealth. Affected combatants do not have stealth.",
+          "description": "Threads and Shroud will appear on enemy combatants.\n\nThreads:\nDealing non-critical damage to affected enemy combatants will spawn hostile Threadlings.\n\nShroud:\nAffected enemy combatants provide nearby allies with stealth. Affected enemy combatants do not have stealth.",
           "name": "Threads and Shroud",
           "icon": "/common/destiny2_content/icons/8ac08fc5a795d63d3b9400006c9bd776.png",
           "iconHash": 0,
@@ -58189,7 +58959,7 @@
         "hash": 3471063312,
         "skullIdentifierHash": 3242324957,
         "displayProperties": {
-          "description": "Threads and Shield will appear on combatants.\n\nThreads:\nDealing non-critical damage to affected combatants will spawn hostile Threadlings.\n\nShield:\nAffected combatants have a shield that protects them from frontal damage. Try shooting them from behind.",
+          "description": "Threads and Shield will appear on enemy combatants.\n\nThreads:\nDealing non-critical damage to affected enemy combatants will spawn hostile Threadlings.\n\nShield:\nAffected enemy combatants have a forward-facing shield protecting them from damage. Try shooting them from behind.",
           "name": "Threads and Shield",
           "icon": "/common/destiny2_content/icons/d0124cabdbcd0d085ba5c56aec9e90e6.png",
           "iconHash": 0,
@@ -58237,7 +59007,7 @@
         "hash": 1105176939,
         "skullIdentifierHash": 3242324956,
         "displayProperties": {
-          "description": "Threads and Cascade will appear on combatants.\n\nThreads:\nDealing non-critical damage to affected combatants will spawn hostile Threadlings.\n\nCascade:\nAffected combatants periodically release Stasis crystals that target Guardians and slow them on impact.",
+          "description": "Threads and Cascade will appear on enemy combatants.\n\nThreads:\nDealing non-critical damage to affected enemy combatants will spawn hostile Threadlings.\n\nCascade:\nAffected enemy combatants periodically release Stasis crystals that target Guardians and slow them on impact.",
           "name": "Threads and Cascade",
           "icon": "/common/destiny2_content/icons/1fcb932f92c74b8dd3e9722b427a5de7.png",
           "iconHash": 0,
@@ -58285,7 +59055,7 @@
         "hash": 1949573558,
         "skullIdentifierHash": 3242324947,
         "displayProperties": {
-          "description": "Screeber and Caltrops will appear on combatants.\n\nScreeber:\nWhen defeated, affected combatants will create multiple mini Screebs.\n\nCaltrops:\nAffected combatants drop damaging elemental pools during combat and after being defeated.",
+          "description": "Screeber and Caltrops will appear on enemy combatants.\n\nScreeber:\nWhen defeated, affected enemy combatants will create multiple mini Screebs.\n\nCaltrops:\nAffected enemy combatants drop damaging elemental pools during combat and after being defeated.",
           "name": "Screeber and Caltrops",
           "icon": "/common/destiny2_content/icons/7e60fa9b3326ad4fda063d7684b633e8.png",
           "iconHash": 0,
@@ -58333,7 +59103,7 @@
         "hash": 4134005505,
         "skullIdentifierHash": 3242324946,
         "displayProperties": {
-          "description": "Screeber and Shroud will appear on combatants.\n\nScreeber:\nWhen defeated, affected combatants will create multiple mini Screebs.\n\nShroud:\nAffected combatants provide nearby allies with stealth. Affected combatants do not have stealth.",
+          "description": "Screeber and Shroud will appear on enemy combatants.\n\nScreeber:\nWhen defeated, affected enemy combatants will create multiple mini Screebs.\n\nShroud:\nAffected enemy combatants provide nearby allies with stealth. Affected enemy combatants do not have stealth.",
           "name": "Screeber and Shroud",
           "icon": "/common/destiny2_content/icons/409c43a8ff7e31845766d606de1657f5.png",
           "iconHash": 0,
@@ -58381,7 +59151,7 @@
         "hash": 1032062205,
         "skullIdentifierHash": 349364254,
         "displayProperties": {
-          "description": "Screeber and Shield will appear on combatants.\n\nScreeber:\nWhen defeated, affected combatants will create multiple mini Screebs.\n\nShield:\nAffected combatants have a shield that protects them from frontal damage. Try shooting them from behind.",
+          "description": "Screeber and Shield will appear on enemy combatants.\n\nScreeber:\nWhen defeated, affected enemy combatants will create multiple mini Screebs.\n\nShield:\nAffected enemy combatants have a forward-facing shield protecting them from damage. Try shooting them from behind.",
           "name": "Screeber and Shield",
           "icon": "/common/destiny2_content/icons/9eeb38467665dfb573647ec0a65eb267.png",
           "iconHash": 0,
@@ -58429,7 +59199,7 @@
         "hash": 3800008312,
         "skullIdentifierHash": 349364255,
         "displayProperties": {
-          "description": "Screeber and Cascade will appear on combatants.\n\nScreeber:\nWhen defeated, affected combatants will create multiple mini Screebs.\n\nCascade:\nAffected combatants periodically release Stasis waves that target Guardians and slow them on impact.",
+          "description": "Screeber and Cascade will appear on enemy combatants.\n\nScreeber:\nWhen defeated, affected enemy combatants will create multiple mini Screebs.\n\nCascade:\nAffected enemy combatants periodically release Stasis crystals that target Guardians and slow them on impact.",
           "name": "Screeber and Cascade",
           "icon": "/common/destiny2_content/icons/ea589d6114cb97a9536d5690179b768b.png",
           "iconHash": 0,
@@ -58477,7 +59247,7 @@
         "hash": 1206932195,
         "skullIdentifierHash": 349364252,
         "displayProperties": {
-          "description": "Caltrops and Shroud will appear on combatants.\n\nCaltrops:\nAffected combatants drop damaging elemental pools during combat and after being defeated.\n\nShroud:\nAffected combatants provide nearby allies with stealth. Affected combatants do not have stealth.",
+          "description": "Caltrops and Shroud will appear on enemy combatants.\n\nCaltrops:\nAffected enemy combatants drop damaging elemental pools during combat and after being defeated.\n\nShroud:\nAffected enemy combatants provide nearby allies with stealth. Affected enemy combatants do not have stealth.",
           "name": "Caltrops and Shroud",
           "icon": "/common/destiny2_content/icons/abe6a9efc8f0ba7094fcd000a2af39ba.png",
           "iconHash": 0,
@@ -58525,7 +59295,7 @@
         "hash": 4068283286,
         "skullIdentifierHash": 349364253,
         "displayProperties": {
-          "description": "Shield and Cascade will appear on combatants.\n\nShield:\nAffected combatants have a shield that protects them from frontal damage. Try shooting them from behind.\n\nCascade:\nAffected combatants periodically release Stasis crystals that target Guardians and slow them on impact.",
+          "description": "Shield and Cascade will appear on enemy combatants.\n\nShield:\nAffected enemy combatants have a forward-facing shield protecting them from damage. Try shooting them from behind.\n\nCascade:\nAffected enemy combatants periodically release Stasis crystals that target Guardians and slow them on impact.",
           "name": "Shield and Cascade",
           "icon": "/common/destiny2_content/icons/7ae0dd9c04cad22970f82a29e9d0112b.png",
           "iconHash": 0,
@@ -58606,7 +59376,7 @@
         "hash": 1974251144,
         "skullIdentifierHash": 886562717,
         "displayProperties": {
-          "description": "Dealing final blows creates a chance to spawn ability wells under combatants.",
+          "description": "Dealing final blows creates a chance to spawn ability wells under enemy combatants.",
           "name": "Deluge",
           "icon": "/common/destiny2_content/icons/110133f3e527e3b5dee11f83e8f1f3d4.png",
           "iconHash": 0,
@@ -58680,8 +59450,8 @@
         "hash": 1409304555,
         "skullIdentifierHash": 3333846866,
         "displayProperties": {
-          "description": "Hakke weapons deal overcharged damage in Portal activities.",
-          "name": "Foundry Sponsorship: Hakke",
+          "description": "Häkke weapons deal overcharged damage in Portal activities.",
+          "name": "Foundry Sponsorship: Häkke",
           "icon": "/common/destiny2_content/icons/b0fa7fdea5b79468043568f2536ce78b.png",
           "iconHash": 0,
           "iconSequences": [
@@ -60919,7 +61689,7 @@
         "hash": 4010968999,
         "skullIdentifierHash": 372227821,
         "displayProperties": {
-          "description": "Combatants with Banes are encountered more frequently.",
+          "description": "Enemy combatants with Banes are encountered more frequently.",
           "name": "Scourge II",
           "icon": "/common/destiny2_content/icons/ae17e4173a263caeedb6d7acba61f9db.png",
           "iconHash": 0,
@@ -61815,7 +62585,7 @@
       }
     ],
     "hash": 3528160996,
-    "index": 547,
+    "index": 551,
     "redacted": false,
     "blacklisted": false
   },
@@ -62074,7 +62844,7 @@
         "hash": 3592620740,
         "skullIdentifierHash": 372227821,
         "displayProperties": {
-          "description": "Combatants with Banes are encountered frequently.",
+          "description": "Enemy combatants with Banes are encountered frequently.",
           "name": "Scourge I",
           "icon": "/common/destiny2_content/icons/e6cd7a73e147304e8b2a675b1f7e0cc6.png",
           "iconHash": 0,
@@ -62259,7 +63029,7 @@
       }
     ],
     "hash": 3542403670,
-    "index": 502,
+    "index": 503,
     "redacted": false,
     "blacklisted": false
   },
@@ -63393,7 +64163,7 @@
       }
     ],
     "hash": 3559357647,
-    "index": 572,
+    "index": 583,
     "redacted": false,
     "blacklisted": false
   },
@@ -64710,6 +65480,91 @@
     "redacted": false,
     "blacklisted": false
   },
+  "3649985419": {
+    "skulls": [
+      {
+        "hash": 1783825372,
+        "skullIdentifierHash": 3873470510,
+        "displayProperties": {
+          "description": "",
+          "name": "",
+          "iconHash": 0,
+          "hasIcon": false
+        },
+        "skullOptions": [
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          }
+        ],
+        "dynamicUse": 0,
+        "modifierPowerContribution": 0,
+        "modifierMultiplierContribution": 0,
+        "hasUi": false,
+        "displayDescriptionOverrideForNavMode": "",
+        "activityModifierDisplayCategory": 1,
+        "activityModifierConnotation": 0,
+        "displayInNavMode": false,
+        "displayInActivitySelection": false
+      }
+    ],
+    "hash": 3649985419,
+    "index": 564,
+    "redacted": false,
+    "blacklisted": false
+  },
   "3657392321": {
     "skulls": [
       {
@@ -64798,7 +65653,7 @@
       }
     ],
     "hash": 3657392321,
-    "index": 500,
+    "index": 501,
     "redacted": false,
     "blacklisted": false
   },
@@ -65346,7 +66201,7 @@
       }
     ],
     "hash": 3688058752,
-    "index": 490,
+    "index": 491,
     "redacted": false,
     "blacklisted": false
   },
@@ -67559,7 +68414,7 @@
       }
     ],
     "hash": 3901925519,
-    "index": 551,
+    "index": 555,
     "redacted": false,
     "blacklisted": false
   },
@@ -68028,7 +68883,7 @@
         "hash": 2956696667,
         "skullIdentifierHash": 3080205650,
         "displayProperties": {
-          "description": "When defeated, affected combatants emit a wave, causing nearby combatants to become faster and more aggressive.",
+          "description": "Zealous will appear on enemy combatants.\n\nZealous: \nWhen defeated, affected enemy combatants emit a wave, causing nearby enemy combatants to become faster and more aggressive.",
           "name": "Zealous",
           "icon": "/common/destiny2_content/icons/8890365ac5343e65a88280a23605e025.png",
           "iconHash": 0,
@@ -68434,49 +69289,6 @@
     "redacted": false,
     "blacklisted": false
   },
-  "3991486023": {
-    "skulls": [
-      {
-        "hash": 1783825372,
-        "skullIdentifierHash": 3764961057,
-        "displayProperties": {
-          "description": "",
-          "name": "",
-          "iconHash": 0,
-          "hasIcon": false
-        },
-        "skullOptions": [
-          {
-            "optionHash": 0,
-            "boolValue": false,
-            "integerValue": 0,
-            "floatValue": 0,
-            "minDisplayDifficultyId": 0
-          },
-          {
-            "optionHash": 0,
-            "boolValue": false,
-            "integerValue": 0,
-            "floatValue": 0,
-            "minDisplayDifficultyId": 0
-          }
-        ],
-        "dynamicUse": 0,
-        "modifierPowerContribution": 0,
-        "modifierMultiplierContribution": 0,
-        "hasUi": false,
-        "displayDescriptionOverrideForNavMode": "",
-        "activityModifierDisplayCategory": 1,
-        "activityModifierConnotation": 0,
-        "displayInNavMode": false,
-        "displayInActivitySelection": false
-      }
-    ],
-    "hash": 3991486023,
-    "index": 476,
-    "redacted": false,
-    "blacklisted": false
-  },
   "4012079263": {
     "skulls": [
       {
@@ -68782,7 +69594,7 @@
       }
     ],
     "hash": 4034673449,
-    "index": 555,
+    "index": 566,
     "redacted": false,
     "blacklisted": false
   },
@@ -69175,7 +69987,7 @@
       }
     ],
     "hash": 4037693406,
-    "index": 564,
+    "index": 575,
     "redacted": false,
     "blacklisted": false
   },
@@ -70354,7 +71166,7 @@
       }
     ],
     "hash": 4084998433,
-    "index": 556,
+    "index": 567,
     "redacted": false,
     "blacklisted": false
   },
@@ -70526,7 +71338,7 @@
         "hash": 2214842664,
         "skullIdentifierHash": 2805310031,
         "displayProperties": {
-          "description": "Affected combatants will periodically unleash devastating waves of meteors.",
+          "description": "Meteors will appear with enemy combatants.\n\nMeteors:\nAffected enemy combatants periodically unleash devastating waves of meteors.",
           "name": "Meteors",
           "icon": "/common/destiny2_content/icons/8ac08fc5a795d63d3b9400006c9bd776.png",
           "iconHash": 0,
@@ -71134,49 +71946,6 @@
     "redacted": false,
     "blacklisted": false
   },
-  "4111290837": {
-    "skulls": [
-      {
-        "hash": 1783825372,
-        "skullIdentifierHash": 3764961063,
-        "displayProperties": {
-          "description": "",
-          "name": "",
-          "iconHash": 0,
-          "hasIcon": false
-        },
-        "skullOptions": [
-          {
-            "optionHash": 0,
-            "boolValue": false,
-            "integerValue": 0,
-            "floatValue": 0,
-            "minDisplayDifficultyId": 0
-          },
-          {
-            "optionHash": 0,
-            "boolValue": false,
-            "integerValue": 0,
-            "floatValue": 0,
-            "minDisplayDifficultyId": 0
-          }
-        ],
-        "dynamicUse": 0,
-        "modifierPowerContribution": 0,
-        "modifierMultiplierContribution": 0,
-        "hasUi": false,
-        "displayDescriptionOverrideForNavMode": "",
-        "activityModifierDisplayCategory": 1,
-        "activityModifierConnotation": 0,
-        "displayInNavMode": false,
-        "displayInActivitySelection": false
-      }
-    ],
-    "hash": 4111290837,
-    "index": 474,
-    "redacted": false,
-    "blacklisted": false
-  },
   "4114472134": {
     "skulls": [
       {
@@ -71510,6 +72279,84 @@
     "redacted": false,
     "blacklisted": false
   },
+  "4126649969": {
+    "skulls": [
+      {
+        "hash": 1783825372,
+        "skullIdentifierHash": 2206281804,
+        "displayProperties": {
+          "description": "",
+          "name": "",
+          "iconHash": 0,
+          "hasIcon": false
+        },
+        "skullOptions": [
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          }
+        ],
+        "dynamicUse": 0,
+        "modifierPowerContribution": 0,
+        "modifierMultiplierContribution": 0,
+        "hasUi": false,
+        "displayDescriptionOverrideForNavMode": "",
+        "activityModifierDisplayCategory": 1,
+        "activityModifierConnotation": 0,
+        "displayInNavMode": false,
+        "displayInActivitySelection": false
+      }
+    ],
+    "hash": 4126649969,
+    "index": 559,
+    "redacted": false,
+    "blacklisted": false
+  },
   "4136215397": {
     "skulls": [
       {
@@ -71653,6 +72500,13 @@
           "hasIcon": false
         },
         "skullOptions": [
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
           {
             "optionHash": 0,
             "boolValue": false,
@@ -71967,7 +72821,7 @@
         "hash": 4010968999,
         "skullIdentifierHash": 550488408,
         "displayProperties": {
-          "description": "Combatants with Banes are encountered more frequently.",
+          "description": "Enemy combatants with Banes are encountered more frequently.",
           "name": "Scourge II",
           "icon": "/common/destiny2_content/icons/ae17e4173a263caeedb6d7acba61f9db.png",
           "iconHash": 0,
@@ -72952,7 +73806,7 @@
         "hash": 2542203338,
         "skullIdentifierHash": 0,
         "displayProperties": {
-          "description": "Affected combatants are invulnerable until you destroy the shield drones orbiting them.",
+          "description": "Affected enemy combatants are invulnerable until you destroy the shield drones orbiting them.",
           "name": "Protected",
           "icon": "/common/destiny2_content/icons/13f8c441c7bd261521f7d0ea026e8f68.png",
           "iconHash": 0,
@@ -73296,7 +74150,7 @@
       }
     ],
     "hash": 4260691719,
-    "index": 570,
+    "index": 581,
     "redacted": false,
     "blacklisted": false
   },

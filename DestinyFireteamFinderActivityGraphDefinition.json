@@ -1458,7 +1458,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 277021083,
-    "index": 466,
+    "index": 467,
     "redacted": false,
     "blacklisted": false
   },
@@ -4791,7 +4791,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 980406481,
-    "index": 471,
+    "index": 472,
     "redacted": false,
     "blacklisted": false
   },
@@ -4923,6 +4923,45 @@
     "activityTreeChildSortMode": 0,
     "hash": 1015818739,
     "index": 8,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1018351457": {
+    "displayProperties": {
+      "description": "Eliminate your opponents or capture the zone to win. Earn as many round and match wins on a ticket as you can.\n\nFor Guardian Games matchmaking, one of each class type is selected: Titan, Hunter, and Warlock.",
+      "name": "Guardian Games: Trials of Osiris",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "isPlayerElectedDifficultyNode": false,
+    "parentHash": 1246572235,
+    "children": [],
+    "selfAndAllDescendantHashes": [
+      1018351457
+    ],
+    "relatedActivitySetHashes": [
+      304278869,
+      1253228567
+    ],
+    "specificActivitySetHash": 1253228567,
+    "relatedActivityHashes": [
+      1814561995
+    ],
+    "relatedDirectorNodes": [
+      {
+        "activityGraphHash": 2681843097
+      }
+    ],
+    "relatedInteractableActivities": [],
+    "relatedLocationHashes": [],
+    "sortMatchmadeActivitiesToFront": false,
+    "enabledOnTreeTypesListEnum": [
+      0,
+      1
+    ],
+    "activityTreeChildSortMode": 0,
+    "hash": 1018351457,
+    "index": 466,
     "redacted": false,
     "blacklisted": false
   },
@@ -6107,6 +6146,7 @@
       1632907103,
       3779358866,
       1055175152,
+      1018351457,
       277021083,
       2453084773,
       4111662299,
@@ -6136,6 +6176,7 @@
       1632907103,
       3779358866,
       1055175152,
+      1018351457,
       277021083,
       2453084773,
       4111662299,
@@ -8686,8 +8727,9 @@
     "displayProperties": {
       "description": "",
       "name": "",
+      "icon": "/common/destiny2_content/icons/330fc4d5daadfd9547045f8391df0e67.jpg",
       "iconHash": 0,
-      "hasIcon": false
+      "hasIcon": true
     },
     "isPlayerElectedDifficultyNode": false,
     "parentHash": 3656968659,
@@ -9063,7 +9105,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 1915896484,
-    "index": 473,
+    "index": 474,
     "redacted": false,
     "blacklisted": false
   },
@@ -9556,7 +9598,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 1993059491,
-    "index": 474,
+    "index": 475,
     "redacted": false,
     "blacklisted": false
   },
@@ -12023,7 +12065,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 2453084773,
-    "index": 467,
+    "index": 468,
     "redacted": false,
     "blacklisted": false
   },
@@ -14867,7 +14909,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 2967932510,
-    "index": 472,
+    "index": 473,
     "redacted": false,
     "blacklisted": false
   },
@@ -15976,7 +16018,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 3214595725,
-    "index": 470,
+    "index": 471,
     "redacted": false,
     "blacklisted": false
   },
@@ -19708,7 +19750,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 4083405831,
-    "index": 469,
+    "index": 470,
     "redacted": false,
     "blacklisted": false
   },
@@ -20023,7 +20065,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 4111662299,
-    "index": 468,
+    "index": 469,
     "redacted": false,
     "blacklisted": false
   },

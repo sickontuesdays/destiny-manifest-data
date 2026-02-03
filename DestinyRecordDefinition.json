@@ -5415,7 +5415,7 @@
       "iconHash": 0,
       "hasIcon": true
     },
-    "scope": 1,
+    "scope": 0,
     "objectiveHashes": [
       654826895
     ],
@@ -20103,7 +20103,7 @@
       "iconHash": 0,
       "hasIcon": true
     },
-    "scope": 1,
+    "scope": 0,
     "objectiveHashes": [
       2643535947
     ],
@@ -41635,7 +41635,7 @@
       "iconHash": 0,
       "hasIcon": true
     },
-    "scope": 1,
+    "scope": 0,
     "objectiveHashes": [
       21351742
     ],
@@ -66797,7 +66797,7 @@
       "iconHash": 0,
       "hasIcon": true
     },
-    "scope": 1,
+    "scope": 0,
     "objectiveHashes": [
       2152188165
     ],
@@ -74502,7 +74502,7 @@
       "iconHash": 0,
       "hasIcon": true
     },
-    "scope": 1,
+    "scope": 0,
     "objectiveHashes": [
       3104132383
     ],
@@ -102269,7 +102269,7 @@
   },
   "1012020949": {
     "displayProperties": {
-      "description": "Purchase or Upgrade Defenses in Onslaught: Salvation",
+      "description": "Purchase or upgrade defenses in Onslaught: Salvation.",
       "name": "Defender of the Innocent",
       "icon": "/common/destiny2_content/icons/cf2d55d1dbf910d075c91a188341f111.png",
       "iconHash": 0,
@@ -118850,7 +118850,7 @@
       "iconHash": 0,
       "hasIcon": true
     },
-    "scope": 1,
+    "scope": 0,
     "objectiveHashes": [
       2175224888
     ],
@@ -120984,7 +120984,7 @@
       "iconHash": 0,
       "hasIcon": true
     },
-    "scope": 1,
+    "scope": 0,
     "objectiveHashes": [
       1707057311
     ],
@@ -131069,7 +131069,7 @@
       "iconHash": 0,
       "hasIcon": true
     },
-    "scope": 1,
+    "scope": 0,
     "objectiveHashes": [
       408489352
     ],
@@ -132138,7 +132138,7 @@
       "iconHash": 0,
       "hasIcon": true
     },
-    "scope": 1,
+    "scope": 0,
     "objectiveHashes": [
       1291765818
     ],
@@ -134555,7 +134555,7 @@
       "iconHash": 0,
       "hasIcon": true
     },
-    "scope": 1,
+    "scope": 0,
     "objectiveHashes": [
       3373577000
     ],
@@ -134703,7 +134703,7 @@
       "iconHash": 0,
       "hasIcon": true
     },
-    "scope": 1,
+    "scope": 0,
     "objectiveHashes": [
       3314116345
     ],
@@ -136821,7 +136821,7 @@
       "iconHash": 0,
       "hasIcon": true
     },
-    "scope": 1,
+    "scope": 0,
     "objectiveHashes": [
       1860046329
     ],
@@ -144604,7 +144604,7 @@
       "iconHash": 0,
       "hasIcon": true
     },
-    "scope": 1,
+    "scope": 0,
     "objectiveHashes": [
       311344471
     ],
@@ -167712,7 +167712,7 @@
   },
   "1693640955": {
     "displayProperties": {
-      "description": "Complete the pursuit \"The Way Between.\"",
+      "description": "Complete the quest \"The Way Between.\"",
       "name": "The Untrodden Path",
       "icon": "/common/destiny2_content/icons/462c1abdb64ee9f5d14108ddcedeae8b.png",
       "iconHash": 0,
@@ -182079,7 +182079,7 @@
   },
   "1804163150": {
     "displayProperties": {
-      "description": "Defeat Guardians in Invasion with critical hits.",
+      "description": "Defeat Guardians in Invasion with precision final blows.",
       "name": "Crack Shot",
       "icon": "/common/destiny2_content/icons/b339184c31bc83551029909e10190574.png",
       "iconHash": 0,
@@ -183405,7 +183405,7 @@
       "iconHash": 0,
       "hasIcon": true
     },
-    "scope": 1,
+    "scope": 0,
     "objectiveHashes": [
       451255318
     ],
@@ -189500,7 +189500,7 @@
       "iconHash": 0,
       "hasIcon": true
     },
-    "scope": 1,
+    "scope": 0,
     "objectiveHashes": [
       3733655120
     ],
@@ -195622,7 +195622,7 @@
       "iconHash": 0,
       "hasIcon": true
     },
-    "scope": 1,
+    "scope": 0,
     "objectiveHashes": [
       798012739
     ],
@@ -198823,7 +198823,7 @@
       "iconHash": 0,
       "hasIcon": true
     },
-    "scope": 1,
+    "scope": 0,
     "objectiveHashes": [
       3311375060
     ],
@@ -219072,7 +219072,7 @@
   },
   "2179493449": {
     "displayProperties": {
-      "description": "Complete and exfil from a Contested or Invasion Job.",
+      "description": "Complete and exfil from Contested Jobs, or from Invasions after defeating other Guardians.",
       "name": "Contract: Pikers",
       "icon": "/common/destiny2_content/icons/1badd02962beba0ea6fb7ca0a0cb97c7.png",
       "iconHash": 0,
@@ -233272,7 +233272,7 @@
       "iconHash": 0,
       "hasIcon": true
     },
-    "scope": 1,
+    "scope": 0,
     "objectiveHashes": [
       3570343559
     ],
@@ -301421,7 +301421,7 @@
       "iconHash": 0,
       "hasIcon": true
     },
-    "scope": 1,
+    "scope": 0,
     "objectiveHashes": [
       2441586676
     ],
@@ -355549,7 +355549,7 @@
   },
   "3637022582": {
     "displayProperties": {
-      "description": "Complete and exfil from a Contested or Invasion Job.",
+      "description": "Complete and exfil from Contested Jobs, or from Invasions after defeating other Guardians.",
       "name": "Contract: Tharsis Reformation",
       "icon": "/common/destiny2_content/icons/154bd409b01d74eb221ea0ad70708d68.png",
       "iconHash": 0,
@@ -362848,7 +362848,7 @@
   },
   "3706254568": {
     "displayProperties": {
-      "description": "Complete and exfil from a Contested or Invasion Job.",
+      "description": "Complete and exfil from Contested Jobs, or from Invasions after defeating other Guardians.",
       "name": "Contract: Totality Division",
       "icon": "/common/destiny2_content/icons/223b861b3360ad0db045df0d5f353f72.png",
       "iconHash": 0,
@@ -370187,7 +370187,7 @@
       "iconHash": 0,
       "hasIcon": true
     },
-    "scope": 1,
+    "scope": 0,
     "objectiveHashes": [
       1740655746
     ],
@@ -395364,7 +395364,7 @@
       "iconHash": 0,
       "hasIcon": true
     },
-    "scope": 1,
+    "scope": 0,
     "objectiveHashes": [
       138960802
     ],
@@ -397780,7 +397780,7 @@
       "iconHash": 0,
       "hasIcon": true
     },
-    "scope": 1,
+    "scope": 0,
     "objectiveHashes": [
       490275847
     ],
@@ -404830,7 +404830,7 @@
       "iconHash": 0,
       "hasIcon": true
     },
-    "scope": 1,
+    "scope": 0,
     "objectiveHashes": [
       3890757857
     ],
@@ -411045,7 +411045,7 @@
       "iconHash": 0,
       "hasIcon": true
     },
-    "scope": 1,
+    "scope": 0,
     "objectiveHashes": [
       3201138374
     ],

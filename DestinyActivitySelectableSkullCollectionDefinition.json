@@ -279,7 +279,7 @@
           "hash": 2946975190,
           "skullIdentifierHash": 550488411,
           "displayProperties": {
-            "description": "Combatants with Banes are encountered significantly more frequently.",
+            "description": "Enemy combatants with Banes are encountered significantly more frequently.",
             "name": "Scourge III",
             "icon": "/common/destiny2_content/icons/448a7a6e33c4ff4e9abdb05c9d5e374c.png",
             "iconHash": 0,
@@ -342,7 +342,7 @@
           "hash": 4010968999,
           "skullIdentifierHash": 550488408,
           "displayProperties": {
-            "description": "Combatants with Banes are encountered more frequently.",
+            "description": "Enemy combatants with Banes are encountered more frequently.",
             "name": "Scourge II",
             "icon": "/common/destiny2_content/icons/ae17e4173a263caeedb6d7acba61f9db.png",
             "iconHash": 0,
@@ -405,7 +405,7 @@
           "hash": 3592620740,
           "skullIdentifierHash": 550488409,
           "displayProperties": {
-            "description": "Combatants with Banes are encountered frequently.",
+            "description": "Enemy combatants with Banes are encountered frequently.",
             "name": "Scourge I",
             "icon": "/common/destiny2_content/icons/e6cd7a73e147304e8b2a675b1f7e0cc6.png",
             "iconHash": 0,
@@ -569,7 +569,7 @@
           "hash": 2542203338,
           "skullIdentifierHash": 989404282,
           "displayProperties": {
-            "description": "Affected combatants are invulnerable until you destroy the shield drones orbiting them.",
+            "description": "Affected enemy combatants are invulnerable until you destroy the shield drones orbiting them.",
             "name": "Protected",
             "icon": "/common/destiny2_content/icons/13f8c441c7bd261521f7d0ea026e8f68.png",
             "iconHash": 0,
@@ -632,7 +632,7 @@
           "hash": 107943315,
           "skullIdentifierHash": 1865599796,
           "displayProperties": {
-            "description": "Rage will appear on combatants.\n\nRage:\nAffected combatants deal increased damage and have increased damage resistance as their health levels decline.",
+            "description": "Rage will appear on enemy combatants.\n\nRage:\nAffected enemy combatants deal increased damage and have increased damage resistance as their health levels decline.",
             "name": "Rage",
             "icon": "/common/destiny2_content/icons/7b5aeee2fe8cc050d557ccd50109918f.png",
             "iconHash": 0,
@@ -678,7 +678,7 @@
           "hash": 2072014386,
           "skullIdentifierHash": 1865599797,
           "displayProperties": {
-            "description": "Caltrops will appear on combatants.\n\nCaltrops:\nAffected combatants drop damaging elemental pools during combat and after being defeated.",
+            "description": "Caltrops will appear on enemy combatants.\n\nCaltrops:\nAffected enemy combatants drop damaging elemental pools during combat and after being defeated.",
             "name": "Caltrops",
             "icon": "/common/destiny2_content/icons/6ca53cb6899e0eabb74cba85215c299a.png",
             "iconHash": 0,
@@ -724,7 +724,7 @@
           "hash": 2333902735,
           "skullIdentifierHash": 1865599792,
           "displayProperties": {
-            "description": "Threads will appear on combatants.\n\nThreads:\nDealing non-critical damage to affected combatants will spawn hostile Threadlings.",
+            "description": "Threads will appear on enemy combatants.\n\nThreads:\nDealing non-critical damage to affected enemy combatants will spawn hostile Threadlings.",
             "name": "Threads",
             "icon": "/common/destiny2_content/icons/c9ad9a3340d460153ed8b587e3bc2c90.png",
             "iconHash": 0,
@@ -6140,7 +6140,7 @@
           "hash": 3648794527,
           "skullIdentifierHash": 2827983202,
           "displayProperties": {
-            "description": "Deadly Banes Rage and Shroud will appear on combatants.\n\nRage:\nAffected combatants deal increased damage and have increased damage resistance as their health levels decline.\n\nShroud:\nAffected combatants provide nearby allies with stealth. Affected combatants do not have stealth.",
+            "description": "Deadly Banes, Rage and Shroud, will appear on enemy combatants.\n\nRage:\nAffected enemy combatants deal increased damage and have increased damage resistance as their health levels decline.\n\nShroud:\nAffected enemy combatants provide nearby allies with stealth. Affected enemy combatants do not have stealth.",
             "name": "Rage and Shroud",
             "icon": "/common/destiny2_content/icons/6ca53cb6899e0eabb74cba85215c299a.png",
             "iconHash": 0,
@@ -8070,7 +8070,7 @@
           "hash": 2542203338,
           "skullIdentifierHash": 989404282,
           "displayProperties": {
-            "description": "Affected combatants are invulnerable until you destroy the shield drones orbiting them.",
+            "description": "Affected enemy combatants are invulnerable until you destroy the shield drones orbiting them.",
             "name": "Protected",
             "icon": "/common/destiny2_content/icons/13f8c441c7bd261521f7d0ea026e8f68.png",
             "iconHash": 0,
@@ -10257,7 +10257,7 @@
           "hash": 1817159845,
           "skullIdentifierHash": 2827983200,
           "displayProperties": {
-            "description": "Deadly Banes Rage and Cascade will appear on combatants.\n\nRage:\nAffected combatants deal increased damage and have increased damage resistance as their health levels decline.\n\nCascade:\nAffected combatants periodically release Stasis crystals that target Guardians and slow them on impact.",
+            "description": "Deadly Banes, Rage and Cascade, will appear on enemy combatants.\n\nRage:\nAffected enemy combatants deal increased damage and have increased damage resistance as their health levels decline.\n\nCascade:\nAffected enemy combatants periodically release Stasis crystals that target Guardians and slow them on impact.",
             "name": "Rage and Cascade",
             "icon": "/common/destiny2_content/icons/2b4f6c4761213e1b3b701abd5bff7152.png",
             "iconHash": 0,
@@ -11240,7 +11240,7 @@
           "hash": 2288690166,
           "skullIdentifierHash": 3155064181,
           "displayProperties": {
-            "description": "Deadly Banes Front Shielding and Cascade will appear on combatants.\n\nFront Shielding:\nAffected combatants have a shield that protects them from frontal damage. Try shooting them from behind.\n\nCascade:\nAffected combatants periodically release Stasis crystals that target Guardians and slow them on impact.",
+            "description": "Deadly Banes, Shield and Cascade, will appear on enemy combatants.\n\nShield:\nAffected enemy combatants have a forward-facing shield protecting them from damage. Try shooting them from behind.\n\nCascade:\nAffected enemy combatants periodically release Stasis crystals that target Guardians and slow them on impact.",
             "name": "Shield and Cascade",
             "icon": "/common/destiny2_content/icons/7ae0dd9c04cad22970f82a29e9d0112b.png",
             "iconHash": 0,
@@ -11311,7 +11311,7 @@
           "hash": 3592620740,
           "skullIdentifierHash": 550488409,
           "displayProperties": {
-            "description": "Combatants with Banes are encountered frequently.",
+            "description": "Enemy combatants with Banes are encountered frequently.",
             "name": "Scourge I",
             "icon": "/common/destiny2_content/icons/e6cd7a73e147304e8b2a675b1f7e0cc6.png",
             "iconHash": 0,
@@ -11358,7 +11358,7 @@
           "hash": 3592620740,
           "skullIdentifierHash": 2797628654,
           "displayProperties": {
-            "description": "Combatants with Banes are encountered frequently.",
+            "description": "Enemy combatants with Banes are encountered frequently.",
             "name": "Scourge I",
             "icon": "/common/destiny2_content/icons/e6cd7a73e147304e8b2a675b1f7e0cc6.png",
             "iconHash": 0,
@@ -18024,7 +18024,7 @@
           "hash": 1779817766,
           "skullIdentifierHash": 2827983203,
           "displayProperties": {
-            "description": "Deadly Banes Rage and Caltrops will appear on combatants.\n\nRage:\nAffected combatants deal increased damage and have increased damage resistance as their health levels decline.\n\nCaltrops:\nAffected combatants drop damaging elemental pools during combat and after being defeated.",
+            "description": "Deadly Banes, Rage and Caltrops, will appear on enemy combatants.\n\nRage:\nAffected enemy combatants deal increased damage and have increased damage resistance as their health levels decline.\n\nCaltrops:\nAffected enemy combatants drop damaging elemental pools during combat and after being defeated.",
             "name": "Rage and Caltrops",
             "icon": "/common/destiny2_content/icons/7b5aeee2fe8cc050d557ccd50109918f.png",
             "iconHash": 0,
@@ -19046,22 +19046,22 @@
         "isEmptySkull": false,
         "debugSelectableSkull": false,
         "activitySkull": {
-          "hash": 2072014386,
-          "skullIdentifierHash": 1865599797,
+          "hash": 1653248393,
+          "skullIdentifierHash": 878087796,
           "displayProperties": {
-            "description": "Caltrops will appear on combatants.\n\nCaltrops:\nAffected combatants drop damaging elemental pools during combat and after being defeated.",
-            "name": "Caltrops",
-            "icon": "/common/destiny2_content/icons/6ca53cb6899e0eabb74cba85215c299a.png",
+            "description": "Meteors will appear with enemy combatants.\n\nMeteors:\nAffected enemy combatants periodically unleash devastating waves of meteors.",
+            "name": "Meteors",
+            "icon": "/common/destiny2_content/icons/ea589d6114cb97a9536d5690179b768b.png",
             "iconHash": 0,
             "iconSequences": [
               {
                 "frames": [
-                  "/common/destiny2_content/icons/6ca53cb6899e0eabb74cba85215c299a.png"
+                  "/common/destiny2_content/icons/ea589d6114cb97a9536d5690179b768b.png"
                 ]
               },
               {
                 "frames": [
-                  "/common/destiny2_content/icons/2a7328cf32c85555e7d945817e243b0c.png"
+                  "/common/destiny2_content/icons/f3339b5aa3d856fce8f2084795056a19.png"
                 ]
               }
             ],
@@ -19092,28 +19092,35 @@
         "isEmptySkull": false,
         "debugSelectableSkull": false,
         "activitySkull": {
-          "hash": 2608447172,
-          "skullIdentifierHash": 1865599799,
+          "hash": 818453398,
+          "skullIdentifierHash": 878087797,
           "displayProperties": {
-            "description": "Cascade will appear on combatants.\n\nCascade:\nAffected combatants periodically release Stasis waves that target Guardians and slow them on impact.",
-            "name": "Cascade",
-            "icon": "/common/destiny2_content/icons/2b4f6c4761213e1b3b701abd5bff7152.png",
+            "description": "Healing will appear with enemy combatants.\n\nHealing:\nAffected enemy combatants provide a buff to nearby allies based on shield type.",
+            "name": "Healing",
+            "icon": "/common/destiny2_content/icons/abe6a9efc8f0ba7094fcd000a2af39ba.png",
             "iconHash": 0,
             "iconSequences": [
               {
                 "frames": [
-                  "/common/destiny2_content/icons/2b4f6c4761213e1b3b701abd5bff7152.png"
+                  "/common/destiny2_content/icons/abe6a9efc8f0ba7094fcd000a2af39ba.png"
                 ]
               },
               {
                 "frames": [
-                  "/common/destiny2_content/icons/b2b509509320d90039f336fe55e845ae.png"
+                  "/common/destiny2_content/icons/0d600487e5f833629b4c7bccd5f4a824.png"
                 ]
               }
             ],
             "hasIcon": true
           },
           "skullOptions": [
+            {
+              "optionHash": 0,
+              "boolValue": false,
+              "integerValue": 0,
+              "floatValue": 0,
+              "minDisplayDifficultyId": 0
+            },
             {
               "optionHash": 0,
               "boolValue": false,
@@ -19138,22 +19145,22 @@
         "isEmptySkull": false,
         "debugSelectableSkull": false,
         "activitySkull": {
-          "hash": 2333902735,
-          "skullIdentifierHash": 1865599792,
+          "hash": 618891565,
+          "skullIdentifierHash": 878087798,
           "displayProperties": {
-            "description": "Threads will appear on combatants.\n\nThreads:\nDealing non-critical damage to affected combatants will spawn hostile Threadlings.",
-            "name": "Threads",
-            "icon": "/common/destiny2_content/icons/c9ad9a3340d460153ed8b587e3bc2c90.png",
+            "description": "Gravity will appear with enemy combatants.\n\nGravity:\nAffected enemy combatants fire Void projectiles that detonate into damaging Void fields.",
+            "name": "Gravity",
+            "icon": "/common/destiny2_content/icons/7ae0dd9c04cad22970f82a29e9d0112b.png",
             "iconHash": 0,
             "iconSequences": [
               {
                 "frames": [
-                  "/common/destiny2_content/icons/c9ad9a3340d460153ed8b587e3bc2c90.png"
+                  "/common/destiny2_content/icons/7ae0dd9c04cad22970f82a29e9d0112b.png"
                 ]
               },
               {
                 "frames": [
-                  "/common/destiny2_content/icons/14b28ba12648218976def2815bf45092.png"
+                  "/common/destiny2_content/icons/19056bb7da98f39fa5e814c54a764dc9.png"
                 ]
               }
             ],
@@ -19187,7 +19194,7 @@
           "hash": 868758022,
           "skullIdentifierHash": 1865599793,
           "displayProperties": {
-            "description": "Screeber will appear on combatants.\n\nScreeber:\nWhen defeated, affected combatants will create multiple mini Screebs.",
+            "description": "Screeber will appear on enemy combatants.\n\nScreeber:\nWhen defeated, affected enemy combatants will create multiple mini Screebs.",
             "name": "Screeber",
             "icon": "/common/destiny2_content/icons/8ac08fc5a795d63d3b9400006c9bd776.png",
             "iconHash": 0,
@@ -20928,7 +20935,7 @@
           "hash": 3306704988,
           "skullIdentifierHash": 2827983201,
           "displayProperties": {
-            "description": "Deadly Banes Rage and Front Shielding will appear on combatants.\n\nRage:\nAffected combatants deal increased damage and have increased damage resistance as their health levels decline.\n\nFront Shielding:\nAffected combatants have a shield that protects them from frontal damage. Try shooting them from behind.",
+            "description": "Deadly Banes, Rage and Shield, will appear on enemy combatants.\n\nRage:\nAffected enemy combatants deal increased damage and have increased damage resistance as their health levels decline.\n\nShield:\nAffected enemy combatants have a forward-facing shield protecting them from damage. Try shooting them from behind.",
             "name": "Rage and Shield",
             "icon": "/common/destiny2_content/icons/8890365ac5343e65a88280a23605e025.png",
             "iconHash": 0,
@@ -22260,7 +22267,7 @@
           "hash": 3610429526,
           "skullIdentifierHash": 1992499193,
           "displayProperties": {
-            "description": "Difficult Banes Threaded and Cascade will appear on combatants.\n\nThreaded:\nDealing non-critical damage to affected combatants will spawn hostile Threadlings.\n\nCascade:\nAffected combatants periodically release Stasis crystals that target Guardians and slow them on impact.",
+            "description": "Difficult Banes, Threads and Cascade, will appear on enemy combatants.\n\nThreads:\nDealing non-critical damage to affected enemy combatants will spawn hostile Threadlings.\n\nCascade:\nAffected enemy combatants periodically release Stasis crystals that target Guardians and slow them on impact.",
             "name": "Threads and Cascade",
             "icon": "/common/destiny2_content/icons/1fcb932f92c74b8dd3e9722b427a5de7.png",
             "iconHash": 0,
@@ -23599,7 +23606,7 @@
           "hash": 1974251144,
           "skullIdentifierHash": 886562717,
           "displayProperties": {
-            "description": "Dealing final blows creates a chance to spawn ability wells under combatants.",
+            "description": "Dealing final blows creates a chance to spawn ability wells under enemy combatants.",
             "name": "Deluge",
             "icon": "/common/destiny2_content/icons/110133f3e527e3b5dee11f83e8f1f3d4.png",
             "iconHash": 0,
@@ -23612,6 +23619,52 @@
               {
                 "frames": [
                   "/common/destiny2_content/icons/74e00e8063b427441d01babeb5de86d6.png"
+                ]
+              }
+            ],
+            "hasIcon": true
+          },
+          "skullOptions": [
+            {
+              "optionHash": 0,
+              "boolValue": false,
+              "integerValue": 0,
+              "floatValue": 0,
+              "minDisplayDifficultyId": 0
+            }
+          ],
+          "dynamicUse": 0,
+          "modifierPowerContribution": 0,
+          "modifierMultiplierContribution": 0,
+          "hasUi": true,
+          "displayDescriptionOverrideForNavMode": "",
+          "activityModifierDisplayCategory": 1,
+          "activityModifierConnotation": 1,
+          "displayInNavMode": true,
+          "displayInActivitySelection": true
+        }
+      },
+      {
+        "requiredTraitExistence": false,
+        "isEmptySkull": false,
+        "debugSelectableSkull": false,
+        "activitySkull": {
+          "hash": 294949057,
+          "skullIdentifierHash": 392815068,
+          "displayProperties": {
+            "description": "Playing Portal activities in a fireteam increases your damage; playing with a clanmate further increases the effect.",
+            "name": "Accelerator: Better with Friends",
+            "icon": "/common/destiny2_content/icons/7a7e82f0fc7508932d45696ef5570794.png",
+            "iconHash": 0,
+            "iconSequences": [
+              {
+                "frames": [
+                  "/common/destiny2_content/icons/7a7e82f0fc7508932d45696ef5570794.png"
+                ]
+              },
+              {
+                "frames": [
+                  "/common/destiny2_content/icons/1e04634567eb3106402c10a8e0e40f30.png"
                 ]
               }
             ],
@@ -23683,8 +23736,8 @@
           "hash": 1409304555,
           "skullIdentifierHash": 3333846866,
           "displayProperties": {
-            "description": "Hakke weapons deal overcharged damage in Portal activities.",
-            "name": "Foundry Sponsorship: Hakke",
+            "description": "Häkke weapons deal overcharged damage in Portal activities.",
+            "name": "Foundry Sponsorship: Häkke",
             "icon": "/common/destiny2_content/icons/b0fa7fdea5b79468043568f2536ce78b.png",
             "iconHash": 0,
             "iconSequences": [
@@ -26032,7 +26085,7 @@
           "hash": 2072014386,
           "skullIdentifierHash": 1865599797,
           "displayProperties": {
-            "description": "Caltrops will appear on combatants.\n\nCaltrops:\nAffected combatants drop damaging elemental pools during combat and after being defeated.",
+            "description": "Caltrops will appear on enemy combatants.\n\nCaltrops:\nAffected enemy combatants drop damaging elemental pools during combat and after being defeated.",
             "name": "Caltrops",
             "icon": "/common/destiny2_content/icons/6ca53cb6899e0eabb74cba85215c299a.png",
             "iconHash": 0,
@@ -26079,7 +26132,7 @@
           "hash": 2608447172,
           "skullIdentifierHash": 1865599799,
           "displayProperties": {
-            "description": "Cascade will appear on combatants.\n\nCascade:\nAffected combatants periodically release Stasis waves that target Guardians and slow them on impact.",
+            "description": "Cascade will appear on enemy combatants.\n\nCascade:\nAffected enemy combatants periodically release Stasis crystals that target Guardians and slow them on impact.",
             "name": "Cascade",
             "icon": "/common/destiny2_content/icons/2b4f6c4761213e1b3b701abd5bff7152.png",
             "iconHash": 0,
@@ -26126,7 +26179,7 @@
           "hash": 757632072,
           "skullIdentifierHash": 1865599795,
           "displayProperties": {
-            "description": "Upon taking significant damage, affected combatants begin a countdown sequence that ends in a massive explosion. Defeat the combatant before it explodes to cancel the explosion.",
+            "description": "Upon taking significant damage, affected enemy combatants begin a countdown sequence that ends in a massive explosion. Defeat the enemy combatants before they explode to cancel the explosion.",
             "name": "Nuclear",
             "icon": "/common/destiny2_content/icons/1fcb932f92c74b8dd3e9722b427a5de7.png",
             "iconHash": 0,
@@ -26173,7 +26226,7 @@
           "hash": 1610867771,
           "skullIdentifierHash": 1865599804,
           "displayProperties": {
-            "description": "When defeated, affected combatants drop proximity mines.",
+            "description": "When defeated, affected enemy combatants drop proximity mines.",
             "name": "Mines",
             "icon": "/common/destiny2_content/icons/7e60fa9b3326ad4fda063d7684b633e8.png",
             "iconHash": 0,
@@ -26220,7 +26273,7 @@
           "hash": 2333902735,
           "skullIdentifierHash": 1865599792,
           "displayProperties": {
-            "description": "Threads will appear on combatants.\n\nThreads:\nDealing non-critical damage to affected combatants will spawn hostile Threadlings.",
+            "description": "Threads will appear on enemy combatants.\n\nThreads:\nDealing non-critical damage to affected enemy combatants will spawn hostile Threadlings.",
             "name": "Threads",
             "icon": "/common/destiny2_content/icons/c9ad9a3340d460153ed8b587e3bc2c90.png",
             "iconHash": 0,
@@ -26267,7 +26320,7 @@
           "hash": 107943315,
           "skullIdentifierHash": 1865599796,
           "displayProperties": {
-            "description": "Rage will appear on combatants.\n\nRage:\nAffected combatants deal increased damage and have increased damage resistance as their health levels decline.",
+            "description": "Rage will appear on enemy combatants.\n\nRage:\nAffected enemy combatants deal increased damage and have increased damage resistance as their health levels decline.",
             "name": "Rage",
             "icon": "/common/destiny2_content/icons/7b5aeee2fe8cc050d557ccd50109918f.png",
             "iconHash": 0,
@@ -26361,7 +26414,7 @@
           "hash": 821960458,
           "skullIdentifierHash": 1865599805,
           "displayProperties": {
-            "description": "Affected combatants provide nearby allies with stealth. Affected combatants do not have stealth.",
+            "description": "Affected enemy combatants provide nearby allies with stealth. Affected enemy combatants do not have stealth.",
             "name": "Shroud",
             "icon": "/common/destiny2_content/icons/409c43a8ff7e31845766d606de1657f5.png",
             "iconHash": 0,
@@ -26408,7 +26461,7 @@
           "hash": 439086358,
           "skullIdentifierHash": 1106633823,
           "displayProperties": {
-            "description": "Affected combatants emit a Stasis field that slows and freezes nearby Guardians.",
+            "description": "Affected enemy combatants emit a Stasis field that slows and freezes nearby Guardians.",
             "name": "Stasis Field",
             "icon": "/common/destiny2_content/icons/9eeb38467665dfb573647ec0a65eb267.png",
             "iconHash": 0,
@@ -26455,7 +26508,7 @@
           "hash": 2956696667,
           "skullIdentifierHash": 3080205650,
           "displayProperties": {
-            "description": "When defeated, affected combatants emit a wave, causing nearby combatants to become faster and more aggressive.",
+            "description": "Zealous will appear on enemy combatants.\n\nZealous: \nWhen defeated, affected enemy combatants emit a wave, causing nearby enemy combatants to become faster and more aggressive.",
             "name": "Zealous",
             "icon": "/common/destiny2_content/icons/8890365ac5343e65a88280a23605e025.png",
             "iconHash": 0,
@@ -26502,7 +26555,7 @@
           "hash": 2214842664,
           "skullIdentifierHash": 2805310031,
           "displayProperties": {
-            "description": "Affected combatants will periodically unleash devastating waves of meteors.",
+            "description": "Meteors will appear with enemy combatants.\n\nMeteors:\nAffected enemy combatants periodically unleash devastating waves of meteors.",
             "name": "Meteors",
             "icon": "/common/destiny2_content/icons/8ac08fc5a795d63d3b9400006c9bd776.png",
             "iconHash": 0,
@@ -26549,7 +26602,7 @@
           "hash": 1738965682,
           "skullIdentifierHash": 751224253,
           "displayProperties": {
-            "description": "Affected combatants create Strand constructs, which produce projectiles that seek and unravel nearby Guardians.",
+            "description": "Grasp will appear on enemy combatants.\n\nGrasp:\nAffected enemy combatants create Strand constructs, which produce projectiles that seek and unravel nearby Guardians.",
             "name": "Grasp",
             "icon": "/common/destiny2_content/icons/ea589d6114cb97a9536d5690179b768b.png",
             "iconHash": 0,
@@ -28292,7 +28345,7 @@
           "hash": 3706127395,
           "skullIdentifierHash": 3155064182,
           "displayProperties": {
-            "description": "Deadly Banes Screeber and Front Shielding will appear on combatants.\n\nScreeber:\nWhen defeated, affected combatants will create multiple mini Screebs.\n\nFront Shielding:\nAffected combatants have a shield that protects them from frontal damage. Try shooting them from behind.",
+            "description": "Deadly Banes, Screeber and Shield, will appear on enemy combatants.\n\nScreeber:\nWhen defeated, affected enemy combatants will create multiple mini Screebs.\n\nShield:\nAffected enemy combatants have a forward-facing shield protecting them from damage. Try shooting them from behind.",
             "name": "Screeber and Shield",
             "icon": "/common/destiny2_content/icons/9eeb38467665dfb573647ec0a65eb267.png",
             "iconHash": 0,
@@ -28364,11 +28417,11 @@
         "isEmptySkull": false,
         "debugSelectableSkull": false,
         "activitySkull": {
-          "hash": 1779817766,
+          "hash": 3324798974,
           "skullIdentifierHash": 2827983203,
           "displayProperties": {
-            "description": "Deadly Banes Rage and Caltrops will appear on combatants.\n\nRage:\nAffected combatants deal increased damage and have increased damage resistance as their health levels decline.\n\nCaltrops:\nAffected combatants drop damaging elemental pools during combat and after being defeated.",
-            "name": "Rage and Caltrops",
+            "description": "Deadly Banes, Rage and Healing, will appear with enemy combatants.\n\nRage:\nAffected enemy combatants deal increased damage and have increased damage resistance as their health levels decline.\n\nHealing:\nAffected enemy combatants provide a buff to nearby allies based on shield type.",
+            "name": "Rage and Healing",
             "icon": "/common/destiny2_content/icons/7b5aeee2fe8cc050d557ccd50109918f.png",
             "iconHash": 0,
             "iconSequences": [
@@ -28386,6 +28439,13 @@
             "hasIcon": true
           },
           "skullOptions": [
+            {
+              "optionHash": 0,
+              "boolValue": false,
+              "integerValue": 0,
+              "floatValue": 0,
+              "minDisplayDifficultyId": 0
+            },
             {
               "optionHash": 0,
               "boolValue": false,
@@ -28417,11 +28477,11 @@
         "isEmptySkull": false,
         "debugSelectableSkull": false,
         "activitySkull": {
-          "hash": 3648794527,
+          "hash": 3647617935,
           "skullIdentifierHash": 2827983202,
           "displayProperties": {
-            "description": "Deadly Banes Rage and Shroud will appear on combatants.\n\nRage:\nAffected combatants deal increased damage and have increased damage resistance as their health levels decline.\n\nShroud:\nAffected combatants provide nearby allies with stealth. Affected combatants do not have stealth.",
-            "name": "Rage and Shroud",
+            "description": "Deadly Banes, Rage and Hypernova, will appear on enemy combatants.\n\nRage:\nAffected enemy combatants deal increased damage and have increased damage resistance as their health levels decline.\n\nHypernova:\nAffected enemy combatants that have reached critical health will begin a countdown sequence that ends in a massive explosion. Defeat them to stop the explosion.",
+            "name": "Rage and Hypernova",
             "icon": "/common/destiny2_content/icons/6ca53cb6899e0eabb74cba85215c299a.png",
             "iconHash": 0,
             "iconSequences": [
@@ -28470,10 +28530,10 @@
         "isEmptySkull": false,
         "debugSelectableSkull": false,
         "activitySkull": {
-          "hash": 3306704988,
+          "hash": 929737948,
           "skullIdentifierHash": 2827983201,
           "displayProperties": {
-            "description": "Deadly Banes Rage and Front Shielding will appear on combatants.\n\nRage:\nAffected combatants deal increased damage and have increased damage resistance as their health levels decline.\n\nFront Shielding:\nAffected combatants have a shield that protects them from frontal damage. Try shooting them from behind.",
+            "description": "Deadly Banes, Rage and Meteors, will appear on enemy combatants.\n\nRage:\nAffected enemy combatants deal increased damage and have increased damage resistance as their health levels decline.\n\nMeteors:\nAffected enemy combatants periodically unleash devastating waves of meteors.",
             "name": "Rage and Shield",
             "icon": "/common/destiny2_content/icons/8890365ac5343e65a88280a23605e025.png",
             "iconHash": 0,
@@ -28523,11 +28583,11 @@
         "isEmptySkull": false,
         "debugSelectableSkull": false,
         "activitySkull": {
-          "hash": 1817159845,
+          "hash": 2374350813,
           "skullIdentifierHash": 2827983200,
           "displayProperties": {
-            "description": "Deadly Banes Rage and Cascade will appear on combatants.\n\nRage:\nAffected combatants deal increased damage and have increased damage resistance as their health levels decline.\n\nCascade:\nAffected combatants periodically release Stasis crystals that target Guardians and slow them on impact.",
-            "name": "Rage and Cascade",
+            "description": "Deadly Banes, Rage and Meteors, will appear on enemy combatants.\n\nRage:\nAffected enemy combatants deal increased damage and have increased damage resistance as their health levels decline.\n\nMeteors:\nAffected enemy combatants periodically unleash devastating waves of meteors.",
+            "name": "Rage and Meteors",
             "icon": "/common/destiny2_content/icons/2b4f6c4761213e1b3b701abd5bff7152.png",
             "iconHash": 0,
             "iconSequences": [
@@ -28576,11 +28636,11 @@
         "isEmptySkull": false,
         "debugSelectableSkull": false,
         "activitySkull": {
-          "hash": 2390444682,
+          "hash": 1521989298,
           "skullIdentifierHash": 2827983207,
           "displayProperties": {
-            "description": "Deadly Banes Threaded and Caltrops will appear on combatants.\n\nThreaded:\nDealing non-critical damage to affected combatants will spawn hostile Threadlings.\n\nCaltrops:\nAffected combatants drop damaging elemental pools during combat and after being defeated.",
-            "name": "Threads and Caltrops",
+            "description": "Deadly Banes, Protected and Healing, will appear on enemy combatants.\n\nProtected:\nAffected enemy combatants are invulnerable until you destroy the shield drones orbiting them.\n\nHealing:\nAffected enemy combatants provide a buff to nearby allies based on shield type.",
+            "name": "Protected and Healing",
             "icon": "/common/destiny2_content/icons/c9ad9a3340d460153ed8b587e3bc2c90.png",
             "iconHash": 0,
             "iconSequences": [
@@ -28598,6 +28658,13 @@
             "hasIcon": true
           },
           "skullOptions": [
+            {
+              "optionHash": 0,
+              "boolValue": false,
+              "integerValue": 0,
+              "floatValue": 0,
+              "minDisplayDifficultyId": 0
+            },
             {
               "optionHash": 0,
               "boolValue": false,
@@ -28629,11 +28696,11 @@
         "isEmptySkull": false,
         "debugSelectableSkull": false,
         "activitySkull": {
-          "hash": 1731545595,
+          "hash": 566115019,
           "skullIdentifierHash": 2827983206,
           "displayProperties": {
-            "description": "Deadly Banes Threaded and Shroud will appear on combatants.\n\nThreaded:\nDealing non-critical damage to affected combatants will spawn hostile Threadlings.\n\nShroud:\nAffected combatants provide nearby allies with stealth. Affected combatants do not have stealth.",
-            "name": "Threads and Shroud",
+            "description": "Deadly Banes, Protected and Hypernova, will appear on enemy combatants.\n\nProtected:\nAffected enemy combatants are invulnerable until you destroy the shield drones orbiting them.\n\nHypernova:\nAffected enemy combatants that have reached critical health will begin a countdown sequence that ends in a massive explosion. Defeat them to stop the explosion.",
+            "name": "Protected and Hypernova",
             "icon": "/common/destiny2_content/icons/8ac08fc5a795d63d3b9400006c9bd776.png",
             "iconHash": 0,
             "iconSequences": [
@@ -28682,11 +28749,11 @@
         "isEmptySkull": false,
         "debugSelectableSkull": false,
         "activitySkull": {
-          "hash": 2086175984,
+          "hash": 4203448304,
           "skullIdentifierHash": 2827983205,
           "displayProperties": {
-            "description": "Deadly Banes Threaded and Front Shielding will appear on combatants.\n\nThreaded:\nDealing non-critical damage to affected combatants will spawn hostile Threadlings.\n\nFront Shielding:\nAffected combatants have a shield that protects them from frontal damage. Try shooting them from behind.",
-            "name": "Threads and Shield",
+            "description": "Deadly Banes, Protected and Shield, will appear on enemy combatants.\n\nProtected:\nAffected enemy combatants are invulnerable until you destroy the shield drones orbiting them.\n\nShield:\nAffected enemy combatants have a forward-facing shield protecting them from damage. Try shooting them from behind.",
+            "name": "Protected and Shield",
             "icon": "/common/destiny2_content/icons/d0124cabdbcd0d085ba5c56aec9e90e6.png",
             "iconHash": 0,
             "iconSequences": [
@@ -28735,11 +28802,11 @@
         "isEmptySkull": false,
         "debugSelectableSkull": false,
         "activitySkull": {
-          "hash": 4065656817,
+          "hash": 401424009,
           "skullIdentifierHash": 2827983204,
           "displayProperties": {
-            "description": "Deadly Banes Threaded and Cascade will appear on combatants.\n\nThreaded:\nDealing non-critical damage to affected combatants will spawn hostile Threadlings.\n\nCascade:\nAffected combatants periodically release Stasis crystals that target Guardians and slow them on impact.",
-            "name": "Threads and Cascade",
+            "description": "Deadly Banes, Protected and Meteors, will appear on enemy combatants.\n\nProtected:\nAffected enemy combatants are invulnerable until you destroy the shield drones orbiting them.\n\nMeteors:\nAffected enemy combatants periodically unleash devastating waves of meteors.",
+            "name": "Protected and Meteors",
             "icon": "/common/destiny2_content/icons/1fcb932f92c74b8dd3e9722b427a5de7.png",
             "iconHash": 0,
             "iconSequences": [
@@ -28788,11 +28855,11 @@
         "isEmptySkull": false,
         "debugSelectableSkull": false,
         "activitySkull": {
-          "hash": 2790261230,
+          "hash": 2827005446,
           "skullIdentifierHash": 2827983211,
           "displayProperties": {
-            "description": "Deadly Banes Screeber and Caltrops will appear on combatants.\n\nScreeber:\nWhen defeated, affected combatants will create multiple mini Screebs.\n\nCaltrops:\nAffected combatants drop damaging elemental pools during combat and after being defeated.",
-            "name": "Screeber and Caltrops",
+            "description": "Deadly Banes, Gravity and Healing, will appear on enemy combatants.\n\nGravity:\nAffected enemy combatants fire Void projectiles that detonate into damaging Void fields.\n\nHealing:\nAffected enemy combatants provide a buff to nearby allies based on shield type.",
+            "name": "Gravity and Healing",
             "icon": "/common/destiny2_content/icons/7e60fa9b3326ad4fda063d7684b633e8.png",
             "iconHash": 0,
             "iconSequences": [
@@ -28810,6 +28877,13 @@
             "hasIcon": true
           },
           "skullOptions": [
+            {
+              "optionHash": 0,
+              "boolValue": false,
+              "integerValue": 0,
+              "floatValue": 0,
+              "minDisplayDifficultyId": 0
+            },
             {
               "optionHash": 0,
               "boolValue": false,
@@ -28841,11 +28915,11 @@
         "isEmptySkull": false,
         "debugSelectableSkull": false,
         "activitySkull": {
-          "hash": 3261828615,
+          "hash": 3725527703,
           "skullIdentifierHash": 2827983210,
           "displayProperties": {
-            "description": "Deadly Banes Screeber and Shroud will appear on combatants.\n\nScreeber:\nWhen defeated, affected combatants will create multiple mini Screebs.\n\nShroud:\nAffected combatants provide nearby allies with stealth. Affected combatants do not have stealth.",
-            "name": "Screeber and Shroud",
+            "description": "Deadly Banes, Gravity and Hypernova, will appear on enemy combatants.\n\nGravity:\nAffected enemy combatants fire Void projectiles that detonate into damaging Void fields.\n\nHypernova:\nAffected enemy combatants that have reached critical health will begin a countdown sequence that ends in a massive explosion. Defeat them to stop the explosion.",
+            "name": "Gravity and Hypernova",
             "icon": "/common/destiny2_content/icons/409c43a8ff7e31845766d606de1657f5.png",
             "iconHash": 0,
             "iconSequences": [
@@ -28894,11 +28968,11 @@
         "isEmptySkull": false,
         "debugSelectableSkull": false,
         "activitySkull": {
-          "hash": 3706127395,
+          "hash": 1775300627,
           "skullIdentifierHash": 3155064182,
           "displayProperties": {
-            "description": "Deadly Banes Screeber and Front Shielding will appear on combatants.\n\nScreeber:\nWhen defeated, affected combatants will create multiple mini Screebs.\n\nFront Shielding:\nAffected combatants have a shield that protects them from frontal damage. Try shooting them from behind.",
-            "name": "Screeber and Shield",
+            "description": "Deadly Banes, Gravity and Shield, will appear on enemy combatants.\n\nGravity:\nAffected enemy combatants fire Void projectiles that detonate into damaging Void fields.\n\nShield:\nAffected enemy combatants have a forward-facing shield protecting them from damage. Try shooting them from behind.",
+            "name": "Gravity and Shield",
             "icon": "/common/destiny2_content/icons/9eeb38467665dfb573647ec0a65eb267.png",
             "iconHash": 0,
             "iconSequences": [
@@ -28947,11 +29021,11 @@
         "isEmptySkull": false,
         "debugSelectableSkull": false,
         "activitySkull": {
-          "hash": 1308759088,
+          "hash": 3449715144,
           "skullIdentifierHash": 3155064183,
           "displayProperties": {
-            "description": "Deadly Banes Screeber and Cascade will appear on combatants.\n\nScreeber:\nWhen defeated, affected combatants will create multiple mini Screebs.\n\nCascade:\nAffected combatants periodically release Stasis crystals that target Guardians and slow them on impact.",
-            "name": "Screeber and Cascade",
+            "description": "Deadly Banes, Gravity and Meteors, will appear on enemy combatants.\n\nGravity:\nAffected enemy combatants fire Void projectiles that detonate into damaging Void fields.\n\nMeteors:\nAffected enemy combatants periodically unleash devastating waves of meteors.",
+            "name": "Gravity and Meteors",
             "icon": "/common/destiny2_content/icons/ea589d6114cb97a9536d5690179b768b.png",
             "iconHash": 0,
             "iconSequences": [
@@ -29000,11 +29074,11 @@
         "isEmptySkull": false,
         "debugSelectableSkull": false,
         "activitySkull": {
-          "hash": 2968102193,
+          "hash": 2807743049,
           "skullIdentifierHash": 3155064180,
           "displayProperties": {
-            "description": "Deadly Banes Caltrops and Shroud will appear on combatants.\n\nCaltrops:\nAffected combatants drop damaging elemental pools during combat and after being defeated.\n\nShroud:\nAffected combatants provide nearby allies with stealth. Affected combatants do not have stealth.",
-            "name": "Caltrops and Shroud",
+            "description": "Deadly Banes, Healing and Hypernova, will appear on enemy combatants.\n\nHealing:\nAffected enemy combatants provide a buff to nearby allies based on shield type.\n\nHypernova:\nAffected enemy combatants that have reached critical health will begin a countdown sequence that ends in a massive explosion. Defeat them to stop the explosion.",
+            "name": "Healing and Hypernova",
             "icon": "/common/destiny2_content/icons/abe6a9efc8f0ba7094fcd000a2af39ba.png",
             "iconHash": 0,
             "iconSequences": [
@@ -29022,6 +29096,13 @@
             "hasIcon": true
           },
           "skullOptions": [
+            {
+              "optionHash": 0,
+              "boolValue": false,
+              "integerValue": 0,
+              "floatValue": 0,
+              "minDisplayDifficultyId": 0
+            },
             {
               "optionHash": 0,
               "boolValue": false,
@@ -29053,11 +29134,11 @@
         "isEmptySkull": false,
         "debugSelectableSkull": false,
         "activitySkull": {
-          "hash": 2288690166,
+          "hash": 936683030,
           "skullIdentifierHash": 3155064181,
           "displayProperties": {
-            "description": "Deadly Banes Front Shielding and Cascade will appear on combatants.\n\nFront Shielding:\nAffected combatants have a shield that protects them from frontal damage. Try shooting them from behind.\n\nCascade:\nAffected combatants periodically release Stasis crystals that target Guardians and slow them on impact.",
-            "name": "Shield and Cascade",
+            "description": "Deadly Banes, Shield and Meteors, will appear on enemy combatants.\n\nShield:\nAffected enemy combatants have a forward-facing shield protecting them from damage. Try shooting them from behind.\n\nMeteors:\nAffected enemy combatants periodically unleash devastating waves of meteors.",
+            "name": "Shield and Meteors",
             "icon": "/common/destiny2_content/icons/7ae0dd9c04cad22970f82a29e9d0112b.png",
             "iconHash": 0,
             "iconSequences": [
@@ -30804,7 +30885,7 @@
           "hash": 2983280467,
           "skullIdentifierHash": 1992499194,
           "displayProperties": {
-            "description": "Difficult Banes Threaded and Caltrops will appear on combatants.\n\nThreaded:\nDealing non-critical damage to affected combatants will spawn hostile Threadlings.\n\nCaltrops:\nAffected combatants drop damaging elemental pools during combat and after being defeated.",
+            "description": "Difficult Banes, Threads and Caltrops, will appear on enemy combatants.\n\nThreads:\nDealing non-critical damage to affected enemy combatants will spawn hostile Threadlings.\n\nCaltrops:\nAffected enemy combatants drop damaging elemental pools during combat and after being defeated.",
             "name": "Threads and Caltrops",
             "icon": "/common/destiny2_content/icons/c9ad9a3340d460153ed8b587e3bc2c90.png",
             "iconHash": 0,
@@ -31315,7 +31396,7 @@
           "hash": 2390444682,
           "skullIdentifierHash": 2827983207,
           "displayProperties": {
-            "description": "Deadly Banes Threaded and Caltrops will appear on combatants.\n\nThreaded:\nDealing non-critical damage to affected combatants will spawn hostile Threadlings.\n\nCaltrops:\nAffected combatants drop damaging elemental pools during combat and after being defeated.",
+            "description": "Deadly Banes, Threads and Caltrops, will appear on enemy combatants.\n\nThreads:\nDealing non-critical damage to affected enemy combatants will spawn hostile Threadlings.\n\nCaltrops:\nAffected enemy combatants drop damaging elemental pools during combat and after being defeated.",
             "name": "Threads and Caltrops",
             "icon": "/common/destiny2_content/icons/c9ad9a3340d460153ed8b587e3bc2c90.png",
             "iconHash": 0,
@@ -32868,7 +32949,7 @@
           "hash": 4242300949,
           "skullIdentifierHash": 1323561570,
           "displayProperties": {
-            "description": "Guardians must escape before the timer runs out and enemies retake the area.",
+            "description": "Guardians must escape before the timer runs out and enemy combatants retake the area.",
             "name": "Overrun Timer",
             "icon": "/common/destiny2_content/icons/05fa5fe71740bae3d97f340239839a9b.png",
             "iconHash": 0,
@@ -37425,7 +37506,7 @@
           "hash": 2072014386,
           "skullIdentifierHash": 1865599797,
           "displayProperties": {
-            "description": "Caltrops will appear on combatants.\n\nCaltrops:\nAffected combatants drop damaging elemental pools during combat and after being defeated.",
+            "description": "Caltrops will appear on enemy combatants.\n\nCaltrops:\nAffected enemy combatants drop damaging elemental pools during combat and after being defeated.",
             "name": "Caltrops",
             "icon": "/common/destiny2_content/icons/6ca53cb6899e0eabb74cba85215c299a.png",
             "iconHash": 0,
@@ -37471,7 +37552,7 @@
           "hash": 2608447172,
           "skullIdentifierHash": 1865599799,
           "displayProperties": {
-            "description": "Cascade will appear on combatants.\n\nCascade:\nAffected combatants periodically release Stasis waves that target Guardians and slow them on impact.",
+            "description": "Cascade will appear on enemy combatants.\n\nCascade:\nAffected enemy combatants periodically release Stasis crystals that target Guardians and slow them on impact.",
             "name": "Cascade",
             "icon": "/common/destiny2_content/icons/2b4f6c4761213e1b3b701abd5bff7152.png",
             "iconHash": 0,
@@ -37517,7 +37598,7 @@
           "hash": 2333902735,
           "skullIdentifierHash": 1865599792,
           "displayProperties": {
-            "description": "Threads will appear on combatants.\n\nThreads:\nDealing non-critical damage to affected combatants will spawn hostile Threadlings.",
+            "description": "Threads will appear on enemy combatants.\n\nThreads:\nDealing non-critical damage to affected enemy combatants will spawn hostile Threadlings.",
             "name": "Threads",
             "icon": "/common/destiny2_content/icons/c9ad9a3340d460153ed8b587e3bc2c90.png",
             "iconHash": 0,
@@ -37563,7 +37644,7 @@
           "hash": 868758022,
           "skullIdentifierHash": 1865599793,
           "displayProperties": {
-            "description": "Screeber will appear on combatants.\n\nScreeber:\nWhen defeated, affected combatants will create multiple mini Screebs.",
+            "description": "Screeber will appear on enemy combatants.\n\nScreeber:\nWhen defeated, affected enemy combatants will create multiple mini Screebs.",
             "name": "Screeber",
             "icon": "/common/destiny2_content/icons/8ac08fc5a795d63d3b9400006c9bd776.png",
             "iconHash": 0,
@@ -37627,7 +37708,7 @@
           "hash": 2072014386,
           "skullIdentifierHash": 1865599797,
           "displayProperties": {
-            "description": "Caltrops will appear on combatants.\n\nCaltrops:\nAffected combatants drop damaging elemental pools during combat and after being defeated.",
+            "description": "Caltrops will appear on enemy combatants.\n\nCaltrops:\nAffected enemy combatants drop damaging elemental pools during combat and after being defeated.",
             "name": "Caltrops",
             "icon": "/common/destiny2_content/icons/6ca53cb6899e0eabb74cba85215c299a.png",
             "iconHash": 0,
@@ -37673,7 +37754,7 @@
           "hash": 2608447172,
           "skullIdentifierHash": 1865599799,
           "displayProperties": {
-            "description": "Cascade will appear on combatants.\n\nCascade:\nAffected combatants periodically release Stasis waves that target Guardians and slow them on impact.",
+            "description": "Cascade will appear on enemy combatants.\n\nCascade:\nAffected enemy combatants periodically release Stasis crystals that target Guardians and slow them on impact.",
             "name": "Cascade",
             "icon": "/common/destiny2_content/icons/2b4f6c4761213e1b3b701abd5bff7152.png",
             "iconHash": 0,
@@ -37719,7 +37800,7 @@
           "hash": 2333902735,
           "skullIdentifierHash": 1865599792,
           "displayProperties": {
-            "description": "Threads will appear on combatants.\n\nThreads:\nDealing non-critical damage to affected combatants will spawn hostile Threadlings.",
+            "description": "Threads will appear on enemy combatants.\n\nThreads:\nDealing non-critical damage to affected enemy combatants will spawn hostile Threadlings.",
             "name": "Threads",
             "icon": "/common/destiny2_content/icons/c9ad9a3340d460153ed8b587e3bc2c90.png",
             "iconHash": 0,
@@ -37765,7 +37846,7 @@
           "hash": 868758022,
           "skullIdentifierHash": 1865599793,
           "displayProperties": {
-            "description": "Screeber will appear on combatants.\n\nScreeber:\nWhen defeated, affected combatants will create multiple mini Screebs.",
+            "description": "Screeber will appear on enemy combatants.\n\nScreeber:\nWhen defeated, affected enemy combatants will create multiple mini Screebs.",
             "name": "Screeber",
             "icon": "/common/destiny2_content/icons/8ac08fc5a795d63d3b9400006c9bd776.png",
             "iconHash": 0,
@@ -37828,7 +37909,7 @@
           "hash": 2072014386,
           "skullIdentifierHash": 1865599797,
           "displayProperties": {
-            "description": "Caltrops will appear on combatants.\n\nCaltrops:\nAffected combatants drop damaging elemental pools during combat and after being defeated.",
+            "description": "Caltrops will appear on enemy combatants.\n\nCaltrops:\nAffected enemy combatants drop damaging elemental pools during combat and after being defeated.",
             "name": "Caltrops",
             "icon": "/common/destiny2_content/icons/6ca53cb6899e0eabb74cba85215c299a.png",
             "iconHash": 0,
@@ -37874,7 +37955,7 @@
           "hash": 2608447172,
           "skullIdentifierHash": 1865599799,
           "displayProperties": {
-            "description": "Cascade will appear on combatants.\n\nCascade:\nAffected combatants periodically release Stasis waves that target Guardians and slow them on impact.",
+            "description": "Cascade will appear on enemy combatants.\n\nCascade:\nAffected enemy combatants periodically release Stasis crystals that target Guardians and slow them on impact.",
             "name": "Cascade",
             "icon": "/common/destiny2_content/icons/2b4f6c4761213e1b3b701abd5bff7152.png",
             "iconHash": 0,
@@ -37920,7 +38001,7 @@
           "hash": 2333902735,
           "skullIdentifierHash": 1865599792,
           "displayProperties": {
-            "description": "Threads will appear on combatants.\n\nThreads:\nDealing non-critical damage to affected combatants will spawn hostile Threadlings.",
+            "description": "Threads will appear on enemy combatants.\n\nThreads:\nDealing non-critical damage to affected enemy combatants will spawn hostile Threadlings.",
             "name": "Threads",
             "icon": "/common/destiny2_content/icons/c9ad9a3340d460153ed8b587e3bc2c90.png",
             "iconHash": 0,
@@ -37966,7 +38047,7 @@
           "hash": 868758022,
           "skullIdentifierHash": 1865599793,
           "displayProperties": {
-            "description": "Screeber will appear on combatants.\n\nScreeber:\nWhen defeated, affected combatants will create multiple mini Screebs.",
+            "description": "Screeber will appear on enemy combatants.\n\nScreeber:\nWhen defeated, affected enemy combatants will create multiple mini Screebs.",
             "name": "Screeber",
             "icon": "/common/destiny2_content/icons/8ac08fc5a795d63d3b9400006c9bd776.png",
             "iconHash": 0,
@@ -38029,7 +38110,7 @@
           "hash": 2072014386,
           "skullIdentifierHash": 1865599797,
           "displayProperties": {
-            "description": "Caltrops will appear on combatants.\n\nCaltrops:\nAffected combatants drop damaging elemental pools during combat and after being defeated.",
+            "description": "Caltrops will appear on enemy combatants.\n\nCaltrops:\nAffected enemy combatants drop damaging elemental pools during combat and after being defeated.",
             "name": "Caltrops",
             "icon": "/common/destiny2_content/icons/6ca53cb6899e0eabb74cba85215c299a.png",
             "iconHash": 0,
@@ -38075,7 +38156,7 @@
           "hash": 2608447172,
           "skullIdentifierHash": 1865599799,
           "displayProperties": {
-            "description": "Cascade will appear on combatants.\n\nCascade:\nAffected combatants periodically release Stasis waves that target Guardians and slow them on impact.",
+            "description": "Cascade will appear on enemy combatants.\n\nCascade:\nAffected enemy combatants periodically release Stasis crystals that target Guardians and slow them on impact.",
             "name": "Cascade",
             "icon": "/common/destiny2_content/icons/2b4f6c4761213e1b3b701abd5bff7152.png",
             "iconHash": 0,
@@ -38121,7 +38202,7 @@
           "hash": 2333902735,
           "skullIdentifierHash": 1865599792,
           "displayProperties": {
-            "description": "Threads will appear on combatants.\n\nThreads:\nDealing non-critical damage to affected combatants will spawn hostile Threadlings.",
+            "description": "Threads will appear on enemy combatants.\n\nThreads:\nDealing non-critical damage to affected enemy combatants will spawn hostile Threadlings.",
             "name": "Threads",
             "icon": "/common/destiny2_content/icons/c9ad9a3340d460153ed8b587e3bc2c90.png",
             "iconHash": 0,
@@ -38167,7 +38248,7 @@
           "hash": 868758022,
           "skullIdentifierHash": 1865599793,
           "displayProperties": {
-            "description": "Screeber will appear on combatants.\n\nScreeber:\nWhen defeated, affected combatants will create multiple mini Screebs.",
+            "description": "Screeber will appear on enemy combatants.\n\nScreeber:\nWhen defeated, affected enemy combatants will create multiple mini Screebs.",
             "name": "Screeber",
             "icon": "/common/destiny2_content/icons/8ac08fc5a795d63d3b9400006c9bd776.png",
             "iconHash": 0,
@@ -38230,7 +38311,7 @@
           "hash": 2072014386,
           "skullIdentifierHash": 1865599797,
           "displayProperties": {
-            "description": "Caltrops will appear on combatants.\n\nCaltrops:\nAffected combatants drop damaging elemental pools during combat and after being defeated.",
+            "description": "Caltrops will appear on enemy combatants.\n\nCaltrops:\nAffected enemy combatants drop damaging elemental pools during combat and after being defeated.",
             "name": "Caltrops",
             "icon": "/common/destiny2_content/icons/6ca53cb6899e0eabb74cba85215c299a.png",
             "iconHash": 0,
@@ -38276,7 +38357,7 @@
           "hash": 2608447172,
           "skullIdentifierHash": 1865599799,
           "displayProperties": {
-            "description": "Cascade will appear on combatants.\n\nCascade:\nAffected combatants periodically release Stasis waves that target Guardians and slow them on impact.",
+            "description": "Cascade will appear on enemy combatants.\n\nCascade:\nAffected enemy combatants periodically release Stasis crystals that target Guardians and slow them on impact.",
             "name": "Cascade",
             "icon": "/common/destiny2_content/icons/2b4f6c4761213e1b3b701abd5bff7152.png",
             "iconHash": 0,
@@ -38322,7 +38403,7 @@
           "hash": 2333902735,
           "skullIdentifierHash": 1865599792,
           "displayProperties": {
-            "description": "Threads will appear on combatants.\n\nThreads:\nDealing non-critical damage to affected combatants will spawn hostile Threadlings.",
+            "description": "Threads will appear on enemy combatants.\n\nThreads:\nDealing non-critical damage to affected enemy combatants will spawn hostile Threadlings.",
             "name": "Threads",
             "icon": "/common/destiny2_content/icons/c9ad9a3340d460153ed8b587e3bc2c90.png",
             "iconHash": 0,
@@ -38368,7 +38449,7 @@
           "hash": 868758022,
           "skullIdentifierHash": 1865599793,
           "displayProperties": {
-            "description": "Screeber will appear on combatants.\n\nScreeber:\nWhen defeated, affected combatants will create multiple mini Screebs.",
+            "description": "Screeber will appear on enemy combatants.\n\nScreeber:\nWhen defeated, affected enemy combatants will create multiple mini Screebs.",
             "name": "Screeber",
             "icon": "/common/destiny2_content/icons/8ac08fc5a795d63d3b9400006c9bd776.png",
             "iconHash": 0,
@@ -38431,7 +38512,7 @@
           "hash": 2072014386,
           "skullIdentifierHash": 1865599797,
           "displayProperties": {
-            "description": "Caltrops will appear on combatants.\n\nCaltrops:\nAffected combatants drop damaging elemental pools during combat and after being defeated.",
+            "description": "Caltrops will appear on enemy combatants.\n\nCaltrops:\nAffected enemy combatants drop damaging elemental pools during combat and after being defeated.",
             "name": "Caltrops",
             "icon": "/common/destiny2_content/icons/6ca53cb6899e0eabb74cba85215c299a.png",
             "iconHash": 0,
@@ -38477,7 +38558,7 @@
           "hash": 2608447172,
           "skullIdentifierHash": 1865599799,
           "displayProperties": {
-            "description": "Cascade will appear on combatants.\n\nCascade:\nAffected combatants periodically release Stasis waves that target Guardians and slow them on impact.",
+            "description": "Cascade will appear on enemy combatants.\n\nCascade:\nAffected enemy combatants periodically release Stasis crystals that target Guardians and slow them on impact.",
             "name": "Cascade",
             "icon": "/common/destiny2_content/icons/2b4f6c4761213e1b3b701abd5bff7152.png",
             "iconHash": 0,
@@ -38523,7 +38604,7 @@
           "hash": 2333902735,
           "skullIdentifierHash": 1865599792,
           "displayProperties": {
-            "description": "Threads will appear on combatants.\n\nThreads:\nDealing non-critical damage to affected combatants will spawn hostile Threadlings.",
+            "description": "Threads will appear on enemy combatants.\n\nThreads:\nDealing non-critical damage to affected enemy combatants will spawn hostile Threadlings.",
             "name": "Threads",
             "icon": "/common/destiny2_content/icons/c9ad9a3340d460153ed8b587e3bc2c90.png",
             "iconHash": 0,
@@ -38569,7 +38650,7 @@
           "hash": 868758022,
           "skullIdentifierHash": 1865599793,
           "displayProperties": {
-            "description": "Screeber will appear on combatants.\n\nScreeber:\nWhen defeated, affected combatants will create multiple mini Screebs.",
+            "description": "Screeber will appear on enemy combatants.\n\nScreeber:\nWhen defeated, affected enemy combatants will create multiple mini Screebs.",
             "name": "Screeber",
             "icon": "/common/destiny2_content/icons/8ac08fc5a795d63d3b9400006c9bd776.png",
             "iconHash": 0,
@@ -38632,7 +38713,7 @@
           "hash": 2072014386,
           "skullIdentifierHash": 1865599797,
           "displayProperties": {
-            "description": "Caltrops will appear on combatants.\n\nCaltrops:\nAffected combatants drop damaging elemental pools during combat and after being defeated.",
+            "description": "Caltrops will appear on enemy combatants.\n\nCaltrops:\nAffected enemy combatants drop damaging elemental pools during combat and after being defeated.",
             "name": "Caltrops",
             "icon": "/common/destiny2_content/icons/6ca53cb6899e0eabb74cba85215c299a.png",
             "iconHash": 0,
@@ -38678,7 +38759,7 @@
           "hash": 2608447172,
           "skullIdentifierHash": 1865599799,
           "displayProperties": {
-            "description": "Cascade will appear on combatants.\n\nCascade:\nAffected combatants periodically release Stasis waves that target Guardians and slow them on impact.",
+            "description": "Cascade will appear on enemy combatants.\n\nCascade:\nAffected enemy combatants periodically release Stasis crystals that target Guardians and slow them on impact.",
             "name": "Cascade",
             "icon": "/common/destiny2_content/icons/2b4f6c4761213e1b3b701abd5bff7152.png",
             "iconHash": 0,
@@ -38724,7 +38805,7 @@
           "hash": 2333902735,
           "skullIdentifierHash": 1865599792,
           "displayProperties": {
-            "description": "Threads will appear on combatants.\n\nThreads:\nDealing non-critical damage to affected combatants will spawn hostile Threadlings.",
+            "description": "Threads will appear on enemy combatants.\n\nThreads:\nDealing non-critical damage to affected enemy combatants will spawn hostile Threadlings.",
             "name": "Threads",
             "icon": "/common/destiny2_content/icons/c9ad9a3340d460153ed8b587e3bc2c90.png",
             "iconHash": 0,
@@ -38770,7 +38851,7 @@
           "hash": 868758022,
           "skullIdentifierHash": 1865599793,
           "displayProperties": {
-            "description": "Screeber will appear on combatants.\n\nScreeber:\nWhen defeated, affected combatants will create multiple mini Screebs.",
+            "description": "Screeber will appear on enemy combatants.\n\nScreeber:\nWhen defeated, affected enemy combatants will create multiple mini Screebs.",
             "name": "Screeber",
             "icon": "/common/destiny2_content/icons/8ac08fc5a795d63d3b9400006c9bd776.png",
             "iconHash": 0,
@@ -39650,7 +39731,7 @@
           "hash": 1791270167,
           "skullIdentifierHash": 4096482910,
           "displayProperties": {
-            "description": "Difficult Banes Front Shielding and Cascade will appear on combatants.\n\nFront Shielding:\nAffected combatants have a shield that protects them from frontal damage. Try shooting them from behind.\n\nCascade:\nAffected combatants periodically release Stasis crystals that target Guardians and slow them on impact.",
+            "description": "Difficult Banes, Shield and Cascade, will appear on enemy combatants.\n\nShield:\nAffected enemy combatants have a forward-facing shield protecting them from damage. Try shooting them from behind.\n\nCascade:\nAffected enemy combatants periodically release Stasis crystals that target Guardians and slow them on impact.",
             "name": "Shield and Cascade",
             "icon": "/common/destiny2_content/icons/7ae0dd9c04cad22970f82a29e9d0112b.png",
             "iconHash": 0,
@@ -39721,7 +39802,7 @@
           "hash": 107943315,
           "skullIdentifierHash": 1865599796,
           "displayProperties": {
-            "description": "Rage will appear on combatants.\n\nRage:\nAffected combatants deal increased damage and have increased damage resistance as their health levels decline.",
+            "description": "Rage will appear on enemy combatants.\n\nRage:\nAffected enemy combatants deal increased damage and have increased damage resistance as their health levels decline.",
             "name": "Rage",
             "icon": "/common/destiny2_content/icons/7b5aeee2fe8cc050d557ccd50109918f.png",
             "iconHash": 0,
@@ -39767,7 +39848,7 @@
           "hash": 2072014386,
           "skullIdentifierHash": 1865599797,
           "displayProperties": {
-            "description": "Caltrops will appear on combatants.\n\nCaltrops:\nAffected combatants drop damaging elemental pools during combat and after being defeated.",
+            "description": "Caltrops will appear on enemy combatants.\n\nCaltrops:\nAffected enemy combatants drop damaging elemental pools during combat and after being defeated.",
             "name": "Caltrops",
             "icon": "/common/destiny2_content/icons/6ca53cb6899e0eabb74cba85215c299a.png",
             "iconHash": 0,
@@ -39813,7 +39894,7 @@
           "hash": 2333902735,
           "skullIdentifierHash": 1865599792,
           "displayProperties": {
-            "description": "Threads will appear on combatants.\n\nThreads:\nDealing non-critical damage to affected combatants will spawn hostile Threadlings.",
+            "description": "Threads will appear on enemy combatants.\n\nThreads:\nDealing non-critical damage to affected enemy combatants will spawn hostile Threadlings.",
             "name": "Threads",
             "icon": "/common/destiny2_content/icons/c9ad9a3340d460153ed8b587e3bc2c90.png",
             "iconHash": 0,
@@ -41264,7 +41345,7 @@
       },
       {
         "requiredTraitExistence": false,
-        "isEmptySkull": false,
+        "isEmptySkull": true,
         "debugSelectableSkull": false,
         "activitySkull": {
           "hash": 1221125687,
@@ -41326,7 +41407,7 @@
           "hash": 2946975190,
           "skullIdentifierHash": 550488411,
           "displayProperties": {
-            "description": "Combatants with Banes are encountered significantly more frequently.",
+            "description": "Enemy combatants with Banes are encountered significantly more frequently.",
             "name": "Scourge III",
             "icon": "/common/destiny2_content/icons/448a7a6e33c4ff4e9abdb05c9d5e374c.png",
             "iconHash": 0,
@@ -41373,7 +41454,7 @@
           "hash": 2946975190,
           "skullIdentifierHash": 2797628652,
           "displayProperties": {
-            "description": "Combatants with Banes are encountered significantly more frequently.",
+            "description": "Enemy combatants with Banes are encountered significantly more frequently.",
             "name": "Scourge III",
             "icon": "/common/destiny2_content/icons/448a7a6e33c4ff4e9abdb05c9d5e374c.png",
             "iconHash": 0,
@@ -42948,7 +43029,7 @@
           "hash": 4242300949,
           "skullIdentifierHash": 1323561570,
           "displayProperties": {
-            "description": "Guardians must escape before the timer runs out and enemies retake the area.",
+            "description": "Guardians must escape before the timer runs out and enemy combatants retake the area.",
             "name": "Overrun Timer",
             "icon": "/common/destiny2_content/icons/05fa5fe71740bae3d97f340239839a9b.png",
             "iconHash": 0,
@@ -44115,7 +44196,7 @@
           "hash": 2072014386,
           "skullIdentifierHash": 1865599797,
           "displayProperties": {
-            "description": "Caltrops will appear on combatants.\n\nCaltrops:\nAffected combatants drop damaging elemental pools during combat and after being defeated.",
+            "description": "Caltrops will appear on enemy combatants.\n\nCaltrops:\nAffected enemy combatants drop damaging elemental pools during combat and after being defeated.",
             "name": "Caltrops",
             "icon": "/common/destiny2_content/icons/6ca53cb6899e0eabb74cba85215c299a.png",
             "iconHash": 0,
@@ -44161,7 +44242,7 @@
           "hash": 2608447172,
           "skullIdentifierHash": 1865599799,
           "displayProperties": {
-            "description": "Cascade will appear on combatants.\n\nCascade:\nAffected combatants periodically release Stasis waves that target Guardians and slow them on impact.",
+            "description": "Cascade will appear on enemy combatants.\n\nCascade:\nAffected enemy combatants periodically release Stasis crystals that target Guardians and slow them on impact.",
             "name": "Cascade",
             "icon": "/common/destiny2_content/icons/2b4f6c4761213e1b3b701abd5bff7152.png",
             "iconHash": 0,
@@ -44207,7 +44288,7 @@
           "hash": 2333902735,
           "skullIdentifierHash": 1865599792,
           "displayProperties": {
-            "description": "Threads will appear on combatants.\n\nThreads:\nDealing non-critical damage to affected combatants will spawn hostile Threadlings.",
+            "description": "Threads will appear on enemy combatants.\n\nThreads:\nDealing non-critical damage to affected enemy combatants will spawn hostile Threadlings.",
             "name": "Threads",
             "icon": "/common/destiny2_content/icons/c9ad9a3340d460153ed8b587e3bc2c90.png",
             "iconHash": 0,
@@ -44253,7 +44334,7 @@
           "hash": 868758022,
           "skullIdentifierHash": 1865599793,
           "displayProperties": {
-            "description": "Screeber will appear on combatants.\n\nScreeber:\nWhen defeated, affected combatants will create multiple mini Screebs.",
+            "description": "Screeber will appear on enemy combatants.\n\nScreeber:\nWhen defeated, affected enemy combatants will create multiple mini Screebs.",
             "name": "Screeber",
             "icon": "/common/destiny2_content/icons/8ac08fc5a795d63d3b9400006c9bd776.png",
             "iconHash": 0,
@@ -46906,7 +46987,7 @@
           "hash": 107943315,
           "skullIdentifierHash": 1865599796,
           "displayProperties": {
-            "description": "Rage will appear on combatants.\n\nRage:\nAffected combatants deal increased damage and have increased damage resistance as their health levels decline.",
+            "description": "Rage will appear on enemy combatants.\n\nRage:\nAffected enemy combatants deal increased damage and have increased damage resistance as their health levels decline.",
             "name": "Rage",
             "icon": "/common/destiny2_content/icons/7b5aeee2fe8cc050d557ccd50109918f.png",
             "iconHash": 0,
@@ -46952,7 +47033,7 @@
           "hash": 2072014386,
           "skullIdentifierHash": 1865599797,
           "displayProperties": {
-            "description": "Caltrops will appear on combatants.\n\nCaltrops:\nAffected combatants drop damaging elemental pools during combat and after being defeated.",
+            "description": "Caltrops will appear on enemy combatants.\n\nCaltrops:\nAffected enemy combatants drop damaging elemental pools during combat and after being defeated.",
             "name": "Caltrops",
             "icon": "/common/destiny2_content/icons/6ca53cb6899e0eabb74cba85215c299a.png",
             "iconHash": 0,
@@ -46998,7 +47079,7 @@
           "hash": 2333902735,
           "skullIdentifierHash": 1865599792,
           "displayProperties": {
-            "description": "Threads will appear on combatants.\n\nThreads:\nDealing non-critical damage to affected combatants will spawn hostile Threadlings.",
+            "description": "Threads will appear on enemy combatants.\n\nThreads:\nDealing non-critical damage to affected enemy combatants will spawn hostile Threadlings.",
             "name": "Threads",
             "icon": "/common/destiny2_content/icons/c9ad9a3340d460153ed8b587e3bc2c90.png",
             "iconHash": 0,
@@ -47247,11 +47328,11 @@
         "isEmptySkull": false,
         "debugSelectableSkull": false,
         "activitySkull": {
-          "hash": 1370975399,
+          "hash": 2451266245,
           "skullIdentifierHash": 3695201412,
           "displayProperties": {
-            "description": "",
-            "name": "",
+            "description": "Increases outgoing direct damage but reduces outgoing area-of-effect damage.",
+            "name": "Focused Fire",
             "icon": "/common/destiny2_content/icons/8e5652d69b0681f829d2cc603e64697e.png",
             "iconHash": 0,
             "iconSequences": [
@@ -47293,11 +47374,11 @@
         "isEmptySkull": false,
         "debugSelectableSkull": false,
         "activitySkull": {
-          "hash": 3435101980,
+          "hash": 3660103421,
           "skullIdentifierHash": 1915646842,
           "displayProperties": {
-            "description": "Affected combatants are invulnerable until you destroy the shield drones orbiting them.",
-            "name": "Protected",
+            "description": "Looking directly at this enemy combatant afflicts you with Stasis until you eventually freeze.",
+            "name": "Medusa",
             "icon": "/common/destiny2_content/icons/13f8c441c7bd261521f7d0ea026e8f68.png",
             "iconHash": 0,
             "iconSequences": [
@@ -50809,11 +50890,11 @@
         "isEmptySkull": false,
         "debugSelectableSkull": false,
         "activitySkull": {
-          "hash": 3271325359,
+          "hash": 3093604679,
           "skullIdentifierHash": 1992499198,
           "displayProperties": {
-            "description": "Difficult Banes Rage and Caltrops will appear on combatants.\n\nRage:\nAffected combatants deal increased damage and have increased damage resistance as their health levels decline.\n\nCaltrops:\nAffected combatants drop damaging elemental pools during combat and after being defeated.",
-            "name": "Rage and Caltrops",
+            "description": "Difficult Banes, Rage and Healing, will appear on enemy combatants.\n\nRage:\nAffected enemy combatants deal increased damage and have increased damage resistance as their health levels decline.\n\nHealing:\nAffected enemy combatants provide a buff to nearby allies based on shield type.",
+            "name": "Rage and Healing",
             "icon": "/common/destiny2_content/icons/7b5aeee2fe8cc050d557ccd50109918f.png",
             "iconHash": 0,
             "iconSequences": [
@@ -50831,6 +50912,13 @@
             "hasIcon": true
           },
           "skullOptions": [
+            {
+              "optionHash": 0,
+              "boolValue": false,
+              "integerValue": 0,
+              "floatValue": 0,
+              "minDisplayDifficultyId": 0
+            },
             {
               "optionHash": 0,
               "boolValue": false,
@@ -50862,11 +50950,11 @@
         "isEmptySkull": false,
         "debugSelectableSkull": false,
         "activitySkull": {
-          "hash": 2418499496,
+          "hash": 2431859544,
           "skullIdentifierHash": 1992499199,
           "displayProperties": {
-            "description": "Difficult Banes Rage and Shroud will appear on combatants.\n\nRage:\nAffected combatants deal increased damage and have increased damage resistance as their health levels decline.\n\nShroud:\nAffected combatants provide nearby allies with stealth. Affected combatants do not have stealth.",
-            "name": "Rage and Shroud",
+            "description": "Difficult Banes, Rage and Hypernova, will appear on enemy combatants.\n\nRage:\nAffected enemy combatants deal increased damage and have increased damage resistance as their health levels decline.\n\nHypernova:\nAffected enemy combatants that have reached critical health will begin a countdown sequence that ends in a massive explosion. Defeat them to stop the explosion.",
+            "name": "Rage and Hypernova",
             "icon": "/common/destiny2_content/icons/6ca53cb6899e0eabb74cba85215c299a.png",
             "iconHash": 0,
             "iconSequences": [
@@ -50915,10 +51003,10 @@
         "isEmptySkull": false,
         "debugSelectableSkull": false,
         "activitySkull": {
-          "hash": 3068438273,
+          "hash": 3870507137,
           "skullIdentifierHash": 1992499196,
           "displayProperties": {
-            "description": "Difficult Banes Rage and Front Shielding will appear on combatants.\n\nRage:\nAffected combatants deal increased damage and have increased damage resistance as their health levels decline.\n\nFront Shielding:\nAffected combatants have a shield that protects them from frontal damage. Try shooting them from behind.",
+            "description": "Difficult Banes, Rage and Meteors, will appear on enemy combatants.\n\nRage:\nAffected enemy combatants deal increased damage and have increased damage resistance as their health levels decline.\n\nMeteors:\nAffected enemy combatants periodically unleash devastating waves of meteors.",
             "name": "Rage and Shield",
             "icon": "/common/destiny2_content/icons/8890365ac5343e65a88280a23605e025.png",
             "iconHash": 0,
@@ -50968,11 +51056,11 @@
         "isEmptySkull": false,
         "debugSelectableSkull": false,
         "activitySkull": {
-          "hash": 1207584818,
+          "hash": 3862312778,
           "skullIdentifierHash": 1992499197,
           "displayProperties": {
-            "description": "Difficult Banes Rage and Cascade will appear on combatants.\n\nRage:\nAffected combatants deal increased damage and have increased damage resistance as their health levels decline.\n\nCascade:\nAffected combatants periodically release Stasis crystals that target Guardians and slow them on impact.",
-            "name": "Rage and Cascade",
+            "description": "Difficult Banes, Rage and Meteors, will appear on enemy combatants.\n\nRage:\nAffected enemy combatants deal increased damage and have increased damage resistance as their health levels decline.\n\nMeteors:\nAffected enemy combatants periodically unleash devastating waves of meteors.",
+            "name": "Rage and Meteors",
             "icon": "/common/destiny2_content/icons/2b4f6c4761213e1b3b701abd5bff7152.png",
             "iconHash": 0,
             "iconSequences": [
@@ -51021,11 +51109,11 @@
         "isEmptySkull": false,
         "debugSelectableSkull": false,
         "activitySkull": {
-          "hash": 2983280467,
+          "hash": 2600819963,
           "skullIdentifierHash": 1992499194,
           "displayProperties": {
-            "description": "Difficult Banes Threaded and Caltrops will appear on combatants.\n\nThreaded:\nDealing non-critical damage to affected combatants will spawn hostile Threadlings.\n\nCaltrops:\nAffected combatants drop damaging elemental pools during combat and after being defeated.",
-            "name": "Threads and Caltrops",
+            "description": "Difficult Banes, Protected and Healing, will appear on enemy combatants.\n\nProtected:\nAffected enemy combatants are invulnerable until you destroy the shield drones orbiting them.\n\nHealing:\nAffected enemy combatants provide a buff to nearby allies based on shield type.",
+            "name": "Protected and Healing",
             "icon": "/common/destiny2_content/icons/c9ad9a3340d460153ed8b587e3bc2c90.png",
             "iconHash": 0,
             "iconSequences": [
@@ -51043,6 +51131,13 @@
             "hasIcon": true
           },
           "skullOptions": [
+            {
+              "optionHash": 0,
+              "boolValue": false,
+              "integerValue": 0,
+              "floatValue": 0,
+              "minDisplayDifficultyId": 0
+            },
             {
               "optionHash": 0,
               "boolValue": false,
@@ -51074,11 +51169,11 @@
         "isEmptySkull": false,
         "debugSelectableSkull": false,
         "activitySkull": {
-          "hash": 2273420636,
+          "hash": 1715336556,
           "skullIdentifierHash": 1992499195,
           "displayProperties": {
-            "description": "Difficult Banes Threaded and Shroud will appear on combatants.\n\nThreaded:\nDealing non-critical damage to affected combatants will spawn hostile Threadlings.\n\nShroud:\nAffected combatants provide nearby allies with stealth. Affected combatants do not have stealth.",
-            "name": "Threads and Shroud",
+            "description": "Difficult Banes, Protected and Hypernova, will appear on enemy combatants.\n\nProtected:\nAffected enemy combatants are invulnerable until you destroy the shield drones orbiting them.\n\nHypernova:\nAffected enemy combatants that have reached critical health will begin a countdown sequence that ends in a massive explosion. Defeat them to stop the explosion.",
+            "name": "Protected and Hypernova",
             "icon": "/common/destiny2_content/icons/8ac08fc5a795d63d3b9400006c9bd776.png",
             "iconHash": 0,
             "iconSequences": [
@@ -51127,11 +51222,11 @@
         "isEmptySkull": false,
         "debugSelectableSkull": false,
         "activitySkull": {
-          "hash": 978517653,
+          "hash": 2422071189,
           "skullIdentifierHash": 1992499192,
           "displayProperties": {
-            "description": "Difficult Banes Threaded and Front Shielding will appear on combatants.\n\nThreaded:\nDealing non-critical damage to affected combatants will spawn hostile Threadlings.\n\nFront Shielding:\nAffected combatants have a shield that protects them from frontal damage. Try shooting them from behind.",
-            "name": "Threads and Shield",
+            "description": "Difficult Banes, Protected and Shield, will appear on enemy combatants.\n\nProtected:\nAffected enemy combatants are invulnerable until you destroy the shield drones orbiting them.\n\nShield:\nAffected enemy combatants have a forward-facing shield protecting them from damage. Try shooting them from behind.",
+            "name": "Protected and Shield",
             "icon": "/common/destiny2_content/icons/d0124cabdbcd0d085ba5c56aec9e90e6.png",
             "iconHash": 0,
             "iconSequences": [
@@ -51180,11 +51275,11 @@
         "isEmptySkull": false,
         "debugSelectableSkull": false,
         "activitySkull": {
-          "hash": 3610429526,
+          "hash": 2858919182,
           "skullIdentifierHash": 1992499193,
           "displayProperties": {
-            "description": "Difficult Banes Threaded and Cascade will appear on combatants.\n\nThreaded:\nDealing non-critical damage to affected combatants will spawn hostile Threadlings.\n\nCascade:\nAffected combatants periodically release Stasis crystals that target Guardians and slow them on impact.",
-            "name": "Threads and Cascade",
+            "description": "Difficult Banes, Protected and Meteors, will appear on enemy combatants.\n\nProtected:\nAffected enemy combatants are invulnerable until you destroy the shield drones orbiting them.\n\nMeteors:\nAffected enemy combatants periodically unleash devastating waves of meteors.",
+            "name": "Protected and Meteors",
             "icon": "/common/destiny2_content/icons/1fcb932f92c74b8dd3e9722b427a5de7.png",
             "iconHash": 0,
             "iconSequences": [
@@ -51233,11 +51328,11 @@
         "isEmptySkull": false,
         "debugSelectableSkull": false,
         "activitySkull": {
-          "hash": 2818322903,
+          "hash": 710514223,
           "skullIdentifierHash": 1992499190,
           "displayProperties": {
-            "description": "Difficult Banes Screeber and Caltrops will appear on combatants.\n\nScreeber:\nWhen defeated, affected combatants will create multiple mini Screebs.\n\nCaltrops:\nAffected combatants drop damaging elemental pools during combat and after being defeated.",
-            "name": "Screeber and Caltrops",
+            "description": "Difficult Banes, Gravity and Healing, will appear on enemy combatants.\n\nGravity:\nAffected enemy combatants fire Void projectiles that detonate into damaging Void fields.\n\nHealing:\nAffected enemy combatants provide a buff to nearby allies based on shield type.",
+            "name": "Gravity and Healing",
             "icon": "/common/destiny2_content/icons/7e60fa9b3326ad4fda063d7684b633e8.png",
             "iconHash": 0,
             "iconSequences": [
@@ -51255,6 +51350,13 @@
             "hasIcon": true
           },
           "skullOptions": [
+            {
+              "optionHash": 0,
+              "boolValue": false,
+              "integerValue": 0,
+              "floatValue": 0,
+              "minDisplayDifficultyId": 0
+            },
             {
               "optionHash": 0,
               "boolValue": false,
@@ -51286,11 +51388,11 @@
         "isEmptySkull": false,
         "debugSelectableSkull": false,
         "activitySkull": {
-          "hash": 625655968,
+          "hash": 1359406128,
           "skullIdentifierHash": 1992499191,
           "displayProperties": {
-            "description": "Difficult Banes Screeber and Shroud will appear on combatants.\n\nScreeber:\nWhen defeated, affected combatants will create multiple mini Screebs.\n\nShroud:\nAffected combatants provide nearby allies with stealth. Affected combatants do not have stealth.",
-            "name": "Screeber and Shroud",
+            "description": "Difficult Banes, Gravity and Hypernova, will appear on enemy combatants.\n\nGravity:\nAffected enemy combatants fire Void projectiles that detonate into damaging Void fields.\n\nHypernova:\nAffected enemy combatants that have reached critical health will begin a countdown sequence that ends in a massive explosion. Defeat them to stop the explosion.",
+            "name": "Gravity and Hypernova",
             "icon": "/common/destiny2_content/icons/409c43a8ff7e31845766d606de1657f5.png",
             "iconHash": 0,
             "iconSequences": [
@@ -51339,11 +51441,11 @@
         "isEmptySkull": false,
         "debugSelectableSkull": false,
         "activitySkull": {
-          "hash": 1028511672,
+          "hash": 2748515752,
           "skullIdentifierHash": 4096482909,
           "displayProperties": {
-            "description": "Difficult Banes Screeber and Front Shielding will appear on combatants.\n\nScreeber:\nWhen defeated, affected combatants will create multiple mini Screebs.\n\nFront Shielding:\nAffected combatants have a shield that protects them from frontal damage. Try shooting them from behind.",
-            "name": "Screeber and Shield",
+            "description": "Difficult Banes, Gravity and Shield, will appear on enemy combatants.\n\nGravity:\nAffected enemy combatants fire Void projectiles that detonate into damaging Void fields.\n\nShield:\nAffected enemy combatants have a forward-facing shield protecting them from damage. Try shooting them from behind.",
+            "name": "Gravity and Shield",
             "icon": "/common/destiny2_content/icons/9eeb38467665dfb573647ec0a65eb267.png",
             "iconHash": 0,
             "iconSequences": [
@@ -51392,11 +51494,11 @@
         "isEmptySkull": false,
         "debugSelectableSkull": false,
         "activitySkull": {
-          "hash": 3762801041,
+          "hash": 481549449,
           "skullIdentifierHash": 4096482908,
           "displayProperties": {
-            "description": "Difficult Banes Screeber and Cascade will appear on combatants.\n\nScreeber:\nWhen defeated, affected combatants will create multiple mini Screebs.\n\nCascade:\nAffected combatants periodically release Stasis crystals that target Guardians and slow them on impact.",
-            "name": "Screeber and Cascade",
+            "description": "Difficult Banes, Gravity and Meteors, will appear on enemy combatants.\n\nGravity:\nAffected enemy combatants fire Void projectiles that detonate into damaging Void fields.\n\nMeteors:\nAffected enemy combatants periodically unleash devastating waves of meteors.",
+            "name": "Gravity and Meteors",
             "icon": "/common/destiny2_content/icons/ea589d6114cb97a9536d5690179b768b.png",
             "iconHash": 0,
             "iconSequences": [
@@ -51445,11 +51547,11 @@
         "isEmptySkull": false,
         "debugSelectableSkull": false,
         "activitySkull": {
-          "hash": 1839325982,
+          "hash": 774544790,
           "skullIdentifierHash": 4096482911,
           "displayProperties": {
-            "description": "Difficult Banes Caltrops and Shroud will appear on combatants.\n\nCaltrops:\nAffected combatants drop damaging elemental pools during combat and after being defeated.\n\nShroud:\nAffected combatants provide nearby allies with stealth. Affected combatants do not have stealth.",
-            "name": "Caltrops and Shroud",
+            "description": "Difficult Banes, Healing and Hypernova, will appear on enemy combatants.\n\nHealing:\nAffected enemy combatants provide a buff to nearby allies based on shield type.\n\nHypernova:\nAffected enemy combatants that have reached critical health will begin a countdown sequence that ends in a massive explosion. Defeat them to stop the explosion.",
+            "name": "Healing and Hypernova",
             "icon": "/common/destiny2_content/icons/abe6a9efc8f0ba7094fcd000a2af39ba.png",
             "iconHash": 0,
             "iconSequences": [
@@ -51467,6 +51569,13 @@
             "hasIcon": true
           },
           "skullOptions": [
+            {
+              "optionHash": 0,
+              "boolValue": false,
+              "integerValue": 0,
+              "floatValue": 0,
+              "minDisplayDifficultyId": 0
+            },
             {
               "optionHash": 0,
               "boolValue": false,
@@ -51498,11 +51607,11 @@
         "isEmptySkull": false,
         "debugSelectableSkull": false,
         "activitySkull": {
-          "hash": 1791270167,
+          "hash": 712089911,
           "skullIdentifierHash": 4096482910,
           "displayProperties": {
-            "description": "Difficult Banes Front Shielding and Cascade will appear on combatants.\n\nFront Shielding:\nAffected combatants have a shield that protects them from frontal damage. Try shooting them from behind.\n\nCascade:\nAffected combatants periodically release Stasis crystals that target Guardians and slow them on impact.",
-            "name": "Shield and Cascade",
+            "description": "Difficult Banes, Shield and Meteors, will appear on enemy combatants.\n\nShield:\nAffected enemy combatants have a forward-facing shield protecting them from damage. Try shooting them from behind.\n\nMeteors:\nAffected enemy combatants periodically unleash devastating waves of meteors.",
+            "name": "Shield and Meteors",
             "icon": "/common/destiny2_content/icons/7ae0dd9c04cad22970f82a29e9d0112b.png",
             "iconHash": 0,
             "iconSequences": [
@@ -52383,7 +52492,7 @@
           "hash": 4010968999,
           "skullIdentifierHash": 550488408,
           "displayProperties": {
-            "description": "Combatants with Banes are encountered more frequently.",
+            "description": "Enemy combatants with Banes are encountered more frequently.",
             "name": "Scourge II",
             "icon": "/common/destiny2_content/icons/ae17e4173a263caeedb6d7acba61f9db.png",
             "iconHash": 0,
@@ -52430,7 +52539,7 @@
           "hash": 4010968999,
           "skullIdentifierHash": 2797628655,
           "displayProperties": {
-            "description": "Combatants with Banes are encountered more frequently.",
+            "description": "Enemy combatants with Banes are encountered more frequently.",
             "name": "Scourge II",
             "icon": "/common/destiny2_content/icons/ae17e4173a263caeedb6d7acba61f9db.png",
             "iconHash": 0,
@@ -57703,7 +57812,7 @@
           "hash": 3271325359,
           "skullIdentifierHash": 1992499198,
           "displayProperties": {
-            "description": "Difficult Banes Rage and Caltrops will appear on combatants.\n\nRage:\nAffected combatants deal increased damage and have increased damage resistance as their health levels decline.\n\nCaltrops:\nAffected combatants drop damaging elemental pools during combat and after being defeated.",
+            "description": "Difficult Banes, Rage and Caltrops, will appear on enemy combatants.\n\nRage:\nAffected enemy combatants deal increased damage and have increased damage resistance as their health levels decline.\n\nCaltrops:\nAffected enemy combatants drop damaging elemental pools during combat and after being defeated.",
             "name": "Rage and Caltrops",
             "icon": "/common/destiny2_content/icons/7b5aeee2fe8cc050d557ccd50109918f.png",
             "iconHash": 0,
@@ -57773,7 +57882,7 @@
           "hash": 625655968,
           "skullIdentifierHash": 1992499191,
           "displayProperties": {
-            "description": "Difficult Banes Screeber and Shroud will appear on combatants.\n\nScreeber:\nWhen defeated, affected combatants will create multiple mini Screebs.\n\nShroud:\nAffected combatants provide nearby allies with stealth. Affected combatants do not have stealth.",
+            "description": "Difficult Banes, Screeber and Shroud, will appear on enemy combatants.\n\nScreeber:\nWhen defeated, affected enemy combatants will create multiple mini Screebs.\n\nShroud:\nAffected enemy combatants provide nearby allies with stealth. Affected enemy combatants do not have stealth.",
             "name": "Screeber and Shroud",
             "icon": "/common/destiny2_content/icons/409c43a8ff7e31845766d606de1657f5.png",
             "iconHash": 0,
@@ -57843,7 +57952,7 @@
           "hash": 107943315,
           "skullIdentifierHash": 1865599796,
           "displayProperties": {
-            "description": "Rage will appear on combatants.\n\nRage:\nAffected combatants deal increased damage and have increased damage resistance as their health levels decline.",
+            "description": "Rage will appear on enemy combatants.\n\nRage:\nAffected enemy combatants deal increased damage and have increased damage resistance as their health levels decline.",
             "name": "Rage",
             "icon": "/common/destiny2_content/icons/7b5aeee2fe8cc050d557ccd50109918f.png",
             "iconHash": 0,
@@ -57889,7 +57998,7 @@
           "hash": 2072014386,
           "skullIdentifierHash": 1865599797,
           "displayProperties": {
-            "description": "Caltrops will appear on combatants.\n\nCaltrops:\nAffected combatants drop damaging elemental pools during combat and after being defeated.",
+            "description": "Caltrops will appear on enemy combatants.\n\nCaltrops:\nAffected enemy combatants drop damaging elemental pools during combat and after being defeated.",
             "name": "Caltrops",
             "icon": "/common/destiny2_content/icons/6ca53cb6899e0eabb74cba85215c299a.png",
             "iconHash": 0,
@@ -57935,7 +58044,7 @@
           "hash": 2333902735,
           "skullIdentifierHash": 1865599792,
           "displayProperties": {
-            "description": "Threads will appear on combatants.\n\nThreads:\nDealing non-critical damage to affected combatants will spawn hostile Threadlings.",
+            "description": "Threads will appear on enemy combatants.\n\nThreads:\nDealing non-critical damage to affected enemy combatants will spawn hostile Threadlings.",
             "name": "Threads",
             "icon": "/common/destiny2_content/icons/c9ad9a3340d460153ed8b587e3bc2c90.png",
             "iconHash": 0,

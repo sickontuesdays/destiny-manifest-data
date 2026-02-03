@@ -3853,7 +3853,7 @@
         "position": {
           "x": 698,
           "y": 298,
-          "z": 1
+          "z": 2
         },
         "featuringStates": [],
         "activities": [
@@ -3993,7 +3993,7 @@
         "position": {
           "x": 997,
           "y": 214,
-          "z": 2
+          "z": 1
         },
         "featuringStates": [],
         "activities": [
@@ -10449,6 +10449,37 @@
         "uiStyleHash": 0
       },
       {
+        "nodeId": 3800883563,
+        "overrideDisplay": {
+          "description": "",
+          "name": "",
+          "iconHash": 0,
+          "hasIcon": false
+        },
+        "position": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "featuringStates": [],
+        "activities": [
+          {
+            "nodeActivityId": 3800883563,
+            "activityHash": 1814561995
+          }
+        ],
+        "states": [
+          {
+            "state": 0
+          },
+          {
+            "state": 4
+          }
+        ],
+        "uiActivityTypeOverrideHash": 0,
+        "uiStyleHash": 0
+      },
+      {
         "nodeId": 19609985,
         "overrideDisplay": {
           "description": "",
@@ -10816,8 +10847,8 @@
       {
         "nodeId": 832258359,
         "overrideDisplay": {
-          "description": "",
-          "name": "Standard",
+          "description": "Revisit past adventures in the Lawless Frontier.",
+          "name": "Lawless Missions",
           "iconHash": 0,
           "hasIcon": false
         },
