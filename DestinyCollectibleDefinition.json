@@ -126705,8 +126705,10 @@
     "displayProperties": {
       "description": "",
       "name": "UESC Rover",
+      "icon": "/common/destiny2_content/icons/4c07c9334faccc16dc8b631fea02610c.jpg",
       "iconHash": 0,
-      "hasIcon": false
+      "highResIcon": "/common/destiny2_content/icons/7fd78a1dfb9f23b7ba951c24aac22c1d.jpg",
+      "hasIcon": true
     },
     "scope": 1,
     "sourceString": "Source: Earned as a pre-order bonus.",
@@ -212638,8 +212640,10 @@
     "displayProperties": {
       "description": "Equip this weapon ornament to change the appearance of MIDA Multi-Tool. Once you get an ornament, it's unlocked for all characters on your account.",
       "name": "Modern MIDA Multi-Tool",
+      "icon": "/common/destiny2_content/icons/f5354c1b327cb022d1a9f01a68df4a08.jpg",
       "iconHash": 0,
-      "hasIcon": false
+      "highResIcon": "/common/destiny2_content/icons/462952557cacb69619e2c3183b040f59.jpg",
+      "hasIcon": true
     },
     "scope": 1,
     "sourceString": "Source: Eververse",
@@ -249231,8 +249235,10 @@
     "displayProperties": {
       "description": "",
       "name": "UESC Echo-type Shell",
+      "icon": "/common/destiny2_content/icons/5b7ae86c29f271e423cff6d652ad8148.jpg",
       "iconHash": 0,
-      "hasIcon": false
+      "highResIcon": "/common/destiny2_content/icons/63e9a2680b2589c2f28777ab4ab4a5ce.jpg",
+      "hasIcon": true
     },
     "scope": 1,
     "sourceString": "Source: Earned as a pre-order bonus.",
@@ -293536,19 +293542,33 @@
   },
   "3451489547": {
     "displayProperties": {
-      "description": "Keep it secret.  Keep it safe.",
-      "name": "Classified",
-      "icon": "/img/misc/missing_icon_d2.png",
+      "description": "Equip this shader to change the color of your gear.",
+      "name": "Silkworm Weave",
+      "icon": "/common/destiny2_content/icons/f96aaf0f049bf07f297d590c6797e98b.jpg",
       "iconHash": 0,
-      "highResIcon": "/img/misc/missing_icon_d2.png",
-      "hasIcon": false
+      "hasIcon": true
     },
-    "scope": 0,
-    "itemHash": 0,
-    "presentationNodeType": 0,
+    "scope": 1,
+    "sourceString": "Source: Eververse",
+    "sourceHash": 860688654,
+    "itemHash": 3204751449,
+    "acquisitionInfo": {
+      "runOnlyAcquisitionRewardSite": false
+    },
+    "stateInfo": {
+      "requirements": {
+        "entitlementUnavailableMessage": ""
+      }
+    },
+    "presentationNodeType": 1,
+    "traitIds": [],
+    "traitHashes": [],
+    "parentNodeHashes": [
+      2063273188
+    ],
     "hash": 3451489547,
     "index": 8066,
-    "redacted": true,
+    "redacted": false,
     "blacklisted": false
   },
   "3452801174": {
@@ -293754,8 +293774,10 @@
     "displayProperties": {
       "description": "",
       "name": "UESC Sprinter",
+      "icon": "/common/destiny2_content/icons/0ce99a434a903a93b672c099d4c10dac.jpg",
       "iconHash": 0,
-      "hasIcon": false
+      "highResIcon": "/common/destiny2_content/icons/b998ed8ed9423ed09d3a9b79c0d21014.jpg",
+      "hasIcon": true
     },
     "scope": 1,
     "sourceString": "Source: Earned as a pre-order bonus.",

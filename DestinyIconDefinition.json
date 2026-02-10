@@ -26706,11 +26706,11 @@
     "blacklisted": false
   },
   "433219358": {
-    "foreground": "",
-    "background": "",
-    "secondaryBackground": "",
+    "foreground": "/common/destiny2_content/icons/31085v950_plugs_weapons_skins_exotic_v300_repackage_scout_rifle0_skin0.v2.png",
+    "background": "/common/destiny2_content/icons/rarity_exotic_000_000.v2.png",
+    "secondaryBackground": "/common/destiny2_content/icons/v950_s28_watermark_000_000.v2.png",
     "specialBackground": "",
-    "highResForeground": "",
+    "highResForeground": "/common/destiny2_content/icons/v950_plugs_weapons_skins_exotic_v300_repackage_scout_rifle0_skin0_large.v2.png",
     "hash": 433219358,
     "index": 31085,
     "redacted": false,
@@ -52821,11 +52821,11 @@
     "blacklisted": false
   },
   "858305680": {
-    "foreground": "",
+    "foreground": "/common/destiny2_content/icons/31584sacks_bundles_silver_small_000_000.v2.png",
     "background": "",
     "secondaryBackground": "",
     "specialBackground": "",
-    "highResForeground": "",
+    "highResForeground": "/common/destiny2_content/icons/v910_sacks_packs_silver_accessories_partner0_large.v2.png",
     "hash": 858305680,
     "index": 31584,
     "redacted": false,
@@ -103947,11 +103947,11 @@
     "blacklisted": false
   },
   "1695436641": {
-    "foreground": "",
-    "background": "",
-    "secondaryBackground": "",
+    "foreground": "/common/destiny2_content/icons/28924v820_ghosts_promo_goliath_exotic_ghost0.v2.png",
+    "background": "/common/destiny2_content/icons/rarity_exotic_000_000.v2.png",
+    "secondaryBackground": "/common/destiny2_content/icons/v820_season26_watermark_000_000.v2.png",
     "specialBackground": "",
-    "highResForeground": "",
+    "highResForeground": "/common/destiny2_content/icons/v820_ghosts_promo_goliath_exotic_ghost0_large.v2.png",
     "hash": 1695436641,
     "index": 28924,
     "redacted": false,
@@ -104486,7 +104486,7 @@
     "blacklisted": false
   },
   "1704977532": {
-    "foreground": "",
+    "foreground": "/common/destiny2_content/icons/31650v826_marathon_keyart_thumbnail.v2.png",
     "background": "",
     "secondaryBackground": "",
     "specialBackground": "",
@@ -202083,11 +202083,11 @@
     "blacklisted": false
   },
   "3288844481": {
-    "foreground": "",
-    "background": "",
-    "secondaryBackground": "",
+    "foreground": "/common/destiny2_content/icons/28942v820_ships_promo_goliath_exotic_ship0.v2.png",
+    "background": "/common/destiny2_content/icons/rarity_exotic_000_000.v2.png",
+    "secondaryBackground": "/common/destiny2_content/icons/v820_season26_watermark_000_000.v2.png",
     "specialBackground": "",
-    "highResForeground": "",
+    "highResForeground": "/common/destiny2_content/icons/v820_ships_promo_goliath_exotic_ship0_large.v2.png",
     "hash": 3288844481,
     "index": 28942,
     "redacted": false,
@@ -255936,11 +255936,11 @@
     "blacklisted": false
   },
   "4164131865": {
-    "foreground": "",
-    "background": "",
-    "secondaryBackground": "",
+    "foreground": "/common/destiny2_content/icons/28906v820_vehicles_promo_goliath_exotic_vehicle0.v2.png",
+    "background": "/common/destiny2_content/icons/rarity_exotic_000_000.v2.png",
+    "secondaryBackground": "/common/destiny2_content/icons/v820_season26_watermark_000_000.v2.png",
     "specialBackground": "",
-    "highResForeground": "",
+    "highResForeground": "/common/destiny2_content/icons/v820_vehicles_promo_goliath_exotic_vehicle0_large.v2.png",
     "hash": 4164131865,
     "index": 28906,
     "redacted": false,
