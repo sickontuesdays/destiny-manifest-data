@@ -153,13 +153,13 @@
         "ownershipUnlockFlagHash": 0,
         "seasonPassStartTime": "0",
         "seasonPassStartDate": "2025-12-02T17:00:00Z",
-        "seasonPassEndDate": "2026-03-03T17:00:00Z"
+        "seasonPassEndDate": "2026-06-09T17:00:00Z"
       },
       {
         "seasonPassHash": 3258768683,
         "ownershipUnlockFlagHash": 0,
         "seasonPassStartTime": "0",
-        "seasonPassStartDate": "2026-03-03T17:00:00Z",
+        "seasonPassStartDate": "2026-06-09T17:00:00Z",
         "seasonPassEndDate": "2026-07-21T17:00:00Z"
       }
     ],
