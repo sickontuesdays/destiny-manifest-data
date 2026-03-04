@@ -5,7 +5,9 @@ permissions:
 
 on:
   schedule:
-    - cron: '15 18 * * 2'
+    - cron: '15 18 * * 2'  # Tuesday 1:15 PM EST
+    - cron: '45 18 * * 2'  # Tuesday 1:45 PM EST (retry)
+    - cron: '15 19 * * 2'  # Tuesday 2:15 PM EST (retry)
   workflow_dispatch:
 
 env:
@@ -17,6 +19,8 @@ jobs:
 
     steps:
     - uses: actions/checkout@v4
+      with:
+        retry-on-error: true
 
     - uses: actions/setup-node@v4
       with:
@@ -55,3 +59,4 @@ jobs:
         git add *.json
         git commit -m "Auto-update manifest $(cat .manifest_version)" || exit 0
         git push
+        
