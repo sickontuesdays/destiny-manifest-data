@@ -757,7 +757,7 @@
       }
     ],
     "hash": 10829612,
-    "index": 449,
+    "index": 451,
     "redacted": false,
     "blacklisted": false
   },
@@ -835,7 +835,7 @@
       }
     ],
     "hash": 20791086,
-    "index": 580,
+    "index": 586,
     "redacted": false,
     "blacklisted": false
   },
@@ -906,7 +906,7 @@
       }
     ],
     "hash": 28285464,
-    "index": 510,
+    "index": 516,
     "redacted": false,
     "blacklisted": false
   },
@@ -977,7 +977,7 @@
       }
     ],
     "hash": 28285465,
-    "index": 511,
+    "index": 517,
     "redacted": false,
     "blacklisted": false
   },
@@ -1048,7 +1048,7 @@
       }
     ],
     "hash": 28285467,
-    "index": 509,
+    "index": 515,
     "redacted": false,
     "blacklisted": false
   },
@@ -1126,7 +1126,7 @@
       }
     ],
     "hash": 37568641,
-    "index": 579,
+    "index": 585,
     "redacted": false,
     "blacklisted": false
   },
@@ -1259,7 +1259,7 @@
       }
     ],
     "hash": 50023266,
-    "index": 556,
+    "index": 562,
     "redacted": false,
     "blacklisted": false
   },
@@ -1300,7 +1300,7 @@
       }
     ],
     "hash": 50397992,
-    "index": 332,
+    "index": 334,
     "redacted": false,
     "blacklisted": false
   },
@@ -1378,7 +1378,7 @@
       }
     ],
     "hash": 54346356,
-    "index": 578,
+    "index": 584,
     "redacted": false,
     "blacklisted": false
   },
@@ -1583,7 +1583,7 @@
       }
     ],
     "hash": 71123943,
-    "index": 577,
+    "index": 583,
     "redacted": false,
     "blacklisted": false
   },
@@ -1899,7 +1899,7 @@
       }
     ],
     "hash": 87901530,
-    "index": 576,
+    "index": 582,
     "redacted": false,
     "blacklisted": false
   },
@@ -2313,7 +2313,7 @@
       }
     ],
     "hash": 111051388,
-    "index": 358,
+    "index": 360,
     "redacted": false,
     "blacklisted": false
   },
@@ -2348,26 +2348,13 @@
   "145282564": {
     "skulls": [
       {
-        "hash": 344764180,
+        "hash": 1253978620,
         "skullIdentifierHash": 0,
         "displayProperties": {
           "description": "This activity is currently Focused. Your score will contribute to your class's standing in the fight for glory in the Focus Activity Event.",
           "name": "Focused Activity",
-          "icon": "/common/destiny2_content/icons/ccbf1983a41304acf64d7e659a3bb18f.png",
           "iconHash": 0,
-          "iconSequences": [
-            {
-              "frames": [
-                "/common/destiny2_content/icons/ccbf1983a41304acf64d7e659a3bb18f.png"
-              ]
-            },
-            {
-              "frames": [
-                "/common/destiny2_content/icons/4b36fb0759cbeda89519bd8bb6d8cc19.png"
-              ]
-            }
-          ],
-          "hasIcon": true
+          "hasIcon": false
         },
         "skullOptions": [],
         "dynamicUse": 0,
@@ -2382,7 +2369,7 @@
       }
     ],
     "hash": 145282564,
-    "index": 452,
+    "index": 459,
     "redacted": false,
     "blacklisted": false
   },
@@ -2453,7 +2440,7 @@
       }
     ],
     "hash": 146720563,
-    "index": 478,
+    "index": 484,
     "redacted": false,
     "blacklisted": false
   },
@@ -2751,7 +2738,7 @@
       }
     ],
     "hash": 150672150,
-    "index": 447,
+    "index": 449,
     "redacted": false,
     "blacklisted": false
   },
@@ -3105,7 +3092,7 @@
       }
     ],
     "hash": 157290124,
-    "index": 359,
+    "index": 361,
     "redacted": false,
     "blacklisted": false
   },
@@ -3291,7 +3278,7 @@
       }
     ],
     "hash": 197524053,
-    "index": 348,
+    "index": 350,
     "redacted": false,
     "blacklisted": false
   },
@@ -3454,7 +3441,7 @@
       }
     ],
     "hash": 232474581,
-    "index": 546,
+    "index": 552,
     "redacted": false,
     "blacklisted": false
   },
@@ -3856,7 +3843,7 @@
       }
     ],
     "hash": 250610106,
-    "index": 513,
+    "index": 519,
     "redacted": false,
     "blacklisted": false
   },
@@ -3913,7 +3900,7 @@
       }
     ],
     "hash": 250610111,
-    "index": 512,
+    "index": 518,
     "redacted": false,
     "blacklisted": false
   },
@@ -4154,7 +4141,7 @@
       }
     ],
     "hash": 280375965,
-    "index": 410,
+    "index": 412,
     "redacted": false,
     "blacklisted": false
   },
@@ -5088,7 +5075,7 @@
       }
     ],
     "hash": 328563873,
-    "index": 528,
+    "index": 534,
     "redacted": false,
     "blacklisted": false
   },
@@ -5125,7 +5112,7 @@
       }
     ],
     "hash": 338539188,
-    "index": 445,
+    "index": 447,
     "redacted": false,
     "blacklisted": false
   },
@@ -5801,7 +5788,7 @@
       }
     ],
     "hash": 363164581,
-    "index": 428,
+    "index": 430,
     "redacted": false,
     "blacklisted": false
   },
@@ -6364,7 +6351,7 @@
       }
     ],
     "hash": 389008438,
-    "index": 422,
+    "index": 424,
     "redacted": false,
     "blacklisted": false
   },
@@ -6442,7 +6429,7 @@
       }
     ],
     "hash": 395626242,
-    "index": 533,
+    "index": 539,
     "redacted": false,
     "blacklisted": false
   },
@@ -7109,7 +7096,7 @@
       }
     ],
     "hash": 409199144,
-    "index": 467,
+    "index": 473,
     "redacted": false,
     "blacklisted": false
   },
@@ -7637,7 +7624,7 @@
       }
     ],
     "hash": 421690753,
-    "index": 435,
+    "index": 437,
     "redacted": false,
     "blacklisted": false
   },
@@ -8033,7 +8020,7 @@
       }
     ],
     "hash": 440776709,
-    "index": 469,
+    "index": 475,
     "redacted": false,
     "blacklisted": false
   },
@@ -8289,7 +8276,7 @@
       }
     ],
     "hash": 454519664,
-    "index": 416,
+    "index": 418,
     "redacted": false,
     "blacklisted": false
   },
@@ -8401,7 +8388,7 @@
       }
     ],
     "hash": 454519665,
-    "index": 415,
+    "index": 417,
     "redacted": false,
     "blacklisted": false
   },
@@ -8515,7 +8502,7 @@
       }
     ],
     "hash": 454519666,
-    "index": 414,
+    "index": 416,
     "redacted": false,
     "blacklisted": false
   },
@@ -8622,7 +8609,7 @@
       }
     ],
     "hash": 454519668,
-    "index": 420,
+    "index": 422,
     "redacted": false,
     "blacklisted": false
   },
@@ -8726,7 +8713,7 @@
       }
     ],
     "hash": 454519669,
-    "index": 419,
+    "index": 421,
     "redacted": false,
     "blacklisted": false
   },
@@ -8833,7 +8820,7 @@
       }
     ],
     "hash": 454519670,
-    "index": 418,
+    "index": 420,
     "redacted": false,
     "blacklisted": false
   },
@@ -8944,7 +8931,7 @@
       }
     ],
     "hash": 454519671,
-    "index": 417,
+    "index": 419,
     "redacted": false,
     "blacklisted": false
   },
@@ -9022,7 +9009,7 @@
       }
     ],
     "hash": 463364648,
-    "index": 547,
+    "index": 553,
     "redacted": false,
     "blacklisted": false
   },
@@ -9324,7 +9311,7 @@
       }
     ],
     "hash": 468419308,
-    "index": 508,
+    "index": 514,
     "redacted": false,
     "blacklisted": false
   },
@@ -9891,7 +9878,7 @@
       }
     ],
     "hash": 480156920,
-    "index": 424,
+    "index": 426,
     "redacted": false,
     "blacklisted": false
   },
@@ -10062,7 +10049,7 @@
       }
     ],
     "hash": 495729255,
-    "index": 384,
+    "index": 386,
     "redacted": false,
     "blacklisted": false
   },
@@ -10350,7 +10337,7 @@
       }
     ],
     "hash": 509244637,
-    "index": 530,
+    "index": 536,
     "redacted": false,
     "blacklisted": false
   },
@@ -12035,6 +12022,342 @@
     "redacted": false,
     "blacklisted": false
   },
+  "545321241": {
+    "skulls": [
+      {
+        "hash": 1243852782,
+        "skullIdentifierHash": 563211774,
+        "displayProperties": {
+          "description": "Picking up a Firesprite creates a Solar area around you, scorching nearby combatants. Collecting additional Firesprites increases the area affected.\n\n This modifier is only available during Solstice.",
+          "name": "Firesprite Fancy",
+          "icon": "/common/destiny2_content/icons/67019e9947bd13ebbf45131ea4e37da8.png",
+          "iconHash": 0,
+          "iconSequences": [
+            {
+              "frames": [
+                "/common/destiny2_content/icons/67019e9947bd13ebbf45131ea4e37da8.png"
+              ]
+            },
+            {
+              "frames": [
+                "/common/destiny2_content/icons/f1006cecf1f2b61d694d6e032dc18553.png"
+              ]
+            }
+          ],
+          "hasIcon": true
+        },
+        "skullOptions": [
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          }
+        ],
+        "dynamicUse": 0,
+        "modifierPowerContribution": 0,
+        "modifierMultiplierContribution": 0.015,
+        "hasUi": true,
+        "displayDescriptionOverrideForNavMode": "",
+        "activityModifierDisplayCategory": 1,
+        "activityModifierConnotation": 6,
+        "displayInNavMode": true,
+        "displayInActivitySelection": true
+      },
+      {
+        "hash": 3947109118,
+        "skullIdentifierHash": 1816248669,
+        "displayProperties": {
+          "description": "Solstice weapons with the \"Dream Work\" Origin Trait deal increased damage.\n\n This modifier is only available during Solstice.",
+          "name": "Dreaming Brighter",
+          "icon": "/common/destiny2_content/icons/9ada18d1fc71de68c71d3f5ba44ea70d.png",
+          "iconHash": 0,
+          "iconSequences": [
+            {
+              "frames": [
+                "/common/destiny2_content/icons/9ada18d1fc71de68c71d3f5ba44ea70d.png"
+              ]
+            },
+            {
+              "frames": [
+                "/common/destiny2_content/icons/042098198695d9c3ca372a76733e4633.png"
+              ]
+            }
+          ],
+          "hasIcon": true
+        },
+        "skullOptions": [
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          }
+        ],
+        "dynamicUse": 0,
+        "modifierPowerContribution": 0,
+        "modifierMultiplierContribution": 0.015,
+        "hasUi": true,
+        "displayDescriptionOverrideForNavMode": "",
+        "activityModifierDisplayCategory": 1,
+        "activityModifierConnotation": 6,
+        "displayInNavMode": true,
+        "displayInActivitySelection": true
+      },
+      {
+        "hash": 4278621524,
+        "skullIdentifierHash": 3475177104,
+        "displayProperties": {
+          "description": "Heal yourself when using your class ability.\n\n This modifier is only available during Solstice.",
+          "name": "Class Healing",
+          "icon": "/common/destiny2_content/icons/e57c1f666afbbaf2ea633d1212f3ff0c.png",
+          "iconHash": 0,
+          "iconSequences": [
+            {
+              "frames": [
+                "/common/destiny2_content/icons/e57c1f666afbbaf2ea633d1212f3ff0c.png"
+              ]
+            },
+            {
+              "frames": [
+                "/common/destiny2_content/icons/6414e7205f28e23ab1e986205b88d49d.png"
+              ]
+            }
+          ],
+          "hasIcon": true
+        },
+        "skullOptions": [
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          }
+        ],
+        "dynamicUse": 0,
+        "modifierPowerContribution": 0,
+        "modifierMultiplierContribution": 0.015,
+        "hasUi": true,
+        "displayDescriptionOverrideForNavMode": "",
+        "activityModifierDisplayCategory": 1,
+        "activityModifierConnotation": 6,
+        "displayInNavMode": true,
+        "displayInActivitySelection": true
+      },
+      {
+        "hash": 1277882844,
+        "skullIdentifierHash": 3580431004,
+        "displayProperties": {
+          "description": "Dealing damage and final blows from Solar sources raises a heat meter. Once full, your weapons will cause Solar explosions.\n\n This modifier is only available during Solstice.",
+          "name": "Fired Up",
+          "icon": "/common/destiny2_content/icons/0aa8462330d7f28ef55726e9dd8bdc0a.png",
+          "iconHash": 0,
+          "iconSequences": [
+            {
+              "frames": [
+                "/common/destiny2_content/icons/0aa8462330d7f28ef55726e9dd8bdc0a.png"
+              ]
+            },
+            {
+              "frames": [
+                "/common/destiny2_content/icons/16672ac08ab6e2eddb57e76c67b029b5.png"
+              ]
+            }
+          ],
+          "hasIcon": true
+        },
+        "skullOptions": [
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          }
+        ],
+        "dynamicUse": 0,
+        "modifierPowerContribution": 0,
+        "modifierMultiplierContribution": 0.015,
+        "hasUi": true,
+        "displayDescriptionOverrideForNavMode": "",
+        "activityModifierDisplayCategory": 1,
+        "activityModifierConnotation": 6,
+        "displayInNavMode": true,
+        "displayInActivitySelection": true
+      },
+      {
+        "hash": 1905191238,
+        "skullIdentifierHash": 4169929678,
+        "displayProperties": {
+          "description": "Precision hits against scorched combatants causes ignitions.\n\n This modifier is only available during Solstice.",
+          "name": "Igniter",
+          "icon": "/common/destiny2_content/icons/4a3cf1b1c8bd3899a51ae7f5d8bcc386.png",
+          "iconHash": 0,
+          "iconSequences": [
+            {
+              "frames": [
+                "/common/destiny2_content/icons/4a3cf1b1c8bd3899a51ae7f5d8bcc386.png"
+              ]
+            },
+            {
+              "frames": [
+                "/common/destiny2_content/icons/1029638f3d628ef073149f3a1ab8b70a.png"
+              ]
+            }
+          ],
+          "hasIcon": true
+        },
+        "skullOptions": [
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          }
+        ],
+        "dynamicUse": 0,
+        "modifierPowerContribution": 0,
+        "modifierMultiplierContribution": 0.015,
+        "hasUi": true,
+        "displayDescriptionOverrideForNavMode": "",
+        "activityModifierDisplayCategory": 1,
+        "activityModifierConnotation": 6,
+        "displayInNavMode": true,
+        "displayInActivitySelection": true
+      },
+      {
+        "hash": 1334082536,
+        "skullIdentifierHash": 96800208,
+        "displayProperties": {
+          "description": "While Radiant, final blows spawn Firesprites. Collecting Firesprites will Cure you.\n\n This modifier is only available during Solstice.",
+          "name": "Radiant Joy",
+          "icon": "/common/destiny2_content/icons/f1a4c836ccdbdea48971bcb42f39db03.png",
+          "iconHash": 0,
+          "iconSequences": [
+            {
+              "frames": [
+                "/common/destiny2_content/icons/f1a4c836ccdbdea48971bcb42f39db03.png"
+              ]
+            },
+            {
+              "frames": [
+                "/common/destiny2_content/icons/8183680cc07f8dd883b8bf8f134ba6b7.png"
+              ]
+            }
+          ],
+          "hasIcon": true
+        },
+        "skullOptions": [
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          }
+        ],
+        "dynamicUse": 0,
+        "modifierPowerContribution": 0,
+        "modifierMultiplierContribution": 0.015,
+        "hasUi": true,
+        "displayDescriptionOverrideForNavMode": "",
+        "activityModifierDisplayCategory": 1,
+        "activityModifierConnotation": 6,
+        "displayInNavMode": true,
+        "displayInActivitySelection": true
+      },
+      {
+        "hash": 4061920580,
+        "skullIdentifierHash": 771200742,
+        "displayProperties": {
+          "description": "Sliding after sprinting for a short time creates a scorching Solar wave.\n\n This modifier is only available during Solstice.",
+          "name": "Solar Slide",
+          "icon": "/common/destiny2_content/icons/3785081d6a1370f2bb74837de639f842.png",
+          "iconHash": 0,
+          "iconSequences": [
+            {
+              "frames": [
+                "/common/destiny2_content/icons/3785081d6a1370f2bb74837de639f842.png"
+              ]
+            },
+            {
+              "frames": [
+                "/common/destiny2_content/icons/8749a9e99b4e05dc359bd556f144764d.png"
+              ]
+            }
+          ],
+          "hasIcon": true
+        },
+        "skullOptions": [
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          }
+        ],
+        "dynamicUse": 0,
+        "modifierPowerContribution": 0,
+        "modifierMultiplierContribution": 0.015,
+        "hasUi": true,
+        "displayDescriptionOverrideForNavMode": "",
+        "activityModifierDisplayCategory": 1,
+        "activityModifierConnotation": 6,
+        "displayInNavMode": true,
+        "displayInActivitySelection": true
+      },
+      {
+        "hash": 1857942384,
+        "skullIdentifierHash": 476454832,
+        "displayProperties": {
+          "description": "Solar fireballs occasionally spawn when defeating combatants. Solar fireballs rain down death and destruction while advancing towards you.\n\n This modifier is only available during Solstice.",
+          "name": "Solar Storms",
+          "icon": "/common/destiny2_content/icons/6bd8c080de66e1ac799d291127ad4e47.png",
+          "iconHash": 0,
+          "iconSequences": [
+            {
+              "frames": [
+                "/common/destiny2_content/icons/6bd8c080de66e1ac799d291127ad4e47.png"
+              ]
+            },
+            {
+              "frames": [
+                "/common/destiny2_content/icons/0753b60b1d3c01f441c319e60d682ede.png"
+              ]
+            }
+          ],
+          "hasIcon": true
+        },
+        "skullOptions": [
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          }
+        ],
+        "dynamicUse": 0,
+        "modifierPowerContribution": 0,
+        "modifierMultiplierContribution": 0.015,
+        "hasUi": true,
+        "displayDescriptionOverrideForNavMode": "",
+        "activityModifierDisplayCategory": 1,
+        "activityModifierConnotation": 6,
+        "displayInNavMode": true,
+        "displayInActivitySelection": true
+      }
+    ],
+    "hash": 545321241,
+    "index": 328,
+    "redacted": false,
+    "blacklisted": false
+  },
   "555661026": {
     "skulls": [
       {
@@ -12165,7 +12488,7 @@
       }
     ],
     "hash": 569112077,
-    "index": 382,
+    "index": 384,
     "redacted": false,
     "blacklisted": false
   },
@@ -12878,7 +13201,7 @@
       }
     ],
     "hash": 627737582,
-    "index": 582,
+    "index": 588,
     "redacted": false,
     "blacklisted": false
   },
@@ -12919,7 +13242,7 @@
       }
     ],
     "hash": 633473874,
-    "index": 408,
+    "index": 410,
     "redacted": false,
     "blacklisted": false
   },
@@ -13046,7 +13369,7 @@
       }
     ],
     "hash": 650573239,
-    "index": 552,
+    "index": 558,
     "redacted": false,
     "blacklisted": false
   },
@@ -13334,7 +13657,7 @@
       }
     ],
     "hash": 654250088,
-    "index": 376,
+    "index": 378,
     "redacted": false,
     "blacklisted": false
   },
@@ -13709,7 +14032,7 @@
       }
     ],
     "hash": 666710179,
-    "index": 430,
+    "index": 432,
     "redacted": false,
     "blacklisted": false
   },
@@ -13913,7 +14236,7 @@
       }
     ],
     "hash": 690316669,
-    "index": 565,
+    "index": 571,
     "redacted": false,
     "blacklisted": false
   },
@@ -13989,7 +14312,7 @@
       }
     ],
     "hash": 709293762,
-    "index": 470,
+    "index": 476,
     "redacted": false,
     "blacklisted": false
   },
@@ -14038,7 +14361,7 @@
       }
     ],
     "hash": 742817197,
-    "index": 532,
+    "index": 538,
     "redacted": false,
     "blacklisted": false
   },
@@ -14523,7 +14846,7 @@
       }
     ],
     "hash": 797370433,
-    "index": 436,
+    "index": 438,
     "redacted": false,
     "blacklisted": false
   },
@@ -15347,7 +15670,7 @@
       }
     ],
     "hash": 829425526,
-    "index": 505,
+    "index": 511,
     "redacted": false,
     "blacklisted": false
   },
@@ -15518,7 +15841,7 @@
       }
     ],
     "hash": 831354273,
-    "index": 459,
+    "index": 465,
     "redacted": false,
     "blacklisted": false
   },
@@ -15756,6 +16079,47 @@
     "redacted": false,
     "blacklisted": false
   },
+  "860179395": {
+    "skulls": [
+      {
+        "hash": 1251619838,
+        "skullIdentifierHash": 0,
+        "displayProperties": {
+          "description": "This activity is currently Focused. Your score will contribute to your class's standing in the fight for glory in the Focus Activity Event.",
+          "name": "Focused Activity",
+          "icon": "/common/destiny2_content/icons/ccbf1983a41304acf64d7e659a3bb18f.png",
+          "iconHash": 0,
+          "iconSequences": [
+            {
+              "frames": [
+                "/common/destiny2_content/icons/ccbf1983a41304acf64d7e659a3bb18f.png"
+              ]
+            },
+            {
+              "frames": [
+                "/common/destiny2_content/icons/4b36fb0759cbeda89519bd8bb6d8cc19.png"
+              ]
+            }
+          ],
+          "hasIcon": true
+        },
+        "skullOptions": [],
+        "dynamicUse": 0,
+        "modifierPowerContribution": 0,
+        "modifierMultiplierContribution": 0,
+        "hasUi": true,
+        "displayDescriptionOverrideForNavMode": "",
+        "activityModifierDisplayCategory": 1,
+        "activityModifierConnotation": 0,
+        "displayInNavMode": false,
+        "displayInActivitySelection": true
+      }
+    ],
+    "hash": 860179395,
+    "index": 453,
+    "redacted": false,
+    "blacklisted": false
+  },
   "860755969": {
     "skulls": [
       {
@@ -15887,7 +16251,7 @@
       }
     ],
     "hash": 872853172,
-    "index": 507,
+    "index": 513,
     "redacted": false,
     "blacklisted": false
   },
@@ -16115,7 +16479,7 @@
       }
     ],
     "hash": 898421454,
-    "index": 584,
+    "index": 590,
     "redacted": false,
     "blacklisted": false
   },
@@ -16208,7 +16572,7 @@
       }
     ],
     "hash": 917722101,
-    "index": 403,
+    "index": 405,
     "redacted": false,
     "blacklisted": false
   },
@@ -16267,7 +16631,7 @@
         "hash": 2752976185,
         "skullIdentifierHash": 0,
         "displayProperties": {
-          "description": "Swapping Exotic or Legendary armor, adding or removing armor stat modifiers, or swapping weapon ammo types will drain all Super and ability energy and remove all Special and Heavy ammo.",
+          "description": "Swapping Exotic or Legendary armor, adding or removing armor mods, or swapping weapon ammo types will drain all Super and ability energy and remove all Special and Heavy ammo.",
           "name": "Notswap",
           "icon": "/common/destiny2_content/icons/cbf984b2b75765631debbe89682a3262.png",
           "iconHash": 0,
@@ -16286,6 +16650,13 @@
           "hasIcon": true
         },
         "skullOptions": [
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
           {
             "optionHash": 0,
             "boolValue": false,
@@ -16560,7 +16931,7 @@
       }
     ],
     "hash": 944634452,
-    "index": 380,
+    "index": 382,
     "redacted": false,
     "blacklisted": false
   },
@@ -16645,7 +17016,7 @@
       }
     ],
     "hash": 971924946,
-    "index": 349,
+    "index": 351,
     "redacted": false,
     "blacklisted": false
   },
@@ -17283,7 +17654,7 @@
       }
     ],
     "hash": 986897320,
-    "index": 498,
+    "index": 504,
     "redacted": false,
     "blacklisted": false
   },
@@ -17332,7 +17703,7 @@
       }
     ],
     "hash": 1008121338,
-    "index": 569,
+    "index": 575,
     "redacted": false,
     "blacklisted": false
   },
@@ -17763,7 +18134,7 @@
       }
     ],
     "hash": 1023158580,
-    "index": 372,
+    "index": 374,
     "redacted": false,
     "blacklisted": false
   },
@@ -17820,7 +18191,7 @@
       }
     ],
     "hash": 1037219838,
-    "index": 522,
+    "index": 528,
     "redacted": false,
     "blacklisted": false
   },
@@ -17918,7 +18289,7 @@
       }
     ],
     "hash": 1053997393,
-    "index": 520,
+    "index": 526,
     "redacted": false,
     "blacklisted": false
   },
@@ -17975,7 +18346,7 @@
       }
     ],
     "hash": 1053997396,
-    "index": 521,
+    "index": 527,
     "redacted": false,
     "blacklisted": false
   },
@@ -18073,7 +18444,7 @@
       }
     ],
     "hash": 1067376903,
-    "index": 406,
+    "index": 408,
     "redacted": false,
     "blacklisted": false
   },
@@ -18130,7 +18501,7 @@
       }
     ],
     "hash": 1070774977,
-    "index": 519,
+    "index": 525,
     "redacted": false,
     "blacklisted": false
   },
@@ -18187,7 +18558,7 @@
       }
     ],
     "hash": 1070774980,
-    "index": 518,
+    "index": 524,
     "redacted": false,
     "blacklisted": false
   },
@@ -18812,7 +19183,7 @@
       }
     ],
     "hash": 1087552690,
-    "index": 517,
+    "index": 523,
     "redacted": false,
     "blacklisted": false
   },
@@ -18869,7 +19240,7 @@
       }
     ],
     "hash": 1087552695,
-    "index": 516,
+    "index": 522,
     "redacted": false,
     "blacklisted": false
   },
@@ -19625,7 +19996,7 @@
       }
     ],
     "hash": 1104330282,
-    "index": 514,
+    "index": 520,
     "redacted": false,
     "blacklisted": false
   },
@@ -19682,7 +20053,7 @@
       }
     ],
     "hash": 1104330287,
-    "index": 515,
+    "index": 521,
     "redacted": false,
     "blacklisted": false
   },
@@ -20491,7 +20862,7 @@
         "hash": 3792281695,
         "skullIdentifierHash": 0,
         "displayProperties": {
-          "description": "Swapping Exotic or Legendary armor or adding or removing armor stat mods will drain all Super and ability energy.",
+          "description": "Swapping Exotic or Legendary armor or adding or removing armor mods will drain all Super and ability energy.",
           "name": "Notswap",
           "icon": "/common/destiny2_content/icons/cbf984b2b75765631debbe89682a3262.png",
           "iconHash": 0,
@@ -20537,6 +20908,13 @@
             "integerValue": 0,
             "floatValue": 0,
             "minDisplayDifficultyId": 0
+          },
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
           }
         ],
         "dynamicUse": 0,
@@ -20551,7 +20929,7 @@
       }
     ],
     "hash": 1151008018,
-    "index": 402,
+    "index": 404,
     "redacted": false,
     "blacklisted": false
   },
@@ -20600,7 +20978,7 @@
       }
     ],
     "hash": 1163134360,
-    "index": 529,
+    "index": 535,
     "redacted": false,
     "blacklisted": false
   },
@@ -20710,7 +21088,7 @@
       }
     ],
     "hash": 1196117422,
-    "index": 347,
+    "index": 349,
     "redacted": false,
     "blacklisted": false
   },
@@ -21667,7 +22045,7 @@
       }
     ],
     "hash": 1241335516,
-    "index": 350,
+    "index": 352,
     "redacted": false,
     "blacklisted": false
   },
@@ -21915,7 +22293,7 @@
       }
     ],
     "hash": 1287679262,
-    "index": 379,
+    "index": 381,
     "redacted": false,
     "blacklisted": false
   },
@@ -21984,7 +22362,7 @@
       }
     ],
     "hash": 1297342306,
-    "index": 364,
+    "index": 366,
     "redacted": false,
     "blacklisted": false
   },
@@ -21994,7 +22372,7 @@
         "hash": 2752976185,
         "skullIdentifierHash": 0,
         "displayProperties": {
-          "description": "Swapping Exotic or Legendary armor, adding or removing armor stat modifiers, or swapping weapon ammo types will drain all Super and ability energy and remove all Special and Heavy ammo.",
+          "description": "Swapping Exotic or Legendary armor, adding or removing armor mods, or swapping weapon ammo types will drain all Super and ability energy and remove all Special and Heavy ammo.",
           "name": "Notswap",
           "icon": "/common/destiny2_content/icons/cbf984b2b75765631debbe89682a3262.png",
           "iconHash": 0,
@@ -22013,6 +22391,13 @@
           "hasIcon": true
         },
         "skullOptions": [
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
           {
             "optionHash": 0,
             "boolValue": false,
@@ -22486,7 +22871,7 @@
       }
     ],
     "hash": 1323671974,
-    "index": 342,
+    "index": 344,
     "redacted": false,
     "blacklisted": false
   },
@@ -22564,7 +22949,7 @@
       }
     ],
     "hash": 1327953190,
-    "index": 561,
+    "index": 567,
     "redacted": false,
     "blacklisted": false
   },
@@ -22704,7 +23089,7 @@
       }
     ],
     "hash": 1336341288,
-    "index": 464,
+    "index": 470,
     "redacted": false,
     "blacklisted": false
   },
@@ -22775,7 +23160,7 @@
       }
     ],
     "hash": 1349400736,
-    "index": 482,
+    "index": 488,
     "redacted": false,
     "blacklisted": false
   },
@@ -22905,7 +23290,7 @@
       }
     ],
     "hash": 1360724903,
-    "index": 502,
+    "index": 508,
     "redacted": false,
     "blacklisted": false
   },
@@ -23136,7 +23521,7 @@
       }
     ],
     "hash": 1364440510,
-    "index": 443,
+    "index": 445,
     "redacted": false,
     "blacklisted": false
   },
@@ -23517,7 +23902,7 @@
       }
     ],
     "hash": 1377976348,
-    "index": 343,
+    "index": 345,
     "redacted": false,
     "blacklisted": false
   },
@@ -24305,7 +24690,7 @@
       }
     ],
     "hash": 1413156899,
-    "index": 457,
+    "index": 463,
     "redacted": false,
     "blacklisted": false
   },
@@ -24502,7 +24887,7 @@
       }
     ],
     "hash": 1419671868,
-    "index": 335,
+    "index": 337,
     "redacted": false,
     "blacklisted": false
   },
@@ -25036,7 +25421,7 @@
       }
     ],
     "hash": 1431319038,
-    "index": 465,
+    "index": 471,
     "redacted": false,
     "blacklisted": false
   },
@@ -25404,7 +25789,7 @@
       }
     ],
     "hash": 1444686447,
-    "index": 391,
+    "index": 393,
     "redacted": false,
     "blacklisted": false
   },
@@ -25446,6 +25831,342 @@
     ],
     "hash": 1467640496,
     "index": 172,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1473631699": {
+    "skulls": [
+      {
+        "hash": 1243852782,
+        "skullIdentifierHash": 563211774,
+        "displayProperties": {
+          "description": "Picking up a Firesprite creates a Solar area around you, scorching nearby combatants. Collecting additional Firesprites increases the area affected.\n\n This modifier is only available during Solstice.",
+          "name": "Firesprite Fancy",
+          "icon": "/common/destiny2_content/icons/67019e9947bd13ebbf45131ea4e37da8.png",
+          "iconHash": 0,
+          "iconSequences": [
+            {
+              "frames": [
+                "/common/destiny2_content/icons/67019e9947bd13ebbf45131ea4e37da8.png"
+              ]
+            },
+            {
+              "frames": [
+                "/common/destiny2_content/icons/f1006cecf1f2b61d694d6e032dc18553.png"
+              ]
+            }
+          ],
+          "hasIcon": true
+        },
+        "skullOptions": [
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          }
+        ],
+        "dynamicUse": 0,
+        "modifierPowerContribution": 0,
+        "modifierMultiplierContribution": 0.015,
+        "hasUi": true,
+        "displayDescriptionOverrideForNavMode": "",
+        "activityModifierDisplayCategory": 1,
+        "activityModifierConnotation": 6,
+        "displayInNavMode": true,
+        "displayInActivitySelection": true
+      },
+      {
+        "hash": 3947109118,
+        "skullIdentifierHash": 1816248669,
+        "displayProperties": {
+          "description": "Solstice weapons with the \"Dream Work\" Origin Trait deal increased damage.\n\n This modifier is only available during Solstice.",
+          "name": "Dreaming Brighter",
+          "icon": "/common/destiny2_content/icons/9ada18d1fc71de68c71d3f5ba44ea70d.png",
+          "iconHash": 0,
+          "iconSequences": [
+            {
+              "frames": [
+                "/common/destiny2_content/icons/9ada18d1fc71de68c71d3f5ba44ea70d.png"
+              ]
+            },
+            {
+              "frames": [
+                "/common/destiny2_content/icons/042098198695d9c3ca372a76733e4633.png"
+              ]
+            }
+          ],
+          "hasIcon": true
+        },
+        "skullOptions": [
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          }
+        ],
+        "dynamicUse": 0,
+        "modifierPowerContribution": 0,
+        "modifierMultiplierContribution": 0.015,
+        "hasUi": true,
+        "displayDescriptionOverrideForNavMode": "",
+        "activityModifierDisplayCategory": 1,
+        "activityModifierConnotation": 6,
+        "displayInNavMode": true,
+        "displayInActivitySelection": true
+      },
+      {
+        "hash": 4278621524,
+        "skullIdentifierHash": 3475177104,
+        "displayProperties": {
+          "description": "Heal yourself when using your class ability.\n\n This modifier is only available during Solstice.",
+          "name": "Class Healing",
+          "icon": "/common/destiny2_content/icons/e57c1f666afbbaf2ea633d1212f3ff0c.png",
+          "iconHash": 0,
+          "iconSequences": [
+            {
+              "frames": [
+                "/common/destiny2_content/icons/e57c1f666afbbaf2ea633d1212f3ff0c.png"
+              ]
+            },
+            {
+              "frames": [
+                "/common/destiny2_content/icons/6414e7205f28e23ab1e986205b88d49d.png"
+              ]
+            }
+          ],
+          "hasIcon": true
+        },
+        "skullOptions": [
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          }
+        ],
+        "dynamicUse": 0,
+        "modifierPowerContribution": 0,
+        "modifierMultiplierContribution": 0.015,
+        "hasUi": true,
+        "displayDescriptionOverrideForNavMode": "",
+        "activityModifierDisplayCategory": 1,
+        "activityModifierConnotation": 6,
+        "displayInNavMode": true,
+        "displayInActivitySelection": true
+      },
+      {
+        "hash": 1277882844,
+        "skullIdentifierHash": 3580431004,
+        "displayProperties": {
+          "description": "Dealing damage and final blows from Solar sources raises a heat meter. Once full, your weapons will cause Solar explosions.\n\n This modifier is only available during Solstice.",
+          "name": "Fired Up",
+          "icon": "/common/destiny2_content/icons/0aa8462330d7f28ef55726e9dd8bdc0a.png",
+          "iconHash": 0,
+          "iconSequences": [
+            {
+              "frames": [
+                "/common/destiny2_content/icons/0aa8462330d7f28ef55726e9dd8bdc0a.png"
+              ]
+            },
+            {
+              "frames": [
+                "/common/destiny2_content/icons/16672ac08ab6e2eddb57e76c67b029b5.png"
+              ]
+            }
+          ],
+          "hasIcon": true
+        },
+        "skullOptions": [
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          }
+        ],
+        "dynamicUse": 0,
+        "modifierPowerContribution": 0,
+        "modifierMultiplierContribution": 0.015,
+        "hasUi": true,
+        "displayDescriptionOverrideForNavMode": "",
+        "activityModifierDisplayCategory": 1,
+        "activityModifierConnotation": 6,
+        "displayInNavMode": true,
+        "displayInActivitySelection": true
+      },
+      {
+        "hash": 1905191238,
+        "skullIdentifierHash": 4169929678,
+        "displayProperties": {
+          "description": "Precision hits against scorched combatants causes ignitions.\n\n This modifier is only available during Solstice.",
+          "name": "Igniter",
+          "icon": "/common/destiny2_content/icons/4a3cf1b1c8bd3899a51ae7f5d8bcc386.png",
+          "iconHash": 0,
+          "iconSequences": [
+            {
+              "frames": [
+                "/common/destiny2_content/icons/4a3cf1b1c8bd3899a51ae7f5d8bcc386.png"
+              ]
+            },
+            {
+              "frames": [
+                "/common/destiny2_content/icons/1029638f3d628ef073149f3a1ab8b70a.png"
+              ]
+            }
+          ],
+          "hasIcon": true
+        },
+        "skullOptions": [
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          }
+        ],
+        "dynamicUse": 0,
+        "modifierPowerContribution": 0,
+        "modifierMultiplierContribution": 0.015,
+        "hasUi": true,
+        "displayDescriptionOverrideForNavMode": "",
+        "activityModifierDisplayCategory": 1,
+        "activityModifierConnotation": 6,
+        "displayInNavMode": true,
+        "displayInActivitySelection": true
+      },
+      {
+        "hash": 1334082536,
+        "skullIdentifierHash": 96800208,
+        "displayProperties": {
+          "description": "While Radiant, final blows spawn Firesprites. Collecting Firesprites will Cure you.\n\n This modifier is only available during Solstice.",
+          "name": "Radiant Joy",
+          "icon": "/common/destiny2_content/icons/f1a4c836ccdbdea48971bcb42f39db03.png",
+          "iconHash": 0,
+          "iconSequences": [
+            {
+              "frames": [
+                "/common/destiny2_content/icons/f1a4c836ccdbdea48971bcb42f39db03.png"
+              ]
+            },
+            {
+              "frames": [
+                "/common/destiny2_content/icons/8183680cc07f8dd883b8bf8f134ba6b7.png"
+              ]
+            }
+          ],
+          "hasIcon": true
+        },
+        "skullOptions": [
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          }
+        ],
+        "dynamicUse": 0,
+        "modifierPowerContribution": 0,
+        "modifierMultiplierContribution": 0.015,
+        "hasUi": true,
+        "displayDescriptionOverrideForNavMode": "",
+        "activityModifierDisplayCategory": 1,
+        "activityModifierConnotation": 6,
+        "displayInNavMode": true,
+        "displayInActivitySelection": true
+      },
+      {
+        "hash": 4061920580,
+        "skullIdentifierHash": 771200742,
+        "displayProperties": {
+          "description": "Sliding after sprinting for a short time creates a scorching Solar wave.\n\n This modifier is only available during Solstice.",
+          "name": "Solar Slide",
+          "icon": "/common/destiny2_content/icons/3785081d6a1370f2bb74837de639f842.png",
+          "iconHash": 0,
+          "iconSequences": [
+            {
+              "frames": [
+                "/common/destiny2_content/icons/3785081d6a1370f2bb74837de639f842.png"
+              ]
+            },
+            {
+              "frames": [
+                "/common/destiny2_content/icons/8749a9e99b4e05dc359bd556f144764d.png"
+              ]
+            }
+          ],
+          "hasIcon": true
+        },
+        "skullOptions": [
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          }
+        ],
+        "dynamicUse": 0,
+        "modifierPowerContribution": 0,
+        "modifierMultiplierContribution": 0.015,
+        "hasUi": true,
+        "displayDescriptionOverrideForNavMode": "",
+        "activityModifierDisplayCategory": 1,
+        "activityModifierConnotation": 6,
+        "displayInNavMode": true,
+        "displayInActivitySelection": true
+      },
+      {
+        "hash": 1857942384,
+        "skullIdentifierHash": 476454832,
+        "displayProperties": {
+          "description": "Solar fireballs occasionally spawn when defeating combatants. Solar fireballs rain down death and destruction while advancing towards you.\n\n This modifier is only available during Solstice.",
+          "name": "Solar Storms",
+          "icon": "/common/destiny2_content/icons/6bd8c080de66e1ac799d291127ad4e47.png",
+          "iconHash": 0,
+          "iconSequences": [
+            {
+              "frames": [
+                "/common/destiny2_content/icons/6bd8c080de66e1ac799d291127ad4e47.png"
+              ]
+            },
+            {
+              "frames": [
+                "/common/destiny2_content/icons/0753b60b1d3c01f441c319e60d682ede.png"
+              ]
+            }
+          ],
+          "hasIcon": true
+        },
+        "skullOptions": [
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          }
+        ],
+        "dynamicUse": 0,
+        "modifierPowerContribution": 0,
+        "modifierMultiplierContribution": 0.015,
+        "hasUi": true,
+        "displayDescriptionOverrideForNavMode": "",
+        "activityModifierDisplayCategory": 1,
+        "activityModifierConnotation": 6,
+        "displayInNavMode": true,
+        "displayInActivitySelection": true
+      }
+    ],
+    "hash": 1473631699,
+    "index": 329,
     "redacted": false,
     "blacklisted": false
   },
@@ -25608,7 +26329,7 @@
       }
     ],
     "hash": 1479714120,
-    "index": 395,
+    "index": 397,
     "redacted": false,
     "blacklisted": false
   },
@@ -25686,7 +26407,7 @@
       }
     ],
     "hash": 1491919178,
-    "index": 563,
+    "index": 569,
     "redacted": false,
     "blacklisted": false
   },
@@ -25771,7 +26492,7 @@
       }
     ],
     "hash": 1493177528,
-    "index": 390,
+    "index": 392,
     "redacted": false,
     "blacklisted": false
   },
@@ -26005,7 +26726,7 @@
       }
     ],
     "hash": 1511791255,
-    "index": 351,
+    "index": 353,
     "redacted": false,
     "blacklisted": false
   },
@@ -26083,7 +26804,7 @@
       }
     ],
     "hash": 1512733496,
-    "index": 549,
+    "index": 555,
     "redacted": false,
     "blacklisted": false
   },
@@ -26746,7 +27467,7 @@
       }
     ],
     "hash": 1536143760,
-    "index": 426,
+    "index": 428,
     "redacted": false,
     "blacklisted": false
   },
@@ -27046,7 +27767,7 @@
       }
     ],
     "hash": 1544434808,
-    "index": 397,
+    "index": 399,
     "redacted": false,
     "blacklisted": false
   },
@@ -27250,7 +27971,7 @@
       }
     ],
     "hash": 1549611433,
-    "index": 562,
+    "index": 568,
     "redacted": false,
     "blacklisted": false
   },
@@ -27501,7 +28222,7 @@
         "hash": 3792281695,
         "skullIdentifierHash": 0,
         "displayProperties": {
-          "description": "Swapping Exotic or Legendary armor or adding or removing armor stat mods will drain all Super and ability energy.",
+          "description": "Swapping Exotic or Legendary armor or adding or removing armor mods will drain all Super and ability energy.",
           "name": "Notswap",
           "icon": "/common/destiny2_content/icons/cbf984b2b75765631debbe89682a3262.png",
           "iconHash": 0,
@@ -27520,6 +28241,13 @@
           "hasIcon": true
         },
         "skullOptions": [
+          {
+            "optionHash": 0,
+            "boolValue": false,
+            "integerValue": 0,
+            "floatValue": 0,
+            "minDisplayDifficultyId": 0
+          },
           {
             "optionHash": 0,
             "boolValue": false,
@@ -27589,7 +28317,7 @@
       }
     ],
     "hash": 1562370914,
-    "index": 398,
+    "index": 400,
     "redacted": false,
     "blacklisted": false
   },
@@ -27967,7 +28695,7 @@
       }
     ],
     "hash": 1593925545,
-    "index": 353,
+    "index": 355,
     "redacted": false,
     "blacklisted": false
   },
@@ -28381,7 +29109,7 @@
       }
     ],
     "hash": 1603127000,
-    "index": 357,
+    "index": 359,
     "redacted": false,
     "blacklisted": false
   },
@@ -28452,7 +29180,7 @@
       }
     ],
     "hash": 1604861415,
-    "index": 487,
+    "index": 493,
     "redacted": false,
     "blacklisted": false
   },
@@ -28694,7 +29422,7 @@
       }
     ],
     "hash": 1631112137,
-    "index": 479,
+    "index": 485,
     "redacted": false,
     "blacklisted": false
   },
@@ -29104,7 +29832,7 @@
       }
     ],
     "hash": 1654718772,
-    "index": 366,
+    "index": 368,
     "redacted": false,
     "blacklisted": false
   },
@@ -29175,7 +29903,7 @@
       }
     ],
     "hash": 1659016409,
-    "index": 492,
+    "index": 498,
     "redacted": false,
     "blacklisted": false
   },
@@ -29483,7 +30211,7 @@
       }
     ],
     "hash": 1678056260,
-    "index": 460,
+    "index": 466,
     "redacted": false,
     "blacklisted": false
   },
@@ -30031,7 +30759,7 @@
       }
     ],
     "hash": 1686483259,
-    "index": 370,
+    "index": 372,
     "redacted": false,
     "blacklisted": false
   },
@@ -30144,7 +30872,7 @@
       }
     ],
     "hash": 1695686482,
-    "index": 396,
+    "index": 398,
     "redacted": false,
     "blacklisted": false
   },
@@ -31544,7 +32272,7 @@
       }
     ],
     "hash": 1830839890,
-    "index": 456,
+    "index": 462,
     "redacted": false,
     "blacklisted": false
   },
@@ -31757,7 +32485,7 @@
       }
     ],
     "hash": 1854759253,
-    "index": 500,
+    "index": 506,
     "redacted": false,
     "blacklisted": false
   },
@@ -32095,7 +32823,7 @@
       }
     ],
     "hash": 1872794531,
-    "index": 495,
+    "index": 501,
     "redacted": false,
     "blacklisted": false
   },
@@ -32136,7 +32864,7 @@
       }
     ],
     "hash": 1877758469,
-    "index": 401,
+    "index": 403,
     "redacted": false,
     "blacklisted": false
   },
@@ -32707,7 +33435,7 @@
       }
     ],
     "hash": 1902527418,
-    "index": 433,
+    "index": 435,
     "redacted": false,
     "blacklisted": false
   },
@@ -32899,7 +33627,7 @@
       }
     ],
     "hash": 1906395991,
-    "index": 331,
+    "index": 333,
     "redacted": false,
     "blacklisted": false
   },
@@ -32968,7 +33696,7 @@
       }
     ],
     "hash": 1919276354,
-    "index": 333,
+    "index": 335,
     "redacted": false,
     "blacklisted": false
   },
@@ -33450,7 +34178,7 @@
       }
     ],
     "hash": 1936243297,
-    "index": 499,
+    "index": 505,
     "redacted": false,
     "blacklisted": false
   },
@@ -35706,7 +36434,7 @@
       }
     ],
     "hash": 1969293845,
-    "index": 383,
+    "index": 385,
     "redacted": false,
     "blacklisted": false
   },
@@ -35847,7 +36575,7 @@
       }
     ],
     "hash": 1995854651,
-    "index": 385,
+    "index": 387,
     "redacted": false,
     "blacklisted": false
   },
@@ -35883,7 +36611,7 @@
       }
     ],
     "hash": 2006686101,
-    "index": 444,
+    "index": 446,
     "redacted": false,
     "blacklisted": false
   },
@@ -36160,7 +36888,7 @@
       }
     ],
     "hash": 2024547452,
-    "index": 439,
+    "index": 441,
     "redacted": false,
     "blacklisted": false
   },
@@ -36209,7 +36937,7 @@
       }
     ],
     "hash": 2024665418,
-    "index": 568,
+    "index": 574,
     "redacted": false,
     "blacklisted": false
   },
@@ -36446,7 +37174,7 @@
       }
     ],
     "hash": 2026760390,
-    "index": 392,
+    "index": 394,
     "redacted": false,
     "blacklisted": false
   },
@@ -36510,7 +37238,7 @@
       }
     ],
     "hash": 2031124215,
-    "index": 481,
+    "index": 487,
     "redacted": false,
     "blacklisted": false
   },
@@ -36888,7 +37616,7 @@
       }
     ],
     "hash": 2063463818,
-    "index": 354,
+    "index": 356,
     "redacted": false,
     "blacklisted": false
   },
@@ -36980,7 +37708,7 @@
       }
     ],
     "hash": 2073689524,
-    "index": 407,
+    "index": 409,
     "redacted": false,
     "blacklisted": false
   },
@@ -37240,7 +37968,7 @@
       }
     ],
     "hash": 2102000999,
-    "index": 550,
+    "index": 556,
     "redacted": false,
     "blacklisted": false
   },
@@ -37992,7 +38720,7 @@
       }
     ],
     "hash": 2111937445,
-    "index": 413,
+    "index": 415,
     "redacted": false,
     "blacklisted": false
   },
@@ -38118,7 +38846,7 @@
       }
     ],
     "hash": 2113161467,
-    "index": 361,
+    "index": 363,
     "redacted": false,
     "blacklisted": false
   },
@@ -38649,7 +39377,7 @@
       }
     ],
     "hash": 2133423193,
-    "index": 494,
+    "index": 500,
     "redacted": false,
     "blacklisted": false
   },
@@ -38734,7 +39462,7 @@
       }
     ],
     "hash": 2137341716,
-    "index": 548,
+    "index": 554,
     "redacted": false,
     "blacklisted": false
   },
@@ -38927,7 +39655,7 @@
       }
     ],
     "hash": 2189420068,
-    "index": 339,
+    "index": 341,
     "redacted": false,
     "blacklisted": false
   },
@@ -38998,7 +39726,7 @@
       }
     ],
     "hash": 2192814015,
-    "index": 489,
+    "index": 495,
     "redacted": false,
     "blacklisted": false
   },
@@ -39354,7 +40082,7 @@
       }
     ],
     "hash": 2213849027,
-    "index": 506,
+    "index": 512,
     "redacted": false,
     "blacklisted": false
   },
@@ -39669,7 +40397,7 @@
       }
     ],
     "hash": 2258271427,
-    "index": 476,
+    "index": 482,
     "redacted": false,
     "blacklisted": false
   },
@@ -39747,7 +40475,7 @@
       }
     ],
     "hash": 2258271428,
-    "index": 475,
+    "index": 481,
     "redacted": false,
     "blacklisted": false
   },
@@ -39825,7 +40553,7 @@
       }
     ],
     "hash": 2258271429,
-    "index": 474,
+    "index": 480,
     "redacted": false,
     "blacklisted": false
   },
@@ -39903,7 +40631,7 @@
       }
     ],
     "hash": 2258271430,
-    "index": 473,
+    "index": 479,
     "redacted": false,
     "blacklisted": false
   },
@@ -40467,7 +41195,7 @@
       }
     ],
     "hash": 2287017175,
-    "index": 574,
+    "index": 580,
     "redacted": false,
     "blacklisted": false
   },
@@ -40559,7 +41287,7 @@
       }
     ],
     "hash": 2291699958,
-    "index": 557,
+    "index": 563,
     "redacted": false,
     "blacklisted": false
   },
@@ -40804,7 +41532,7 @@
       }
     ],
     "hash": 2299492441,
-    "index": 425,
+    "index": 427,
     "redacted": false,
     "blacklisted": false
   },
@@ -40853,7 +41581,7 @@
       }
     ],
     "hash": 2302766710,
-    "index": 570,
+    "index": 576,
     "redacted": false,
     "blacklisted": false
   },
@@ -40896,7 +41624,7 @@
       }
     ],
     "hash": 2303450635,
-    "index": 455,
+    "index": 461,
     "redacted": false,
     "blacklisted": false
   },
@@ -40967,7 +41695,7 @@
       }
     ],
     "hash": 2324400356,
-    "index": 488,
+    "index": 494,
     "redacted": false,
     "blacklisted": false
   },
@@ -41375,7 +42103,7 @@
       }
     ],
     "hash": 2334288515,
-    "index": 369,
+    "index": 371,
     "redacted": false,
     "blacklisted": false
   },
@@ -41506,7 +42234,7 @@
       }
     ],
     "hash": 2334880395,
-    "index": 531,
+    "index": 537,
     "redacted": false,
     "blacklisted": false
   },
@@ -41773,7 +42501,7 @@
       }
     ],
     "hash": 2342245092,
-    "index": 573,
+    "index": 579,
     "redacted": false,
     "blacklisted": false
   },
@@ -41814,33 +42542,20 @@
       }
     ],
     "hash": 2358116810,
-    "index": 405,
+    "index": 407,
     "redacted": false,
     "blacklisted": false
   },
   "2362979348": {
     "skulls": [
       {
-        "hash": 344764180,
+        "hash": 1253978620,
         "skullIdentifierHash": 0,
         "displayProperties": {
           "description": "This activity is currently Focused. Your score will contribute to your class's standing in the fight for glory in the Focus Activity Event.",
           "name": "Focused Activity",
-          "icon": "/common/destiny2_content/icons/ccbf1983a41304acf64d7e659a3bb18f.png",
           "iconHash": 0,
-          "iconSequences": [
-            {
-              "frames": [
-                "/common/destiny2_content/icons/ccbf1983a41304acf64d7e659a3bb18f.png"
-              ]
-            },
-            {
-              "frames": [
-                "/common/destiny2_content/icons/4b36fb0759cbeda89519bd8bb6d8cc19.png"
-              ]
-            }
-          ],
-          "hasIcon": true
+          "hasIcon": false
         },
         "skullOptions": [],
         "dynamicUse": 0,
@@ -41855,7 +42570,7 @@
       }
     ],
     "hash": 2362979348,
-    "index": 450,
+    "index": 457,
     "redacted": false,
     "blacklisted": false
   },
@@ -41898,7 +42613,7 @@
       }
     ],
     "hash": 2374301141,
-    "index": 535,
+    "index": 541,
     "redacted": false,
     "blacklisted": false
   },
@@ -41974,7 +42689,7 @@
       }
     ],
     "hash": 2386712152,
-    "index": 534,
+    "index": 540,
     "redacted": false,
     "blacklisted": false
   },
@@ -42094,6 +42809,47 @@
     ],
     "hash": 2391833344,
     "index": 226,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2404083054": {
+    "skulls": [
+      {
+        "hash": 1251619838,
+        "skullIdentifierHash": 0,
+        "displayProperties": {
+          "description": "This activity is currently Focused. Your score will contribute to your class's standing in the fight for glory in the Focus Activity Event.",
+          "name": "Focused Activity",
+          "icon": "/common/destiny2_content/icons/ccbf1983a41304acf64d7e659a3bb18f.png",
+          "iconHash": 0,
+          "iconSequences": [
+            {
+              "frames": [
+                "/common/destiny2_content/icons/ccbf1983a41304acf64d7e659a3bb18f.png"
+              ]
+            },
+            {
+              "frames": [
+                "/common/destiny2_content/icons/4b36fb0759cbeda89519bd8bb6d8cc19.png"
+              ]
+            }
+          ],
+          "hasIcon": true
+        },
+        "skullOptions": [],
+        "dynamicUse": 0,
+        "modifierPowerContribution": 0,
+        "modifierMultiplierContribution": 0,
+        "hasUi": true,
+        "displayDescriptionOverrideForNavMode": "",
+        "activityModifierDisplayCategory": 1,
+        "activityModifierConnotation": 0,
+        "displayInNavMode": false,
+        "displayInActivitySelection": true
+      }
+    ],
+    "hash": 2404083054,
+    "index": 452,
     "redacted": false,
     "blacklisted": false
   },
@@ -42591,7 +43347,7 @@
       }
     ],
     "hash": 2445256970,
-    "index": 553,
+    "index": 559,
     "redacted": false,
     "blacklisted": false
   },
@@ -42641,7 +43397,7 @@
       }
     ],
     "hash": 2446348675,
-    "index": 352,
+    "index": 354,
     "redacted": false,
     "blacklisted": false
   },
@@ -42860,7 +43616,7 @@
       }
     ],
     "hash": 2481727180,
-    "index": 340,
+    "index": 342,
     "redacted": false,
     "blacklisted": false
   },
@@ -43084,7 +43840,7 @@
       }
     ],
     "hash": 2482328880,
-    "index": 336,
+    "index": 338,
     "redacted": false,
     "blacklisted": false
   },
@@ -43162,7 +43918,7 @@
       }
     ],
     "hash": 2493663967,
-    "index": 504,
+    "index": 510,
     "redacted": false,
     "blacklisted": false
   },
@@ -43549,7 +44305,7 @@
       }
     ],
     "hash": 2500022512,
-    "index": 490,
+    "index": 496,
     "redacted": false,
     "blacklisted": false
   },
@@ -44911,7 +45667,7 @@
       }
     ],
     "hash": 2555311680,
-    "index": 545,
+    "index": 551,
     "redacted": false,
     "blacklisted": false
   },
@@ -44995,7 +45751,7 @@
       }
     ],
     "hash": 2572089395,
-    "index": 543,
+    "index": 549,
     "redacted": false,
     "blacklisted": false
   },
@@ -45038,7 +45794,7 @@
       }
     ],
     "hash": 2572089398,
-    "index": 544,
+    "index": 550,
     "redacted": false,
     "blacklisted": false
   },
@@ -45357,7 +46113,7 @@
       }
     ],
     "hash": 2584011827,
-    "index": 371,
+    "index": 373,
     "redacted": false,
     "blacklisted": false
   },
@@ -45398,7 +46154,7 @@
       }
     ],
     "hash": 2602303109,
-    "index": 337,
+    "index": 339,
     "redacted": false,
     "blacklisted": false
   },
@@ -45719,7 +46475,7 @@
       }
     ],
     "hash": 2609889636,
-    "index": 434,
+    "index": 436,
     "redacted": false,
     "blacklisted": false
   },
@@ -45790,7 +46546,7 @@
       }
     ],
     "hash": 2619510745,
-    "index": 483,
+    "index": 489,
     "redacted": false,
     "blacklisted": false
   },
@@ -45868,7 +46624,7 @@
       }
     ],
     "hash": 2620246321,
-    "index": 558,
+    "index": 564,
     "redacted": false,
     "blacklisted": false
   },
@@ -45911,7 +46667,7 @@
       }
     ],
     "hash": 2622422153,
-    "index": 538,
+    "index": 544,
     "redacted": false,
     "blacklisted": false
   },
@@ -45954,7 +46710,7 @@
       }
     ],
     "hash": 2622422156,
-    "index": 537,
+    "index": 543,
     "redacted": false,
     "blacklisted": false
   },
@@ -46039,7 +46795,7 @@
       }
     ],
     "hash": 2639199866,
-    "index": 536,
+    "index": 542,
     "redacted": false,
     "blacklisted": false
   },
@@ -46428,7 +47184,7 @@
       }
     ],
     "hash": 2655977426,
-    "index": 541,
+    "index": 547,
     "redacted": false,
     "blacklisted": false
   },
@@ -46471,48 +47227,7 @@
       }
     ],
     "hash": 2655977431,
-    "index": 542,
-    "redacted": false,
-    "blacklisted": false
-  },
-  "2659477497": {
-    "skulls": [
-      {
-        "hash": 255613027,
-        "skullIdentifierHash": 359442284,
-        "displayProperties": {
-          "description": "With each encounter completed, combatants will grow more powerful and aggressive.",
-          "name": "Escalating Difficulty",
-          "icon": "/common/destiny2_content/icons/112610c51efacefd71824666edf122b1.png",
-          "iconHash": 0,
-          "iconSequences": [
-            {
-              "frames": [
-                "/common/destiny2_content/icons/112610c51efacefd71824666edf122b1.png"
-              ]
-            },
-            {
-              "frames": [
-                "/common/destiny2_content/icons/59d4f2a19f7312580e363195e277cae7.png"
-              ]
-            }
-          ],
-          "hasIcon": true
-        },
-        "skullOptions": [],
-        "dynamicUse": 1,
-        "modifierPowerContribution": 0,
-        "modifierMultiplierContribution": 0,
-        "hasUi": true,
-        "displayDescriptionOverrideForNavMode": "",
-        "activityModifierDisplayCategory": 1,
-        "activityModifierConnotation": 4,
-        "displayInNavMode": true,
-        "displayInActivitySelection": true
-      }
-    ],
-    "hash": 2659477497,
-    "index": 454,
+    "index": 548,
     "redacted": false,
     "blacklisted": false
   },
@@ -46627,7 +47342,7 @@
       }
     ],
     "hash": 2661881628,
-    "index": 404,
+    "index": 406,
     "redacted": false,
     "blacklisted": false
   },
@@ -46670,7 +47385,7 @@
       }
     ],
     "hash": 2672755008,
-    "index": 540,
+    "index": 546,
     "redacted": false,
     "blacklisted": false
   },
@@ -46713,7 +47428,7 @@
       }
     ],
     "hash": 2672755013,
-    "index": 539,
+    "index": 545,
     "redacted": false,
     "blacklisted": false
   },
@@ -47161,7 +47876,7 @@
       }
     ],
     "hash": 2710874297,
-    "index": 431,
+    "index": 433,
     "redacted": false,
     "blacklisted": false
   },
@@ -47349,7 +48064,7 @@
       }
     ],
     "hash": 2721593486,
-    "index": 571,
+    "index": 577,
     "redacted": false,
     "blacklisted": false
   },
@@ -48089,7 +48804,7 @@
       }
     ],
     "hash": 2789320430,
-    "index": 484,
+    "index": 490,
     "redacted": false,
     "blacklisted": false
   },
@@ -48585,7 +49300,7 @@
       }
     ],
     "hash": 2807082772,
-    "index": 386,
+    "index": 388,
     "redacted": false,
     "blacklisted": false
   },
@@ -48787,7 +49502,7 @@
       }
     ],
     "hash": 2833877272,
-    "index": 477,
+    "index": 483,
     "redacted": false,
     "blacklisted": false
   },
@@ -48869,7 +49584,7 @@
       }
     ],
     "hash": 2858995436,
-    "index": 328,
+    "index": 330,
     "redacted": false,
     "blacklisted": false
   },
@@ -48953,7 +49668,7 @@
       }
     ],
     "hash": 2897490678,
-    "index": 526,
+    "index": 532,
     "redacted": false,
     "blacklisted": false
   },
@@ -49030,7 +49745,7 @@
       }
     ],
     "hash": 2911534414,
-    "index": 377,
+    "index": 379,
     "redacted": false,
     "blacklisted": false
   },
@@ -49073,7 +49788,7 @@
       }
     ],
     "hash": 2914268265,
-    "index": 527,
+    "index": 533,
     "redacted": false,
     "blacklisted": false
   },
@@ -49448,7 +50163,7 @@
       }
     ],
     "hash": 2919617847,
-    "index": 437,
+    "index": 439,
     "redacted": false,
     "blacklisted": false
   },
@@ -49491,7 +50206,7 @@
       }
     ],
     "hash": 2931045852,
-    "index": 524,
+    "index": 530,
     "redacted": false,
     "blacklisted": false
   },
@@ -49534,7 +50249,7 @@
       }
     ],
     "hash": 2947823439,
-    "index": 525,
+    "index": 531,
     "redacted": false,
     "blacklisted": false
   },
@@ -50319,7 +51034,7 @@
       }
     ],
     "hash": 2975635048,
-    "index": 438,
+    "index": 440,
     "redacted": false,
     "blacklisted": false
   },
@@ -51038,7 +51753,7 @@
       }
     ],
     "hash": 2976922377,
-    "index": 432,
+    "index": 434,
     "redacted": false,
     "blacklisted": false
   },
@@ -51081,7 +51796,7 @@
       }
     ],
     "hash": 2981378709,
-    "index": 523,
+    "index": 529,
     "redacted": false,
     "blacklisted": false
   },
@@ -51357,7 +52072,7 @@
       }
     ],
     "hash": 3004567740,
-    "index": 497,
+    "index": 503,
     "redacted": false,
     "blacklisted": false
   },
@@ -51531,7 +52246,7 @@
       }
     ],
     "hash": 3013460386,
-    "index": 356,
+    "index": 358,
     "redacted": false,
     "blacklisted": false
   },
@@ -51602,7 +52317,7 @@
       }
     ],
     "hash": 3017389087,
-    "index": 485,
+    "index": 491,
     "redacted": false,
     "blacklisted": false
   },
@@ -52465,7 +53180,7 @@
       }
     ],
     "hash": 3037922993,
-    "index": 330,
+    "index": 332,
     "redacted": false,
     "blacklisted": false
   },
@@ -52534,7 +53249,7 @@
       }
     ],
     "hash": 3062403596,
-    "index": 363,
+    "index": 365,
     "redacted": false,
     "blacklisted": false
   },
@@ -53193,7 +53908,7 @@
       }
     ],
     "hash": 3118702824,
-    "index": 496,
+    "index": 502,
     "redacted": false,
     "blacklisted": false
   },
@@ -53257,7 +53972,7 @@
       }
     ],
     "hash": 3133304695,
-    "index": 472,
+    "index": 478,
     "redacted": false,
     "blacklisted": false
   },
@@ -53528,7 +54243,7 @@
       }
     ],
     "hash": 3138532756,
-    "index": 411,
+    "index": 413,
     "redacted": false,
     "blacklisted": false
   },
@@ -54021,7 +54736,7 @@
       }
     ],
     "hash": 3174788501,
-    "index": 429,
+    "index": 431,
     "redacted": false,
     "blacklisted": false
   },
@@ -54136,7 +54851,7 @@
       }
     ],
     "hash": 3200128836,
-    "index": 374,
+    "index": 376,
     "redacted": false,
     "blacklisted": false
   },
@@ -55245,7 +55960,7 @@
       }
     ],
     "hash": 3212745642,
-    "index": 373,
+    "index": 375,
     "redacted": false,
     "blacklisted": false
   },
@@ -55609,7 +56324,7 @@
       }
     ],
     "hash": 3220141926,
-    "index": 554,
+    "index": 560,
     "redacted": false,
     "blacklisted": false
   },
@@ -55651,7 +56366,7 @@
       }
     ],
     "hash": 3221482859,
-    "index": 412,
+    "index": 414,
     "redacted": false,
     "blacklisted": false
   },
@@ -55692,7 +56407,7 @@
       }
     ],
     "hash": 3231086760,
-    "index": 440,
+    "index": 442,
     "redacted": false,
     "blacklisted": false
   },
@@ -55733,7 +56448,7 @@
       }
     ],
     "hash": 3231086763,
-    "index": 441,
+    "index": 443,
     "redacted": false,
     "blacklisted": false
   },
@@ -55802,7 +56517,7 @@
       }
     ],
     "hash": 3231256183,
-    "index": 362,
+    "index": 364,
     "redacted": false,
     "blacklisted": false
   },
@@ -56181,7 +56896,7 @@
       }
     ],
     "hash": 3241027263,
-    "index": 466,
+    "index": 472,
     "redacted": false,
     "blacklisted": false
   },
@@ -56808,7 +57523,7 @@
       }
     ],
     "hash": 3272232550,
-    "index": 365,
+    "index": 367,
     "redacted": false,
     "blacklisted": false
   },
@@ -56962,7 +57677,7 @@
       }
     ],
     "hash": 3290999182,
-    "index": 572,
+    "index": 578,
     "redacted": false,
     "blacklisted": false
   },
@@ -57471,7 +58186,7 @@
       }
     ],
     "hash": 3311291839,
-    "index": 560,
+    "index": 566,
     "redacted": false,
     "blacklisted": false
   },
@@ -57713,7 +58428,7 @@
       }
     ],
     "hash": 3344987217,
-    "index": 493,
+    "index": 499,
     "redacted": false,
     "blacklisted": false
   },
@@ -58004,7 +58719,7 @@
       }
     ],
     "hash": 3358215051,
-    "index": 344,
+    "index": 346,
     "redacted": false,
     "blacklisted": false
   },
@@ -58306,7 +59021,7 @@
       }
     ],
     "hash": 3375288364,
-    "index": 480,
+    "index": 486,
     "redacted": false,
     "blacklisted": false
   },
@@ -60779,7 +61494,7 @@
       }
     ],
     "hash": 3400021143,
-    "index": 355,
+    "index": 357,
     "redacted": false,
     "blacklisted": false
   },
@@ -61150,7 +61865,7 @@
       }
     ],
     "hash": 3410376006,
-    "index": 341,
+    "index": 343,
     "redacted": false,
     "blacklisted": false
   },
@@ -61191,7 +61906,7 @@
       }
     ],
     "hash": 3444660835,
-    "index": 387,
+    "index": 389,
     "redacted": false,
     "blacklisted": false
   },
@@ -61344,7 +62059,48 @@
       }
     ],
     "hash": 3446031940,
-    "index": 334,
+    "index": 336,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3452207275": {
+    "skulls": [
+      {
+        "hash": 2948738685,
+        "skullIdentifierHash": 359442284,
+        "displayProperties": {
+          "description": "With each encounter completed, combatants will grow more powerful and aggressive.",
+          "name": "Escalating Difficulty",
+          "icon": "/common/destiny2_content/icons/112610c51efacefd71824666edf122b1.png",
+          "iconHash": 0,
+          "iconSequences": [
+            {
+              "frames": [
+                "/common/destiny2_content/icons/112610c51efacefd71824666edf122b1.png"
+              ]
+            },
+            {
+              "frames": [
+                "/common/destiny2_content/icons/59d4f2a19f7312580e363195e277cae7.png"
+              ]
+            }
+          ],
+          "hasIcon": true
+        },
+        "skullOptions": [],
+        "dynamicUse": 1,
+        "modifierPowerContribution": 0,
+        "modifierMultiplierContribution": 0,
+        "hasUi": true,
+        "displayDescriptionOverrideForNavMode": "",
+        "activityModifierDisplayCategory": 1,
+        "activityModifierConnotation": 4,
+        "displayInNavMode": true,
+        "displayInActivitySelection": true
+      }
+    ],
+    "hash": 3452207275,
+    "index": 456,
     "redacted": false,
     "blacklisted": false
   },
@@ -61817,7 +62573,7 @@
       }
     ],
     "hash": 3489864765,
-    "index": 394,
+    "index": 396,
     "redacted": false,
     "blacklisted": false
   },
@@ -61957,7 +62713,7 @@
       }
     ],
     "hash": 3499739927,
-    "index": 389,
+    "index": 391,
     "redacted": false,
     "blacklisted": false
   },
@@ -62309,7 +63065,7 @@
       }
     ],
     "hash": 3500932866,
-    "index": 446,
+    "index": 448,
     "redacted": false,
     "blacklisted": false
   },
@@ -62394,7 +63150,7 @@
       }
     ],
     "hash": 3510474961,
-    "index": 409,
+    "index": 411,
     "redacted": false,
     "blacklisted": false
   },
@@ -62585,7 +63341,7 @@
       }
     ],
     "hash": 3528160996,
-    "index": 551,
+    "index": 557,
     "redacted": false,
     "blacklisted": false
   },
@@ -62958,7 +63714,7 @@
       }
     ],
     "hash": 3538252878,
-    "index": 393,
+    "index": 395,
     "redacted": false,
     "blacklisted": false
   },
@@ -63029,33 +63785,20 @@
       }
     ],
     "hash": 3542403670,
-    "index": 503,
+    "index": 509,
     "redacted": false,
     "blacklisted": false
   },
   "3542405092": {
     "skulls": [
       {
-        "hash": 344764180,
+        "hash": 1253978620,
         "skullIdentifierHash": 0,
         "displayProperties": {
           "description": "This activity is currently Focused. Your score will contribute to your class's standing in the fight for glory in the Focus Activity Event.",
           "name": "Focused Activity",
-          "icon": "/common/destiny2_content/icons/ccbf1983a41304acf64d7e659a3bb18f.png",
           "iconHash": 0,
-          "iconSequences": [
-            {
-              "frames": [
-                "/common/destiny2_content/icons/ccbf1983a41304acf64d7e659a3bb18f.png"
-              ]
-            },
-            {
-              "frames": [
-                "/common/destiny2_content/icons/4b36fb0759cbeda89519bd8bb6d8cc19.png"
-              ]
-            }
-          ],
-          "hasIcon": true
+          "hasIcon": false
         },
         "skullOptions": [],
         "dynamicUse": 0,
@@ -63070,7 +63813,7 @@
       }
     ],
     "hash": 3542405092,
-    "index": 453,
+    "index": 460,
     "redacted": false,
     "blacklisted": false
   },
@@ -63467,7 +64210,7 @@
       }
     ],
     "hash": 3542804431,
-    "index": 345,
+    "index": 347,
     "redacted": false,
     "blacklisted": false
   },
@@ -63819,7 +64562,7 @@
       }
     ],
     "hash": 3551232475,
-    "index": 338,
+    "index": 340,
     "redacted": false,
     "blacklisted": false
   },
@@ -64005,7 +64748,7 @@
       }
     ],
     "hash": 3553818458,
-    "index": 486,
+    "index": 492,
     "redacted": false,
     "blacklisted": false
   },
@@ -64163,7 +64906,7 @@
       }
     ],
     "hash": 3559357647,
-    "index": 583,
+    "index": 589,
     "redacted": false,
     "blacklisted": false
   },
@@ -64484,7 +65227,7 @@
       }
     ],
     "hash": 3575644323,
-    "index": 442,
+    "index": 444,
     "redacted": false,
     "blacklisted": false
   },
@@ -64900,7 +65643,7 @@
       }
     ],
     "hash": 3600655049,
-    "index": 367,
+    "index": 369,
     "redacted": false,
     "blacklisted": false
   },
@@ -65338,7 +66081,7 @@
       }
     ],
     "hash": 3629370394,
-    "index": 427,
+    "index": 429,
     "redacted": false,
     "blacklisted": false
   },
@@ -65440,7 +66183,7 @@
       }
     ],
     "hash": 3646285849,
-    "index": 421,
+    "index": 423,
     "redacted": false,
     "blacklisted": false
   },
@@ -65476,7 +66219,7 @@
       }
     ],
     "hash": 3646471354,
-    "index": 346,
+    "index": 348,
     "redacted": false,
     "blacklisted": false
   },
@@ -65561,7 +66304,7 @@
       }
     ],
     "hash": 3649985419,
-    "index": 564,
+    "index": 570,
     "redacted": false,
     "blacklisted": false
   },
@@ -65653,7 +66396,7 @@
       }
     ],
     "hash": 3657392321,
-    "index": 501,
+    "index": 507,
     "redacted": false,
     "blacklisted": false
   },
@@ -66009,7 +66752,7 @@
       }
     ],
     "hash": 3667365564,
-    "index": 461,
+    "index": 467,
     "redacted": false,
     "blacklisted": false
   },
@@ -66201,7 +66944,7 @@
       }
     ],
     "hash": 3688058752,
-    "index": 491,
+    "index": 497,
     "redacted": false,
     "blacklisted": false
   },
@@ -66306,7 +67049,7 @@
       }
     ],
     "hash": 3696109479,
-    "index": 388,
+    "index": 390,
     "redacted": false,
     "blacklisted": false
   },
@@ -66349,7 +67092,7 @@
       }
     ],
     "hash": 3699393007,
-    "index": 423,
+    "index": 425,
     "redacted": false,
     "blacklisted": false
   },
@@ -66878,7 +67621,7 @@
       }
     ],
     "hash": 3722691317,
-    "index": 448,
+    "index": 450,
     "redacted": false,
     "blacklisted": false
   },
@@ -67305,6 +68048,47 @@
     "redacted": false,
     "blacklisted": false
   },
+  "3804215142": {
+    "skulls": [
+      {
+        "hash": 1251619838,
+        "skullIdentifierHash": 0,
+        "displayProperties": {
+          "description": "This activity is currently Focused. Your score will contribute to your class's standing in the fight for glory in the Focus Activity Event.",
+          "name": "Focused Activity",
+          "icon": "/common/destiny2_content/icons/ccbf1983a41304acf64d7e659a3bb18f.png",
+          "iconHash": 0,
+          "iconSequences": [
+            {
+              "frames": [
+                "/common/destiny2_content/icons/ccbf1983a41304acf64d7e659a3bb18f.png"
+              ]
+            },
+            {
+              "frames": [
+                "/common/destiny2_content/icons/4b36fb0759cbeda89519bd8bb6d8cc19.png"
+              ]
+            }
+          ],
+          "hasIcon": true
+        },
+        "skullOptions": [],
+        "dynamicUse": 0,
+        "modifierPowerContribution": 0,
+        "modifierMultiplierContribution": 0,
+        "hasUi": true,
+        "displayDescriptionOverrideForNavMode": "",
+        "activityModifierDisplayCategory": 1,
+        "activityModifierConnotation": 0,
+        "displayInNavMode": false,
+        "displayInActivitySelection": true
+      }
+    ],
+    "hash": 3804215142,
+    "index": 454,
+    "redacted": false,
+    "blacklisted": false
+  },
   "3815860086": {
     "skulls": [
       {
@@ -67337,7 +68121,7 @@
       }
     ],
     "hash": 3815860086,
-    "index": 381,
+    "index": 383,
     "redacted": false,
     "blacklisted": false
   },
@@ -67731,7 +68515,7 @@
       }
     ],
     "hash": 3819333045,
-    "index": 375,
+    "index": 377,
     "redacted": false,
     "blacklisted": false
   },
@@ -68414,7 +69198,7 @@
       }
     ],
     "hash": 3901925519,
-    "index": 555,
+    "index": 561,
     "redacted": false,
     "blacklisted": false
   },
@@ -68760,7 +69544,7 @@
       }
     ],
     "hash": 3946893860,
-    "index": 463,
+    "index": 469,
     "redacted": false,
     "blacklisted": false
   },
@@ -69242,7 +70026,7 @@
       }
     ],
     "hash": 3981163521,
-    "index": 458,
+    "index": 464,
     "redacted": false,
     "blacklisted": false
   },
@@ -69362,7 +70146,7 @@
       }
     ],
     "hash": 4025659312,
-    "index": 378,
+    "index": 380,
     "redacted": false,
     "blacklisted": false
   },
@@ -69594,7 +70378,7 @@
       }
     ],
     "hash": 4034673449,
-    "index": 566,
+    "index": 572,
     "redacted": false,
     "blacklisted": false
   },
@@ -69987,7 +70771,7 @@
       }
     ],
     "hash": 4037693406,
-    "index": 575,
+    "index": 581,
     "redacted": false,
     "blacklisted": false
   },
@@ -70028,7 +70812,7 @@
       }
     ],
     "hash": 4045427514,
-    "index": 462,
+    "index": 468,
     "redacted": false,
     "blacklisted": false
   },
@@ -70558,7 +71342,7 @@
       }
     ],
     "hash": 4063193283,
-    "index": 399,
+    "index": 401,
     "redacted": false,
     "blacklisted": false
   },
@@ -70983,26 +71767,13 @@
   "4077307145": {
     "skulls": [
       {
-        "hash": 344764180,
+        "hash": 1253978620,
         "skullIdentifierHash": 0,
         "displayProperties": {
           "description": "This activity is currently Focused. Your score will contribute to your class's standing in the fight for glory in the Focus Activity Event.",
           "name": "Focused Activity",
-          "icon": "/common/destiny2_content/icons/ccbf1983a41304acf64d7e659a3bb18f.png",
           "iconHash": 0,
-          "iconSequences": [
-            {
-              "frames": [
-                "/common/destiny2_content/icons/ccbf1983a41304acf64d7e659a3bb18f.png"
-              ]
-            },
-            {
-              "frames": [
-                "/common/destiny2_content/icons/4b36fb0759cbeda89519bd8bb6d8cc19.png"
-              ]
-            }
-          ],
-          "hasIcon": true
+          "hasIcon": false
         },
         "skullOptions": [],
         "dynamicUse": 0,
@@ -71017,7 +71788,7 @@
       }
     ],
     "hash": 4077307145,
-    "index": 451,
+    "index": 458,
     "redacted": false,
     "blacklisted": false
   },
@@ -71095,6 +71866,47 @@
     "redacted": false,
     "blacklisted": false
   },
+  "4081025866": {
+    "skulls": [
+      {
+        "hash": 1251619838,
+        "skullIdentifierHash": 0,
+        "displayProperties": {
+          "description": "This activity is currently Focused. Your score will contribute to your class's standing in the fight for glory in the Focus Activity Event.",
+          "name": "Focused Activity",
+          "icon": "/common/destiny2_content/icons/ccbf1983a41304acf64d7e659a3bb18f.png",
+          "iconHash": 0,
+          "iconSequences": [
+            {
+              "frames": [
+                "/common/destiny2_content/icons/ccbf1983a41304acf64d7e659a3bb18f.png"
+              ]
+            },
+            {
+              "frames": [
+                "/common/destiny2_content/icons/4b36fb0759cbeda89519bd8bb6d8cc19.png"
+              ]
+            }
+          ],
+          "hasIcon": true
+        },
+        "skullOptions": [],
+        "dynamicUse": 0,
+        "modifierPowerContribution": 0,
+        "modifierMultiplierContribution": 0,
+        "hasUi": true,
+        "displayDescriptionOverrideForNavMode": "",
+        "activityModifierDisplayCategory": 1,
+        "activityModifierConnotation": 0,
+        "displayInNavMode": false,
+        "displayInActivitySelection": true
+      }
+    ],
+    "hash": 4081025866,
+    "index": 455,
+    "redacted": false,
+    "blacklisted": false
+  },
   "4084998433": {
     "skulls": [
       {
@@ -71166,7 +71978,7 @@
       }
     ],
     "hash": 4084998433,
-    "index": 567,
+    "index": 573,
     "redacted": false,
     "blacklisted": false
   },
@@ -72206,7 +73018,7 @@
       }
     ],
     "hash": 4122164184,
-    "index": 468,
+    "index": 474,
     "redacted": false,
     "blacklisted": false
   },
@@ -72275,7 +73087,7 @@
       }
     ],
     "hash": 4124618343,
-    "index": 360,
+    "index": 362,
     "redacted": false,
     "blacklisted": false
   },
@@ -72353,7 +73165,7 @@
       }
     ],
     "hash": 4126649969,
-    "index": 559,
+    "index": 565,
     "redacted": false,
     "blacklisted": false
   },
@@ -72527,7 +73339,7 @@
       }
     ],
     "hash": 4155515450,
-    "index": 400,
+    "index": 402,
     "redacted": false,
     "blacklisted": false
   },
@@ -73261,7 +74073,7 @@
       }
     ],
     "hash": 4217150827,
-    "index": 471,
+    "index": 477,
     "redacted": false,
     "blacklisted": false
   },
@@ -73796,7 +74608,7 @@
       }
     ],
     "hash": 4233951171,
-    "index": 368,
+    "index": 370,
     "redacted": false,
     "blacklisted": false
   },
@@ -73886,7 +74698,7 @@
       }
     ],
     "hash": 4259844954,
-    "index": 329,
+    "index": 331,
     "redacted": false,
     "blacklisted": false
   },
@@ -74150,7 +74962,7 @@
       }
     ],
     "hash": 4260691719,
-    "index": 581,
+    "index": 587,
     "redacted": false,
     "blacklisted": false
   },

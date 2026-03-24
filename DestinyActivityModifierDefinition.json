@@ -22,7 +22,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 7205195,
-    "index": 242,
+    "index": 243,
     "redacted": false,
     "blacklisted": false
   },
@@ -207,7 +207,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 77928345,
-    "index": 331,
+    "index": 332,
     "redacted": false,
     "blacklisted": false
   },
@@ -234,7 +234,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 85104725,
-    "index": 332,
+    "index": 333,
     "redacted": false,
     "blacklisted": false
   },
@@ -261,7 +261,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 95459596,
-    "index": 225,
+    "index": 226,
     "redacted": false,
     "blacklisted": false
   },
@@ -284,7 +284,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 112345143,
-    "index": 203,
+    "index": 204,
     "redacted": false,
     "blacklisted": false
   },
@@ -480,7 +480,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 203094476,
-    "index": 344,
+    "index": 345,
     "redacted": false,
     "blacklisted": false
   },
@@ -503,7 +503,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 217815700,
-    "index": 247,
+    "index": 248,
     "redacted": false,
     "blacklisted": false
   },
@@ -531,33 +531,6 @@
     "displayInActivitySelection": true,
     "hash": 249172590,
     "index": 150,
-    "redacted": false,
-    "blacklisted": false
-  },
-  "255613027": {
-    "displayProperties": {
-      "description": "With each encounter completed, combatants will grow more powerful and aggressive.",
-      "name": "Escalating Difficulty",
-      "icon": "/common/destiny2_content/icons/112610c51efacefd71824666edf122b1.png",
-      "iconHash": 0,
-      "iconSequences": [
-        {
-          "frames": [
-            "/common/destiny2_content/icons/112610c51efacefd71824666edf122b1.png"
-          ]
-        },
-        {
-          "frames": [
-            "/common/destiny2_content/icons/59d4f2a19f7312580e363195e277cae7.png"
-          ]
-        }
-      ],
-      "hasIcon": true
-    },
-    "displayInNavMode": true,
-    "displayInActivitySelection": true,
-    "hash": 255613027,
-    "index": 206,
     "redacted": false,
     "blacklisted": false
   },
@@ -639,7 +612,7 @@
     "displayInNavMode": false,
     "displayInActivitySelection": true,
     "hash": 313044339,
-    "index": 311,
+    "index": 312,
     "redacted": false,
     "blacklisted": false
   },
@@ -694,7 +667,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 319774646,
-    "index": 269,
+    "index": 270,
     "redacted": false,
     "blacklisted": false
   },
@@ -718,33 +691,6 @@
     "displayInActivitySelection": true,
     "hash": 321244196,
     "index": 42,
-    "redacted": false,
-    "blacklisted": false
-  },
-  "344764180": {
-    "displayProperties": {
-      "description": "This activity is currently Focused. Your score will contribute to your class's standing in the fight for glory in the Focus Activity Event.",
-      "name": "Focused Activity",
-      "icon": "/common/destiny2_content/icons/ccbf1983a41304acf64d7e659a3bb18f.png",
-      "iconHash": 0,
-      "iconSequences": [
-        {
-          "frames": [
-            "/common/destiny2_content/icons/ccbf1983a41304acf64d7e659a3bb18f.png"
-          ]
-        },
-        {
-          "frames": [
-            "/common/destiny2_content/icons/4b36fb0759cbeda89519bd8bb6d8cc19.png"
-          ]
-        }
-      ],
-      "hasIcon": true
-    },
-    "displayInNavMode": false,
-    "displayInActivitySelection": true,
-    "hash": 344764180,
-    "index": 192,
     "redacted": false,
     "blacklisted": false
   },
@@ -798,7 +744,7 @@
     "displayInNavMode": false,
     "displayInActivitySelection": true,
     "hash": 377122366,
-    "index": 328,
+    "index": 329,
     "redacted": false,
     "blacklisted": false
   },
@@ -825,7 +771,7 @@
     "displayInNavMode": false,
     "displayInActivitySelection": true,
     "hash": 384012338,
-    "index": 342,
+    "index": 343,
     "redacted": false,
     "blacklisted": false
   },
@@ -852,7 +798,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 410878524,
-    "index": 280,
+    "index": 281,
     "redacted": false,
     "blacklisted": false
   },
@@ -987,7 +933,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 468121195,
-    "index": 287,
+    "index": 288,
     "redacted": false,
     "blacklisted": false
   },
@@ -1041,7 +987,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 496726702,
-    "index": 270,
+    "index": 271,
     "redacted": false,
     "blacklisted": false
   },
@@ -1068,7 +1014,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 501815068,
-    "index": 345,
+    "index": 346,
     "redacted": false,
     "blacklisted": false
   },
@@ -1091,7 +1037,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 512042454,
-    "index": 258,
+    "index": 259,
     "redacted": false,
     "blacklisted": false
   },
@@ -1222,7 +1168,7 @@
     "displayInNavMode": false,
     "displayInActivitySelection": true,
     "hash": 612342440,
-    "index": 219,
+    "index": 220,
     "redacted": false,
     "blacklisted": false
   },
@@ -1249,7 +1195,7 @@
     "displayInNavMode": false,
     "displayInActivitySelection": true,
     "hash": 614347129,
-    "index": 310,
+    "index": 311,
     "redacted": false,
     "blacklisted": false
   },
@@ -1349,7 +1295,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 705530254,
-    "index": 294,
+    "index": 295,
     "redacted": false,
     "blacklisted": false
   },
@@ -1403,7 +1349,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": false,
     "hash": 720259466,
-    "index": 349,
+    "index": 350,
     "redacted": false,
     "blacklisted": false
   },
@@ -1430,7 +1376,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 732074628,
-    "index": 355,
+    "index": 356,
     "redacted": false,
     "blacklisted": false
   },
@@ -1484,7 +1430,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 739936454,
-    "index": 291,
+    "index": 292,
     "redacted": false,
     "blacklisted": false
   },
@@ -1561,7 +1507,7 @@
     "displayInNavMode": false,
     "displayInActivitySelection": true,
     "hash": 791047754,
-    "index": 252,
+    "index": 253,
     "redacted": false,
     "blacklisted": false
   },
@@ -1615,7 +1561,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 795009574,
-    "index": 224,
+    "index": 225,
     "redacted": false,
     "blacklisted": false
   },
@@ -1638,7 +1584,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 824516719,
-    "index": 358,
+    "index": 359,
     "redacted": false,
     "blacklisted": false
   },
@@ -1685,7 +1631,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 839975808,
-    "index": 319,
+    "index": 320,
     "redacted": false,
     "blacklisted": false
   },
@@ -1739,7 +1685,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 871310220,
-    "index": 272,
+    "index": 273,
     "redacted": false,
     "blacklisted": false
   },
@@ -1766,7 +1712,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 874363817,
-    "index": 290,
+    "index": 291,
     "redacted": false,
     "blacklisted": false
   },
@@ -1793,7 +1739,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 878143748,
-    "index": 275,
+    "index": 276,
     "redacted": false,
     "blacklisted": false
   },
@@ -1820,7 +1766,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 907086174,
-    "index": 274,
+    "index": 275,
     "redacted": false,
     "blacklisted": false
   },
@@ -1902,7 +1848,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 951858375,
-    "index": 283,
+    "index": 284,
     "redacted": false,
     "blacklisted": false
   },
@@ -1929,7 +1875,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 963950168,
-    "index": 284,
+    "index": 285,
     "redacted": false,
     "blacklisted": false
   },
@@ -1956,7 +1902,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 965929096,
-    "index": 333,
+    "index": 334,
     "redacted": false,
     "blacklisted": false
   },
@@ -1983,7 +1929,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 975464573,
-    "index": 289,
+    "index": 290,
     "redacted": false,
     "blacklisted": false
   },
@@ -2060,7 +2006,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 1009802050,
-    "index": 265,
+    "index": 266,
     "redacted": false,
     "blacklisted": false
   },
@@ -2087,7 +2033,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 1033382240,
-    "index": 293,
+    "index": 294,
     "redacted": false,
     "blacklisted": false
   },
@@ -2110,7 +2056,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 1073070726,
-    "index": 211,
+    "index": 212,
     "redacted": false,
     "blacklisted": false
   },
@@ -2191,7 +2137,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 1139702033,
-    "index": 254,
+    "index": 255,
     "redacted": false,
     "blacklisted": false
   },
@@ -2272,7 +2218,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 1171597537,
-    "index": 340,
+    "index": 341,
     "redacted": false,
     "blacklisted": false
   },
@@ -2326,7 +2272,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 1174869237,
-    "index": 343,
+    "index": 344,
     "redacted": false,
     "blacklisted": false
   },
@@ -2353,7 +2299,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 1175419662,
-    "index": 262,
+    "index": 263,
     "redacted": false,
     "blacklisted": false
   },
@@ -2380,7 +2326,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 1182595757,
-    "index": 263,
+    "index": 264,
     "redacted": false,
     "blacklisted": false
   },
@@ -2457,7 +2403,48 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 1243852782,
-    "index": 297,
+    "index": 298,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1251619838": {
+    "displayProperties": {
+      "description": "This activity is currently Focused. Your score will contribute to your class's standing in the fight for glory in the Focus Activity Event.",
+      "name": "Focused Activity",
+      "icon": "/common/destiny2_content/icons/ccbf1983a41304acf64d7e659a3bb18f.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/ccbf1983a41304acf64d7e659a3bb18f.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/4b36fb0759cbeda89519bd8bb6d8cc19.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "displayInNavMode": false,
+    "displayInActivitySelection": true,
+    "hash": 1251619838,
+    "index": 200,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1253978620": {
+    "displayProperties": {
+      "description": "This activity is currently Focused. Your score will contribute to your class's standing in the fight for glory in the Focus Activity Event.",
+      "name": "Focused Activity",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "displayInNavMode": false,
+    "displayInActivitySelection": true,
+    "hash": 1253978620,
+    "index": 192,
     "redacted": false,
     "blacklisted": false
   },
@@ -2484,7 +2471,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 1258160739,
-    "index": 267,
+    "index": 268,
     "redacted": false,
     "blacklisted": false
   },
@@ -2511,7 +2498,7 @@
     "displayInNavMode": false,
     "displayInActivitySelection": true,
     "hash": 1262171714,
-    "index": 217,
+    "index": 218,
     "redacted": false,
     "blacklisted": false
   },
@@ -2588,7 +2575,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 1277882844,
-    "index": 300,
+    "index": 301,
     "redacted": false,
     "blacklisted": false
   },
@@ -2642,7 +2629,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 1282934989,
-    "index": 231,
+    "index": 232,
     "redacted": false,
     "blacklisted": false
   },
@@ -2669,7 +2656,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 1303655893,
-    "index": 281,
+    "index": 282,
     "redacted": false,
     "blacklisted": false
   },
@@ -2696,7 +2683,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 1305687814,
-    "index": 350,
+    "index": 351,
     "redacted": false,
     "blacklisted": false
   },
@@ -2746,7 +2733,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 1326581064,
-    "index": 226,
+    "index": 227,
     "redacted": false,
     "blacklisted": false
   },
@@ -2773,7 +2760,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 1334082536,
-    "index": 302,
+    "index": 303,
     "redacted": false,
     "blacklisted": false
   },
@@ -2823,7 +2810,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 1365610347,
-    "index": 278,
+    "index": 279,
     "redacted": false,
     "blacklisted": false
   },
@@ -2954,7 +2941,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 1405899724,
-    "index": 253,
+    "index": 254,
     "redacted": false,
     "blacklisted": false
   },
@@ -2981,7 +2968,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 1409304555,
-    "index": 266,
+    "index": 267,
     "redacted": false,
     "blacklisted": false
   },
@@ -3008,7 +2995,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 1410027362,
-    "index": 364,
+    "index": 365,
     "redacted": false,
     "blacklisted": false
   },
@@ -3116,7 +3103,7 @@
     "displayInNavMode": false,
     "displayInActivitySelection": true,
     "hash": 1456687498,
-    "index": 329,
+    "index": 330,
     "redacted": false,
     "blacklisted": false
   },
@@ -3143,7 +3130,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 1463636496,
-    "index": 240,
+    "index": 241,
     "redacted": false,
     "blacklisted": false
   },
@@ -3199,7 +3186,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 1486810101,
-    "index": 255,
+    "index": 256,
     "redacted": false,
     "blacklisted": false
   },
@@ -3226,7 +3213,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 1493777741,
-    "index": 322,
+    "index": 323,
     "redacted": false,
     "blacklisted": false
   },
@@ -3249,7 +3236,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 1498263100,
-    "index": 250,
+    "index": 251,
     "redacted": false,
     "blacklisted": false
   },
@@ -3384,7 +3371,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 1535174577,
-    "index": 204,
+    "index": 205,
     "redacted": false,
     "blacklisted": false
   },
@@ -3411,7 +3398,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 1545596619,
-    "index": 233,
+    "index": 234,
     "redacted": false,
     "blacklisted": false
   },
@@ -3457,7 +3444,7 @@
     "displayInNavMode": false,
     "displayInActivitySelection": true,
     "hash": 1553093202,
-    "index": 351,
+    "index": 352,
     "redacted": false,
     "blacklisted": false
   },
@@ -3530,7 +3517,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 1572913484,
-    "index": 212,
+    "index": 213,
     "redacted": false,
     "blacklisted": false
   },
@@ -3553,7 +3540,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 1575279060,
-    "index": 210,
+    "index": 211,
     "redacted": false,
     "blacklisted": false
   },
@@ -3603,7 +3590,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 1598472557,
-    "index": 366,
+    "index": 367,
     "redacted": false,
     "blacklisted": false
   },
@@ -3630,7 +3617,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": false,
     "hash": 1598783516,
-    "index": 214,
+    "index": 215,
     "redacted": false,
     "blacklisted": false
   },
@@ -3684,7 +3671,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 1610597702,
-    "index": 315,
+    "index": 316,
     "redacted": false,
     "blacklisted": false
   },
@@ -3711,7 +3698,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": false,
     "hash": 1615778293,
-    "index": 216,
+    "index": 217,
     "redacted": false,
     "blacklisted": false
   },
@@ -3765,7 +3752,7 @@
     "displayInNavMode": false,
     "displayInActivitySelection": true,
     "hash": 1651706850,
-    "index": 259,
+    "index": 260,
     "redacted": false,
     "blacklisted": false
   },
@@ -3815,7 +3802,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 1741733430,
-    "index": 249,
+    "index": 250,
     "redacted": false,
     "blacklisted": false
   },
@@ -3869,7 +3856,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 1743397814,
-    "index": 235,
+    "index": 236,
     "redacted": false,
     "blacklisted": false
   },
@@ -3910,7 +3897,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 1789323317,
-    "index": 361,
+    "index": 362,
     "redacted": false,
     "blacklisted": false
   },
@@ -4072,7 +4059,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 1857942384,
-    "index": 304,
+    "index": 305,
     "redacted": false,
     "blacklisted": false
   },
@@ -4099,7 +4086,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 1874523520,
-    "index": 251,
+    "index": 252,
     "redacted": false,
     "blacklisted": false
   },
@@ -4149,7 +4136,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 1894842396,
-    "index": 236,
+    "index": 237,
     "redacted": false,
     "blacklisted": false
   },
@@ -4203,7 +4190,7 @@
     "displayInNavMode": false,
     "displayInActivitySelection": true,
     "hash": 1902839616,
-    "index": 327,
+    "index": 328,
     "redacted": false,
     "blacklisted": false
   },
@@ -4230,7 +4217,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 1905191238,
-    "index": 301,
+    "index": 302,
     "redacted": false,
     "blacklisted": false
   },
@@ -4365,7 +4352,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 1974251144,
-    "index": 264,
+    "index": 265,
     "redacted": false,
     "blacklisted": false
   },
@@ -4419,7 +4406,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 1985989598,
-    "index": 268,
+    "index": 269,
     "redacted": false,
     "blacklisted": false
   },
@@ -4632,7 +4619,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 2072906693,
-    "index": 209,
+    "index": 210,
     "redacted": false,
     "blacklisted": false
   },
@@ -4755,7 +4742,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 2160690722,
-    "index": 237,
+    "index": 238,
     "redacted": false,
     "blacklisted": false
   },
@@ -4782,7 +4769,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 2178457119,
-    "index": 232,
+    "index": 233,
     "redacted": false,
     "blacklisted": false
   },
@@ -4809,7 +4796,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 2191853266,
-    "index": 296,
+    "index": 297,
     "redacted": false,
     "blacklisted": false
   },
@@ -4913,7 +4900,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 2214842664,
-    "index": 201,
+    "index": 202,
     "redacted": false,
     "blacklisted": false
   },
@@ -4940,7 +4927,7 @@
     "displayInNavMode": false,
     "displayInActivitySelection": true,
     "hash": 2229025674,
-    "index": 324,
+    "index": 325,
     "redacted": false,
     "blacklisted": false
   },
@@ -4990,7 +4977,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": false,
     "hash": 2288210988,
-    "index": 260,
+    "index": 261,
     "redacted": false,
     "blacklisted": false
   },
@@ -5045,7 +5032,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 2323293470,
-    "index": 357,
+    "index": 358,
     "redacted": false,
     "blacklisted": false
   },
@@ -5099,7 +5086,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 2332732433,
-    "index": 305,
+    "index": 306,
     "redacted": false,
     "blacklisted": false
   },
@@ -5122,7 +5109,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 2348177498,
-    "index": 318,
+    "index": 319,
     "redacted": false,
     "blacklisted": false
   },
@@ -5172,7 +5159,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 2368554323,
-    "index": 292,
+    "index": 293,
     "redacted": false,
     "blacklisted": false
   },
@@ -5195,7 +5182,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 2378419670,
-    "index": 208,
+    "index": 209,
     "redacted": false,
     "blacklisted": false
   },
@@ -5272,7 +5259,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": false,
     "hash": 2434779904,
-    "index": 317,
+    "index": 318,
     "redacted": false,
     "blacklisted": false
   },
@@ -5326,7 +5313,7 @@
     "displayInNavMode": false,
     "displayInActivitySelection": true,
     "hash": 2475764450,
-    "index": 213,
+    "index": 214,
     "redacted": false,
     "blacklisted": false
   },
@@ -5349,7 +5336,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 2482824751,
-    "index": 279,
+    "index": 280,
     "redacted": false,
     "blacklisted": false
   },
@@ -5399,7 +5386,7 @@
     "displayInNavMode": false,
     "displayInActivitySelection": true,
     "hash": 2500966831,
-    "index": 308,
+    "index": 309,
     "redacted": false,
     "blacklisted": false
   },
@@ -5426,7 +5413,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 2505193684,
-    "index": 276,
+    "index": 277,
     "redacted": false,
     "blacklisted": false
   },
@@ -5480,7 +5467,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 2533375223,
-    "index": 330,
+    "index": 331,
     "redacted": false,
     "blacklisted": false
   },
@@ -5507,7 +5494,7 @@
     "displayInNavMode": false,
     "displayInActivitySelection": true,
     "hash": 2543520884,
-    "index": 220,
+    "index": 221,
     "redacted": false,
     "blacklisted": false
   },
@@ -5561,7 +5548,7 @@
     "displayInNavMode": false,
     "displayInActivitySelection": true,
     "hash": 2578907858,
-    "index": 312,
+    "index": 313,
     "redacted": false,
     "blacklisted": false
   },
@@ -5615,7 +5602,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 2596648371,
-    "index": 363,
+    "index": 364,
     "redacted": false,
     "blacklisted": false
   },
@@ -5688,7 +5675,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 2626834038,
-    "index": 228,
+    "index": 229,
     "redacted": false,
     "blacklisted": false
   },
@@ -5715,7 +5702,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": false,
     "hash": 2650740350,
-    "index": 257,
+    "index": 258,
     "redacted": false,
     "blacklisted": false
   },
@@ -5765,7 +5752,7 @@
     "displayInNavMode": false,
     "displayInActivitySelection": true,
     "hash": 2675177792,
-    "index": 326,
+    "index": 327,
     "redacted": false,
     "blacklisted": false
   },
@@ -5815,7 +5802,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 2742259563,
-    "index": 207,
+    "index": 208,
     "redacted": false,
     "blacklisted": false
   },
@@ -5842,7 +5829,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 2743796883,
-    "index": 229,
+    "index": 230,
     "redacted": false,
     "blacklisted": false
   },
@@ -5875,7 +5862,7 @@
   },
   "2752976185": {
     "displayProperties": {
-      "description": "Swapping Exotic or Legendary armor, adding or removing armor stat modifiers, or swapping weapon ammo types will drain all Super and ability energy and remove all Special and Heavy ammo.",
+      "description": "Swapping Exotic or Legendary armor, adding or removing armor mods, or swapping weapon ammo types will drain all Super and ability energy and remove all Special and Heavy ammo.",
       "name": "Notswap",
       "icon": "/common/destiny2_content/icons/cbf984b2b75765631debbe89682a3262.png",
       "iconHash": 0,
@@ -5977,7 +5964,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 2768385440,
-    "index": 354,
+    "index": 355,
     "redacted": false,
     "blacklisted": false
   },
@@ -6004,7 +5991,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 2787320573,
-    "index": 222,
+    "index": 223,
     "redacted": false,
     "blacklisted": false
   },
@@ -6081,7 +6068,7 @@
     "displayInNavMode": false,
     "displayInActivitySelection": true,
     "hash": 2833087500,
-    "index": 256,
+    "index": 257,
     "redacted": false,
     "blacklisted": false
   },
@@ -6104,7 +6091,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 2834033523,
-    "index": 246,
+    "index": 247,
     "redacted": false,
     "blacklisted": false
   },
@@ -6131,7 +6118,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 2835296134,
-    "index": 362,
+    "index": 363,
     "redacted": false,
     "blacklisted": false
   },
@@ -6266,7 +6253,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 2889256157,
-    "index": 234,
+    "index": 235,
     "redacted": false,
     "blacklisted": false
   },
@@ -6316,7 +6303,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 2896042597,
-    "index": 241,
+    "index": 242,
     "redacted": false,
     "blacklisted": false
   },
@@ -6340,6 +6327,33 @@
     "displayInActivitySelection": true,
     "hash": 2936050162,
     "index": 94,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2948738685": {
+    "displayProperties": {
+      "description": "With each encounter completed, combatants will grow more powerful and aggressive.",
+      "name": "Escalating Difficulty",
+      "icon": "/common/destiny2_content/icons/112610c51efacefd71824666edf122b1.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/112610c51efacefd71824666edf122b1.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/59d4f2a19f7312580e363195e277cae7.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "displayInNavMode": true,
+    "displayInActivitySelection": true,
+    "hash": 2948738685,
+    "index": 207,
     "redacted": false,
     "blacklisted": false
   },
@@ -6367,7 +6381,7 @@
     "displayInNavMode": false,
     "displayInActivitySelection": true,
     "hash": 2949435712,
-    "index": 243,
+    "index": 244,
     "redacted": false,
     "blacklisted": false
   },
@@ -6394,7 +6408,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 2956696667,
-    "index": 202,
+    "index": 203,
     "redacted": false,
     "blacklisted": false
   },
@@ -6444,7 +6458,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": false,
     "hash": 2965677044,
-    "index": 352,
+    "index": 353,
     "redacted": false,
     "blacklisted": false
   },
@@ -6602,7 +6616,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 3090653889,
-    "index": 245,
+    "index": 246,
     "redacted": false,
     "blacklisted": false
   },
@@ -6656,7 +6670,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 3114697541,
-    "index": 221,
+    "index": 222,
     "redacted": false,
     "blacklisted": false
   },
@@ -6679,7 +6693,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 3119075764,
-    "index": 365,
+    "index": 366,
     "redacted": false,
     "blacklisted": false
   },
@@ -6706,7 +6720,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": false,
     "hash": 3119632620,
-    "index": 338,
+    "index": 339,
     "redacted": false,
     "blacklisted": false
   },
@@ -6733,7 +6747,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 3126095892,
-    "index": 321,
+    "index": 322,
     "redacted": false,
     "blacklisted": false
   },
@@ -6760,7 +6774,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 3132780533,
-    "index": 230,
+    "index": 231,
     "redacted": false,
     "blacklisted": false
   },
@@ -6814,7 +6828,7 @@
     "displayInNavMode": false,
     "displayInActivitySelection": true,
     "hash": 3139381566,
-    "index": 346,
+    "index": 347,
     "redacted": false,
     "blacklisted": false
   },
@@ -6841,7 +6855,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 3155397946,
-    "index": 244,
+    "index": 245,
     "redacted": false,
     "blacklisted": false
   },
@@ -6868,7 +6882,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": false,
     "hash": 3171609188,
-    "index": 347,
+    "index": 348,
     "redacted": false,
     "blacklisted": false
   },
@@ -7031,7 +7045,7 @@
     "displayInNavMode": false,
     "displayInActivitySelection": true,
     "hash": 3230561446,
-    "index": 337,
+    "index": 338,
     "redacted": false,
     "blacklisted": false
   },
@@ -7058,7 +7072,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 3240131679,
-    "index": 339,
+    "index": 340,
     "redacted": false,
     "blacklisted": false
   },
@@ -7112,7 +7126,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 3256101957,
-    "index": 360,
+    "index": 361,
     "redacted": false,
     "blacklisted": false
   },
@@ -7216,7 +7230,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 3303073618,
-    "index": 336,
+    "index": 337,
     "redacted": false,
     "blacklisted": false
   },
@@ -7297,7 +7311,7 @@
     "displayInNavMode": false,
     "displayInActivitySelection": true,
     "hash": 3317700736,
-    "index": 309,
+    "index": 310,
     "redacted": false,
     "blacklisted": false
   },
@@ -7324,7 +7338,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 3320777106,
-    "index": 227,
+    "index": 228,
     "redacted": false,
     "blacklisted": false
   },
@@ -7351,7 +7365,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 3332446153,
-    "index": 285,
+    "index": 286,
     "redacted": false,
     "blacklisted": false
   },
@@ -7379,7 +7393,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 3346897368,
-    "index": 335,
+    "index": 336,
     "redacted": false,
     "blacklisted": false
   },
@@ -7456,7 +7470,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 3394691494,
-    "index": 261,
+    "index": 262,
     "redacted": false,
     "blacklisted": false
   },
@@ -7583,7 +7597,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": false,
     "hash": 3461252634,
-    "index": 218,
+    "index": 219,
     "redacted": false,
     "blacklisted": false
   },
@@ -7637,7 +7651,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 3497407670,
-    "index": 295,
+    "index": 296,
     "redacted": false,
     "blacklisted": false
   },
@@ -7664,7 +7678,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 3499773572,
-    "index": 288,
+    "index": 289,
     "redacted": false,
     "blacklisted": false
   },
@@ -7741,7 +7755,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 3523029182,
-    "index": 356,
+    "index": 357,
     "redacted": false,
     "blacklisted": false
   },
@@ -7768,7 +7782,7 @@
     "displayInNavMode": false,
     "displayInActivitySelection": true,
     "hash": 3538098588,
-    "index": 348,
+    "index": 349,
     "redacted": false,
     "blacklisted": false
   },
@@ -7795,7 +7809,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 3563063764,
-    "index": 271,
+    "index": 272,
     "redacted": false,
     "blacklisted": false
   },
@@ -7818,7 +7832,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 3566681029,
-    "index": 205,
+    "index": 206,
     "redacted": false,
     "blacklisted": false
   },
@@ -7845,7 +7859,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 3575799366,
-    "index": 277,
+    "index": 278,
     "redacted": false,
     "blacklisted": false
   },
@@ -7896,7 +7910,7 @@
     "displayInNavMode": false,
     "displayInActivitySelection": true,
     "hash": 3584208130,
-    "index": 239,
+    "index": 240,
     "redacted": false,
     "blacklisted": false
   },
@@ -7996,7 +8010,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 3623371497,
-    "index": 341,
+    "index": 342,
     "redacted": false,
     "blacklisted": false
   },
@@ -8019,7 +8033,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 3629079662,
-    "index": 334,
+    "index": 335,
     "redacted": false,
     "blacklisted": false
   },
@@ -8042,7 +8056,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 3632655552,
-    "index": 248,
+    "index": 249,
     "redacted": false,
     "blacklisted": false
   },
@@ -8069,7 +8083,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 3636591526,
-    "index": 353,
+    "index": 354,
     "redacted": false,
     "blacklisted": false
   },
@@ -8169,7 +8183,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 3751099522,
-    "index": 314,
+    "index": 315,
     "redacted": false,
     "blacklisted": false
   },
@@ -8196,7 +8210,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 3758645512,
-    "index": 223,
+    "index": 224,
     "redacted": false,
     "blacklisted": false
   },
@@ -8223,7 +8237,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 3762220583,
-    "index": 273,
+    "index": 274,
     "redacted": false,
     "blacklisted": false
   },
@@ -8274,7 +8288,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 3781431317,
-    "index": 320,
+    "index": 321,
     "redacted": false,
     "blacklisted": false
   },
@@ -8301,7 +8315,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 3786152934,
-    "index": 307,
+    "index": 308,
     "redacted": false,
     "blacklisted": false
   },
@@ -8334,7 +8348,7 @@
   },
   "3792281695": {
     "displayProperties": {
-      "description": "Swapping Exotic or Legendary armor or adding or removing armor stat mods will drain all Super and ability energy.",
+      "description": "Swapping Exotic or Legendary armor or adding or removing armor mods will drain all Super and ability energy.",
       "name": "Notswap",
       "icon": "/common/destiny2_content/icons/cbf984b2b75765631debbe89682a3262.png",
       "iconHash": 0,
@@ -8490,7 +8504,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 3820155910,
-    "index": 282,
+    "index": 283,
     "redacted": false,
     "blacklisted": false
   },
@@ -8544,7 +8558,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 3893690555,
-    "index": 323,
+    "index": 324,
     "redacted": false,
     "blacklisted": false
   },
@@ -8571,7 +8585,7 @@
     "displayInNavMode": false,
     "displayInActivitySelection": true,
     "hash": 3899751486,
-    "index": 325,
+    "index": 326,
     "redacted": false,
     "blacklisted": false
   },
@@ -8625,7 +8639,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 3912996116,
-    "index": 200,
+    "index": 201,
     "redacted": false,
     "blacklisted": false
   },
@@ -8706,7 +8720,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 3947109118,
-    "index": 298,
+    "index": 299,
     "redacted": false,
     "blacklisted": false
   },
@@ -8733,7 +8747,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 3952830384,
-    "index": 313,
+    "index": 314,
     "redacted": false,
     "blacklisted": false
   },
@@ -8814,7 +8828,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 4007995621,
-    "index": 238,
+    "index": 239,
     "redacted": false,
     "blacklisted": false
   },
@@ -8999,7 +9013,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 4061920580,
-    "index": 303,
+    "index": 304,
     "redacted": false,
     "blacklisted": false
   },
@@ -9049,7 +9063,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 4067953666,
-    "index": 286,
+    "index": 287,
     "redacted": false,
     "blacklisted": false
   },
@@ -9122,7 +9136,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 4082994919,
-    "index": 316,
+    "index": 317,
     "redacted": false,
     "blacklisted": false
   },
@@ -9176,7 +9190,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 4087969162,
-    "index": 359,
+    "index": 360,
     "redacted": false,
     "blacklisted": false
   },
@@ -9304,7 +9318,7 @@
     "displayInNavMode": false,
     "displayInActivitySelection": true,
     "hash": 4190795159,
-    "index": 215,
+    "index": 216,
     "redacted": false,
     "blacklisted": false
   },
@@ -9485,7 +9499,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 4242300949,
-    "index": 306,
+    "index": 307,
     "redacted": false,
     "blacklisted": false
   },
@@ -9593,7 +9607,7 @@
     "displayInNavMode": true,
     "displayInActivitySelection": true,
     "hash": 4278621524,
-    "index": 299,
+    "index": 300,
     "redacted": false,
     "blacklisted": false
   }

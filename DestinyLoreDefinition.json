@@ -13341,6 +13341,19 @@
     "redacted": false,
     "blacklisted": false
   },
+  "1326541974": {
+    "displayProperties": {
+      "description": "",
+      "name": "Raptor's Bond",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "subtitle": "Soaring above the competition.",
+    "hash": 1326541974,
+    "index": 3304,
+    "redacted": false,
+    "blacklisted": false
+  },
   "1331482397": {
     "displayProperties": {
       "description": "Zavala — \nA waste of time, as always. I won't confiscate the Red Death engrams, I won't roll back the SUROS Crucible firmware to its \"original\" (preposterously inflated) state. And I won't conduct any more \"forensic inquiries\" like this! \n\nMy Redjacks unlocked your MIDA weapon's logs; simple enough once we used the rifle's own electronic warfare tools. The rifle was designed by primitive AI and manufactured for use by a \"revolutionary government\" named MIDA. Mars Is Damnably Arid, perhaps. \n\nGuerilla war suits these versatile weapons. But Rahool insists his records never hinted at a rebel group named MIDA. According to the rifle's cached messages, MIDA's brief reign killed a full ten percent of the Martian people. \n\nI gave Lakshmi the weapon for her take. She insinuates that it came from another timeline, perhaps through Golden Age experiments. That means it's outside your jurisdiction to ban. \n—Shaxx",
@@ -32242,6 +32255,19 @@
     "redacted": false,
     "blacklisted": false
   },
+  "3111568261": {
+    "displayProperties": {
+      "description": "",
+      "name": "Viperous Cloak",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "subtitle": "Strike when they least expect it.",
+    "hash": 3111568261,
+    "index": 3302,
+    "redacted": false,
+    "blacklisted": false
+  },
   "3115332783": {
     "displayProperties": {
       "description": "Eva welcomes troubled Guardians into her home all the time, but especially at this time of year.\n\nShe sees some that relax into the spirit of the holiday, like it's a well-fitting glove. They dance. They sing. They play games and give gifts and laugh. She doesn't need to worry about them. Even with all their burdens, they can find time to relax and celebrate, just for a little while.\n\nThere are others, though, who can't slow down. They see the decorations and ask, \"Isn't it too soon to celebrate?\" They know their work isn't over just because the Tower looks warmer than usual. They've seen all the cold out in the system that can't be reconciled with warm, cheerful traditions. They know, keenly, what's at stake. They want the people to be able to have these holidays, but they feel they can't participate—not when there's still so much to do. It's irresponsible.\n\nThese are the ones she seeks out, because they hang around the edges of the celebration, sullen or stunned or grieving. Some are sad. Some are angry. They lash out at her, but they always apologize. Some feel guilty, because they want to be part of it. They just can't let themselves.\n\nSometimes they can only participate through work, and so she gives it to them. Other times, all she does is talk to them and then, implicitly, gives them permission to stand on the sidelines, if that's what they really want. But she reminds them that the Dawning—and the Festival of the Lost, and the Solstice, and the Revelry—will always welcome them back when they're finally able to stop and take a breath. She hopes that day comes soon.",
@@ -33931,6 +33957,19 @@
     "subtitle": "Engraved in illuminated letters on the weapon's chassis: THE AWOKEN MADE ME.",
     "hash": 3297863558,
     "index": 865,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3299562545": {
+    "displayProperties": {
+      "description": "",
+      "name": "Panthera Leo Mark",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "subtitle": "Let your Light roar.",
+    "hash": 3299562545,
+    "index": 3303,
     "redacted": false,
     "blacklisted": false
   },

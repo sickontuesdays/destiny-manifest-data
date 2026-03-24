@@ -4810,20 +4810,6 @@
     "redacted": false,
     "blacklisted": false
   },
-  "188534239": {
-    "displayProperties": {
-      "description": "",
-      "name": "",
-      "iconHash": 0,
-      "hasIcon": false
-    },
-    "isDisplayable": false,
-    "damageType": 0,
-    "hash": 188534239,
-    "index": 1765,
-    "redacted": false,
-    "blacklisted": false
-  },
   "189026288": {
     "displayProperties": {
       "description": "Substantially improved handling and reload speed when allies are nearby.",
@@ -7095,6 +7081,20 @@
     "damageType": 0,
     "hash": 266256247,
     "index": 2943,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "267718049": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "isDisplayable": false,
+    "damageType": 0,
+    "hash": 267718049,
+    "index": 1765,
     "redacted": false,
     "blacklisted": false
   },
@@ -22061,6 +22061,33 @@
     "redacted": false,
     "blacklisted": false
   },
+  "870817740": {
+    "displayProperties": {
+      "description": "This buff commemorates a Silver Tier score in the Guardian Games Rushdown activity on Expert mode.\n\nWeapons and abilities empower each other. Defeating combatants with abilities grants increased weapon damage. Defeating combatants with weapons grants increased ability recharge speed.\n\nEmpowerment stacks 3 times.\n\nWhile at maximum empowerment, defeat combatants to gain a boost to mobility.\n\nActive only in Guardian Games Rushdown activities. This buff will expire on weekly reset.",
+      "name": "Silver Contender's Boon",
+      "icon": "/common/destiny2_content/icons/a14b471912b6f983a6d006ee2c02ba2a.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/a14b471912b6f983a6d006ee2c02ba2a.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/dee83a93482e459efcdb3f6284045c90.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "isDisplayable": true,
+    "damageType": 0,
+    "hash": 870817740,
+    "index": 1768,
+    "redacted": false,
+    "blacklisted": false
+  },
   "870956022": {
     "displayProperties": {
       "description": "Quicksilver nanites that attach to the wielder charge the blade. [Alternate Weapon Action]  when fully charged to overclock the attached nanites, enhancing the blade's offensive capabilities. Light attacks deal increased damage to targets; fully charged Heavy attacks create a flaming Quicksilver swarm-nado.",
@@ -33720,21 +33747,6 @@
     "redacted": false,
     "blacklisted": false
   },
-  "1319373175": {
-    "displayProperties": {
-      "description": "This buff commemorates a Bronze Tier score in the Guardian Games Rushdown activity on Expert mode.\n\nWeapons and abilities empower each other. Defeating combatants with abilities grants increased weapon damage. Defeating combatants with weapons grants increased ability recharge speed. \n\nActive only in Guardian Games Rushdown activities. This buff will expire on weekly reset.",
-      "name": "Bronze Contender's Boon",
-      "icon": "/common/destiny2_content/icons/762208210a11ed38a78edf4e3faed24f.png",
-      "iconHash": 0,
-      "hasIcon": true
-    },
-    "isDisplayable": true,
-    "damageType": 0,
-    "hash": 1319373175,
-    "index": 1766,
-    "redacted": false,
-    "blacklisted": false
-  },
   "1320627136": {
     "displayProperties": {
       "description": "Increases the amount of Shotgun ammo you can carry.",
@@ -35400,17 +35412,17 @@
     "displayProperties": {
       "description": "Adds a swirl of team color to your transmat effects.",
       "name": "Victorious Entrance",
-      "icon": "/common/destiny2_content/icons/4cba0ecaa4eca53f6e0914bac59c9145.png",
+      "icon": "/common/destiny2_content/icons/1b7e97d1a34447f41e406ae343ee7d8c.png",
       "iconHash": 0,
       "iconSequences": [
         {
           "frames": [
-            "/common/destiny2_content/icons/4cba0ecaa4eca53f6e0914bac59c9145.png"
+            "/common/destiny2_content/icons/1b7e97d1a34447f41e406ae343ee7d8c.png"
           ]
         },
         {
           "frames": [
-            "/common/destiny2_content/icons/690b7f15d26b0afb7d23c8b37bec10ab.png"
+            "/common/destiny2_content/icons/74b10906cefa3c4d1d1162ecebadcca5.png"
           ]
         }
       ],
@@ -37143,20 +37155,6 @@
     "redacted": false,
     "blacklisted": false
   },
-  "1451975265": {
-    "displayProperties": {
-      "description": "",
-      "name": "",
-      "iconHash": 0,
-      "hasIcon": false
-    },
-    "isDisplayable": false,
-    "damageType": 0,
-    "hash": 1451975265,
-    "index": 1767,
-    "redacted": false,
-    "blacklisted": false
-  },
   "1455271600": {
     "displayProperties": {
       "description": "",
@@ -37940,6 +37938,33 @@
     "damageType": 0,
     "hash": 1494299437,
     "index": 4001,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1494878695": {
+    "displayProperties": {
+      "description": "This buff commemorates a Gold Tier score in the Guardian Games Rushdown activity on Expert mode.\n\nWeapons and abilities empower each other. Defeating combatants with abilities grants increased weapon damage. Defeating combatants with weapons grants increased ability recharge speed.\n\nEmpowerment stacks 5 times.\n\nWhile at maximum empowerment, defeat combatants to gain a boost to mobility, accuracy, handling, and reload.\n\nActive only in Guardian Games Rushdown activities. This buff will expire on weekly reset.",
+      "name": "Gold Contender's Boon",
+      "icon": "/common/destiny2_content/icons/7cac27fc13eb75f6c0797474093b037c.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/7cac27fc13eb75f6c0797474093b037c.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/e5c096d3b652505810942e9d96ca97d4.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "isDisplayable": true,
+    "damageType": 0,
+    "hash": 1494878695,
+    "index": 1770,
     "redacted": false,
     "blacklisted": false
   },
@@ -44339,7 +44364,7 @@
   },
   "1692967798": {
     "displayProperties": {
-      "description": "Supercharge your fists and slam the ground with the force of a maelstrom. While active:\n\n[Light Attack]  : Quickly dash forward, dealing damage to any impacted targets.\n\n[Heavy Attack] : Slam your fists to the ground, blinding targets and dealing damage in an area around you, leaving aftershocks in your wake. Performing a slam from the air or after a dash deals additional damage.",
+      "description": "Supercharge your fists and slam the ground with the force of a maelstrom. While active:\n\n[Light Attack]  : Quickly dash forward, dealing damage to any impacted targets.\n\n[Heavy Attack]  : Slam your fists to the ground, blinding targets and dealing damage in an area around you, leaving aftershocks in your wake. Performing a slam from the air or after a dash deals additional damage.",
       "name": "Fists of Havoc",
       "icon": "/common/destiny2_content/icons/5bc4f4029b38fd41d0232460b4295600.png",
       "iconHash": 0,
@@ -47732,33 +47757,6 @@
     "damageType": 0,
     "hash": 1814613977,
     "index": 1485,
-    "redacted": false,
-    "blacklisted": false
-  },
-  "1814967842": {
-    "displayProperties": {
-      "description": "This buff commemorates a Silver Tier score in the Guardian Games Rushdown activity on Expert mode.\n\nWeapons and abilities empower each other. Defeating combatants with abilities grants increased weapon damage. Defeating combatants with weapons grants increased ability recharge speed.\n\nEmpowerment stacks 3 times.\n\nWhile at maximum empowerment, defeat combatants to gain a boost to mobility.\n\nActive only in Guardian Games Rushdown activities. This buff will expire on weekly reset.",
-      "name": "Silver Contender's Boon",
-      "icon": "/common/destiny2_content/icons/a14b471912b6f983a6d006ee2c02ba2a.png",
-      "iconHash": 0,
-      "iconSequences": [
-        {
-          "frames": [
-            "/common/destiny2_content/icons/a14b471912b6f983a6d006ee2c02ba2a.png"
-          ]
-        },
-        {
-          "frames": [
-            "/common/destiny2_content/icons/dee83a93482e459efcdb3f6284045c90.png"
-          ]
-        }
-      ],
-      "hasIcon": true
-    },
-    "isDisplayable": true,
-    "damageType": 0,
-    "hash": 1814967842,
-    "index": 1768,
     "redacted": false,
     "blacklisted": false
   },
@@ -52951,6 +52949,20 @@
     "redacted": false,
     "blacklisted": false
   },
+  "1999295235": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "isDisplayable": false,
+    "damageType": 0,
+    "hash": 1999295235,
+    "index": 1767,
+    "redacted": false,
+    "blacklisted": false
+  },
   "2000957916": {
     "displayProperties": {
       "description": "Increases your chance of finding Special ammo while you have a Trace Rifle equipped.",
@@ -53277,6 +53289,20 @@
     "damageType": 0,
     "hash": 2010576748,
     "index": 1237,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2014580049": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "isDisplayable": false,
+    "damageType": 0,
+    "hash": 2014580049,
+    "index": 1771,
     "redacted": false,
     "blacklisted": false
   },
@@ -58960,20 +58986,6 @@
     "damageType": 0,
     "hash": 2237523682,
     "index": 4479,
-    "redacted": false,
-    "blacklisted": false
-  },
-  "2237774976": {
-    "displayProperties": {
-      "description": "",
-      "name": "",
-      "iconHash": 0,
-      "hasIcon": false
-    },
-    "isDisplayable": false,
-    "damageType": 0,
-    "hash": 2237774976,
-    "index": 1769,
     "redacted": false,
     "blacklisted": false
   },
@@ -70544,6 +70556,20 @@
     "redacted": false,
     "blacklisted": false
   },
+  "2650483420": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "isDisplayable": false,
+    "damageType": 0,
+    "hash": 2650483420,
+    "index": 1772,
+    "redacted": false,
+    "blacklisted": false
+  },
   "2650875538": {
     "displayProperties": {
       "description": "Gain energy for your least-charged ability when you suppress a target.",
@@ -77387,33 +77413,6 @@
     "redacted": false,
     "blacklisted": false
   },
-  "2939721689": {
-    "displayProperties": {
-      "description": "This buff commemorates a Gold Tier score in the Guardian Games Rushdown activity on Expert mode.\n\nWeapons and abilities empower each other. Defeating combatants with abilities grants increased weapon damage. Defeating combatants with weapons grants increased ability recharge speed.\n\nEmpowerment stacks 5 times.\n\nWhile at maximum empowerment, defeat combatants to gain a boost to mobility, accuracy, handling, and reload.\n\nActive only in Guardian Games Rushdown activities. This buff will expire on weekly reset.",
-      "name": "Gold Contender's Boon",
-      "icon": "/common/destiny2_content/icons/7cac27fc13eb75f6c0797474093b037c.png",
-      "iconHash": 0,
-      "iconSequences": [
-        {
-          "frames": [
-            "/common/destiny2_content/icons/7cac27fc13eb75f6c0797474093b037c.png"
-          ]
-        },
-        {
-          "frames": [
-            "/common/destiny2_content/icons/e5c096d3b652505810942e9d96ca97d4.png"
-          ]
-        }
-      ],
-      "hasIcon": true
-    },
-    "isDisplayable": true,
-    "damageType": 0,
-    "hash": 2939721689,
-    "index": 1770,
-    "redacted": false,
-    "blacklisted": false
-  },
   "2940083239": {
     "displayProperties": {
       "description": "",
@@ -81506,20 +81505,6 @@
     "redacted": false,
     "blacklisted": false
   },
-  "3091063494": {
-    "displayProperties": {
-      "description": "",
-      "name": "",
-      "iconHash": 0,
-      "hasIcon": false
-    },
-    "isDisplayable": false,
-    "damageType": 0,
-    "hash": 3091063494,
-    "index": 1772,
-    "redacted": false,
-    "blacklisted": false
-  },
   "3092255111": {
     "displayProperties": {
       "description": "Aiming down the sights of a Sidearm for a short time loads a powerful payload that stuns unshielded combatants. \n\nStrong against [Stagger] Unstoppable Champions.",
@@ -83496,9 +83481,9 @@
     "displayProperties": {
       "description": "This visual effect is suppressed while in combat.",
       "name": "Wicked Kudu",
-      "icon": "/common/destiny2_content/icons/fbef6e4fcb3f991a5cc024d9eac12629.jpg",
+      "icon": "/common/destiny2_content/icons/365977fe96f6a5074e5990364fbb2406.jpg",
       "iconHash": 0,
-      "highResIcon": "/common/destiny2_content/icons/a85af621f2129eeafea8baa1e2c6ecee.png",
+      "highResIcon": "/common/destiny2_content/icons/9ce4cdcb0be3c3e2ee4c87e622199dba.jpg",
       "hasIcon": true
     },
     "isDisplayable": true,
@@ -83809,6 +83794,20 @@
     "redacted": false,
     "blacklisted": false
   },
+  "3162852362": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "isDisplayable": false,
+    "damageType": 0,
+    "hash": 3162852362,
+    "index": 1769,
+    "redacted": false,
+    "blacklisted": false
+  },
   "3163219582": {
     "displayProperties": {
       "description": "Mattermorph melee attacks deal [Strand] Strand damage and apply suspend and unravel.",
@@ -84024,6 +84023,21 @@
     "damageType": 0,
     "hash": 3170765412,
     "index": 596,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3171298761": {
+    "displayProperties": {
+      "description": "This buff commemorates a Bronze Tier score in the Guardian Games Rushdown activity on Expert mode.\n\nWeapons and abilities empower each other. Defeating combatants with abilities grants increased weapon damage. Defeating combatants with weapons grants increased ability recharge speed. \n\nActive only in Guardian Games Rushdown activities. This buff will expire on weekly reset.",
+      "name": "Bronze Contender's Boon",
+      "icon": "/common/destiny2_content/icons/762208210a11ed38a78edf4e3faed24f.png",
+      "iconHash": 0,
+      "hasIcon": true
+    },
+    "isDisplayable": true,
+    "damageType": 0,
+    "hash": 3171298761,
+    "index": 1766,
     "redacted": false,
     "blacklisted": false
   },
@@ -111385,20 +111399,6 @@
     "damageType": 0,
     "hash": 4091143788,
     "index": 78,
-    "redacted": false,
-    "blacklisted": false
-  },
-  "4091709843": {
-    "displayProperties": {
-      "description": "",
-      "name": "",
-      "iconHash": 0,
-      "hasIcon": false
-    },
-    "isDisplayable": false,
-    "damageType": 0,
-    "hash": 4091709843,
-    "index": 1771,
     "redacted": false,
     "blacklisted": false
   },

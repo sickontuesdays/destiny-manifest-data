@@ -6246,7 +6246,7 @@
     "currentResetCountUnlockValueHash": 0,
     "rewardItems": [],
     "hash": 198624022,
-    "index": 160,
+    "index": 161,
     "redacted": false,
     "blacklisted": false
   },
@@ -11453,7 +11453,7 @@
     "currentResetCountUnlockValueHash": 0,
     "rewardItems": [],
     "hash": 331805824,
-    "index": 145,
+    "index": 146,
     "redacted": false,
     "blacklisted": false
   },
@@ -11753,7 +11753,7 @@
       }
     ],
     "hash": 332602290,
-    "index": 124,
+    "index": 125,
     "redacted": false,
     "blacklisted": false
   },
@@ -14277,7 +14277,7 @@
     "currentResetCountUnlockValueHash": 0,
     "rewardItems": [],
     "hash": 420462694,
-    "index": 147,
+    "index": 148,
     "redacted": false,
     "blacklisted": false
   },
@@ -14824,7 +14824,7 @@
       }
     ],
     "hash": 423350302,
-    "index": 128,
+    "index": 129,
     "redacted": false,
     "blacklisted": false
   },
@@ -14851,7 +14851,7 @@
     "currentResetCountUnlockValueHash": 0,
     "rewardItems": [],
     "hash": 477569712,
-    "index": 134,
+    "index": 135,
     "redacted": false,
     "blacklisted": false
   },
@@ -16145,7 +16145,7 @@
       }
     ],
     "hash": 496813131,
-    "index": 127,
+    "index": 128,
     "redacted": false,
     "blacklisted": false
   },
@@ -16307,7 +16307,7 @@
     "currentResetCountUnlockValueHash": 0,
     "rewardItems": [],
     "hash": 527867935,
-    "index": 154,
+    "index": 155,
     "redacted": false,
     "blacklisted": false
   },
@@ -16745,7 +16745,7 @@
       }
     ],
     "hash": 554243133,
-    "index": 126,
+    "index": 127,
     "redacted": false,
     "blacklisted": false
   },
@@ -16926,7 +16926,7 @@
     "currentResetCountUnlockValueHash": 0,
     "rewardItems": [],
     "hash": 765647305,
-    "index": 137,
+    "index": 138,
     "redacted": false,
     "blacklisted": false
   },
@@ -17052,7 +17052,7 @@
     "currentResetCountUnlockValueHash": 0,
     "rewardItems": [],
     "hash": 784742260,
-    "index": 156,
+    "index": 157,
     "redacted": false,
     "blacklisted": false
   },
@@ -22279,7 +22279,7 @@
     "currentResetCountUnlockValueHash": 0,
     "rewardItems": [],
     "hash": 1159794538,
-    "index": 161,
+    "index": 162,
     "redacted": false,
     "blacklisted": false
   },
@@ -22508,7 +22508,7 @@
         "uiDisplayStyle": "free",
         "claimUnlockDisplayStrings": [],
         "socketOverrides": [],
-        "itemHash": 1937857105,
+        "itemHash": 1779246980,
         "quantity": 1,
         "hasConditionalVisibility": false
       },
@@ -22538,13 +22538,13 @@
       },
       {
         "rewardItemIndex": 3,
-        "rewardedAtProgressionLevel": 4,
+        "rewardedAtProgressionLevel": 5,
         "acquisitionBehavior": 1,
         "itemClaimedUnlockHash": 0,
         "uiDisplayStyle": "free",
         "claimUnlockDisplayStrings": [],
         "socketOverrides": [],
-        "itemHash": 3167518920,
+        "itemHash": 3908639213,
         "quantity": 1,
         "hasConditionalVisibility": false
       },
@@ -22556,12 +22556,24 @@
         "uiDisplayStyle": "free",
         "claimUnlockDisplayStrings": [],
         "socketOverrides": [],
-        "itemHash": 407150808,
+        "itemHash": 3908639213,
         "quantity": 1,
         "hasConditionalVisibility": false
       },
       {
         "rewardItemIndex": 5,
+        "rewardedAtProgressionLevel": 5,
+        "acquisitionBehavior": 1,
+        "itemClaimedUnlockHash": 0,
+        "uiDisplayStyle": "free",
+        "claimUnlockDisplayStrings": [],
+        "socketOverrides": [],
+        "itemHash": 3908639213,
+        "quantity": 1,
+        "hasConditionalVisibility": false
+      },
+      {
+        "rewardItemIndex": 6,
         "rewardedAtProgressionLevel": 6,
         "acquisitionBehavior": 1,
         "itemClaimedUnlockHash": 0,
@@ -22573,7 +22585,7 @@
         "hasConditionalVisibility": false
       },
       {
-        "rewardItemIndex": 6,
+        "rewardItemIndex": 7,
         "rewardedAtProgressionLevel": 7,
         "acquisitionBehavior": 1,
         "itemClaimedUnlockHash": 0,
@@ -22585,7 +22597,7 @@
         "hasConditionalVisibility": false
       },
       {
-        "rewardItemIndex": 7,
+        "rewardItemIndex": 8,
         "rewardedAtProgressionLevel": 8,
         "acquisitionBehavior": 1,
         "itemClaimedUnlockHash": 0,
@@ -22597,7 +22609,7 @@
         "hasConditionalVisibility": false
       },
       {
-        "rewardItemIndex": 8,
+        "rewardItemIndex": 9,
         "rewardedAtProgressionLevel": 9,
         "acquisitionBehavior": 1,
         "itemClaimedUnlockHash": 0,
@@ -22606,18 +22618,6 @@
         "socketOverrides": [],
         "itemHash": 4257549984,
         "quantity": 3,
-        "hasConditionalVisibility": false
-      },
-      {
-        "rewardItemIndex": 9,
-        "rewardedAtProgressionLevel": 10,
-        "acquisitionBehavior": 1,
-        "itemClaimedUnlockHash": 0,
-        "uiDisplayStyle": "free",
-        "claimUnlockDisplayStrings": [],
-        "socketOverrides": [],
-        "itemHash": 3798859489,
-        "quantity": 1,
         "hasConditionalVisibility": false
       },
       {
@@ -22676,12 +22676,36 @@
         "uiDisplayStyle": "free",
         "claimUnlockDisplayStrings": [],
         "socketOverrides": [],
-        "itemHash": 3184457500,
+        "itemHash": 117803219,
         "quantity": 1,
         "hasConditionalVisibility": false
       },
       {
         "rewardItemIndex": 15,
+        "rewardedAtProgressionLevel": 15,
+        "acquisitionBehavior": 1,
+        "itemClaimedUnlockHash": 0,
+        "uiDisplayStyle": "free",
+        "claimUnlockDisplayStrings": [],
+        "socketOverrides": [],
+        "itemHash": 117803219,
+        "quantity": 1,
+        "hasConditionalVisibility": false
+      },
+      {
+        "rewardItemIndex": 16,
+        "rewardedAtProgressionLevel": 15,
+        "acquisitionBehavior": 1,
+        "itemClaimedUnlockHash": 0,
+        "uiDisplayStyle": "free",
+        "claimUnlockDisplayStrings": [],
+        "socketOverrides": [],
+        "itemHash": 117803219,
+        "quantity": 1,
+        "hasConditionalVisibility": false
+      },
+      {
+        "rewardItemIndex": 17,
         "rewardedAtProgressionLevel": 16,
         "acquisitionBehavior": 1,
         "itemClaimedUnlockHash": 0,
@@ -22693,7 +22717,7 @@
         "hasConditionalVisibility": false
       },
       {
-        "rewardItemIndex": 16,
+        "rewardItemIndex": 18,
         "rewardedAtProgressionLevel": 17,
         "acquisitionBehavior": 1,
         "itemClaimedUnlockHash": 0,
@@ -22705,7 +22729,7 @@
         "hasConditionalVisibility": false
       },
       {
-        "rewardItemIndex": 17,
+        "rewardItemIndex": 19,
         "rewardedAtProgressionLevel": 18,
         "acquisitionBehavior": 1,
         "itemClaimedUnlockHash": 0,
@@ -22717,31 +22741,43 @@
         "hasConditionalVisibility": false
       },
       {
-        "rewardItemIndex": 18,
-        "rewardedAtProgressionLevel": 19,
-        "acquisitionBehavior": 1,
-        "itemClaimedUnlockHash": 0,
-        "uiDisplayStyle": "free",
-        "claimUnlockDisplayStrings": [],
-        "socketOverrides": [],
-        "itemHash": 4064264631,
-        "quantity": 1,
-        "hasConditionalVisibility": false
-      },
-      {
-        "rewardItemIndex": 19,
+        "rewardItemIndex": 20,
         "rewardedAtProgressionLevel": 20,
         "acquisitionBehavior": 1,
         "itemClaimedUnlockHash": 0,
         "uiDisplayStyle": "free",
         "claimUnlockDisplayStrings": [],
         "socketOverrides": [],
-        "itemHash": 2979965246,
+        "itemHash": 1203458963,
         "quantity": 1,
         "hasConditionalVisibility": false
       },
       {
-        "rewardItemIndex": 20,
+        "rewardItemIndex": 21,
+        "rewardedAtProgressionLevel": 20,
+        "acquisitionBehavior": 1,
+        "itemClaimedUnlockHash": 0,
+        "uiDisplayStyle": "free",
+        "claimUnlockDisplayStrings": [],
+        "socketOverrides": [],
+        "itemHash": 1203458963,
+        "quantity": 1,
+        "hasConditionalVisibility": false
+      },
+      {
+        "rewardItemIndex": 22,
+        "rewardedAtProgressionLevel": 20,
+        "acquisitionBehavior": 1,
+        "itemClaimedUnlockHash": 0,
+        "uiDisplayStyle": "free",
+        "claimUnlockDisplayStrings": [],
+        "socketOverrides": [],
+        "itemHash": 1203458963,
+        "quantity": 1,
+        "hasConditionalVisibility": false
+      },
+      {
+        "rewardItemIndex": 23,
         "rewardedAtProgressionLevel": 21,
         "acquisitionBehavior": 1,
         "itemClaimedUnlockHash": 0,
@@ -22753,7 +22789,7 @@
         "hasConditionalVisibility": false
       },
       {
-        "rewardItemIndex": 21,
+        "rewardItemIndex": 24,
         "rewardedAtProgressionLevel": 22,
         "acquisitionBehavior": 1,
         "itemClaimedUnlockHash": 0,
@@ -22765,7 +22801,7 @@
         "hasConditionalVisibility": false
       },
       {
-        "rewardItemIndex": 22,
+        "rewardItemIndex": 25,
         "rewardedAtProgressionLevel": 23,
         "acquisitionBehavior": 1,
         "itemClaimedUnlockHash": 0,
@@ -22777,31 +22813,43 @@
         "hasConditionalVisibility": false
       },
       {
-        "rewardItemIndex": 23,
-        "rewardedAtProgressionLevel": 24,
-        "acquisitionBehavior": 1,
-        "itemClaimedUnlockHash": 0,
-        "uiDisplayStyle": "free",
-        "claimUnlockDisplayStrings": [],
-        "socketOverrides": [],
-        "itemHash": 3733061403,
-        "quantity": 1,
-        "hasConditionalVisibility": false
-      },
-      {
-        "rewardItemIndex": 24,
+        "rewardItemIndex": 26,
         "rewardedAtProgressionLevel": 25,
         "acquisitionBehavior": 1,
         "itemClaimedUnlockHash": 0,
         "uiDisplayStyle": "free",
         "claimUnlockDisplayStrings": [],
         "socketOverrides": [],
-        "itemHash": 1724104236,
+        "itemHash": 1107572779,
         "quantity": 1,
         "hasConditionalVisibility": false
       },
       {
-        "rewardItemIndex": 25,
+        "rewardItemIndex": 27,
+        "rewardedAtProgressionLevel": 25,
+        "acquisitionBehavior": 1,
+        "itemClaimedUnlockHash": 0,
+        "uiDisplayStyle": "free",
+        "claimUnlockDisplayStrings": [],
+        "socketOverrides": [],
+        "itemHash": 1107572779,
+        "quantity": 1,
+        "hasConditionalVisibility": false
+      },
+      {
+        "rewardItemIndex": 28,
+        "rewardedAtProgressionLevel": 25,
+        "acquisitionBehavior": 1,
+        "itemClaimedUnlockHash": 0,
+        "uiDisplayStyle": "free",
+        "claimUnlockDisplayStrings": [],
+        "socketOverrides": [],
+        "itemHash": 1107572779,
+        "quantity": 1,
+        "hasConditionalVisibility": false
+      },
+      {
+        "rewardItemIndex": 29,
         "rewardedAtProgressionLevel": 26,
         "acquisitionBehavior": 1,
         "itemClaimedUnlockHash": 0,
@@ -22813,7 +22861,7 @@
         "hasConditionalVisibility": false
       },
       {
-        "rewardItemIndex": 26,
+        "rewardItemIndex": 30,
         "rewardedAtProgressionLevel": 27,
         "acquisitionBehavior": 1,
         "itemClaimedUnlockHash": 0,
@@ -22825,7 +22873,7 @@
         "hasConditionalVisibility": false
       },
       {
-        "rewardItemIndex": 27,
+        "rewardItemIndex": 31,
         "rewardedAtProgressionLevel": 28,
         "acquisitionBehavior": 1,
         "itemClaimedUnlockHash": 0,
@@ -22837,7 +22885,7 @@
         "hasConditionalVisibility": false
       },
       {
-        "rewardItemIndex": 28,
+        "rewardItemIndex": 32,
         "rewardedAtProgressionLevel": 29,
         "acquisitionBehavior": 1,
         "itemClaimedUnlockHash": 0,
@@ -22849,21 +22897,7 @@
         "hasConditionalVisibility": false
       },
       {
-        "rewardItemIndex": 29,
-        "rewardedAtProgressionLevel": 30,
-        "acquisitionBehavior": 1,
-        "itemClaimedUnlockHash": 0,
-        "uiDisplayStyle": "free",
-        "claimUnlockDisplayStrings": [
-          ""
-        ],
-        "socketOverrides": [],
-        "itemHash": 3670201163,
-        "quantity": 1,
-        "hasConditionalVisibility": false
-      },
-      {
-        "rewardItemIndex": 30,
+        "rewardItemIndex": 33,
         "rewardedAtProgressionLevel": 31,
         "acquisitionBehavior": 1,
         "itemClaimedUnlockHash": 0,
@@ -22875,7 +22909,7 @@
         "hasConditionalVisibility": false
       },
       {
-        "rewardItemIndex": 31,
+        "rewardItemIndex": 34,
         "rewardedAtProgressionLevel": 32,
         "acquisitionBehavior": 1,
         "itemClaimedUnlockHash": 0,
@@ -22887,7 +22921,7 @@
         "hasConditionalVisibility": false
       },
       {
-        "rewardItemIndex": 32,
+        "rewardItemIndex": 35,
         "rewardedAtProgressionLevel": 33,
         "acquisitionBehavior": 1,
         "itemClaimedUnlockHash": 0,
@@ -22899,7 +22933,7 @@
         "hasConditionalVisibility": false
       },
       {
-        "rewardItemIndex": 33,
+        "rewardItemIndex": 36,
         "rewardedAtProgressionLevel": 34,
         "acquisitionBehavior": 1,
         "itemClaimedUnlockHash": 0,
@@ -22911,19 +22945,7 @@
         "hasConditionalVisibility": false
       },
       {
-        "rewardItemIndex": 34,
-        "rewardedAtProgressionLevel": 35,
-        "acquisitionBehavior": 1,
-        "itemClaimedUnlockHash": 0,
-        "uiDisplayStyle": "free",
-        "claimUnlockDisplayStrings": [],
-        "socketOverrides": [],
-        "itemHash": 2986944804,
-        "quantity": 1,
-        "hasConditionalVisibility": false
-      },
-      {
-        "rewardItemIndex": 35,
+        "rewardItemIndex": 37,
         "rewardedAtProgressionLevel": 36,
         "acquisitionBehavior": 1,
         "itemClaimedUnlockHash": 0,
@@ -22935,7 +22957,7 @@
         "hasConditionalVisibility": false
       },
       {
-        "rewardItemIndex": 36,
+        "rewardItemIndex": 38,
         "rewardedAtProgressionLevel": 37,
         "acquisitionBehavior": 1,
         "itemClaimedUnlockHash": 0,
@@ -22947,7 +22969,7 @@
         "hasConditionalVisibility": false
       },
       {
-        "rewardItemIndex": 37,
+        "rewardItemIndex": 39,
         "rewardedAtProgressionLevel": 38,
         "acquisitionBehavior": 1,
         "itemClaimedUnlockHash": 0,
@@ -22959,7 +22981,7 @@
         "hasConditionalVisibility": false
       },
       {
-        "rewardItemIndex": 38,
+        "rewardItemIndex": 40,
         "rewardedAtProgressionLevel": 39,
         "acquisitionBehavior": 1,
         "itemClaimedUnlockHash": 0,
@@ -22971,20 +22993,20 @@
         "hasConditionalVisibility": false
       },
       {
-        "rewardItemIndex": 39,
+        "rewardItemIndex": 41,
         "rewardedAtProgressionLevel": 40,
         "acquisitionBehavior": 1,
         "itemClaimedUnlockHash": 0,
         "uiDisplayStyle": "free",
         "claimUnlockDisplayStrings": [],
         "socketOverrides": [],
-        "itemHash": 912845486,
+        "itemHash": 595355909,
         "quantity": 1,
         "hasConditionalVisibility": false
       }
     ],
     "hash": 1195582313,
-    "index": 143,
+    "index": 144,
     "redacted": false,
     "blacklisted": false
   },
@@ -23184,7 +23206,7 @@
     "currentResetCountUnlockValueHash": 0,
     "rewardItems": [],
     "hash": 1317877542,
-    "index": 148,
+    "index": 149,
     "redacted": false,
     "blacklisted": false
   },
@@ -25759,7 +25781,7 @@
     "currentResetCountUnlockValueHash": 0,
     "rewardItems": [],
     "hash": 1471185389,
-    "index": 150,
+    "index": 151,
     "redacted": false,
     "blacklisted": false
   },
@@ -25830,7 +25852,7 @@
     "currentResetCountUnlockValueHash": 0,
     "rewardItems": [],
     "hash": 1484834427,
-    "index": 155,
+    "index": 156,
     "redacted": false,
     "blacklisted": false
   },
@@ -28592,7 +28614,7 @@
     "currentResetCountUnlockValueHash": 0,
     "rewardItems": [],
     "hash": 1772598440,
-    "index": 157,
+    "index": 158,
     "redacted": false,
     "blacklisted": false
   },
@@ -29073,7 +29095,7 @@
     "currentResetCountUnlockValueHash": 0,
     "rewardItems": [],
     "hash": 1794733067,
-    "index": 138,
+    "index": 139,
     "redacted": false,
     "blacklisted": false
   },
@@ -29283,7 +29305,7 @@
     "currentResetCountUnlockValueHash": 0,
     "rewardItems": [],
     "hash": 1807348350,
-    "index": 135,
+    "index": 136,
     "redacted": false,
     "blacklisted": false
   },
@@ -37119,7 +37141,7 @@
       }
     ],
     "hash": 2125597513,
-    "index": 132,
+    "index": 133,
     "redacted": false,
     "blacklisted": false
   },
@@ -37370,7 +37392,7 @@
     "currentResetCountUnlockValueHash": 0,
     "rewardItems": [],
     "hash": 2206541810,
-    "index": 141,
+    "index": 142,
     "redacted": false,
     "blacklisted": false
   },
@@ -38286,7 +38308,7 @@
     "currentResetCountUnlockValueHash": 0,
     "rewardItems": [],
     "hash": 2411069437,
-    "index": 152,
+    "index": 153,
     "redacted": false,
     "blacklisted": false
   },
@@ -38915,7 +38937,7 @@
       }
     ],
     "hash": 2451916195,
-    "index": 131,
+    "index": 132,
     "redacted": false,
     "blacklisted": false
   },
@@ -45130,7 +45152,7 @@
     "currentResetCountUnlockValueHash": 0,
     "rewardItems": [],
     "hash": 2829669171,
-    "index": 159,
+    "index": 160,
     "redacted": false,
     "blacklisted": false
   },
@@ -45162,7 +45184,7 @@
     "currentResetCountUnlockValueHash": 0,
     "rewardItems": [],
     "hash": 2841991057,
-    "index": 151,
+    "index": 152,
     "redacted": false,
     "blacklisted": false
   },
@@ -45310,7 +45332,7 @@
     "currentResetCountUnlockValueHash": 0,
     "rewardItems": [],
     "hash": 2911992817,
-    "index": 149,
+    "index": 150,
     "redacted": false,
     "blacklisted": false
   },
@@ -45969,12 +45991,48 @@
         "uiDisplayStyle": "free",
         "claimUnlockDisplayStrings": [],
         "socketOverrides": [],
-        "itemHash": 1917334929,
+        "itemHash": 531549768,
         "quantity": 1,
         "hasConditionalVisibility": false
       },
       {
         "rewardItemIndex": 2,
+        "rewardedAtProgressionLevel": 2,
+        "acquisitionBehavior": 1,
+        "itemClaimedUnlockHash": 0,
+        "uiDisplayStyle": "free",
+        "claimUnlockDisplayStrings": [],
+        "socketOverrides": [],
+        "itemHash": 531549768,
+        "quantity": 1,
+        "hasConditionalVisibility": false
+      },
+      {
+        "rewardItemIndex": 3,
+        "rewardedAtProgressionLevel": 2,
+        "acquisitionBehavior": 1,
+        "itemClaimedUnlockHash": 0,
+        "uiDisplayStyle": "free",
+        "claimUnlockDisplayStrings": [],
+        "socketOverrides": [],
+        "itemHash": 531549768,
+        "quantity": 1,
+        "hasConditionalVisibility": false
+      },
+      {
+        "rewardItemIndex": 4,
+        "rewardedAtProgressionLevel": 2,
+        "acquisitionBehavior": 1,
+        "itemClaimedUnlockHash": 0,
+        "uiDisplayStyle": "free",
+        "claimUnlockDisplayStrings": [],
+        "socketOverrides": [],
+        "itemHash": 531549768,
+        "quantity": 1,
+        "hasConditionalVisibility": false
+      },
+      {
+        "rewardItemIndex": 5,
         "rewardedAtProgressionLevel": 3,
         "acquisitionBehavior": 1,
         "itemClaimedUnlockHash": 0,
@@ -45986,7 +46044,7 @@
         "hasConditionalVisibility": false
       },
       {
-        "rewardItemIndex": 3,
+        "rewardItemIndex": 6,
         "rewardedAtProgressionLevel": 4,
         "acquisitionBehavior": 1,
         "itemClaimedUnlockHash": 0,
@@ -45998,19 +46056,21 @@
         "hasConditionalVisibility": false
       },
       {
-        "rewardItemIndex": 4,
+        "rewardItemIndex": 7,
         "rewardedAtProgressionLevel": 5,
         "acquisitionBehavior": 1,
         "itemClaimedUnlockHash": 0,
         "uiDisplayStyle": "free",
-        "claimUnlockDisplayStrings": [],
+        "claimUnlockDisplayStrings": [
+          "Already Acquired"
+        ],
         "socketOverrides": [],
-        "itemHash": 2565108499,
+        "itemHash": 2680217529,
         "quantity": 1,
         "hasConditionalVisibility": false
       },
       {
-        "rewardItemIndex": 5,
+        "rewardItemIndex": 8,
         "rewardedAtProgressionLevel": 6,
         "acquisitionBehavior": 1,
         "itemClaimedUnlockHash": 0,
@@ -46022,7 +46082,7 @@
         "hasConditionalVisibility": false
       },
       {
-        "rewardItemIndex": 6,
+        "rewardItemIndex": 9,
         "rewardedAtProgressionLevel": 7,
         "acquisitionBehavior": 1,
         "itemClaimedUnlockHash": 0,
@@ -46034,7 +46094,7 @@
         "hasConditionalVisibility": false
       },
       {
-        "rewardItemIndex": 7,
+        "rewardItemIndex": 10,
         "rewardedAtProgressionLevel": 8,
         "acquisitionBehavior": 1,
         "itemClaimedUnlockHash": 0,
@@ -46046,7 +46106,7 @@
         "hasConditionalVisibility": false
       },
       {
-        "rewardItemIndex": 8,
+        "rewardItemIndex": 11,
         "rewardedAtProgressionLevel": 9,
         "acquisitionBehavior": 1,
         "itemClaimedUnlockHash": 0,
@@ -46058,32 +46118,44 @@
         "hasConditionalVisibility": false
       },
       {
-        "rewardItemIndex": 9,
+        "rewardItemIndex": 12,
         "rewardedAtProgressionLevel": 10,
         "acquisitionBehavior": 1,
         "itemClaimedUnlockHash": 0,
         "uiDisplayStyle": "free",
         "claimUnlockDisplayStrings": [],
         "socketOverrides": [],
-        "itemHash": 3804242794,
+        "itemHash": 3720419853,
         "quantity": 1,
         "hasConditionalVisibility": false
       },
       {
-        "rewardItemIndex": 10,
-        "rewardedAtProgressionLevel": 11,
+        "rewardItemIndex": 13,
+        "rewardedAtProgressionLevel": 10,
         "acquisitionBehavior": 1,
         "itemClaimedUnlockHash": 0,
         "uiDisplayStyle": "free",
         "claimUnlockDisplayStrings": [],
         "socketOverrides": [],
-        "itemHash": 800069450,
-        "quantity": 9,
+        "itemHash": 3720419853,
+        "quantity": 1,
         "hasConditionalVisibility": false
       },
       {
-        "rewardItemIndex": 11,
-        "rewardedAtProgressionLevel": 12,
+        "rewardItemIndex": 14,
+        "rewardedAtProgressionLevel": 10,
+        "acquisitionBehavior": 1,
+        "itemClaimedUnlockHash": 0,
+        "uiDisplayStyle": "free",
+        "claimUnlockDisplayStrings": [],
+        "socketOverrides": [],
+        "itemHash": 3720419853,
+        "quantity": 1,
+        "hasConditionalVisibility": false
+      },
+      {
+        "rewardItemIndex": 15,
+        "rewardedAtProgressionLevel": 11,
         "acquisitionBehavior": 1,
         "itemClaimedUnlockHash": 0,
         "uiDisplayStyle": "free",
@@ -46094,8 +46166,8 @@
         "hasConditionalVisibility": false
       },
       {
-        "rewardItemIndex": 12,
-        "rewardedAtProgressionLevel": 13,
+        "rewardItemIndex": 16,
+        "rewardedAtProgressionLevel": 12,
         "acquisitionBehavior": 1,
         "itemClaimedUnlockHash": 0,
         "uiDisplayStyle": "free",
@@ -46106,8 +46178,8 @@
         "hasConditionalVisibility": false
       },
       {
-        "rewardItemIndex": 13,
-        "rewardedAtProgressionLevel": 14,
+        "rewardItemIndex": 17,
+        "rewardedAtProgressionLevel": 13,
         "acquisitionBehavior": 1,
         "itemClaimedUnlockHash": 0,
         "uiDisplayStyle": "free",
@@ -46118,20 +46190,58 @@
         "hasConditionalVisibility": false
       },
       {
-        "rewardItemIndex": 14,
+        "rewardItemIndex": 18,
+        "rewardedAtProgressionLevel": 14,
+        "acquisitionBehavior": 1,
+        "itemClaimedUnlockHash": 0,
+        "uiDisplayStyle": "free",
+        "claimUnlockDisplayStrings": [
+          "Already Acquired"
+        ],
+        "socketOverrides": [],
+        "itemHash": 3524372837,
+        "quantity": 1,
+        "hasConditionalVisibility": false
+      },
+      {
+        "rewardItemIndex": 19,
         "rewardedAtProgressionLevel": 15,
         "acquisitionBehavior": 1,
         "itemClaimedUnlockHash": 0,
         "uiDisplayStyle": "free",
         "claimUnlockDisplayStrings": [],
         "socketOverrides": [],
-        "itemHash": 407150809,
+        "itemHash": 3435975048,
+        "quantity": 1,
+        "hasConditionalVisibility": false
+      },
+      {
+        "rewardItemIndex": 20,
+        "rewardedAtProgressionLevel": 15,
+        "acquisitionBehavior": 1,
+        "itemClaimedUnlockHash": 0,
+        "uiDisplayStyle": "free",
+        "claimUnlockDisplayStrings": [],
+        "socketOverrides": [],
+        "itemHash": 3435975048,
+        "quantity": 1,
+        "hasConditionalVisibility": false
+      },
+      {
+        "rewardItemIndex": 21,
+        "rewardedAtProgressionLevel": 15,
+        "acquisitionBehavior": 1,
+        "itemClaimedUnlockHash": 0,
+        "uiDisplayStyle": "free",
+        "claimUnlockDisplayStrings": [],
+        "socketOverrides": [],
+        "itemHash": 3435975048,
         "quantity": 1,
         "hasConditionalVisibility": false
       }
     ],
     "hash": 3010416058,
-    "index": 130,
+    "index": 131,
     "redacted": false,
     "blacklisted": false
   },
@@ -46251,7 +46361,7 @@
     "currentResetCountUnlockValueHash": 0,
     "rewardItems": [],
     "hash": 3011295063,
-    "index": 158,
+    "index": 159,
     "redacted": false,
     "blacklisted": false
   },
@@ -50479,7 +50589,7 @@
       }
     ],
     "hash": 3394713885,
-    "index": 125,
+    "index": 126,
     "redacted": false,
     "blacklisted": false
   },
@@ -50644,6 +50754,709 @@
     "rewardItems": [],
     "hash": 3443776603,
     "index": 103,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3467319256": {
+    "displayProperties": {
+      "displayUnitsName": "Event XP",
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "scope": 0,
+    "repeatLastStep": false,
+    "steps": [
+      {
+        "stepName": "",
+        "displayEffectType": 0,
+        "progressTotal": 1000
+      },
+      {
+        "stepName": "",
+        "displayEffectType": 0,
+        "progressTotal": 1000
+      },
+      {
+        "stepName": "",
+        "displayEffectType": 0,
+        "progressTotal": 1000
+      },
+      {
+        "stepName": "",
+        "displayEffectType": 0,
+        "progressTotal": 1000
+      },
+      {
+        "stepName": "",
+        "displayEffectType": 0,
+        "progressTotal": 1000
+      },
+      {
+        "stepName": "",
+        "displayEffectType": 0,
+        "progressTotal": 1000
+      },
+      {
+        "stepName": "",
+        "displayEffectType": 0,
+        "progressTotal": 1000
+      },
+      {
+        "stepName": "",
+        "displayEffectType": 0,
+        "progressTotal": 1000
+      },
+      {
+        "stepName": "",
+        "displayEffectType": 0,
+        "progressTotal": 1000
+      },
+      {
+        "stepName": "",
+        "displayEffectType": 0,
+        "progressTotal": 1000
+      },
+      {
+        "stepName": "",
+        "displayEffectType": 0,
+        "progressTotal": 1000
+      },
+      {
+        "stepName": "",
+        "displayEffectType": 0,
+        "progressTotal": 1000
+      },
+      {
+        "stepName": "",
+        "displayEffectType": 0,
+        "progressTotal": 1000
+      },
+      {
+        "stepName": "",
+        "displayEffectType": 0,
+        "progressTotal": 1000
+      },
+      {
+        "stepName": "",
+        "displayEffectType": 0,
+        "progressTotal": 1000
+      },
+      {
+        "stepName": "",
+        "displayEffectType": 0,
+        "progressTotal": 1000
+      },
+      {
+        "stepName": "",
+        "displayEffectType": 0,
+        "progressTotal": 1000
+      },
+      {
+        "stepName": "",
+        "displayEffectType": 0,
+        "progressTotal": 1000
+      },
+      {
+        "stepName": "",
+        "displayEffectType": 0,
+        "progressTotal": 1000
+      },
+      {
+        "stepName": "",
+        "displayEffectType": 0,
+        "progressTotal": 1000
+      },
+      {
+        "stepName": "",
+        "displayEffectType": 0,
+        "progressTotal": 1000
+      },
+      {
+        "stepName": "",
+        "displayEffectType": 0,
+        "progressTotal": 1000
+      },
+      {
+        "stepName": "",
+        "displayEffectType": 0,
+        "progressTotal": 1000
+      },
+      {
+        "stepName": "",
+        "displayEffectType": 0,
+        "progressTotal": 1000
+      },
+      {
+        "stepName": "",
+        "displayEffectType": 0,
+        "progressTotal": 1000
+      },
+      {
+        "stepName": "",
+        "displayEffectType": 0,
+        "progressTotal": 1000
+      },
+      {
+        "stepName": "",
+        "displayEffectType": 0,
+        "progressTotal": 1000
+      },
+      {
+        "stepName": "",
+        "displayEffectType": 0,
+        "progressTotal": 1000
+      },
+      {
+        "stepName": "",
+        "displayEffectType": 0,
+        "progressTotal": 1000
+      },
+      {
+        "stepName": "",
+        "displayEffectType": 0,
+        "progressTotal": 1000
+      }
+    ],
+    "visible": true,
+    "progressToNextStepScaling": 0,
+    "storageMappingIndex": 0,
+    "currentResetCountUnlockValueHash": 0,
+    "rewardItems": [
+      {
+        "rewardItemIndex": 0,
+        "rewardedAtProgressionLevel": 1,
+        "acquisitionBehavior": 1,
+        "itemClaimedUnlockHash": 0,
+        "uiDisplayStyle": "free",
+        "claimUnlockDisplayStrings": [],
+        "socketOverrides": [],
+        "itemHash": 1327236527,
+        "quantity": 1,
+        "hasConditionalVisibility": false
+      },
+      {
+        "rewardItemIndex": 1,
+        "rewardedAtProgressionLevel": 2,
+        "acquisitionBehavior": 1,
+        "itemClaimedUnlockHash": 0,
+        "uiDisplayStyle": "free",
+        "claimUnlockDisplayStrings": [],
+        "socketOverrides": [],
+        "itemHash": 4028693654,
+        "quantity": 1,
+        "hasConditionalVisibility": false
+      },
+      {
+        "rewardItemIndex": 2,
+        "rewardedAtProgressionLevel": 2,
+        "acquisitionBehavior": 1,
+        "itemClaimedUnlockHash": 0,
+        "uiDisplayStyle": "free",
+        "claimUnlockDisplayStrings": [],
+        "socketOverrides": [],
+        "itemHash": 3717977593,
+        "quantity": 1,
+        "hasConditionalVisibility": false
+      },
+      {
+        "rewardItemIndex": 3,
+        "rewardedAtProgressionLevel": 2,
+        "acquisitionBehavior": 1,
+        "itemClaimedUnlockHash": 0,
+        "uiDisplayStyle": "free",
+        "claimUnlockDisplayStrings": [],
+        "socketOverrides": [],
+        "itemHash": 2100765380,
+        "quantity": 1,
+        "hasConditionalVisibility": false
+      },
+      {
+        "rewardItemIndex": 4,
+        "rewardedAtProgressionLevel": 2,
+        "acquisitionBehavior": 1,
+        "itemClaimedUnlockHash": 0,
+        "uiDisplayStyle": "free",
+        "claimUnlockDisplayStrings": [],
+        "socketOverrides": [],
+        "itemHash": 570293439,
+        "quantity": 1,
+        "hasConditionalVisibility": false
+      },
+      {
+        "rewardItemIndex": 5,
+        "rewardedAtProgressionLevel": 3,
+        "acquisitionBehavior": 1,
+        "itemClaimedUnlockHash": 0,
+        "uiDisplayStyle": "free",
+        "claimUnlockDisplayStrings": [
+          "Not Enough Space"
+        ],
+        "socketOverrides": [],
+        "itemHash": 2456277757,
+        "quantity": 1,
+        "hasConditionalVisibility": false
+      },
+      {
+        "rewardItemIndex": 6,
+        "rewardedAtProgressionLevel": 4,
+        "acquisitionBehavior": 1,
+        "itemClaimedUnlockHash": 0,
+        "uiDisplayStyle": "free",
+        "claimUnlockDisplayStrings": [],
+        "socketOverrides": [],
+        "itemHash": 2363716910,
+        "quantity": 1,
+        "hasConditionalVisibility": false
+      },
+      {
+        "rewardItemIndex": 7,
+        "rewardedAtProgressionLevel": 5,
+        "acquisitionBehavior": 1,
+        "itemClaimedUnlockHash": 0,
+        "uiDisplayStyle": "free",
+        "claimUnlockDisplayStrings": [],
+        "socketOverrides": [],
+        "itemHash": 14279832,
+        "quantity": 1,
+        "hasConditionalVisibility": false
+      },
+      {
+        "rewardItemIndex": 8,
+        "rewardedAtProgressionLevel": 6,
+        "acquisitionBehavior": 1,
+        "itemClaimedUnlockHash": 0,
+        "uiDisplayStyle": "free",
+        "claimUnlockDisplayStrings": [],
+        "socketOverrides": [],
+        "itemHash": 3853748946,
+        "quantity": 5,
+        "hasConditionalVisibility": false
+      },
+      {
+        "rewardItemIndex": 9,
+        "rewardedAtProgressionLevel": 7,
+        "acquisitionBehavior": 1,
+        "itemClaimedUnlockHash": 0,
+        "uiDisplayStyle": "free",
+        "claimUnlockDisplayStrings": [
+          "Not Enough Space"
+        ],
+        "socketOverrides": [],
+        "itemHash": 2456277757,
+        "quantity": 1,
+        "hasConditionalVisibility": false
+      },
+      {
+        "rewardItemIndex": 10,
+        "rewardedAtProgressionLevel": 8,
+        "acquisitionBehavior": 1,
+        "itemClaimedUnlockHash": 0,
+        "uiDisplayStyle": "free",
+        "claimUnlockDisplayStrings": [],
+        "socketOverrides": [],
+        "itemHash": 800069450,
+        "quantity": 9,
+        "hasConditionalVisibility": false
+      },
+      {
+        "rewardItemIndex": 11,
+        "rewardedAtProgressionLevel": 9,
+        "acquisitionBehavior": 1,
+        "itemClaimedUnlockHash": 0,
+        "uiDisplayStyle": "free",
+        "claimUnlockDisplayStrings": [],
+        "socketOverrides": [],
+        "itemHash": 748692002,
+        "quantity": 1,
+        "hasConditionalVisibility": false
+      },
+      {
+        "rewardItemIndex": 12,
+        "rewardedAtProgressionLevel": 10,
+        "acquisitionBehavior": 1,
+        "itemClaimedUnlockHash": 0,
+        "uiDisplayStyle": "free",
+        "claimUnlockDisplayStrings": [],
+        "socketOverrides": [],
+        "itemHash": 4068780317,
+        "quantity": 1,
+        "hasConditionalVisibility": false
+      },
+      {
+        "rewardItemIndex": 13,
+        "rewardedAtProgressionLevel": 11,
+        "acquisitionBehavior": 1,
+        "itemClaimedUnlockHash": 0,
+        "uiDisplayStyle": "free",
+        "claimUnlockDisplayStrings": [],
+        "socketOverrides": [],
+        "itemHash": 4257549984,
+        "quantity": 3,
+        "hasConditionalVisibility": false
+      },
+      {
+        "rewardItemIndex": 14,
+        "rewardedAtProgressionLevel": 12,
+        "acquisitionBehavior": 1,
+        "itemClaimedUnlockHash": 0,
+        "uiDisplayStyle": "free",
+        "claimUnlockDisplayStrings": [],
+        "socketOverrides": [],
+        "itemHash": 800069450,
+        "quantity": 9,
+        "hasConditionalVisibility": false
+      },
+      {
+        "rewardItemIndex": 15,
+        "rewardedAtProgressionLevel": 13,
+        "acquisitionBehavior": 1,
+        "itemClaimedUnlockHash": 0,
+        "uiDisplayStyle": "free",
+        "claimUnlockDisplayStrings": [
+          "Not Enough Space"
+        ],
+        "socketOverrides": [],
+        "itemHash": 2456277757,
+        "quantity": 1,
+        "hasConditionalVisibility": false
+      },
+      {
+        "rewardItemIndex": 16,
+        "rewardedAtProgressionLevel": 14,
+        "acquisitionBehavior": 1,
+        "itemClaimedUnlockHash": 0,
+        "uiDisplayStyle": "free",
+        "claimUnlockDisplayStrings": [],
+        "socketOverrides": [],
+        "itemHash": 2894282039,
+        "quantity": 1,
+        "hasConditionalVisibility": false
+      },
+      {
+        "rewardItemIndex": 17,
+        "rewardedAtProgressionLevel": 14,
+        "acquisitionBehavior": 1,
+        "itemClaimedUnlockHash": 0,
+        "uiDisplayStyle": "free",
+        "claimUnlockDisplayStrings": [],
+        "socketOverrides": [],
+        "itemHash": 4257549985,
+        "quantity": 1,
+        "hasConditionalVisibility": false
+      },
+      {
+        "rewardItemIndex": 18,
+        "rewardedAtProgressionLevel": 15,
+        "acquisitionBehavior": 1,
+        "itemClaimedUnlockHash": 0,
+        "uiDisplayStyle": "free",
+        "claimUnlockDisplayStrings": [],
+        "socketOverrides": [],
+        "itemHash": 751418951,
+        "quantity": 1,
+        "hasConditionalVisibility": false
+      },
+      {
+        "rewardItemIndex": 19,
+        "rewardedAtProgressionLevel": 15,
+        "acquisitionBehavior": 1,
+        "itemClaimedUnlockHash": 0,
+        "uiDisplayStyle": "free",
+        "claimUnlockDisplayStrings": [],
+        "socketOverrides": [],
+        "itemHash": 751418951,
+        "quantity": 1,
+        "hasConditionalVisibility": false
+      },
+      {
+        "rewardItemIndex": 20,
+        "rewardedAtProgressionLevel": 15,
+        "acquisitionBehavior": 1,
+        "itemClaimedUnlockHash": 0,
+        "uiDisplayStyle": "free",
+        "claimUnlockDisplayStrings": [],
+        "socketOverrides": [],
+        "itemHash": 751418951,
+        "quantity": 1,
+        "hasConditionalVisibility": false
+      },
+      {
+        "rewardItemIndex": 21,
+        "rewardedAtProgressionLevel": 16,
+        "acquisitionBehavior": 1,
+        "itemClaimedUnlockHash": 0,
+        "uiDisplayStyle": "free",
+        "claimUnlockDisplayStrings": [],
+        "socketOverrides": [],
+        "itemHash": 3853748946,
+        "quantity": 5,
+        "hasConditionalVisibility": false
+      },
+      {
+        "rewardItemIndex": 22,
+        "rewardedAtProgressionLevel": 17,
+        "acquisitionBehavior": 1,
+        "itemClaimedUnlockHash": 0,
+        "uiDisplayStyle": "free",
+        "claimUnlockDisplayStrings": [
+          "Not Enough Space"
+        ],
+        "socketOverrides": [],
+        "itemHash": 2456277757,
+        "quantity": 1,
+        "hasConditionalVisibility": false
+      },
+      {
+        "rewardItemIndex": 23,
+        "rewardedAtProgressionLevel": 18,
+        "acquisitionBehavior": 1,
+        "itemClaimedUnlockHash": 0,
+        "uiDisplayStyle": "free",
+        "claimUnlockDisplayStrings": [],
+        "socketOverrides": [],
+        "itemHash": 4028693654,
+        "quantity": 1,
+        "hasConditionalVisibility": false
+      },
+      {
+        "rewardItemIndex": 24,
+        "rewardedAtProgressionLevel": 18,
+        "acquisitionBehavior": 1,
+        "itemClaimedUnlockHash": 0,
+        "uiDisplayStyle": "free",
+        "claimUnlockDisplayStrings": [],
+        "socketOverrides": [],
+        "itemHash": 3717977593,
+        "quantity": 1,
+        "hasConditionalVisibility": false
+      },
+      {
+        "rewardItemIndex": 25,
+        "rewardedAtProgressionLevel": 18,
+        "acquisitionBehavior": 1,
+        "itemClaimedUnlockHash": 0,
+        "uiDisplayStyle": "free",
+        "claimUnlockDisplayStrings": [],
+        "socketOverrides": [],
+        "itemHash": 2100765380,
+        "quantity": 1,
+        "hasConditionalVisibility": false
+      },
+      {
+        "rewardItemIndex": 26,
+        "rewardedAtProgressionLevel": 18,
+        "acquisitionBehavior": 1,
+        "itemClaimedUnlockHash": 0,
+        "uiDisplayStyle": "free",
+        "claimUnlockDisplayStrings": [],
+        "socketOverrides": [],
+        "itemHash": 570293439,
+        "quantity": 1,
+        "hasConditionalVisibility": false
+      },
+      {
+        "rewardItemIndex": 27,
+        "rewardedAtProgressionLevel": 19,
+        "acquisitionBehavior": 1,
+        "itemClaimedUnlockHash": 0,
+        "uiDisplayStyle": "free",
+        "claimUnlockDisplayStrings": [],
+        "socketOverrides": [],
+        "itemHash": 779082129,
+        "quantity": 1,
+        "hasConditionalVisibility": false
+      },
+      {
+        "rewardItemIndex": 28,
+        "rewardedAtProgressionLevel": 20,
+        "acquisitionBehavior": 1,
+        "itemClaimedUnlockHash": 0,
+        "uiDisplayStyle": "free",
+        "claimUnlockDisplayStrings": [],
+        "socketOverrides": [],
+        "itemHash": 1808697851,
+        "quantity": 1,
+        "hasConditionalVisibility": false
+      },
+      {
+        "rewardItemIndex": 29,
+        "rewardedAtProgressionLevel": 20,
+        "acquisitionBehavior": 1,
+        "itemClaimedUnlockHash": 0,
+        "uiDisplayStyle": "free",
+        "claimUnlockDisplayStrings": [],
+        "socketOverrides": [],
+        "itemHash": 1808697851,
+        "quantity": 1,
+        "hasConditionalVisibility": false
+      },
+      {
+        "rewardItemIndex": 30,
+        "rewardedAtProgressionLevel": 20,
+        "acquisitionBehavior": 1,
+        "itemClaimedUnlockHash": 0,
+        "uiDisplayStyle": "free",
+        "claimUnlockDisplayStrings": [],
+        "socketOverrides": [],
+        "itemHash": 1808697851,
+        "quantity": 1,
+        "hasConditionalVisibility": false
+      },
+      {
+        "rewardItemIndex": 31,
+        "rewardedAtProgressionLevel": 21,
+        "acquisitionBehavior": 1,
+        "itemClaimedUnlockHash": 0,
+        "uiDisplayStyle": "free",
+        "claimUnlockDisplayStrings": [],
+        "socketOverrides": [],
+        "itemHash": 800069450,
+        "quantity": 9,
+        "hasConditionalVisibility": false
+      },
+      {
+        "rewardItemIndex": 32,
+        "rewardedAtProgressionLevel": 22,
+        "acquisitionBehavior": 1,
+        "itemClaimedUnlockHash": 0,
+        "uiDisplayStyle": "free",
+        "claimUnlockDisplayStrings": [],
+        "socketOverrides": [],
+        "itemHash": 3853748946,
+        "quantity": 5,
+        "hasConditionalVisibility": false
+      },
+      {
+        "rewardItemIndex": 33,
+        "rewardedAtProgressionLevel": 23,
+        "acquisitionBehavior": 1,
+        "itemClaimedUnlockHash": 0,
+        "uiDisplayStyle": "free",
+        "claimUnlockDisplayStrings": [
+          "Not Enough Space"
+        ],
+        "socketOverrides": [],
+        "itemHash": 2456277757,
+        "quantity": 1,
+        "hasConditionalVisibility": false
+      },
+      {
+        "rewardItemIndex": 34,
+        "rewardedAtProgressionLevel": 24,
+        "acquisitionBehavior": 1,
+        "itemClaimedUnlockHash": 0,
+        "uiDisplayStyle": "free",
+        "claimUnlockDisplayStrings": [],
+        "socketOverrides": [],
+        "itemHash": 3272276569,
+        "quantity": 1,
+        "hasConditionalVisibility": false
+      },
+      {
+        "rewardItemIndex": 35,
+        "rewardedAtProgressionLevel": 25,
+        "acquisitionBehavior": 1,
+        "itemClaimedUnlockHash": 0,
+        "uiDisplayStyle": "free",
+        "claimUnlockDisplayStrings": [],
+        "socketOverrides": [],
+        "itemHash": 1067535032,
+        "quantity": 1,
+        "hasConditionalVisibility": false
+      },
+      {
+        "rewardItemIndex": 36,
+        "rewardedAtProgressionLevel": 25,
+        "acquisitionBehavior": 1,
+        "itemClaimedUnlockHash": 0,
+        "uiDisplayStyle": "free",
+        "claimUnlockDisplayStrings": [],
+        "socketOverrides": [],
+        "itemHash": 1067535032,
+        "quantity": 1,
+        "hasConditionalVisibility": false
+      },
+      {
+        "rewardItemIndex": 37,
+        "rewardedAtProgressionLevel": 25,
+        "acquisitionBehavior": 1,
+        "itemClaimedUnlockHash": 0,
+        "uiDisplayStyle": "free",
+        "claimUnlockDisplayStrings": [],
+        "socketOverrides": [],
+        "itemHash": 1067535032,
+        "quantity": 1,
+        "hasConditionalVisibility": false
+      },
+      {
+        "rewardItemIndex": 38,
+        "rewardedAtProgressionLevel": 26,
+        "acquisitionBehavior": 1,
+        "itemClaimedUnlockHash": 0,
+        "uiDisplayStyle": "free",
+        "claimUnlockDisplayStrings": [],
+        "socketOverrides": [],
+        "itemHash": 4257549984,
+        "quantity": 3,
+        "hasConditionalVisibility": false
+      },
+      {
+        "rewardItemIndex": 39,
+        "rewardedAtProgressionLevel": 27,
+        "acquisitionBehavior": 1,
+        "itemClaimedUnlockHash": 0,
+        "uiDisplayStyle": "free",
+        "claimUnlockDisplayStrings": [],
+        "socketOverrides": [],
+        "itemHash": 800069450,
+        "quantity": 9,
+        "hasConditionalVisibility": false
+      },
+      {
+        "rewardItemIndex": 40,
+        "rewardedAtProgressionLevel": 28,
+        "acquisitionBehavior": 1,
+        "itemClaimedUnlockHash": 0,
+        "uiDisplayStyle": "free",
+        "claimUnlockDisplayStrings": [
+          "Not Enough Space"
+        ],
+        "socketOverrides": [],
+        "itemHash": 2456277757,
+        "quantity": 1,
+        "hasConditionalVisibility": false
+      },
+      {
+        "rewardItemIndex": 41,
+        "rewardedAtProgressionLevel": 29,
+        "acquisitionBehavior": 1,
+        "itemClaimedUnlockHash": 0,
+        "uiDisplayStyle": "free",
+        "claimUnlockDisplayStrings": [],
+        "socketOverrides": [],
+        "itemHash": 353704689,
+        "quantity": 1,
+        "hasConditionalVisibility": false
+      },
+      {
+        "rewardItemIndex": 42,
+        "rewardedAtProgressionLevel": 30,
+        "acquisitionBehavior": 1,
+        "itemClaimedUnlockHash": 0,
+        "uiDisplayStyle": "free",
+        "claimUnlockDisplayStrings": [
+          ""
+        ],
+        "socketOverrides": [],
+        "itemHash": 2074467606,
+        "quantity": 1,
+        "hasConditionalVisibility": false
+      }
+    ],
+    "hash": 3467319256,
+    "index": 124,
     "redacted": false,
     "blacklisted": false
   },
@@ -51159,7 +51972,7 @@
       }
     ],
     "hash": 3516712501,
-    "index": 129,
+    "index": 130,
     "redacted": false,
     "blacklisted": false
   },
@@ -51386,7 +52199,7 @@
     "currentResetCountUnlockValueHash": 0,
     "rewardItems": [],
     "hash": 3621413977,
-    "index": 146,
+    "index": 147,
     "redacted": false,
     "blacklisted": false
   },
@@ -51588,7 +52401,7 @@
     "currentResetCountUnlockValueHash": 0,
     "rewardItems": [],
     "hash": 3639370267,
-    "index": 139,
+    "index": 140,
     "redacted": false,
     "blacklisted": false
   },
@@ -51991,7 +52804,7 @@
       }
     ],
     "hash": 3647740748,
-    "index": 142,
+    "index": 143,
     "redacted": false,
     "blacklisted": false
   },
@@ -52237,7 +53050,7 @@
     "currentResetCountUnlockValueHash": 0,
     "rewardItems": [],
     "hash": 3696598664,
-    "index": 144,
+    "index": 145,
     "redacted": false,
     "blacklisted": false
   },
@@ -52269,7 +53082,7 @@
     "currentResetCountUnlockValueHash": 0,
     "rewardItems": [],
     "hash": 3725990721,
-    "index": 153,
+    "index": 154,
     "redacted": false,
     "blacklisted": false
   },
@@ -61782,7 +62595,7 @@
     "currentResetCountUnlockValueHash": 0,
     "rewardItems": [],
     "hash": 3996938723,
-    "index": 136,
+    "index": 137,
     "redacted": false,
     "blacklisted": false
   },
@@ -61840,7 +62653,7 @@
     "currentResetCountUnlockValueHash": 0,
     "rewardItems": [],
     "hash": 4020543681,
-    "index": 140,
+    "index": 141,
     "redacted": false,
     "blacklisted": false
   },
@@ -63268,7 +64081,7 @@
     "currentResetCountUnlockValueHash": 0,
     "rewardItems": [],
     "hash": 4203877294,
-    "index": 133,
+    "index": 134,
     "redacted": false,
     "blacklisted": false
   },

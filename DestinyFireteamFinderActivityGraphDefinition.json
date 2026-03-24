@@ -35,7 +35,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 1943873,
-    "index": 409,
+    "index": 416,
     "redacted": false,
     "blacklisted": false
   },
@@ -196,7 +196,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 20106281,
-    "index": 417,
+    "index": 424,
     "redacted": false,
     "blacklisted": false
   },
@@ -270,7 +270,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 46200188,
-    "index": 326,
+    "index": 324,
     "redacted": false,
     "blacklisted": false
   },
@@ -310,7 +310,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 46852164,
-    "index": 428,
+    "index": 436,
     "redacted": false,
     "blacklisted": false
   },
@@ -343,7 +343,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 51097092,
-    "index": 317,
+    "index": 315,
     "redacted": false,
     "blacklisted": false
   },
@@ -376,7 +376,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 51097095,
-    "index": 318,
+    "index": 316,
     "redacted": false,
     "blacklisted": false
   },
@@ -415,7 +415,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 59615569,
-    "index": 362,
+    "index": 366,
     "redacted": false,
     "blacklisted": false
   },
@@ -702,6 +702,46 @@
     "redacted": false,
     "blacklisted": false
   },
+  "154327948": {
+    "displayProperties": {
+      "description": "Stifle the legacy of a notorious ironmonger providing weapons to the Shadow Legion.",
+      "name": "The Arms Dealer",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "isPlayerElectedDifficultyNode": false,
+    "parentHash": 551398664,
+    "children": [],
+    "selfAndAllDescendantHashes": [
+      154327948
+    ],
+    "relatedActivitySetHashes": [
+      661337873,
+      1178746708
+    ],
+    "specificActivitySetHash": 1178746708,
+    "relatedActivityHashes": [
+      1207804958,
+      3601731034
+    ],
+    "relatedDirectorNodes": [
+      {
+        "activityGraphHash": 2021988413
+      }
+    ],
+    "relatedInteractableActivities": [],
+    "relatedLocationHashes": [],
+    "sortMatchmadeActivitiesToFront": false,
+    "enabledOnTreeTypesListEnum": [
+      0,
+      1
+    ],
+    "activityTreeChildSortMode": 0,
+    "hash": 154327948,
+    "index": 402,
+    "redacted": false,
+    "blacklisted": false
+  },
   "165144523": {
     "displayProperties": {
       "description": "",
@@ -739,7 +779,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 165144523,
-    "index": 325,
+    "index": 323,
     "redacted": false,
     "blacklisted": false
   },
@@ -778,7 +818,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 179811043,
-    "index": 444,
+    "index": 456,
     "redacted": false,
     "blacklisted": false
   },
@@ -909,7 +949,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 207303935,
-    "index": 312,
+    "index": 310,
     "redacted": false,
     "blacklisted": false
   },
@@ -942,7 +982,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 208580205,
-    "index": 361,
+    "index": 359,
     "redacted": false,
     "blacklisted": false
   },
@@ -979,7 +1019,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 228063588,
-    "index": 370,
+    "index": 374,
     "redacted": false,
     "blacklisted": false
   },
@@ -1381,7 +1421,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 270743081,
-    "index": 385,
+    "index": 389,
     "redacted": false,
     "blacklisted": false
   },
@@ -1419,7 +1459,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 275765186,
-    "index": 303,
+    "index": 301,
     "redacted": false,
     "blacklisted": false
   },
@@ -1458,7 +1498,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 277021083,
-    "index": 467,
+    "index": 479,
     "redacted": false,
     "blacklisted": false
   },
@@ -1496,7 +1536,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 290738904,
-    "index": 306,
+    "index": 304,
     "redacted": false,
     "blacklisted": false
   },
@@ -1530,7 +1570,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 303707796,
-    "index": 286,
+    "index": 284,
     "redacted": false,
     "blacklisted": false
   },
@@ -1605,7 +1645,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 330731999,
-    "index": 327,
+    "index": 325,
     "redacted": false,
     "blacklisted": false
   },
@@ -1716,7 +1756,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 373377545,
-    "index": 299,
+    "index": 297,
     "redacted": false,
     "blacklisted": false
   },
@@ -1846,7 +1886,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 414039400,
-    "index": 321,
+    "index": 319,
     "redacted": false,
     "blacklisted": false
   },
@@ -1923,7 +1963,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 437614976,
-    "index": 420,
+    "index": 428,
     "redacted": false,
     "blacklisted": false
   },
@@ -1963,7 +2003,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 463081273,
-    "index": 415,
+    "index": 422,
     "redacted": false,
     "blacklisted": false
   },
@@ -2305,8 +2345,10 @@
       1276642462,
       791935622,
       270743081,
+      629321680,
       2479774845,
       1525329608,
+      2447131071,
       2755476582
     ],
     "selfAndAllDescendantHashes": [
@@ -2315,8 +2357,10 @@
       1276642462,
       791935622,
       270743081,
+      629321680,
       2479774845,
       1525329608,
+      2447131071,
       2755476582
     ],
     "relatedActivitySetHashes": [],
@@ -2329,7 +2373,7 @@
     ],
     "activityTreeChildSortMode": 1,
     "hash": 502948146,
-    "index": 380,
+    "index": 384,
     "redacted": false,
     "blacklisted": false
   },
@@ -2419,7 +2463,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 511280487,
-    "index": 413,
+    "index": 420,
     "redacted": false,
     "blacklisted": false
   },
@@ -2630,6 +2674,7 @@
       1275440521,
       2964671653,
       2807030215,
+      154327948,
       3579649202,
       2253980063,
       1469346782,
@@ -2654,6 +2699,7 @@
       20106281,
       1876654725,
       2377146132,
+      3107240863,
       437614976,
       2011865981,
       4249359736,
@@ -2664,6 +2710,7 @@
       1275440521,
       2964671653,
       2807030215,
+      154327948,
       3579649202,
       2253980063,
       1469346782,
@@ -2688,6 +2735,7 @@
       20106281,
       1876654725,
       2377146132,
+      3107240863,
       437614976,
       2011865981,
       4249359736,
@@ -2704,7 +2752,7 @@
     ],
     "activityTreeChildSortMode": 1,
     "hash": 551398664,
-    "index": 391,
+    "index": 397,
     "redacted": false,
     "blacklisted": false
   },
@@ -2744,7 +2792,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 562400341,
-    "index": 412,
+    "index": 419,
     "redacted": false,
     "blacklisted": false
   },
@@ -2844,7 +2892,21 @@
     "relatedActivitySetHashes": [
       3140437229
     ],
-    "relatedDirectorNodes": [],
+    "specificActivitySetHash": 3140437229,
+    "relatedActivityHashes": [
+      1358300725,
+      449763521,
+      3551516452,
+      1003423312
+    ],
+    "relatedDirectorNodes": [
+      {
+        "activityGraphHash": 4109893017
+      },
+      {
+        "activityGraphHash": 4109893017
+      }
+    ],
     "relatedInteractableActivities": [],
     "relatedLocationHashes": [],
     "sortMatchmadeActivitiesToFront": false,
@@ -2853,7 +2915,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 581941504,
-    "index": 350,
+    "index": 348,
     "redacted": false,
     "blacklisted": false
   },
@@ -2894,7 +2956,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 581941506,
-    "index": 352,
+    "index": 350,
     "redacted": false,
     "blacklisted": false
   },
@@ -2914,7 +2976,21 @@
     "relatedActivitySetHashes": [
       3140437230
     ],
-    "relatedDirectorNodes": [],
+    "specificActivitySetHash": 3140437230,
+    "relatedActivityHashes": [
+      1207804958,
+      3601731034,
+      433385117,
+      701417737
+    ],
+    "relatedDirectorNodes": [
+      {
+        "activityGraphHash": 2021988413
+      },
+      {
+        "activityGraphHash": 2021988413
+      }
+    ],
     "relatedInteractableActivities": [],
     "relatedLocationHashes": [],
     "sortMatchmadeActivitiesToFront": false,
@@ -2923,7 +2999,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 581941507,
-    "index": 351,
+    "index": 349,
     "redacted": false,
     "blacklisted": false
   },
@@ -2943,7 +3019,21 @@
     "relatedActivitySetHashes": [
       3140437225
     ],
-    "relatedDirectorNodes": [],
+    "specificActivitySetHash": 3140437225,
+    "relatedActivityHashes": [
+      1677357094,
+      2989816034,
+      2469127664,
+      824124764
+    ],
+    "relatedDirectorNodes": [
+      {
+        "activityGraphHash": 2427019152
+      },
+      {
+        "activityGraphHash": 2427019152
+      }
+    ],
     "relatedInteractableActivities": [],
     "relatedLocationHashes": [],
     "sortMatchmadeActivitiesToFront": false,
@@ -2952,7 +3042,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 581941508,
-    "index": 354,
+    "index": 352,
     "redacted": false,
     "blacklisted": false
   },
@@ -2973,8 +3063,18 @@
       3140437224
     ],
     "specificActivitySetHash": 3140437224,
-    "relatedActivityHashes": [],
-    "relatedDirectorNodes": [],
+    "relatedActivityHashes": [
+      3410259822,
+      2583725353
+    ],
+    "relatedDirectorNodes": [
+      {
+        "activityGraphHash": 1733518967
+      },
+      {
+        "activityGraphHash": 1733518967
+      }
+    ],
     "relatedInteractableActivities": [],
     "relatedLocationHashes": [],
     "sortMatchmadeActivitiesToFront": false,
@@ -2983,7 +3083,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 581941509,
-    "index": 353,
+    "index": 351,
     "redacted": false,
     "blacklisted": false
   },
@@ -3166,6 +3266,44 @@
     "redacted": false,
     "blacklisted": false
   },
+  "629321680": {
+    "displayProperties": {
+      "description": "Protect the BrayTech facility from incursions by opposition forces.",
+      "name": "Creation",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "isPlayerElectedDifficultyNode": false,
+    "parentHash": 502948146,
+    "children": [],
+    "selfAndAllDescendantHashes": [
+      629321680
+    ],
+    "relatedActivitySetHashes": [
+      2655482543,
+      3809875768
+    ],
+    "specificActivitySetHash": 3809875768,
+    "relatedActivityHashes": [
+      3410259822
+    ],
+    "relatedDirectorNodes": [
+      {
+        "activityGraphHash": 1733518967
+      }
+    ],
+    "relatedInteractableActivities": [],
+    "relatedLocationHashes": [],
+    "sortMatchmadeActivitiesToFront": false,
+    "enabledOnTreeTypesListEnum": [
+      1
+    ],
+    "activityTreeChildSortMode": 0,
+    "hash": 629321680,
+    "index": 390,
+    "redacted": false,
+    "blacklisted": false
+  },
   "637684173": {
     "displayProperties": {
       "description": "",
@@ -3282,7 +3420,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 652098280,
-    "index": 373,
+    "index": 377,
     "redacted": false,
     "blacklisted": false
   },
@@ -3361,7 +3499,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 684858115,
-    "index": 430,
+    "index": 439,
     "redacted": false,
     "blacklisted": false
   },
@@ -3402,7 +3540,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 692593057,
-    "index": 328,
+    "index": 326,
     "redacted": false,
     "blacklisted": false
   },
@@ -3443,7 +3581,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 692593058,
-    "index": 329,
+    "index": 327,
     "redacted": false,
     "blacklisted": false
   },
@@ -3476,7 +3614,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 696996386,
-    "index": 357,
+    "index": 355,
     "redacted": false,
     "blacklisted": false
   },
@@ -3515,7 +3653,47 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 703605277,
-    "index": 441,
+    "index": 453,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "706760388": {
+    "displayProperties": {
+      "description": "Investigate the source of a mysterious Taken power—and claim it before anyone else can.",
+      "name": "Derealize",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "isPlayerElectedDifficultyNode": false,
+    "parentHash": 2042336100,
+    "children": [],
+    "selfAndAllDescendantHashes": [
+      706760388
+    ],
+    "relatedActivitySetHashes": [
+      1682681212,
+      1755301468
+    ],
+    "specificActivitySetHash": 1755301468,
+    "relatedActivityHashes": [
+      1677357094,
+      2989816034
+    ],
+    "relatedDirectorNodes": [
+      {
+        "activityGraphHash": 2427019152
+      }
+    ],
+    "relatedInteractableActivities": [],
+    "relatedLocationHashes": [],
+    "sortMatchmadeActivitiesToFront": false,
+    "enabledOnTreeTypesListEnum": [
+      0,
+      1
+    ],
+    "activityTreeChildSortMode": 0,
+    "hash": 706760388,
+    "index": 443,
     "redacted": false,
     "blacklisted": false
   },
@@ -3555,7 +3733,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 715296581,
-    "index": 407,
+    "index": 414,
     "redacted": false,
     "blacklisted": false
   },
@@ -3595,7 +3773,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 718041304,
-    "index": 399,
+    "index": 406,
     "redacted": false,
     "blacklisted": false
   },
@@ -3902,7 +4080,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 781020332,
-    "index": 296,
+    "index": 294,
     "redacted": false,
     "blacklisted": false
   },
@@ -3979,7 +4157,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 791935622,
-    "index": 384,
+    "index": 388,
     "redacted": false,
     "blacklisted": false
   },
@@ -4015,7 +4193,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 795575363,
-    "index": 295,
+    "index": 293,
     "redacted": false,
     "blacklisted": false
   },
@@ -4127,7 +4305,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 829488717,
-    "index": 316,
+    "index": 314,
     "redacted": false,
     "blacklisted": false
   },
@@ -4160,7 +4338,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 829488718,
-    "index": 315,
+    "index": 313,
     "redacted": false,
     "blacklisted": false
   },
@@ -4315,7 +4493,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 854014939,
-    "index": 311,
+    "index": 309,
     "redacted": false,
     "blacklisted": false
   },
@@ -4556,7 +4734,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 894497216,
-    "index": 461,
+    "index": 473,
     "redacted": false,
     "blacklisted": false
   },
@@ -4676,7 +4854,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 914010935,
-    "index": 338,
+    "index": 336,
     "redacted": false,
     "blacklisted": false
   },
@@ -4709,7 +4887,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 934325123,
-    "index": 283,
+    "index": 281,
     "redacted": false,
     "blacklisted": false
   },
@@ -4791,7 +4969,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 980406481,
-    "index": 472,
+    "index": 484,
     "redacted": false,
     "blacklisted": false
   },
@@ -4961,7 +5139,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 1018351457,
-    "index": 466,
+    "index": 478,
     "redacted": false,
     "blacklisted": false
   },
@@ -5050,7 +5228,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 1035306555,
-    "index": 442,
+    "index": 454,
     "redacted": false,
     "blacklisted": false
   },
@@ -5088,7 +5266,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 1038923120,
-    "index": 294,
+    "index": 292,
     "redacted": false,
     "blacklisted": false
   },
@@ -5284,7 +5462,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 1055175152,
-    "index": 465,
+    "index": 477,
     "redacted": false,
     "blacklisted": false
   },
@@ -5363,7 +5541,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 1087315131,
-    "index": 293,
+    "index": 291,
     "redacted": false,
     "blacklisted": false
   },
@@ -5437,14 +5615,14 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 1101722991,
-    "index": 450,
+    "index": 462,
     "redacted": false,
     "blacklisted": false
   },
   "1111631173": {
     "displayProperties": {
       "description": "Join a large group of Lightbearers executing Vanguard operations around Sol and crushing Earth's deadliest foes.",
-      "name": "Arena Ops Quickkplay",
+      "name": "Arena Ops Quickplay",
       "icon": "/common/destiny2_content/icons/2cc9717abab76a17071446101ab6eec0.jpg",
       "iconHash": 0,
       "hasIcon": true
@@ -5469,7 +5647,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 1111631173,
-    "index": 425,
+    "index": 433,
     "redacted": false,
     "blacklisted": false
   },
@@ -5507,7 +5685,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 1112689477,
-    "index": 305,
+    "index": 303,
     "redacted": false,
     "blacklisted": false
   },
@@ -5545,7 +5723,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 1116369450,
-    "index": 309,
+    "index": 307,
     "redacted": false,
     "blacklisted": false
   },
@@ -5708,7 +5886,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 1164973153,
-    "index": 438,
+    "index": 449,
     "redacted": false,
     "blacklisted": false
   },
@@ -5784,7 +5962,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 1182721393,
-    "index": 333,
+    "index": 331,
     "redacted": false,
     "blacklisted": false
   },
@@ -5924,8 +6102,10 @@
       1276642462,
       791935622,
       270743081,
+      629321680,
       2479774845,
       1525329608,
+      2447131071,
       2755476582
     ],
     "relatedActivitySetHashes": [],
@@ -5938,7 +6118,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 1204273545,
-    "index": 378,
+    "index": 382,
     "redacted": false,
     "blacklisted": false
   },
@@ -5977,7 +6157,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 1221879580,
-    "index": 459,
+    "index": 471,
     "redacted": false,
     "blacklisted": false
   },
@@ -6070,7 +6250,44 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 1228015141,
-    "index": 437,
+    "index": 448,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1230538617": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "isPlayerElectedDifficultyNode": false,
+    "children": [
+      3445278841,
+      4020984817,
+      4161344156,
+      3766618924,
+      2599430298
+    ],
+    "selfAndAllDescendantHashes": [
+      1230538617,
+      3445278841,
+      4020984817,
+      4161344156,
+      3766618924,
+      2599430298
+    ],
+    "relatedActivitySetHashes": [],
+    "relatedDirectorNodes": [],
+    "relatedInteractableActivities": [],
+    "relatedLocationHashes": [],
+    "sortMatchmadeActivitiesToFront": false,
+    "enabledOnTreeTypesListEnum": [
+      2
+    ],
+    "activityTreeChildSortMode": 0,
+    "hash": 1230538617,
+    "index": 360,
     "redacted": false,
     "blacklisted": false
   },
@@ -6109,7 +6326,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 1237119025,
-    "index": 392,
+    "index": 398,
     "redacted": false,
     "blacklisted": false
   },
@@ -6198,7 +6415,7 @@
     ],
     "activityTreeChildSortMode": 1,
     "hash": 1246572235,
-    "index": 449,
+    "index": 461,
     "redacted": false,
     "blacklisted": false
   },
@@ -6275,7 +6492,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 1248625068,
-    "index": 307,
+    "index": 305,
     "redacted": false,
     "blacklisted": false
   },
@@ -6314,7 +6531,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 1256732102,
-    "index": 439,
+    "index": 451,
     "redacted": false,
     "blacklisted": false
   },
@@ -6397,7 +6614,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 1275440521,
-    "index": 393,
+    "index": 399,
     "redacted": false,
     "blacklisted": false
   },
@@ -6435,7 +6652,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 1276642462,
-    "index": 383,
+    "index": 387,
     "redacted": false,
     "blacklisted": false
   },
@@ -6873,7 +7090,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 1366481750,
-    "index": 382,
+    "index": 386,
     "redacted": false,
     "blacklisted": false
   },
@@ -6907,7 +7124,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 1373653209,
-    "index": 390,
+    "index": 396,
     "redacted": false,
     "blacklisted": false
   },
@@ -7318,7 +7535,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 1469346782,
-    "index": 398,
+    "index": 405,
     "redacted": false,
     "blacklisted": false
   },
@@ -7446,7 +7663,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 1492878898,
-    "index": 454,
+    "index": 466,
     "redacted": false,
     "blacklisted": false
   },
@@ -7486,7 +7703,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 1505946917,
-    "index": 404,
+    "index": 411,
     "redacted": false,
     "blacklisted": false
   },
@@ -7690,7 +7907,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 1508889869,
-    "index": 292,
+    "index": 290,
     "redacted": false,
     "blacklisted": false
   },
@@ -7774,7 +7991,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 1525329608,
-    "index": 387,
+    "index": 392,
     "redacted": false,
     "blacklisted": false
   },
@@ -7967,7 +8184,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 1598517948,
-    "index": 447,
+    "index": 459,
     "redacted": false,
     "blacklisted": false
   },
@@ -8005,7 +8222,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 1602879356,
-    "index": 344,
+    "index": 342,
     "redacted": false,
     "blacklisted": false
   },
@@ -8043,7 +8260,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 1602879357,
-    "index": 343,
+    "index": 341,
     "redacted": false,
     "blacklisted": false
   },
@@ -8081,7 +8298,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 1602879358,
-    "index": 342,
+    "index": 340,
     "redacted": false,
     "blacklisted": false
   },
@@ -8161,7 +8378,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 1632907103,
-    "index": 463,
+    "index": 475,
     "redacted": false,
     "blacklisted": false
   },
@@ -8200,7 +8417,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 1634017685,
-    "index": 427,
+    "index": 435,
     "redacted": false,
     "blacklisted": false
   },
@@ -8297,7 +8514,7 @@
   "1668770468": {
     "displayProperties": {
       "description": "",
-      "name": "Proving Grounds",
+      "name": "Fireteam Ops",
       "iconHash": 0,
       "hasIcon": false
     },
@@ -8310,7 +8527,21 @@
     "relatedActivitySetHashes": [
       3140437230
     ],
-    "relatedDirectorNodes": [],
+    "specificActivitySetHash": 3140437230,
+    "relatedActivityHashes": [
+      1207804958,
+      3601731034,
+      433385117,
+      701417737
+    ],
+    "relatedDirectorNodes": [
+      {
+        "activityGraphHash": 2021988413
+      },
+      {
+        "activityGraphHash": 2021988413
+      }
+    ],
     "relatedInteractableActivities": [],
     "relatedLocationHashes": [],
     "sortMatchmadeActivitiesToFront": false,
@@ -8319,7 +8550,47 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 1668770468,
-    "index": 324,
+    "index": 322,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1673838126": {
+    "displayProperties": {
+      "description": "Draw out and defeat powerful Nightmares to imprison them with the Nightmare Harvester.",
+      "name": "Nightmare Containment",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "isPlayerElectedDifficultyNode": false,
+    "parentHash": 2244756596,
+    "children": [],
+    "selfAndAllDescendantHashes": [
+      1673838126
+    ],
+    "relatedActivitySetHashes": [
+      3345268053,
+      644209994
+    ],
+    "specificActivitySetHash": 644209994,
+    "relatedActivityHashes": [
+      3551516452,
+      1003423312
+    ],
+    "relatedDirectorNodes": [
+      {
+        "activityGraphHash": 4109893017
+      }
+    ],
+    "relatedInteractableActivities": [],
+    "relatedLocationHashes": [],
+    "sortMatchmadeActivitiesToFront": false,
+    "enabledOnTreeTypesListEnum": [
+      0,
+      1
+    ],
+    "activityTreeChildSortMode": 0,
+    "hash": 1673838126,
+    "index": 440,
     "redacted": false,
     "blacklisted": false
   },
@@ -8395,7 +8666,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 1699758178,
-    "index": 403,
+    "index": 410,
     "redacted": false,
     "blacklisted": false
   },
@@ -8512,7 +8783,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 1770405974,
-    "index": 308,
+    "index": 306,
     "redacted": false,
     "blacklisted": false
   },
@@ -8606,7 +8877,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 1797276058,
-    "index": 410,
+    "index": 417,
     "redacted": false,
     "blacklisted": false
   },
@@ -8756,7 +9027,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 1858017404,
-    "index": 348,
+    "index": 346,
     "redacted": false,
     "blacklisted": false
   },
@@ -8825,7 +9096,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 1868951802,
-    "index": 290,
+    "index": 288,
     "redacted": false,
     "blacklisted": false
   },
@@ -8959,7 +9230,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 1876654725,
-    "index": 418,
+    "index": 425,
     "redacted": false,
     "blacklisted": false
   },
@@ -8990,7 +9261,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 1904212609,
-    "index": 334,
+    "index": 332,
     "redacted": false,
     "blacklisted": false
   },
@@ -9105,7 +9376,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 1915896484,
-    "index": 474,
+    "index": 486,
     "redacted": false,
     "blacklisted": false
   },
@@ -9166,7 +9437,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 1926998322,
-    "index": 297,
+    "index": 295,
     "redacted": false,
     "blacklisted": false
   },
@@ -9195,7 +9466,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 1938614582,
-    "index": 337,
+    "index": 335,
     "redacted": false,
     "blacklisted": false
   },
@@ -9485,7 +9756,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 1967830596,
-    "index": 434,
+    "index": 445,
     "redacted": false,
     "blacklisted": false
   },
@@ -9598,7 +9869,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 1993059491,
-    "index": 475,
+    "index": 487,
     "redacted": false,
     "blacklisted": false
   },
@@ -9638,7 +9909,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 2011865981,
-    "index": 421,
+    "index": 429,
     "redacted": false,
     "blacklisted": false
   },
@@ -9678,7 +9949,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 2033129588,
-    "index": 408,
+    "index": 415,
     "redacted": false,
     "blacklisted": false
   },
@@ -9718,7 +9989,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 2035879850,
-    "index": 406,
+    "index": 413,
     "redacted": false,
     "blacklisted": false
   },
@@ -9739,12 +10010,14 @@
     "isPlayerElectedDifficultyNode": false,
     "children": [
       2459423383,
+      706760388,
       3983968749,
       1967830596,
       2357879054,
       4177238551,
       1228015141,
       1164973153,
+      2830771658,
       1256732102,
       3798299782,
       703605277,
@@ -9759,12 +10032,14 @@
     "selfAndAllDescendantHashes": [
       2042336100,
       2459423383,
+      706760388,
       3983968749,
       1967830596,
       2357879054,
       4177238551,
       1228015141,
       1164973153,
+      2830771658,
       1256732102,
       3798299782,
       703605277,
@@ -9787,7 +10062,7 @@
     ],
     "activityTreeChildSortMode": 1,
     "hash": 2042336100,
-    "index": 431,
+    "index": 441,
     "redacted": false,
     "blacklisted": false
   },
@@ -9823,7 +10098,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 2056008765,
-    "index": 360,
+    "index": 358,
     "redacted": false,
     "blacklisted": false
   },
@@ -9862,7 +10137,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 2058120651,
-    "index": 458,
+    "index": 470,
     "redacted": false,
     "blacklisted": false
   },
@@ -9902,7 +10177,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 2075067218,
-    "index": 429,
+    "index": 438,
     "redacted": false,
     "blacklisted": false
   },
@@ -10146,8 +10421,8 @@
   },
   "2122787526": {
     "displayProperties": {
-      "description": "In Supremacy - Guardian Games, Guardians are teamed up with other Guardians of the same class.",
-      "name": "Supremacy - Guardian Games",
+      "description": "In Guardian Games: Supremacy, Guardians are teamed up with other Guardians of the same class.",
+      "name": "Guardian Games: Supremacy",
       "iconHash": 0,
       "hasIcon": false
     },
@@ -10179,7 +10454,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 2122787526,
-    "index": 451,
+    "index": 463,
     "redacted": false,
     "blacklisted": false
   },
@@ -10320,24 +10595,13 @@
       2139269186
     ],
     "relatedActivitySetHashes": [
-      2686247072
+      1394800415
     ],
-    "specificActivitySetHash": 2686247072,
+    "specificActivitySetHash": 1394800415,
     "relatedActivityHashes": [
-      644549399,
-      1694347182,
-      4043393686,
-      3180675023,
-      1118369246
+      2914438120
     ],
-    "relatedDirectorNodes": [
-      {
-        "activityGraphHash": 1737926756
-      },
-      {
-        "activityGraphHash": 1737926756
-      }
-    ],
+    "relatedDirectorNodes": [],
     "relatedInteractableActivities": [],
     "relatedLocationHashes": [],
     "sortMatchmadeActivitiesToFront": false,
@@ -10385,7 +10649,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 2168824968,
-    "index": 452,
+    "index": 464,
     "redacted": false,
     "blacklisted": false
   },
@@ -10422,7 +10686,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 2175606369,
-    "index": 356,
+    "index": 354,
     "redacted": false,
     "blacklisted": false
   },
@@ -10462,7 +10726,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 2209740005,
-    "index": 401,
+    "index": 408,
     "redacted": false,
     "blacklisted": false
   },
@@ -10548,7 +10812,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 2224677145,
-    "index": 314,
+    "index": 312,
     "redacted": false,
     "blacklisted": false
   },
@@ -10586,44 +10850,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 2226334814,
-    "index": 302,
-    "redacted": false,
-    "blacklisted": false
-  },
-  "2227755630": {
-    "displayProperties": {
-      "description": "",
-      "name": "Gambit: Class vs. Class",
-      "iconHash": 0,
-      "hasIcon": false
-    },
-    "isPlayerElectedDifficultyNode": false,
-    "parentHash": 2989660305,
-    "children": [],
-    "selfAndAllDescendantHashes": [
-      2227755630
-    ],
-    "relatedActivitySetHashes": [
-      268616272
-    ],
-    "specificActivitySetHash": 268616272,
-    "relatedActivityHashes": [
-      2773994913
-    ],
-    "relatedDirectorNodes": [
-      {
-        "activityGraphHash": 248695599
-      }
-    ],
-    "relatedInteractableActivities": [],
-    "relatedLocationHashes": [],
-    "sortMatchmadeActivitiesToFront": false,
-    "enabledOnTreeTypesListEnum": [
-      0
-    ],
-    "activityTreeChildSortMode": 0,
-    "hash": 2227755630,
-    "index": 282,
+    "index": 300,
     "redacted": false,
     "blacklisted": false
   },
@@ -10654,7 +10881,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 2233809975,
-    "index": 379,
+    "index": 383,
     "redacted": false,
     "blacklisted": false
   },
@@ -10670,14 +10897,18 @@
     "parentHash": 2699534027,
     "children": [
       46852164,
+      3884257799,
       2075067218,
-      684858115
+      684858115,
+      1673838126
     ],
     "selfAndAllDescendantHashes": [
       2244756596,
       46852164,
+      3884257799,
       2075067218,
-      684858115
+      684858115,
+      1673838126
     ],
     "relatedActivitySetHashes": [],
     "relatedDirectorNodes": [],
@@ -10690,7 +10921,7 @@
     ],
     "activityTreeChildSortMode": 1,
     "hash": 2244756596,
-    "index": 426,
+    "index": 434,
     "redacted": false,
     "blacklisted": false
   },
@@ -10784,7 +11015,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 2253980063,
-    "index": 397,
+    "index": 404,
     "redacted": false,
     "blacklisted": false
   },
@@ -10971,7 +11202,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 2307811397,
-    "index": 339,
+    "index": 337,
     "redacted": false,
     "blacklisted": false
   },
@@ -11128,7 +11359,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 2357879054,
-    "index": 435,
+    "index": 446,
     "redacted": false,
     "blacklisted": false
   },
@@ -11260,7 +11491,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 2377146132,
-    "index": 419,
+    "index": 426,
     "redacted": false,
     "blacklisted": false
   },
@@ -11300,7 +11531,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 2383312364,
-    "index": 448,
+    "index": 460,
     "redacted": false,
     "blacklisted": false
   },
@@ -11531,7 +11762,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 2418118823,
-    "index": 460,
+    "index": 472,
     "redacted": false,
     "blacklisted": false
   },
@@ -11571,7 +11802,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 2420562814,
-    "index": 416,
+    "index": 423,
     "redacted": false,
     "blacklisted": false
   },
@@ -11945,7 +12176,45 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 2439569260,
-    "index": 446,
+    "index": 458,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2447131071": {
+    "displayProperties": {
+      "description": "Venture into the Lunar Complex and beyond.",
+      "name": "Skywatch",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "isPlayerElectedDifficultyNode": false,
+    "parentHash": 502948146,
+    "children": [],
+    "selfAndAllDescendantHashes": [
+      2447131071
+    ],
+    "relatedActivitySetHashes": [
+      2655482543,
+      163479881
+    ],
+    "specificActivitySetHash": 163479881,
+    "relatedActivityHashes": [
+      2583725353
+    ],
+    "relatedDirectorNodes": [
+      {
+        "activityGraphHash": 1733518967
+      }
+    ],
+    "relatedInteractableActivities": [],
+    "relatedLocationHashes": [],
+    "sortMatchmadeActivitiesToFront": false,
+    "enabledOnTreeTypesListEnum": [
+      1
+    ],
+    "activityTreeChildSortMode": 0,
+    "hash": 2447131071,
+    "index": 393,
     "redacted": false,
     "blacklisted": false
   },
@@ -11987,7 +12256,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 2449058537,
-    "index": 374,
+    "index": 378,
     "redacted": false,
     "blacklisted": false
   },
@@ -12026,7 +12295,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 2450627205,
-    "index": 369,
+    "index": 373,
     "redacted": false,
     "blacklisted": false
   },
@@ -12065,7 +12334,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 2453084773,
-    "index": 468,
+    "index": 480,
     "redacted": false,
     "blacklisted": false
   },
@@ -12104,7 +12373,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 2459423383,
-    "index": 432,
+    "index": 442,
     "redacted": false,
     "blacklisted": false
   },
@@ -12183,7 +12452,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 2479774845,
-    "index": 386,
+    "index": 391,
     "redacted": false,
     "blacklisted": false
   },
@@ -12222,7 +12491,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 2492170354,
-    "index": 462,
+    "index": 474,
     "redacted": false,
     "blacklisted": false
   },
@@ -12756,7 +13025,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 2562661358,
-    "index": 341,
+    "index": 339,
     "redacted": false,
     "blacklisted": false
   },
@@ -12876,7 +13145,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 2584499949,
-    "index": 455,
+    "index": 467,
     "redacted": false,
     "blacklisted": false
   },
@@ -12953,6 +13222,43 @@
     "activityTreeChildSortMode": 0,
     "hash": 2598332746,
     "index": 173,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2599430298": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "icon": "/common/destiny2_content/icons/e7bfff82ee834b8de82e7985920ec247.jpg",
+      "iconHash": 0,
+      "hasIcon": true
+    },
+    "isPlayerElectedDifficultyNode": false,
+    "parentHash": 1230538617,
+    "children": [],
+    "selfAndAllDescendantHashes": [
+      2599430298
+    ],
+    "relatedActivitySetHashes": [
+      987263955
+    ],
+    "specificActivitySetHash": 987263955,
+    "relatedActivityHashes": [
+      3737830648
+    ],
+    "relatedDirectorNodes": [],
+    "relatedInteractableActivities": [],
+    "relatedLocationHashes": [
+      3298481793,
+      2540732786
+    ],
+    "sortMatchmadeActivitiesToFront": false,
+    "enabledOnTreeTypesListEnum": [
+      2
+    ],
+    "activityTreeChildSortMode": 0,
+    "hash": 2599430298,
+    "index": 365,
     "redacted": false,
     "blacklisted": false
   },
@@ -13103,7 +13409,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 2615890201,
-    "index": 368,
+    "index": 372,
     "redacted": false,
     "blacklisted": false
   },
@@ -13136,7 +13442,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 2615890202,
-    "index": 367,
+    "index": 371,
     "redacted": false,
     "blacklisted": false
   },
@@ -13169,7 +13475,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 2615890203,
-    "index": 366,
+    "index": 370,
     "redacted": false,
     "blacklisted": false
   },
@@ -13202,7 +13508,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 2615890204,
-    "index": 365,
+    "index": 369,
     "redacted": false,
     "blacklisted": false
   },
@@ -13235,7 +13541,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 2615890205,
-    "index": 364,
+    "index": 368,
     "redacted": false,
     "blacklisted": false
   },
@@ -13268,7 +13574,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 2615890206,
-    "index": 363,
+    "index": 367,
     "redacted": false,
     "blacklisted": false
   },
@@ -13315,8 +13621,9 @@
     "displayProperties": {
       "description": "",
       "name": "",
+      "icon": "/common/destiny2_content/icons/e7791d6c069ef9d180f9aabde16ac84b.jpg",
       "iconHash": 0,
-      "hasIcon": false
+      "hasIcon": true
     },
     "isPlayerElectedDifficultyNode": false,
     "parentHash": 2726759152,
@@ -13343,7 +13650,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 2632101793,
-    "index": 355,
+    "index": 353,
     "redacted": false,
     "blacklisted": false
   },
@@ -13380,7 +13687,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 2657410418,
-    "index": 371,
+    "index": 375,
     "redacted": false,
     "blacklisted": false
   },
@@ -13586,8 +13893,10 @@
       2244756596,
       1634017685,
       46852164,
+      3884257799,
       2075067218,
-      684858115
+      684858115,
+      1673838126
     ],
     "relatedActivitySetHashes": [],
     "relatedDirectorNodes": [],
@@ -13600,7 +13909,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 2699534027,
-    "index": 424,
+    "index": 432,
     "redacted": false,
     "blacklisted": false
   },
@@ -13677,7 +13986,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 2706066184,
-    "index": 443,
+    "index": 455,
     "redacted": false,
     "blacklisted": false
   },
@@ -13754,7 +14063,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 2726759152,
-    "index": 349,
+    "index": 347,
     "redacted": false,
     "blacklisted": false
   },
@@ -13923,7 +14232,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 2755476582,
-    "index": 388,
+    "index": 394,
     "redacted": false,
     "blacklisted": false
   },
@@ -14128,7 +14437,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 2777991033,
-    "index": 313,
+    "index": 311,
     "redacted": false,
     "blacklisted": false
   },
@@ -14361,7 +14670,47 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 2807030215,
-    "index": 395,
+    "index": 401,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2830771658": {
+    "displayProperties": {
+      "description": "Enter Fikrul's Revenant Fortress in the Tangled Shore, where dark reflections make it difficult to discern illusion from reality.",
+      "name": "Kell's Fall",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "isPlayerElectedDifficultyNode": false,
+    "parentHash": 2042336100,
+    "children": [],
+    "selfAndAllDescendantHashes": [
+      2830771658
+    ],
+    "relatedActivitySetHashes": [
+      1682681212,
+      3276698118
+    ],
+    "specificActivitySetHash": 3276698118,
+    "relatedActivityHashes": [
+      2469127664,
+      824124764
+    ],
+    "relatedDirectorNodes": [
+      {
+        "activityGraphHash": 2427019152
+      }
+    ],
+    "relatedInteractableActivities": [],
+    "relatedLocationHashes": [],
+    "sortMatchmadeActivitiesToFront": false,
+    "enabledOnTreeTypesListEnum": [
+      0,
+      1
+    ],
+    "activityTreeChildSortMode": 0,
+    "hash": 2830771658,
+    "index": 450,
     "redacted": false,
     "blacklisted": false
   },
@@ -14682,7 +15031,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 2933147180,
-    "index": 456,
+    "index": 468,
     "redacted": false,
     "blacklisted": false
   },
@@ -14830,7 +15179,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 2956733544,
-    "index": 288,
+    "index": 286,
     "redacted": false,
     "blacklisted": false
   },
@@ -14870,7 +15219,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 2964671653,
-    "index": 394,
+    "index": 400,
     "redacted": false,
     "blacklisted": false
   },
@@ -14909,7 +15258,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 2967932510,
-    "index": 473,
+    "index": 485,
     "redacted": false,
     "blacklisted": false
   },
@@ -14947,7 +15296,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 2969269241,
-    "index": 381,
+    "index": 385,
     "redacted": false,
     "blacklisted": false
   },
@@ -15056,16 +15405,12 @@
     "parentHash": 3746572615,
     "children": [
       2139269186,
-      3741853944,
-      3071058469,
-      2227755630
+      3138787588
     ],
     "selfAndAllDescendantHashes": [
       2989660305,
       2139269186,
-      3741853944,
-      3071058469,
-      2227755630
+      3138787588
     ],
     "relatedActivitySetHashes": [
       2124847395
@@ -15167,7 +15512,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 3042623299,
-    "index": 445,
+    "index": 457,
     "redacted": false,
     "blacklisted": false
   },
@@ -15376,46 +15721,6 @@
     "redacted": false,
     "blacklisted": false
   },
-  "3071058469": {
-    "displayProperties": {
-      "description": "",
-      "name": "Supremacy - Guardian Games",
-      "iconHash": 0,
-      "hasIcon": false
-    },
-    "isPlayerElectedDifficultyNode": false,
-    "parentHash": 2989660305,
-    "children": [],
-    "selfAndAllDescendantHashes": [
-      3071058469
-    ],
-    "relatedActivitySetHashes": [
-      937674903
-    ],
-    "specificActivitySetHash": 937674903,
-    "relatedActivityHashes": [
-      3432224095
-    ],
-    "relatedDirectorNodes": [
-      {
-        "activityGraphHash": 4088006058
-      },
-      {
-        "activityGraphHash": 1737926756
-      }
-    ],
-    "relatedInteractableActivities": [],
-    "relatedLocationHashes": [],
-    "sortMatchmadeActivitiesToFront": false,
-    "enabledOnTreeTypesListEnum": [
-      0
-    ],
-    "activityTreeChildSortMode": 0,
-    "hash": 3071058469,
-    "index": 281,
-    "redacted": false,
-    "blacklisted": false
-  },
   "3077884263": {
     "displayProperties": {
       "description": "",
@@ -15571,7 +15876,47 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 3103823530,
-    "index": 300,
+    "index": 298,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3107240863": {
+    "displayProperties": {
+      "description": "Eramis activated the Vex portal once built by Clovis Bray. The Exo Stranger asks for your help in stopping the Vex incursion to Europa.",
+      "name": "The Glassway",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "isPlayerElectedDifficultyNode": false,
+    "parentHash": 551398664,
+    "children": [],
+    "selfAndAllDescendantHashes": [
+      3107240863
+    ],
+    "relatedActivitySetHashes": [
+      661337873,
+      1749086889
+    ],
+    "specificActivitySetHash": 1749086889,
+    "relatedActivityHashes": [
+      433385117,
+      701417737
+    ],
+    "relatedDirectorNodes": [
+      {
+        "activityGraphHash": 2021988413
+      }
+    ],
+    "relatedInteractableActivities": [],
+    "relatedLocationHashes": [],
+    "sortMatchmadeActivitiesToFront": false,
+    "enabledOnTreeTypesListEnum": [
+      0,
+      1
+    ],
+    "activityTreeChildSortMode": 0,
+    "hash": 3107240863,
+    "index": 427,
     "redacted": false,
     "blacklisted": false
   },
@@ -15652,6 +15997,40 @@
     "activityTreeChildSortMode": 0,
     "hash": 3128886031,
     "index": 180,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3138787588": {
+    "displayProperties": {
+      "description": "",
+      "name": "Rush Remixed",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "isPlayerElectedDifficultyNode": false,
+    "parentHash": 2989660305,
+    "children": [],
+    "selfAndAllDescendantHashes": [
+      3138787588
+    ],
+    "relatedActivitySetHashes": [
+      3346618113
+    ],
+    "specificActivitySetHash": 3346618113,
+    "relatedActivityHashes": [
+      1475362662,
+      3268128802
+    ],
+    "relatedDirectorNodes": [],
+    "relatedInteractableActivities": [],
+    "relatedLocationHashes": [],
+    "sortMatchmadeActivitiesToFront": false,
+    "enabledOnTreeTypesListEnum": [
+      0
+    ],
+    "activityTreeChildSortMode": 0,
+    "hash": 3138787588,
+    "index": 280,
     "redacted": false,
     "blacklisted": false
   },
@@ -15817,7 +16196,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 3165302022,
-    "index": 301,
+    "index": 299,
     "redacted": false,
     "blacklisted": false
   },
@@ -15855,7 +16234,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 3167289473,
-    "index": 310,
+    "index": 308,
     "redacted": false,
     "blacklisted": false
   },
@@ -15979,7 +16358,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 3198833001,
-    "index": 377,
+    "index": 381,
     "redacted": false,
     "blacklisted": false
   },
@@ -16018,7 +16397,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 3214595725,
-    "index": 471,
+    "index": 483,
     "redacted": false,
     "blacklisted": false
   },
@@ -16217,7 +16596,7 @@
   "3286412528": {
     "displayProperties": {
       "description": "",
-      "name": "Heliostat",
+      "name": "Pinnacle Ops",
       "iconHash": 0,
       "hasIcon": false
     },
@@ -16230,7 +16609,21 @@
     "relatedActivitySetHashes": [
       3140437225
     ],
-    "relatedDirectorNodes": [],
+    "specificActivitySetHash": 3140437225,
+    "relatedActivityHashes": [
+      1677357094,
+      2989816034,
+      2469127664,
+      824124764
+    ],
+    "relatedDirectorNodes": [
+      {
+        "activityGraphHash": 2427019152
+      },
+      {
+        "activityGraphHash": 2427019152
+      }
+    ],
     "relatedInteractableActivities": [],
     "relatedLocationHashes": [],
     "sortMatchmadeActivitiesToFront": false,
@@ -16239,7 +16632,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 3286412528,
-    "index": 323,
+    "index": 321,
     "redacted": false,
     "blacklisted": false
   },
@@ -16509,7 +16902,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 3321942880,
-    "index": 335,
+    "index": 333,
     "redacted": false,
     "blacklisted": false
   },
@@ -16547,7 +16940,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 3328051554,
-    "index": 376,
+    "index": 380,
     "redacted": false,
     "blacklisted": false
   },
@@ -16587,7 +16980,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 3352542773,
-    "index": 414,
+    "index": 421,
     "redacted": false,
     "blacklisted": false
   },
@@ -16665,7 +17058,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 3369076553,
-    "index": 457,
+    "index": 469,
     "redacted": false,
     "blacklisted": false
   },
@@ -16797,7 +17190,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 3422420720,
-    "index": 287,
+    "index": 285,
     "redacted": false,
     "blacklisted": false
   },
@@ -16844,6 +17237,40 @@
     "activityTreeChildSortMode": 0,
     "hash": 3443108432,
     "index": 236,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3445278841": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "isPlayerElectedDifficultyNode": false,
+    "parentHash": 1230538617,
+    "children": [],
+    "selfAndAllDescendantHashes": [
+      3445278841
+    ],
+    "relatedActivitySetHashes": [
+      237308266
+    ],
+    "specificActivitySetHash": 237308266,
+    "relatedActivityHashes": [
+      3378829308,
+      2914438120
+    ],
+    "relatedDirectorNodes": [],
+    "relatedInteractableActivities": [],
+    "relatedLocationHashes": [],
+    "sortMatchmadeActivitiesToFront": false,
+    "enabledOnTreeTypesListEnum": [
+      2
+    ],
+    "activityTreeChildSortMode": 0,
+    "hash": 3445278841,
+    "index": 361,
     "redacted": false,
     "blacklisted": false
   },
@@ -16914,7 +17341,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 3477491020,
-    "index": 319,
+    "index": 317,
     "redacted": false,
     "blacklisted": false
   },
@@ -16947,7 +17374,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 3477491023,
-    "index": 320,
+    "index": 318,
     "redacted": false,
     "blacklisted": false
   },
@@ -16987,7 +17414,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 3490172317,
-    "index": 400,
+    "index": 407,
     "redacted": false,
     "blacklisted": false
   },
@@ -17065,14 +17492,14 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 3543717811,
-    "index": 304,
+    "index": 302,
     "redacted": false,
     "blacklisted": false
   },
   "3553414158": {
     "displayProperties": {
       "description": "",
-      "name": "The Coil",
+      "name": "Arena Ops",
       "iconHash": 0,
       "hasIcon": false
     },
@@ -17085,7 +17512,21 @@
     "relatedActivitySetHashes": [
       3140437229
     ],
-    "relatedDirectorNodes": [],
+    "specificActivitySetHash": 3140437229,
+    "relatedActivityHashes": [
+      1358300725,
+      449763521,
+      3551516452,
+      1003423312
+    ],
+    "relatedDirectorNodes": [
+      {
+        "activityGraphHash": 4109893017
+      },
+      {
+        "activityGraphHash": 4109893017
+      }
+    ],
     "relatedInteractableActivities": [],
     "relatedLocationHashes": [],
     "sortMatchmadeActivitiesToFront": false,
@@ -17094,7 +17535,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 3553414158,
-    "index": 322,
+    "index": 320,
     "redacted": false,
     "blacklisted": false
   },
@@ -17133,7 +17574,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 3566222232,
-    "index": 453,
+    "index": 465,
     "redacted": false,
     "blacklisted": false
   },
@@ -17173,7 +17614,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 3579649202,
-    "index": 396,
+    "index": 403,
     "redacted": false,
     "blacklisted": false
   },
@@ -17218,7 +17659,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 3581584505,
-    "index": 347,
+    "index": 345,
     "redacted": false,
     "blacklisted": false
   },
@@ -17255,7 +17696,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 3581584506,
-    "index": 346,
+    "index": 344,
     "redacted": false,
     "blacklisted": false
   },
@@ -17292,7 +17733,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 3588755615,
-    "index": 332,
+    "index": 330,
     "redacted": false,
     "blacklisted": false
   },
@@ -17400,7 +17841,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 3629390365,
-    "index": 359,
+    "index": 357,
     "redacted": false,
     "blacklisted": false
   },
@@ -17509,7 +17950,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 3656968659,
-    "index": 345,
+    "index": 343,
     "redacted": false,
     "blacklisted": false
   },
@@ -17723,7 +18164,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 3700191569,
-    "index": 284,
+    "index": 282,
     "redacted": false,
     "blacklisted": false
   },
@@ -17934,46 +18375,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 3735983555,
-    "index": 405,
-    "redacted": false,
-    "blacklisted": false
-  },
-  "3741853944": {
-    "displayProperties": {
-      "description": "",
-      "name": "Expert Rushdown",
-      "iconHash": 0,
-      "hasIcon": false
-    },
-    "isPlayerElectedDifficultyNode": false,
-    "parentHash": 2989660305,
-    "children": [],
-    "selfAndAllDescendantHashes": [
-      3741853944
-    ],
-    "relatedActivitySetHashes": [
-      4167795394
-    ],
-    "specificActivitySetHash": 4167795394,
-    "relatedActivityHashes": [
-      957472909,
-      139413740,
-      584000470
-    ],
-    "relatedDirectorNodes": [
-      {
-        "activityGraphHash": 1737926756
-      }
-    ],
-    "relatedInteractableActivities": [],
-    "relatedLocationHashes": [],
-    "sortMatchmadeActivitiesToFront": false,
-    "enabledOnTreeTypesListEnum": [
-      0
-    ],
-    "activityTreeChildSortMode": 0,
-    "hash": 3741853944,
-    "index": 280,
+    "index": 412,
     "redacted": false,
     "blacklisted": false
   },
@@ -17997,9 +18399,7 @@
       3746572615,
       2989660305,
       2139269186,
-      3741853944,
-      3071058469,
-      2227755630,
+      3138787588,
       934325123,
       3700191569,
       4065879709,
@@ -18133,7 +18533,44 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 3760615091,
-    "index": 289,
+    "index": 287,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3766618924": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "isPlayerElectedDifficultyNode": false,
+    "parentHash": 1230538617,
+    "children": [],
+    "selfAndAllDescendantHashes": [
+      3766618924
+    ],
+    "relatedActivitySetHashes": [
+      1253228567
+    ],
+    "specificActivitySetHash": 1253228567,
+    "relatedActivityHashes": [
+      1814561995
+    ],
+    "relatedDirectorNodes": [
+      {
+        "activityGraphHash": 2681843097
+      }
+    ],
+    "relatedInteractableActivities": [],
+    "relatedLocationHashes": [],
+    "sortMatchmadeActivitiesToFront": false,
+    "enabledOnTreeTypesListEnum": [
+      2
+    ],
+    "activityTreeChildSortMode": 0,
+    "hash": 3766618924,
+    "index": 364,
     "redacted": false,
     "blacklisted": false
   },
@@ -18172,7 +18609,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 3779358866,
-    "index": 464,
+    "index": 476,
     "redacted": false,
     "blacklisted": false
   },
@@ -18249,7 +18686,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 3787331940,
-    "index": 372,
+    "index": 376,
     "redacted": false,
     "blacklisted": false
   },
@@ -18288,7 +18725,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 3798299782,
-    "index": 440,
+    "index": 452,
     "redacted": false,
     "blacklisted": false
   },
@@ -18455,9 +18892,7 @@
       3746572615,
       2989660305,
       2139269186,
-      3741853944,
-      3071058469,
-      2227755630,
+      3138787588,
       934325123,
       3700191569,
       4065879709,
@@ -18638,7 +19073,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 3847869575,
-    "index": 331,
+    "index": 329,
     "redacted": false,
     "blacklisted": false
   },
@@ -18928,6 +19363,46 @@
     "redacted": false,
     "blacklisted": false
   },
+  "3884257799": {
+    "displayProperties": {
+      "description": "Ship-to-ship combat with the most ferocious pirates in the Sol system.",
+      "name": "Ketchcrash",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "isPlayerElectedDifficultyNode": false,
+    "parentHash": 2244756596,
+    "children": [],
+    "selfAndAllDescendantHashes": [
+      3884257799
+    ],
+    "relatedActivitySetHashes": [
+      3345268053,
+      423068481
+    ],
+    "specificActivitySetHash": 423068481,
+    "relatedActivityHashes": [
+      1358300725,
+      449763521
+    ],
+    "relatedDirectorNodes": [
+      {
+        "activityGraphHash": 4109893017
+      }
+    ],
+    "relatedInteractableActivities": [],
+    "relatedLocationHashes": [],
+    "sortMatchmadeActivitiesToFront": false,
+    "enabledOnTreeTypesListEnum": [
+      0,
+      1
+    ],
+    "activityTreeChildSortMode": 0,
+    "hash": 3884257799,
+    "index": 437,
+    "redacted": false,
+    "blacklisted": false
+  },
   "3886883659": {
     "displayProperties": {
       "description": "",
@@ -18995,7 +19470,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 3892471528,
-    "index": 340,
+    "index": 338,
     "redacted": false,
     "blacklisted": false
   },
@@ -19026,7 +19501,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 3896713364,
-    "index": 358,
+    "index": 356,
     "redacted": false,
     "blacklisted": false
   },
@@ -19192,7 +19667,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 3939004408,
-    "index": 423,
+    "index": 431,
     "redacted": false,
     "blacklisted": false
   },
@@ -19309,7 +19784,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 3977270223,
-    "index": 411,
+    "index": 418,
     "redacted": false,
     "blacklisted": false
   },
@@ -19438,7 +19913,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 3983968749,
-    "index": 433,
+    "index": 444,
     "redacted": false,
     "blacklisted": false
   },
@@ -19523,6 +19998,40 @@
     "redacted": false,
     "blacklisted": false
   },
+  "4020984817": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "isPlayerElectedDifficultyNode": false,
+    "parentHash": 1230538617,
+    "children": [],
+    "selfAndAllDescendantHashes": [
+      4020984817
+    ],
+    "relatedActivitySetHashes": [
+      2036913852
+    ],
+    "specificActivitySetHash": 2036913852,
+    "relatedActivityHashes": [
+      1475362662,
+      3268128802
+    ],
+    "relatedDirectorNodes": [],
+    "relatedInteractableActivities": [],
+    "relatedLocationHashes": [],
+    "sortMatchmadeActivitiesToFront": false,
+    "enabledOnTreeTypesListEnum": [
+      2
+    ],
+    "activityTreeChildSortMode": 0,
+    "hash": 4020984817,
+    "index": 362,
+    "redacted": false,
+    "blacklisted": false
+  },
   "4028679958": {
     "displayProperties": {
       "description": "",
@@ -19600,6 +20109,7 @@
       1275440521,
       2964671653,
       2807030215,
+      154327948,
       3579649202,
       2253980063,
       1469346782,
@@ -19624,6 +20134,7 @@
       20106281,
       1876654725,
       2377146132,
+      3107240863,
       437614976,
       2011865981,
       4249359736,
@@ -19640,7 +20151,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 4038998327,
-    "index": 389,
+    "index": 395,
     "redacted": false,
     "blacklisted": false
   },
@@ -19680,7 +20191,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 4054670867,
-    "index": 402,
+    "index": 409,
     "redacted": false,
     "blacklisted": false
   },
@@ -19711,7 +20222,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 4065879709,
-    "index": 285,
+    "index": 283,
     "redacted": false,
     "blacklisted": false
   },
@@ -19750,7 +20261,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 4083405831,
-    "index": 470,
+    "index": 482,
     "redacted": false,
     "blacklisted": false
   },
@@ -19787,7 +20298,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 4087726834,
-    "index": 336,
+    "index": 334,
     "redacted": false,
     "blacklisted": false
   },
@@ -19983,7 +20494,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 4099699092,
-    "index": 291,
+    "index": 289,
     "redacted": false,
     "blacklisted": false
   },
@@ -20065,7 +20576,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 4111662299,
-    "index": 469,
+    "index": 481,
     "redacted": false,
     "blacklisted": false
   },
@@ -20103,7 +20614,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 4119847208,
-    "index": 375,
+    "index": 379,
     "redacted": false,
     "blacklisted": false
   },
@@ -20134,7 +20645,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 4137530814,
-    "index": 330,
+    "index": 328,
     "redacted": false,
     "blacklisted": false
   },
@@ -20174,6 +20685,43 @@
     "activityTreeChildSortMode": 0,
     "hash": 4150045664,
     "index": 60,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "4161344156": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "isPlayerElectedDifficultyNode": false,
+    "parentHash": 1230538617,
+    "children": [],
+    "selfAndAllDescendantHashes": [
+      4161344156
+    ],
+    "relatedActivitySetHashes": [
+      478454994
+    ],
+    "specificActivitySetHash": 478454994,
+    "relatedActivityHashes": [
+      441739340
+    ],
+    "relatedDirectorNodes": [
+      {
+        "activityGraphHash": 2681843097
+      }
+    ],
+    "relatedInteractableActivities": [],
+    "relatedLocationHashes": [],
+    "sortMatchmadeActivitiesToFront": false,
+    "enabledOnTreeTypesListEnum": [
+      2
+    ],
+    "activityTreeChildSortMode": 0,
+    "hash": 4161344156,
+    "index": 363,
     "redacted": false,
     "blacklisted": false
   },
@@ -20336,7 +20884,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 4177238551,
-    "index": 436,
+    "index": 447,
     "redacted": false,
     "blacklisted": false
   },
@@ -20533,7 +21081,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 4213693605,
-    "index": 298,
+    "index": 296,
     "redacted": false,
     "blacklisted": false
   },
@@ -20684,7 +21232,7 @@
     ],
     "activityTreeChildSortMode": 0,
     "hash": 4249359736,
-    "index": 422,
+    "index": 430,
     "redacted": false,
     "blacklisted": false
   },

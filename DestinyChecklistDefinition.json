@@ -1077,6 +1077,162 @@
     "redacted": false,
     "blacklisted": false
   },
+  "853997642": {
+    "displayProperties": {
+      "description": "Collect every tape in Renegades",
+      "name": "Renegades Tapes",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "viewActionString": "View Renegades Tapes",
+    "scope": 0,
+    "entries": [
+      {
+        "hash": 3396295895,
+        "displayProperties": {
+          "description": "",
+          "name": "Renegades Tape #1",
+          "iconHash": 0,
+          "hasIcon": false
+        },
+        "scope": 0
+      },
+      {
+        "hash": 3732739632,
+        "displayProperties": {
+          "description": "",
+          "name": "Renegades Tape #2",
+          "iconHash": 0,
+          "hasIcon": false
+        },
+        "scope": 0
+      },
+      {
+        "hash": 1800737873,
+        "displayProperties": {
+          "description": "",
+          "name": "Renegades Tape #3",
+          "iconHash": 0,
+          "hasIcon": false
+        },
+        "scope": 0
+      },
+      {
+        "hash": 1684087549,
+        "displayProperties": {
+          "description": "",
+          "name": "Renegades Tape #4",
+          "iconHash": 0,
+          "hasIcon": false
+        },
+        "scope": 0
+      },
+      {
+        "hash": 3693307194,
+        "displayProperties": {
+          "description": "",
+          "name": "Renegades Tape #5",
+          "iconHash": 0,
+          "hasIcon": false
+        },
+        "scope": 0
+      },
+      {
+        "hash": 169054111,
+        "displayProperties": {
+          "description": "",
+          "name": "Renegades Tape #6",
+          "iconHash": 0,
+          "hasIcon": false
+        },
+        "scope": 0
+      },
+      {
+        "hash": 1914833583,
+        "displayProperties": {
+          "description": "",
+          "name": "Renegades Tape #7",
+          "iconHash": 0,
+          "hasIcon": false
+        },
+        "scope": 0
+      },
+      {
+        "hash": 1049884776,
+        "displayProperties": {
+          "description": "",
+          "name": "Renegades Tape #8",
+          "iconHash": 0,
+          "hasIcon": false
+        },
+        "scope": 0
+      },
+      {
+        "hash": 958992719,
+        "displayProperties": {
+          "description": "",
+          "name": "Renegades Tape #9",
+          "iconHash": 0,
+          "hasIcon": false
+        },
+        "scope": 0
+      },
+      {
+        "hash": 2187896649,
+        "displayProperties": {
+          "description": "",
+          "name": "Renegades Tape #10",
+          "iconHash": 0,
+          "hasIcon": false
+        },
+        "scope": 0
+      },
+      {
+        "hash": 2229323292,
+        "displayProperties": {
+          "description": "",
+          "name": "Renegades Tape #11",
+          "iconHash": 0,
+          "hasIcon": false
+        },
+        "scope": 0
+      },
+      {
+        "hash": 2949462328,
+        "displayProperties": {
+          "description": "",
+          "name": "Renegades Tape #12",
+          "iconHash": 0,
+          "hasIcon": false
+        },
+        "scope": 0
+      },
+      {
+        "hash": 3329685125,
+        "displayProperties": {
+          "description": "",
+          "name": "Renegades Tape #13",
+          "iconHash": 0,
+          "hasIcon": false
+        },
+        "scope": 0
+      },
+      {
+        "hash": 1439014450,
+        "displayProperties": {
+          "description": "",
+          "name": "Renegades Tape #14",
+          "iconHash": 0,
+          "hasIcon": false
+        },
+        "scope": 0
+      }
+    ],
+    "hash": 853997642,
+    "index": 21,
+    "redacted": false,
+    "blacklisted": false
+  },
   "1062690000": {
     "displayProperties": {
       "description": "Find and collect all Ability Chests on Kepler.",

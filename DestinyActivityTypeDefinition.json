@@ -829,6 +829,18 @@
     "redacted": false,
     "blacklisted": false
   },
+  "3565127261": {
+    "displayProperties": {
+      "name": "Seasonal Arena",
+      "icon": "/img/misc/missing_icon_d2.png",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "hash": 3565127261,
+    "index": 44,
+    "redacted": false,
+    "blacklisted": false
+  },
   "3610972626": {
     "displayProperties": {
       "description": "\"You've been capturing zones and destroying your enemies for a long time, haven't you? Let's pick up the pace a bit.\" —Lord Shaxx\n\nFight for Valor by capturing zones and defeating opponents. All weapons are more lethal, abilities replenish only on kills, and tracker is disabled.",

@@ -14417,38 +14417,6 @@
     "redacted": false,
     "blacklisted": false
   },
-  "1192382425": {
-    "displayProperties": {
-      "description": "",
-      "name": "",
-      "iconHash": 0,
-      "hasIcon": false
-    },
-    "insertAction": {
-      "actionExecuteSeconds": 0,
-      "actionSoundHash": 0,
-      "isPositiveAction": false,
-      "actionType": 0
-    },
-    "plugWhitelist": [
-      {
-        "categoryHash": 1313063513,
-        "categoryIdentifier": "core.gear_systems.event_gear.item_sets.selectors"
-      }
-    ],
-    "socketCategoryHash": 590099826,
-    "visibility": 0,
-    "alwaysRandomizeSockets": false,
-    "isPreviewEnabled": false,
-    "hideDuplicateReusablePlugs": false,
-    "overridesUiAppearance": false,
-    "avoidDuplicatesOnInitialization": false,
-    "currencyScalars": [],
-    "hash": 1192382425,
-    "index": 1180,
-    "redacted": false,
-    "blacklisted": false
-  },
   "1193218522": {
     "displayProperties": {
       "description": "",
@@ -21700,6 +21668,38 @@
     "currencyScalars": [],
     "hash": 1726040302,
     "index": 215,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1728849630": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "insertAction": {
+      "actionExecuteSeconds": 0,
+      "actionSoundHash": 0,
+      "isPositiveAction": false,
+      "actionType": 0
+    },
+    "plugWhitelist": [
+      {
+        "categoryHash": 1313063513,
+        "categoryIdentifier": "core.gear_systems.event_gear.item_sets.selectors"
+      }
+    ],
+    "socketCategoryHash": 590099826,
+    "visibility": 0,
+    "alwaysRandomizeSockets": false,
+    "isPreviewEnabled": false,
+    "hideDuplicateReusablePlugs": false,
+    "overridesUiAppearance": false,
+    "avoidDuplicatesOnInitialization": false,
+    "currencyScalars": [],
+    "hash": 1728849630,
+    "index": 1180,
     "redacted": false,
     "blacklisted": false
   },

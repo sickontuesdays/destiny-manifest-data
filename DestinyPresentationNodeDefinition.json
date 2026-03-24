@@ -1536,6 +1536,10 @@
           "nodeDisplayPriority": 0
         },
         {
+          "collectibleHash": 1194028860,
+          "nodeDisplayPriority": 0
+        },
+        {
           "collectibleHash": 1965238644,
           "nodeDisplayPriority": 0
         }
@@ -3868,7 +3872,7 @@
       3253265639
     ],
     "hash": 95950383,
-    "index": 2184,
+    "index": 2187,
     "redacted": false,
     "blacklisted": false
   },
@@ -4843,7 +4847,7 @@
       490303309
     ],
     "hash": 129598460,
-    "index": 2094,
+    "index": 2097,
     "redacted": false,
     "blacklisted": false
   },
@@ -6614,7 +6618,7 @@
       3741753466
     ],
     "hash": 184846131,
-    "index": 2144,
+    "index": 2147,
     "redacted": false,
     "blacklisted": false
   },
@@ -7162,7 +7166,7 @@
       1194500405
     ],
     "hash": 194243121,
-    "index": 2139,
+    "index": 2142,
     "redacted": false,
     "blacklisted": false
   },
@@ -7292,7 +7296,7 @@
       3740194278
     ],
     "hash": 195234890,
-    "index": 2172,
+    "index": 2175,
     "redacted": false,
     "blacklisted": false
   },
@@ -7646,7 +7650,7 @@
       1065690533
     ],
     "hash": 202990777,
-    "index": 2158,
+    "index": 2161,
     "redacted": false,
     "blacklisted": false
   },
@@ -7688,7 +7692,7 @@
       4242023272
     ],
     "hash": 206116312,
-    "index": 2120,
+    "index": 2123,
     "redacted": false,
     "blacklisted": false
   },
@@ -9791,7 +9795,7 @@
       1773039398
     ],
     "hash": 225742830,
-    "index": 2160,
+    "index": 2163,
     "redacted": false,
     "blacklisted": false
   },
@@ -13689,7 +13693,7 @@
       464627906
     ],
     "hash": 297184034,
-    "index": 2107,
+    "index": 2110,
     "redacted": false,
     "blacklisted": false
   },
@@ -16873,7 +16877,7 @@
       4205995363
     ],
     "hash": 371139471,
-    "index": 2077,
+    "index": 2080,
     "redacted": false,
     "blacklisted": false
   },
@@ -17408,7 +17412,7 @@
       184846131
     ],
     "hash": 386318339,
-    "index": 2148,
+    "index": 2151,
     "redacted": false,
     "blacklisted": false
   },
@@ -20326,7 +20330,7 @@
       3741753466
     ],
     "hash": 464627906,
-    "index": 2102,
+    "index": 2105,
     "redacted": false,
     "blacklisted": false
   },
@@ -22358,7 +22362,7 @@
     },
     "nodeType": 1,
     "isSeasonal": false,
-    "scope": 1,
+    "scope": 0,
     "objectiveHash": 1315179615,
     "children": {
       "presentationNodes": [
@@ -22397,7 +22401,7 @@
     "traitHashes": [],
     "parentNodeHashes": [],
     "hash": 490303309,
-    "index": 2090,
+    "index": 2093,
     "redacted": false,
     "blacklisted": false
   },
@@ -24253,108 +24257,6 @@
     "redacted": false,
     "blacklisted": false
   },
-  "543107399": {
-    "displayProperties": {
-      "description": "",
-      "name": "",
-      "iconHash": 0,
-      "hasIcon": false
-    },
-    "nodeType": 1,
-    "isSeasonal": false,
-    "scope": 0,
-    "objectiveHash": 2847843633,
-    "children": {
-      "presentationNodes": [],
-      "collectibles": [],
-      "records": [
-        {
-          "recordHash": 2172576414,
-          "nodeDisplayPriority": 0
-        },
-        {
-          "recordHash": 2625648364,
-          "nodeDisplayPriority": 0
-        },
-        {
-          "recordHash": 2625648365,
-          "nodeDisplayPriority": 0
-        },
-        {
-          "recordHash": 2625648366,
-          "nodeDisplayPriority": 0
-        },
-        {
-          "recordHash": 2625648367,
-          "nodeDisplayPriority": 0
-        },
-        {
-          "recordHash": 2455093325,
-          "nodeDisplayPriority": 0
-        },
-        {
-          "recordHash": 3846848462,
-          "nodeDisplayPriority": 0
-        },
-        {
-          "recordHash": 1772737206,
-          "nodeDisplayPriority": 0
-        },
-        {
-          "recordHash": 2838218912,
-          "nodeDisplayPriority": 0
-        },
-        {
-          "recordHash": 1635242503,
-          "nodeDisplayPriority": 0
-        },
-        {
-          "recordHash": 1916872039,
-          "nodeDisplayPriority": 0
-        },
-        {
-          "recordHash": 150183638,
-          "nodeDisplayPriority": 0
-        },
-        {
-          "recordHash": 3517536036,
-          "nodeDisplayPriority": 0
-        },
-        {
-          "recordHash": 2208812063,
-          "nodeDisplayPriority": 0
-        },
-        {
-          "recordHash": 2062596518,
-          "nodeDisplayPriority": 0
-        },
-        {
-          "recordHash": 3519356128,
-          "nodeDisplayPriority": 0
-        }
-      ],
-      "metrics": [],
-      "craftables": []
-    },
-    "displayStyle": 0,
-    "screenStyle": 0,
-    "requirements": {
-      "entitlementUnavailableMessage": ""
-    },
-    "disableChildSubscreenNavigation": false,
-    "categoryScoreUnlockValueHash": 0,
-    "maxCategoryRecordScore": 0,
-    "presentationNodeType": 1,
-    "traitIds": [],
-    "traitHashes": [],
-    "parentNodeHashes": [
-      1405381633
-    ],
-    "hash": 543107399,
-    "index": 2065,
-    "redacted": false,
-    "blacklisted": false
-  },
   "543246120": {
     "displayProperties": {
       "description": "Medals awarded for achievement with different player classes.",
@@ -25162,7 +25064,7 @@
       3741753466
     ],
     "hash": 562783996,
-    "index": 2150,
+    "index": 2153,
     "redacted": false,
     "blacklisted": false
   },
@@ -25405,7 +25307,7 @@
       1074663644
     ],
     "hash": 565440981,
-    "index": 2189,
+    "index": 2192,
     "redacted": false,
     "blacklisted": false
   },
@@ -27449,7 +27351,7 @@
       3740194278
     ],
     "hash": 611448447,
-    "index": 2166,
+    "index": 2169,
     "redacted": false,
     "blacklisted": false
   },
@@ -29681,7 +29583,7 @@
       3740194278
     ],
     "hash": 648503481,
-    "index": 2167,
+    "index": 2170,
     "redacted": false,
     "blacklisted": false
   },
@@ -30048,23 +29950,23 @@
       "presentationNodes": [],
       "collectibles": [
         {
-          "collectibleHash": 1436157578,
+          "collectibleHash": 3482518591,
           "nodeDisplayPriority": 0
         },
         {
-          "collectibleHash": 1441821907,
+          "collectibleHash": 3416385798,
           "nodeDisplayPriority": 0
         },
         {
-          "collectibleHash": 2862009341,
+          "collectibleHash": 2489483690,
           "nodeDisplayPriority": 0
         },
         {
-          "collectibleHash": 752215333,
+          "collectibleHash": 2975415040,
           "nodeDisplayPriority": 0
         },
         {
-          "collectibleHash": 29029936,
+          "collectibleHash": 3126301371,
           "nodeDisplayPriority": 0
         }
       ],
@@ -30679,7 +30581,7 @@
       464627906
     ],
     "hash": 680821322,
-    "index": 2105,
+    "index": 2108,
     "redacted": false,
     "blacklisted": false
   },
@@ -32640,7 +32542,7 @@
       3741753466
     ],
     "hash": 724209558,
-    "index": 2131,
+    "index": 2134,
     "redacted": false,
     "blacklisted": false
   },
@@ -33503,7 +33405,7 @@
       724209558
     ],
     "hash": 759794351,
-    "index": 2132,
+    "index": 2135,
     "redacted": false,
     "blacklisted": false
   },
@@ -34384,7 +34286,7 @@
     "traitHashes": [],
     "parentNodeHashes": [],
     "hash": 792162758,
-    "index": 2217,
+    "index": 2220,
     "redacted": false,
     "blacklisted": false
   },
@@ -34716,7 +34618,7 @@
     "traitHashes": [],
     "parentNodeHashes": [],
     "hash": 808940473,
-    "index": 2218,
+    "index": 2221,
     "redacted": false,
     "blacklisted": false
   },
@@ -36140,7 +36042,7 @@
       3741753466
     ],
     "hash": 861774511,
-    "index": 2122,
+    "index": 2125,
     "redacted": false,
     "blacklisted": false
   },
@@ -36658,7 +36560,7 @@
     "traitHashes": [],
     "parentNodeHashes": [],
     "hash": 892975567,
-    "index": 2216,
+    "index": 2219,
     "redacted": false,
     "blacklisted": false
   },
@@ -36766,10 +36668,6 @@
           "nodeDisplayPriority": 0
         },
         {
-          "collectibleHash": 3645527676,
-          "nodeDisplayPriority": 0
-        },
-        {
           "collectibleHash": 954999570,
           "nodeDisplayPriority": 0
         },
@@ -36826,6 +36724,48 @@
     ],
     "hash": 895842570,
     "index": 1210,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "904615496": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "nodeType": 1,
+    "isSeasonal": false,
+    "scope": 0,
+    "objectiveHash": 980914326,
+    "children": {
+      "presentationNodes": [],
+      "collectibles": [],
+      "records": [
+        {
+          "recordHash": 1330816862,
+          "nodeDisplayPriority": 0
+        }
+      ],
+      "metrics": [],
+      "craftables": []
+    },
+    "displayStyle": 0,
+    "screenStyle": 0,
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    },
+    "disableChildSubscreenNavigation": false,
+    "categoryScoreUnlockValueHash": 0,
+    "maxCategoryRecordScore": 0,
+    "presentationNodeType": 1,
+    "traitIds": [],
+    "traitHashes": [],
+    "parentNodeHashes": [
+      1405381633
+    ],
+    "hash": 904615496,
+    "index": 2068,
     "redacted": false,
     "blacklisted": false
   },
@@ -37874,7 +37814,7 @@
       1074663644
     ],
     "hash": 926976517,
-    "index": 2202,
+    "index": 2205,
     "redacted": false,
     "blacklisted": false
   },
@@ -38125,7 +38065,7 @@
       1065690533
     ],
     "hash": 933493037,
-    "index": 2157,
+    "index": 2160,
     "redacted": false,
     "blacklisted": false
   },
@@ -38167,7 +38107,7 @@
       1065690533
     ],
     "hash": 933493038,
-    "index": 2156,
+    "index": 2159,
     "redacted": false,
     "blacklisted": false
   },
@@ -38209,7 +38149,7 @@
       1065690533
     ],
     "hash": 933493039,
-    "index": 2155,
+    "index": 2158,
     "redacted": false,
     "blacklisted": false
   },
@@ -39452,7 +39392,7 @@
       724209558
     ],
     "hash": 971324125,
-    "index": 2134,
+    "index": 2137,
     "redacted": false,
     "blacklisted": false
   },
@@ -39773,7 +39713,7 @@
     "traitHashes": [],
     "parentNodeHashes": [],
     "hash": 993788472,
-    "index": 2213,
+    "index": 2216,
     "redacted": false,
     "blacklisted": false
   },
@@ -40363,7 +40303,7 @@
     "traitHashes": [],
     "parentNodeHashes": [],
     "hash": 1006170986,
-    "index": 2114,
+    "index": 2117,
     "redacted": false,
     "blacklisted": false
   },
@@ -40765,7 +40705,7 @@
       1194500405
     ],
     "hash": 1020100831,
-    "index": 2140,
+    "index": 2143,
     "redacted": false,
     "blacklisted": false
   },
@@ -41194,7 +41134,7 @@
     "traitHashes": [],
     "parentNodeHashes": [],
     "hash": 1027343646,
-    "index": 2214,
+    "index": 2217,
     "redacted": false,
     "blacklisted": false
   },
@@ -41418,7 +41358,7 @@
       3766687048
     ],
     "hash": 1033190777,
-    "index": 2084,
+    "index": 2087,
     "redacted": false,
     "blacklisted": false
   },
@@ -41662,7 +41602,7 @@
     "traitHashes": [],
     "parentNodeHashes": [],
     "hash": 1044121335,
-    "index": 2215,
+    "index": 2218,
     "redacted": false,
     "blacklisted": false
   },
@@ -41986,7 +41926,7 @@
       724209558
     ],
     "hash": 1056236424,
-    "index": 2133,
+    "index": 2136,
     "redacted": false,
     "blacklisted": false
   },
@@ -42355,7 +42295,7 @@
     "traitHashes": [],
     "parentNodeHashes": [],
     "hash": 1061045979,
-    "index": 2212,
+    "index": 2215,
     "redacted": false,
     "blacklisted": false
   },
@@ -42505,7 +42445,7 @@
     "traitHashes": [],
     "parentNodeHashes": [],
     "hash": 1062988660,
-    "index": 2225,
+    "index": 2228,
     "redacted": false,
     "blacklisted": false
   },
@@ -42614,7 +42554,7 @@
     "traitHashes": [],
     "parentNodeHashes": [],
     "hash": 1065690533,
-    "index": 2154,
+    "index": 2157,
     "redacted": false,
     "blacklisted": false
   },
@@ -43131,7 +43071,7 @@
     "traitHashes": [],
     "parentNodeHashes": [],
     "hash": 1074663644,
-    "index": 2187,
+    "index": 2190,
     "redacted": false,
     "blacklisted": false
   },
@@ -44009,7 +43949,7 @@
     "traitHashes": [],
     "parentNodeHashes": [],
     "hash": 1094601249,
-    "index": 2211,
+    "index": 2214,
     "redacted": false,
     "blacklisted": false
   },
@@ -45619,7 +45559,7 @@
       464627906
     ],
     "hash": 1127061516,
-    "index": 2104,
+    "index": 2107,
     "redacted": false,
     "blacklisted": false
   },
@@ -46708,7 +46648,7 @@
       4242023272
     ],
     "hash": 1136207523,
-    "index": 2119,
+    "index": 2122,
     "redacted": false,
     "blacklisted": false
   },
@@ -50545,6 +50485,10 @@
         {
           "collectibleHash": 3420566440,
           "nodeDisplayPriority": 0
+        },
+        {
+          "collectibleHash": 3420566443,
+          "nodeDisplayPriority": 0
         }
       ],
       "records": [],
@@ -52265,7 +52209,7 @@
       3741753466
     ],
     "hash": 1194500405,
-    "index": 2138,
+    "index": 2141,
     "redacted": false,
     "blacklisted": false
   },
@@ -54107,7 +54051,7 @@
       1773039398
     ],
     "hash": 1215035402,
-    "index": 2161,
+    "index": 2164,
     "redacted": false,
     "blacklisted": false
   },
@@ -54598,6 +54542,10 @@
         {
           "collectibleHash": 463375350,
           "nodeDisplayPriority": 0
+        },
+        {
+          "collectibleHash": 3382909772,
+          "nodeDisplayPriority": 0
         }
       ],
       "records": [],
@@ -54625,25 +54573,60 @@
   },
   "1265509360": {
     "displayProperties": {
-      "description": "Keep it secret.  Keep it safe.",
-      "name": "Classified",
-      "icon": "/img/misc/missing_icon_d2.png",
+      "description": "",
+      "name": "",
       "iconHash": 0,
-      "highResIcon": "/img/misc/missing_icon_d2.png",
       "hasIcon": false
     },
-    "nodeType": 0,
+    "nodeType": 2,
     "isSeasonal": false,
-    "scope": 0,
+    "scope": 1,
+    "objectiveHash": 485769438,
+    "children": {
+      "presentationNodes": [],
+      "collectibles": [
+        {
+          "collectibleHash": 2283825331,
+          "nodeDisplayPriority": 0
+        },
+        {
+          "collectibleHash": 242762818,
+          "nodeDisplayPriority": 0
+        },
+        {
+          "collectibleHash": 2881764646,
+          "nodeDisplayPriority": 0
+        },
+        {
+          "collectibleHash": 2286908668,
+          "nodeDisplayPriority": 0
+        },
+        {
+          "collectibleHash": 3624213391,
+          "nodeDisplayPriority": 0
+        }
+      ],
+      "records": [],
+      "metrics": [],
+      "craftables": []
+    },
     "displayStyle": 0,
     "screenStyle": 0,
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    },
     "disableChildSubscreenNavigation": false,
     "categoryScoreUnlockValueHash": 0,
     "maxCategoryRecordScore": 0,
-    "presentationNodeType": 0,
+    "presentationNodeType": 1,
+    "traitIds": [],
+    "traitHashes": [],
+    "parentNodeHashes": [
+      2497860177
+    ],
     "hash": 1265509360,
     "index": 604,
-    "redacted": true,
+    "redacted": false,
     "blacklisted": false
   },
   "1267192217": {
@@ -55766,7 +55749,7 @@
       1062988660
     ],
     "hash": 1279587302,
-    "index": 2235,
+    "index": 2238,
     "redacted": false,
     "blacklisted": false
   },
@@ -55891,7 +55874,7 @@
       1062988660
     ],
     "hash": 1279587303,
-    "index": 2234,
+    "index": 2237,
     "redacted": false,
     "blacklisted": false
   },
@@ -56016,7 +55999,7 @@
       1062988660
     ],
     "hash": 1279587304,
-    "index": 2233,
+    "index": 2236,
     "redacted": false,
     "blacklisted": false
   },
@@ -56141,7 +56124,7 @@
       1062988660
     ],
     "hash": 1279587305,
-    "index": 2232,
+    "index": 2235,
     "redacted": false,
     "blacklisted": false
   },
@@ -56266,7 +56249,7 @@
       1062988660
     ],
     "hash": 1279587306,
-    "index": 2231,
+    "index": 2234,
     "redacted": false,
     "blacklisted": false
   },
@@ -56391,7 +56374,7 @@
       1062988660
     ],
     "hash": 1279587307,
-    "index": 2230,
+    "index": 2233,
     "redacted": false,
     "blacklisted": false
   },
@@ -56516,7 +56499,7 @@
       1062988660
     ],
     "hash": 1279587308,
-    "index": 2229,
+    "index": 2232,
     "redacted": false,
     "blacklisted": false
   },
@@ -56641,7 +56624,7 @@
       1062988660
     ],
     "hash": 1279587309,
-    "index": 2228,
+    "index": 2231,
     "redacted": false,
     "blacklisted": false
   },
@@ -56766,7 +56749,7 @@
       1062988660
     ],
     "hash": 1279587310,
-    "index": 2227,
+    "index": 2230,
     "redacted": false,
     "blacklisted": false
   },
@@ -56891,7 +56874,7 @@
       1062988660
     ],
     "hash": 1279587311,
-    "index": 2226,
+    "index": 2229,
     "redacted": false,
     "blacklisted": false
   },
@@ -57617,7 +57600,7 @@
   },
   "1317417718": {
     "displayProperties": {
-      "description": "Complete all Event Card challenges during Guardian Games. Progress resets at the end of the event.",
+      "description": "Complete Event Challenges during Guardian Games. Progress resets at the end of the event.",
       "name": "Champ",
       "icon": "/common/destiny2_content/icons/d3371079fec75ecf8f916e4fab39700b.png",
       "iconHash": 0,
@@ -57650,7 +57633,39 @@
       "collectibles": [],
       "records": [
         {
-          "recordHash": 3646306576,
+          "recordHash": 4076704393,
+          "nodeDisplayPriority": 0
+        },
+        {
+          "recordHash": 1243179709,
+          "nodeDisplayPriority": 0
+        },
+        {
+          "recordHash": 3843261847,
+          "nodeDisplayPriority": 0
+        },
+        {
+          "recordHash": 1637409881,
+          "nodeDisplayPriority": 0
+        },
+        {
+          "recordHash": 3004879830,
+          "nodeDisplayPriority": 0
+        },
+        {
+          "recordHash": 2174950046,
+          "nodeDisplayPriority": 0
+        },
+        {
+          "recordHash": 683485813,
+          "nodeDisplayPriority": 0
+        },
+        {
+          "recordHash": 4009943274,
+          "nodeDisplayPriority": 0
+        },
+        {
+          "recordHash": 4006849630,
           "nodeDisplayPriority": 0
         },
         {
@@ -57658,11 +57673,7 @@
           "nodeDisplayPriority": 0
         },
         {
-          "recordHash": 1210013197,
-          "nodeDisplayPriority": 0
-        },
-        {
-          "recordHash": 1407510864,
+          "recordHash": 3096041900,
           "nodeDisplayPriority": 0
         },
         {
@@ -60549,7 +60560,7 @@
     "traitHashes": [],
     "parentNodeHashes": [],
     "hash": 1372480243,
-    "index": 2199,
+    "index": 2202,
     "redacted": false,
     "blacklisted": false
   },
@@ -61582,7 +61593,19 @@
     "children": {
       "presentationNodes": [
         {
-          "presentationNodeHash": 543107399,
+          "presentationNodeHash": 2054827946,
+          "nodeDisplayPriority": 0
+        },
+        {
+          "presentationNodeHash": 2054827947,
+          "nodeDisplayPriority": 0
+        },
+        {
+          "presentationNodeHash": 2054827944,
+          "nodeDisplayPriority": 0
+        },
+        {
+          "presentationNodeHash": 904615496,
           "nodeDisplayPriority": 0
         }
       ],
@@ -61663,7 +61686,7 @@
     "traitHashes": [],
     "parentNodeHashes": [],
     "hash": 1406035417,
-    "index": 2200,
+    "index": 2203,
     "redacted": false,
     "blacklisted": false
   },
@@ -61722,7 +61745,7 @@
     "traitHashes": [],
     "parentNodeHashes": [],
     "hash": 1406182576,
-    "index": 2198,
+    "index": 2201,
     "redacted": false,
     "blacklisted": false
   },
@@ -63333,7 +63356,7 @@
       3766687048
     ],
     "hash": 1435597208,
-    "index": 2082,
+    "index": 2085,
     "redacted": false,
     "blacklisted": false
   },
@@ -63402,7 +63425,7 @@
       3766687048
     ],
     "hash": 1435597209,
-    "index": 2081,
+    "index": 2084,
     "redacted": false,
     "blacklisted": false
   },
@@ -63471,7 +63494,7 @@
       3766687048
     ],
     "hash": 1435597211,
-    "index": 2083,
+    "index": 2086,
     "redacted": false,
     "blacklisted": false
   },
@@ -63530,7 +63553,7 @@
     "traitHashes": [],
     "parentNodeHashes": [],
     "hash": 1439737750,
-    "index": 2197,
+    "index": 2200,
     "redacted": false,
     "blacklisted": false
   },
@@ -63904,7 +63927,7 @@
       1916644315
     ],
     "hash": 1447956720,
-    "index": 2067,
+    "index": 2070,
     "redacted": false,
     "blacklisted": false
   },
@@ -63978,7 +64001,7 @@
       1916644315
     ],
     "hash": 1447956721,
-    "index": 2068,
+    "index": 2071,
     "redacted": false,
     "blacklisted": false
   },
@@ -64052,7 +64075,7 @@
       1916644315
     ],
     "hash": 1447956722,
-    "index": 2069,
+    "index": 2072,
     "redacted": false,
     "blacklisted": false
   },
@@ -65279,7 +65302,7 @@
     "traitHashes": [],
     "parentNodeHashes": [],
     "hash": 1476754118,
-    "index": 2222,
+    "index": 2225,
     "redacted": false,
     "blacklisted": false
   },
@@ -67831,7 +67854,7 @@
       1194500405
     ],
     "hash": 1527099915,
-    "index": 2142,
+    "index": 2145,
     "redacted": false,
     "blacklisted": false
   },
@@ -68718,14 +68741,6 @@
           "nodeDisplayPriority": 0
         },
         {
-          "recordHash": 3642657377,
-          "nodeDisplayPriority": 0
-        },
-        {
-          "recordHash": 3642657376,
-          "nodeDisplayPriority": 0
-        },
-        {
           "recordHash": 1835330981,
           "nodeDisplayPriority": 0
         },
@@ -68756,7 +68771,7 @@
       3526463388
     ],
     "hash": 1561908844,
-    "index": 2073,
+    "index": 2076,
     "redacted": false,
     "blacklisted": false
   },
@@ -68796,14 +68811,6 @@
           "nodeDisplayPriority": 0
         },
         {
-          "recordHash": 1239035876,
-          "nodeDisplayPriority": 0
-        },
-        {
-          "recordHash": 1239035877,
-          "nodeDisplayPriority": 0
-        },
-        {
           "recordHash": 4026057234,
           "nodeDisplayPriority": 0
         },
@@ -68834,7 +68841,7 @@
       3526463388
     ],
     "hash": 1561908845,
-    "index": 2072,
+    "index": 2075,
     "redacted": false,
     "blacklisted": false
   },
@@ -68874,14 +68881,6 @@
           "nodeDisplayPriority": 0
         },
         {
-          "recordHash": 3727846186,
-          "nodeDisplayPriority": 0
-        },
-        {
-          "recordHash": 3727846187,
-          "nodeDisplayPriority": 0
-        },
-        {
           "recordHash": 1083771844,
           "nodeDisplayPriority": 0
         },
@@ -68912,7 +68911,7 @@
       3526463388
     ],
     "hash": 1561908847,
-    "index": 2074,
+    "index": 2077,
     "redacted": false,
     "blacklisted": false
   },
@@ -70879,7 +70878,7 @@
       3740194278
     ],
     "hash": 1627216493,
-    "index": 2169,
+    "index": 2172,
     "redacted": false,
     "blacklisted": false
   },
@@ -71699,7 +71698,7 @@
       861774511
     ],
     "hash": 1635301565,
-    "index": 2125,
+    "index": 2128,
     "redacted": false,
     "blacklisted": false
   },
@@ -72814,6 +72813,10 @@
           "nodeDisplayPriority": 0
         },
         {
+          "collectibleHash": 1203800104,
+          "nodeDisplayPriority": 0
+        },
+        {
           "collectibleHash": 1687023288,
           "nodeDisplayPriority": 0
         },
@@ -73204,7 +73207,7 @@
       2329774788
     ],
     "hash": 1661428704,
-    "index": 2098,
+    "index": 2101,
     "redacted": false,
     "blacklisted": false
   },
@@ -77210,7 +77213,7 @@
       1194500405
     ],
     "hash": 1766288005,
-    "index": 2143,
+    "index": 2146,
     "redacted": false,
     "blacklisted": false
   },
@@ -77489,7 +77492,7 @@
     "traitHashes": [],
     "parentNodeHashes": [],
     "hash": 1773039398,
-    "index": 2159,
+    "index": 2162,
     "redacted": false,
     "blacklisted": false
   },
@@ -78421,7 +78424,7 @@
       1194500405
     ],
     "hash": 1802515628,
-    "index": 2141,
+    "index": 2144,
     "redacted": false,
     "blacklisted": false
   },
@@ -82229,7 +82232,7 @@
       861774511
     ],
     "hash": 1890133162,
-    "index": 2127,
+    "index": 2130,
     "redacted": false,
     "blacklisted": false
   },
@@ -83080,7 +83083,7 @@
     "traitHashes": [],
     "parentNodeHashes": [],
     "hash": 1916644315,
-    "index": 2066,
+    "index": 2069,
     "redacted": false,
     "blacklisted": false
   },
@@ -83596,7 +83599,7 @@
       3740194278
     ],
     "hash": 1943229586,
-    "index": 2170,
+    "index": 2173,
     "redacted": false,
     "blacklisted": false
   },
@@ -83685,7 +83688,7 @@
       3098463839
     ],
     "hash": 1946502267,
-    "index": 2174,
+    "index": 2177,
     "redacted": false,
     "blacklisted": false
   },
@@ -84714,6 +84717,10 @@
           "nodeDisplayPriority": 0
         },
         {
+          "collectibleHash": 3715947508,
+          "nodeDisplayPriority": 0
+        },
+        {
           "collectibleHash": 3895764279,
           "nodeDisplayPriority": 0
         },
@@ -84835,7 +84842,7 @@
       562783996
     ],
     "hash": 1957615871,
-    "index": 2151,
+    "index": 2154,
     "redacted": false,
     "blacklisted": false
   },
@@ -85225,7 +85232,7 @@
       861774511
     ],
     "hash": 1964648262,
-    "index": 2130,
+    "index": 2133,
     "redacted": false,
     "blacklisted": false
   },
@@ -85952,7 +85959,7 @@
       2334031483
     ],
     "hash": 1976893861,
-    "index": 2100,
+    "index": 2103,
     "redacted": false,
     "blacklisted": false
   },
@@ -86315,7 +86322,7 @@
       464627906
     ],
     "hash": 1992631833,
-    "index": 2106,
+    "index": 2109,
     "redacted": false,
     "blacklisted": false
   },
@@ -86558,7 +86565,7 @@
       184846131
     ],
     "hash": 1995676814,
-    "index": 2146,
+    "index": 2149,
     "redacted": false,
     "blacklisted": false
   },
@@ -88186,7 +88193,7 @@
     "traitHashes": [],
     "parentNodeHashes": [],
     "hash": 2042926018,
-    "index": 2195,
+    "index": 2198,
     "redacted": false,
     "blacklisted": false
   },
@@ -88668,6 +88675,216 @@
     ],
     "hash": 2050929008,
     "index": 1090,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2054827944": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "nodeType": 1,
+    "isSeasonal": false,
+    "scope": 0,
+    "objectiveHash": 3860753782,
+    "children": {
+      "presentationNodes": [],
+      "collectibles": [],
+      "records": [
+        {
+          "recordHash": 1350410424,
+          "nodeDisplayPriority": 0
+        },
+        {
+          "recordHash": 845644623,
+          "nodeDisplayPriority": 0
+        },
+        {
+          "recordHash": 3286558684,
+          "nodeDisplayPriority": 0
+        },
+        {
+          "recordHash": 4179614523,
+          "nodeDisplayPriority": 0
+        },
+        {
+          "recordHash": 241162463,
+          "nodeDisplayPriority": 0
+        },
+        {
+          "recordHash": 2360044588,
+          "nodeDisplayPriority": 0
+        },
+        {
+          "recordHash": 1732152233,
+          "nodeDisplayPriority": 0
+        },
+        {
+          "recordHash": 2470696733,
+          "nodeDisplayPriority": 0
+        }
+      ],
+      "metrics": [],
+      "craftables": []
+    },
+    "displayStyle": 0,
+    "screenStyle": 0,
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    },
+    "disableChildSubscreenNavigation": false,
+    "categoryScoreUnlockValueHash": 0,
+    "maxCategoryRecordScore": 0,
+    "presentationNodeType": 1,
+    "traitIds": [],
+    "traitHashes": [],
+    "parentNodeHashes": [
+      1405381633
+    ],
+    "hash": 2054827944,
+    "index": 2067,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2054827946": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "nodeType": 1,
+    "isSeasonal": false,
+    "scope": 0,
+    "objectiveHash": 58113440,
+    "children": {
+      "presentationNodes": [],
+      "collectibles": [],
+      "records": [
+        {
+          "recordHash": 4208360978,
+          "nodeDisplayPriority": 0
+        },
+        {
+          "recordHash": 2002677709,
+          "nodeDisplayPriority": 0
+        },
+        {
+          "recordHash": 4088152994,
+          "nodeDisplayPriority": 0
+        },
+        {
+          "recordHash": 4001674405,
+          "nodeDisplayPriority": 0
+        },
+        {
+          "recordHash": 2291296465,
+          "nodeDisplayPriority": 0
+        },
+        {
+          "recordHash": 2744037442,
+          "nodeDisplayPriority": 0
+        },
+        {
+          "recordHash": 2047848123,
+          "nodeDisplayPriority": 0
+        },
+        {
+          "recordHash": 900178591,
+          "nodeDisplayPriority": 0
+        }
+      ],
+      "metrics": [],
+      "craftables": []
+    },
+    "displayStyle": 0,
+    "screenStyle": 0,
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    },
+    "disableChildSubscreenNavigation": false,
+    "categoryScoreUnlockValueHash": 0,
+    "maxCategoryRecordScore": 0,
+    "presentationNodeType": 1,
+    "traitIds": [],
+    "traitHashes": [],
+    "parentNodeHashes": [
+      1405381633
+    ],
+    "hash": 2054827946,
+    "index": 2065,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2054827947": {
+    "displayProperties": {
+      "description": "",
+      "name": "",
+      "iconHash": 0,
+      "hasIcon": false
+    },
+    "nodeType": 1,
+    "isSeasonal": false,
+    "scope": 0,
+    "objectiveHash": 3713440005,
+    "children": {
+      "presentationNodes": [],
+      "collectibles": [],
+      "records": [
+        {
+          "recordHash": 355141223,
+          "nodeDisplayPriority": 0
+        },
+        {
+          "recordHash": 566688294,
+          "nodeDisplayPriority": 0
+        },
+        {
+          "recordHash": 3526555351,
+          "nodeDisplayPriority": 0
+        },
+        {
+          "recordHash": 1403072282,
+          "nodeDisplayPriority": 0
+        },
+        {
+          "recordHash": 630777460,
+          "nodeDisplayPriority": 0
+        },
+        {
+          "recordHash": 769220197,
+          "nodeDisplayPriority": 0
+        },
+        {
+          "recordHash": 885822378,
+          "nodeDisplayPriority": 0
+        },
+        {
+          "recordHash": 161633486,
+          "nodeDisplayPriority": 0
+        }
+      ],
+      "metrics": [],
+      "craftables": []
+    },
+    "displayStyle": 0,
+    "screenStyle": 0,
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    },
+    "disableChildSubscreenNavigation": false,
+    "categoryScoreUnlockValueHash": 0,
+    "maxCategoryRecordScore": 0,
+    "presentationNodeType": 1,
+    "traitIds": [],
+    "traitHashes": [],
+    "parentNodeHashes": [
+      1405381633
+    ],
+    "hash": 2054827947,
+    "index": 2066,
     "redacted": false,
     "blacklisted": false
   },
@@ -92731,10 +92948,6 @@
           "nodeDisplayPriority": 0
         },
         {
-          "collectibleHash": 282516386,
-          "nodeDisplayPriority": 0
-        },
-        {
           "collectibleHash": 2090653931,
           "nodeDisplayPriority": 0
         },
@@ -94575,6 +94788,10 @@
           "nodeDisplayPriority": 0
         },
         {
+          "collectibleHash": 632891475,
+          "nodeDisplayPriority": 0
+        },
+        {
           "collectibleHash": 1168191341,
           "nodeDisplayPriority": 0
         },
@@ -95028,7 +95245,7 @@
       464627906
     ],
     "hash": 2125973956,
-    "index": 2103,
+    "index": 2106,
     "redacted": false,
     "blacklisted": false
   },
@@ -96637,26 +96854,6 @@
       "collectibles": [],
       "records": [
         {
-          "recordHash": 2096302465,
-          "nodeDisplayPriority": 0
-        },
-        {
-          "recordHash": 1309367942,
-          "nodeDisplayPriority": 0
-        },
-        {
-          "recordHash": 2519991248,
-          "nodeDisplayPriority": 0
-        },
-        {
-          "recordHash": 1469486982,
-          "nodeDisplayPriority": 0
-        },
-        {
-          "recordHash": 89629611,
-          "nodeDisplayPriority": 0
-        },
-        {
           "recordHash": 3052275480,
           "nodeDisplayPriority": 0
         },
@@ -96686,6 +96883,26 @@
         },
         {
           "recordHash": 5590258,
+          "nodeDisplayPriority": 0
+        },
+        {
+          "recordHash": 2096302465,
+          "nodeDisplayPriority": 0
+        },
+        {
+          "recordHash": 1309367942,
+          "nodeDisplayPriority": 0
+        },
+        {
+          "recordHash": 2519991248,
+          "nodeDisplayPriority": 0
+        },
+        {
+          "recordHash": 1469486982,
+          "nodeDisplayPriority": 0
+        },
+        {
+          "recordHash": 89629611,
           "nodeDisplayPriority": 0
         }
       ],
@@ -100180,7 +100397,7 @@
       861774511
     ],
     "hash": 2237910703,
-    "index": 2123,
+    "index": 2126,
     "redacted": false,
     "blacklisted": false
   },
@@ -100888,7 +101105,7 @@
     "traitHashes": [],
     "parentNodeHashes": [],
     "hash": 2259246873,
-    "index": 2224,
+    "index": 2227,
     "redacted": false,
     "blacklisted": false
   },
@@ -101851,7 +102068,7 @@
       3111288225
     ],
     "hash": 2292933824,
-    "index": 2112,
+    "index": 2115,
     "redacted": false,
     "blacklisted": false
   },
@@ -102971,7 +103188,7 @@
       464627906
     ],
     "hash": 2299175025,
-    "index": 2108,
+    "index": 2111,
     "redacted": false,
     "blacklisted": false
   },
@@ -103017,7 +103234,7 @@
       184846131
     ],
     "hash": 2300333549,
-    "index": 2147,
+    "index": 2150,
     "redacted": false,
     "blacklisted": false
   },
@@ -103634,7 +103851,7 @@
       3741753466
     ],
     "hash": 2329774788,
-    "index": 2097,
+    "index": 2100,
     "redacted": false,
     "blacklisted": false
   },
@@ -103932,7 +104149,7 @@
       3741753466
     ],
     "hash": 2334031483,
-    "index": 2099,
+    "index": 2102,
     "redacted": false,
     "blacklisted": false
   },
@@ -104293,7 +104510,7 @@
       3253265639
     ],
     "hash": 2338347769,
-    "index": 2182,
+    "index": 2185,
     "redacted": false,
     "blacklisted": false
   },
@@ -104596,7 +104813,7 @@
       562783996
     ],
     "hash": 2356983872,
-    "index": 2152,
+    "index": 2155,
     "redacted": false,
     "blacklisted": false
   },
@@ -106206,7 +106423,7 @@
       3098463839
     ],
     "hash": 2406434090,
-    "index": 2175,
+    "index": 2178,
     "redacted": false,
     "blacklisted": false
   },
@@ -106819,7 +107036,7 @@
       3111288225
     ],
     "hash": 2437015665,
-    "index": 2111,
+    "index": 2114,
     "redacted": false,
     "blacklisted": false
   },
@@ -106861,7 +107078,7 @@
       4205995363
     ],
     "hash": 2438963468,
-    "index": 2078,
+    "index": 2081,
     "redacted": false,
     "blacklisted": false
   },
@@ -107739,10 +107956,6 @@
           "nodeDisplayPriority": 0
         },
         {
-          "collectibleHash": 3140613121,
-          "nodeDisplayPriority": 0
-        },
-        {
           "collectibleHash": 3140613135,
           "nodeDisplayPriority": 0
         },
@@ -107877,7 +108090,7 @@
       4242023272
     ],
     "hash": 2455824356,
-    "index": 2121,
+    "index": 2124,
     "redacted": false,
     "blacklisted": false
   },
@@ -108220,7 +108433,7 @@
       184846131
     ],
     "hash": 2469724325,
-    "index": 2149,
+    "index": 2152,
     "redacted": false,
     "blacklisted": false
   },
@@ -108789,7 +109002,7 @@
       3741753466
     ],
     "hash": 2485764221,
-    "index": 2096,
+    "index": 2099,
     "redacted": false,
     "blacklisted": false
   },
@@ -108910,7 +109123,7 @@
       3937826784
     ],
     "hash": 2491297629,
-    "index": 2164,
+    "index": 2167,
     "redacted": false,
     "blacklisted": false
   },
@@ -111089,7 +111302,7 @@
       861774511
     ],
     "hash": 2550810311,
-    "index": 2128,
+    "index": 2131,
     "redacted": false,
     "blacklisted": false
   },
@@ -114343,7 +114556,7 @@
       3253265639
     ],
     "hash": 2607637677,
-    "index": 2183,
+    "index": 2186,
     "redacted": false,
     "blacklisted": false
   },
@@ -114946,7 +115159,7 @@
       3111288225
     ],
     "hash": 2624324443,
-    "index": 2115,
+    "index": 2118,
     "redacted": false,
     "blacklisted": false
   },
@@ -115049,7 +115262,7 @@
       861774511
     ],
     "hash": 2628581977,
-    "index": 2126,
+    "index": 2129,
     "redacted": false,
     "blacklisted": false
   },
@@ -115599,7 +115812,7 @@
       3098463839
     ],
     "hash": 2649709888,
-    "index": 2180,
+    "index": 2183,
     "redacted": false,
     "blacklisted": false
   },
@@ -115766,7 +115979,7 @@
       1916644315
     ],
     "hash": 2657267606,
-    "index": 2070,
+    "index": 2073,
     "redacted": false,
     "blacklisted": false
   },
@@ -116777,7 +116990,7 @@
     "traitHashes": [],
     "parentNodeHashes": [],
     "hash": 2663569174,
-    "index": 2191,
+    "index": 2194,
     "redacted": false,
     "blacklisted": false
   },
@@ -120335,7 +120548,7 @@
       1074663644
     ],
     "hash": 2755216039,
-    "index": 2220,
+    "index": 2223,
     "redacted": false,
     "blacklisted": false
   },
@@ -121762,7 +121975,7 @@
       724209558
     ],
     "hash": 2781153546,
-    "index": 2137,
+    "index": 2140,
     "redacted": false,
     "blacklisted": false
   },
@@ -122517,25 +122730,60 @@
   },
   "2820892401": {
     "displayProperties": {
-      "description": "Keep it secret.  Keep it safe.",
-      "name": "Classified",
-      "icon": "/img/misc/missing_icon_d2.png",
+      "description": "",
+      "name": "",
       "iconHash": 0,
-      "highResIcon": "/img/misc/missing_icon_d2.png",
       "hasIcon": false
     },
-    "nodeType": 0,
+    "nodeType": 2,
     "isSeasonal": false,
-    "scope": 0,
+    "scope": 1,
+    "objectiveHash": 2850816419,
+    "children": {
+      "presentationNodes": [],
+      "collectibles": [
+        {
+          "collectibleHash": 161146155,
+          "nodeDisplayPriority": 0
+        },
+        {
+          "collectibleHash": 2736793882,
+          "nodeDisplayPriority": 0
+        },
+        {
+          "collectibleHash": 3703551854,
+          "nodeDisplayPriority": 0
+        },
+        {
+          "collectibleHash": 164229460,
+          "nodeDisplayPriority": 0
+        },
+        {
+          "collectibleHash": 151033399,
+          "nodeDisplayPriority": 0
+        }
+      ],
+      "records": [],
+      "metrics": [],
+      "craftables": []
+    },
     "displayStyle": 0,
     "screenStyle": 0,
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    },
     "disableChildSubscreenNavigation": false,
     "categoryScoreUnlockValueHash": 0,
     "maxCategoryRecordScore": 0,
-    "presentationNodeType": 0,
+    "presentationNodeType": 1,
+    "traitIds": [],
+    "traitHashes": [],
+    "parentNodeHashes": [
+      3655910122
+    ],
     "hash": 2820892401,
     "index": 941,
-    "redacted": true,
+    "redacted": false,
     "blacklisted": false
   },
   "2825308952": {
@@ -123359,7 +123607,7 @@
     },
     "nodeType": 1,
     "isSeasonal": false,
-    "scope": 1,
+    "scope": 0,
     "objectiveHash": 2261034306,
     "children": {
       "presentationNodes": [],
@@ -123480,7 +123728,7 @@
       490303309
     ],
     "hash": 2842898084,
-    "index": 2093,
+    "index": 2096,
     "redacted": false,
     "blacklisted": false
   },
@@ -123493,7 +123741,7 @@
     },
     "nodeType": 1,
     "isSeasonal": false,
-    "scope": 1,
+    "scope": 0,
     "objectiveHash": 1840207868,
     "children": {
       "presentationNodes": [],
@@ -123614,7 +123862,7 @@
       490303309
     ],
     "hash": 2842898086,
-    "index": 2091,
+    "index": 2094,
     "redacted": false,
     "blacklisted": false
   },
@@ -123627,7 +123875,7 @@
     },
     "nodeType": 1,
     "isSeasonal": false,
-    "scope": 1,
+    "scope": 0,
     "objectiveHash": 4174612369,
     "children": {
       "presentationNodes": [],
@@ -123748,7 +123996,7 @@
       490303309
     ],
     "hash": 2842898087,
-    "index": 2092,
+    "index": 2095,
     "redacted": false,
     "blacklisted": false
   },
@@ -124884,7 +125132,7 @@
     "traitHashes": [],
     "parentNodeHashes": [],
     "hash": 2872327703,
-    "index": 2223,
+    "index": 2226,
     "redacted": false,
     "blacklisted": false
   },
@@ -125137,7 +125385,7 @@
       1074663644
     ],
     "hash": 2875839731,
-    "index": 2188,
+    "index": 2191,
     "redacted": false,
     "blacklisted": false
   },
@@ -125472,7 +125720,7 @@
     "traitHashes": [],
     "parentNodeHashes": [],
     "hash": 2890100608,
-    "index": 2207,
+    "index": 2210,
     "redacted": false,
     "blacklisted": false
   },
@@ -125506,7 +125754,7 @@
     "traitHashes": [],
     "parentNodeHashes": [],
     "hash": 2890778319,
-    "index": 2113,
+    "index": 2116,
     "redacted": false,
     "blacklisted": false
   },
@@ -125590,7 +125838,7 @@
       4205995363
     ],
     "hash": 2895063261,
-    "index": 2079,
+    "index": 2082,
     "redacted": false,
     "blacklisted": false
   },
@@ -125947,7 +126195,7 @@
       3740194278
     ],
     "hash": 2906423302,
-    "index": 2171,
+    "index": 2174,
     "redacted": false,
     "blacklisted": false
   },
@@ -126026,7 +126274,7 @@
     "traitHashes": [],
     "parentNodeHashes": [],
     "hash": 2906878323,
-    "index": 2206,
+    "index": 2209,
     "redacted": false,
     "blacklisted": false
   },
@@ -127597,7 +127845,7 @@
     "traitHashes": [],
     "parentNodeHashes": [],
     "hash": 2957211084,
-    "index": 2208,
+    "index": 2211,
     "redacted": false,
     "blacklisted": false
   },
@@ -129198,10 +129446,6 @@
         },
         {
           "collectibleHash": 1276571845,
-          "nodeDisplayPriority": 0
-        },
-        {
-          "collectibleHash": 4006666930,
           "nodeDisplayPriority": 0
         },
         {
@@ -131122,7 +131366,7 @@
       3098463839
     ],
     "hash": 3003009297,
-    "index": 2177,
+    "index": 2180,
     "redacted": false,
     "blacklisted": false
   },
@@ -131883,7 +132127,7 @@
     "traitHashes": [],
     "parentNodeHashes": [],
     "hash": 3007543941,
-    "index": 2209,
+    "index": 2212,
     "redacted": false,
     "blacklisted": false
   },
@@ -131946,7 +132190,7 @@
     "traitHashes": [],
     "parentNodeHashes": [],
     "hash": 3007691132,
-    "index": 2203,
+    "index": 2206,
     "redacted": false,
     "blacklisted": false
   },
@@ -132408,7 +132652,7 @@
       3253265639
     ],
     "hash": 3021177861,
-    "index": 2186,
+    "index": 2189,
     "redacted": false,
     "blacklisted": false
   },
@@ -133426,7 +133670,7 @@
     "traitHashes": [],
     "parentNodeHashes": [],
     "hash": 3024468719,
-    "index": 2204,
+    "index": 2207,
     "redacted": false,
     "blacklisted": false
   },
@@ -136208,7 +136452,7 @@
     "traitHashes": [],
     "parentNodeHashes": [],
     "hash": 3041246274,
-    "index": 2205,
+    "index": 2208,
     "redacted": false,
     "blacklisted": false
   },
@@ -138269,7 +138513,7 @@
       2491297629
     ],
     "hash": 3098463839,
-    "index": 2173,
+    "index": 2176,
     "redacted": false,
     "blacklisted": false
   },
@@ -139585,7 +139829,7 @@
       3741753466
     ],
     "hash": 3111288225,
-    "index": 2109,
+    "index": 2112,
     "redacted": false,
     "blacklisted": false
   },
@@ -142068,7 +142312,7 @@
       724209558
     ],
     "hash": 3215697886,
-    "index": 2136,
+    "index": 2139,
     "redacted": false,
     "blacklisted": false
   },
@@ -142791,10 +143035,6 @@
           "nodeDisplayPriority": 0
         },
         {
-          "collectibleHash": 725809525,
-          "nodeDisplayPriority": 0
-        },
-        {
           "collectibleHash": 3009298644,
           "nodeDisplayPriority": 0
         },
@@ -143227,7 +143467,7 @@
       2491297629
     ],
     "hash": 3253265639,
-    "index": 2181,
+    "index": 2184,
     "redacted": false,
     "blacklisted": false
   },
@@ -145047,7 +145287,7 @@
       3610128114
     ],
     "hash": 3271319343,
-    "index": 2089,
+    "index": 2092,
     "redacted": false,
     "blacklisted": false
   },
@@ -145156,7 +145396,7 @@
       3740194278
     ],
     "hash": 3279301738,
-    "index": 2168,
+    "index": 2171,
     "redacted": false,
     "blacklisted": false
   },
@@ -145239,7 +145479,7 @@
       1773039398
     ],
     "hash": 3282837039,
-    "index": 2162,
+    "index": 2165,
     "redacted": false,
     "blacklisted": false
   },
@@ -147452,7 +147692,7 @@
     "traitHashes": [],
     "parentNodeHashes": [],
     "hash": 3342949290,
-    "index": 2210,
+    "index": 2213,
     "redacted": false,
     "blacklisted": false
   },
@@ -149912,7 +150152,7 @@
       4242023272
     ],
     "hash": 3440238121,
-    "index": 2118,
+    "index": 2121,
     "redacted": false,
     "blacklisted": false
   },
@@ -151551,7 +151791,7 @@
       3610128114
     ],
     "hash": 3503352948,
-    "index": 2088,
+    "index": 2091,
     "redacted": false,
     "blacklisted": false
   },
@@ -151621,7 +151861,7 @@
       3610128114
     ],
     "hash": 3503352950,
-    "index": 2086,
+    "index": 2089,
     "redacted": false,
     "blacklisted": false
   },
@@ -151691,7 +151931,7 @@
       3610128114
     ],
     "hash": 3503352951,
-    "index": 2087,
+    "index": 2090,
     "redacted": false,
     "blacklisted": false
   },
@@ -151913,7 +152153,7 @@
       3098463839
     ],
     "hash": 3516910115,
-    "index": 2176,
+    "index": 2179,
     "redacted": false,
     "blacklisted": false
   },
@@ -152300,7 +152540,7 @@
     "traitHashes": [],
     "parentNodeHashes": [],
     "hash": 3526463388,
-    "index": 2071,
+    "index": 2074,
     "redacted": false,
     "blacklisted": false
   },
@@ -154418,7 +154658,7 @@
     "traitHashes": [],
     "parentNodeHashes": [],
     "hash": 3610128114,
-    "index": 2085,
+    "index": 2088,
     "redacted": false,
     "blacklisted": false
   },
@@ -154460,7 +154700,7 @@
       724209558
     ],
     "hash": 3611372588,
-    "index": 2135,
+    "index": 2138,
     "redacted": false,
     "blacklisted": false
   },
@@ -154968,7 +155208,7 @@
     "traitHashes": [],
     "parentNodeHashes": [],
     "hash": 3637752902,
-    "index": 2196,
+    "index": 2199,
     "redacted": false,
     "blacklisted": false
   },
@@ -155308,7 +155548,7 @@
       184846131
     ],
     "hash": 3647485491,
-    "index": 2145,
+    "index": 2148,
     "redacted": false,
     "blacklisted": false
   },
@@ -155383,7 +155623,7 @@
     "traitHashes": [],
     "parentNodeHashes": [],
     "hash": 3654677648,
-    "index": 2194,
+    "index": 2197,
     "redacted": false,
     "blacklisted": false
   },
@@ -156022,7 +156262,7 @@
       3098463839
     ],
     "hash": 3657601640,
-    "index": 2179,
+    "index": 2182,
     "redacted": false,
     "blacklisted": false
   },
@@ -158297,7 +158537,7 @@
       1074663644
     ],
     "hash": 3707324621,
-    "index": 2190,
+    "index": 2193,
     "redacted": false,
     "blacklisted": false
   },
@@ -158895,7 +159135,7 @@
       1074663644
     ],
     "hash": 3722177789,
-    "index": 2221,
+    "index": 2224,
     "redacted": false,
     "blacklisted": false
   },
@@ -158964,7 +159204,7 @@
       3253265639
     ],
     "hash": 3722648865,
-    "index": 2185,
+    "index": 2188,
     "redacted": false,
     "blacklisted": false
   },
@@ -159247,7 +159487,7 @@
       2491297629
     ],
     "hash": 3740194278,
-    "index": 2165,
+    "index": 2168,
     "redacted": false,
     "blacklisted": false
   },
@@ -159732,7 +159972,7 @@
     "traitHashes": [],
     "parentNodeHashes": [],
     "hash": 3741753466,
-    "index": 2095,
+    "index": 2098,
     "redacted": false,
     "blacklisted": false
   },
@@ -160284,7 +160524,7 @@
     "traitHashes": [],
     "parentNodeHashes": [],
     "hash": 3766687048,
-    "index": 2080,
+    "index": 2083,
     "redacted": false,
     "blacklisted": false
   },
@@ -161975,7 +162215,7 @@
     "traitHashes": [],
     "parentNodeHashes": [],
     "hash": 3805676283,
-    "index": 2192,
+    "index": 2195,
     "redacted": false,
     "blacklisted": false
   },
@@ -162526,7 +162766,7 @@
       3526463388
     ],
     "hash": 3815444309,
-    "index": 2075,
+    "index": 2078,
     "redacted": false,
     "blacklisted": false
   },
@@ -162813,7 +163053,7 @@
       861774511
     ],
     "hash": 3825143465,
-    "index": 2124,
+    "index": 2127,
     "redacted": false,
     "blacklisted": false
   },
@@ -163201,27 +163441,27 @@
           "nodeDisplayPriority": 0
         },
         {
-          "metricHash": 1757812403,
+          "metricHash": 4091647893,
           "nodeDisplayPriority": 0
         },
         {
-          "metricHash": 1067433819,
+          "metricHash": 870183833,
           "nodeDisplayPriority": 0
         },
         {
-          "metricHash": 2330926603,
+          "metricHash": 3556400209,
           "nodeDisplayPriority": 0
         },
         {
-          "metricHash": 3290789770,
+          "metricHash": 2454266372,
           "nodeDisplayPriority": 0
         },
         {
-          "metricHash": 2871558814,
+          "metricHash": 3204713344,
           "nodeDisplayPriority": 0
         },
         {
-          "metricHash": 3738124663,
+          "metricHash": 436869697,
           "nodeDisplayPriority": 0
         },
         {
@@ -163409,27 +163649,27 @@
           "nodeDisplayPriority": 0
         },
         {
-          "metricHash": 1757812403,
+          "metricHash": 4091647893,
           "nodeDisplayPriority": 0
         },
         {
-          "metricHash": 1067433819,
+          "metricHash": 870183833,
           "nodeDisplayPriority": 0
         },
         {
-          "metricHash": 2330926603,
+          "metricHash": 3556400209,
           "nodeDisplayPriority": 0
         },
         {
-          "metricHash": 3290789770,
+          "metricHash": 2454266372,
           "nodeDisplayPriority": 0
         },
         {
-          "metricHash": 2871558814,
+          "metricHash": 3204713344,
           "nodeDisplayPriority": 0
         },
         {
-          "metricHash": 3738124663,
+          "metricHash": 436869697,
           "nodeDisplayPriority": 0
         }
       ],
@@ -163450,7 +163690,7 @@
       1074663644
     ],
     "hash": 3844527950,
-    "index": 2219,
+    "index": 2222,
     "redacted": false,
     "blacklisted": false
   },
@@ -164174,7 +164414,7 @@
       4242023272
     ],
     "hash": 3870366694,
-    "index": 2117,
+    "index": 2120,
     "redacted": false,
     "blacklisted": false
   },
@@ -164481,7 +164721,7 @@
     "traitHashes": [],
     "parentNodeHashes": [],
     "hash": 3906341901,
-    "index": 2193,
+    "index": 2196,
     "redacted": false,
     "blacklisted": false
   },
@@ -165323,7 +165563,7 @@
     "traitHashes": [],
     "parentNodeHashes": [],
     "hash": 3937826784,
-    "index": 2163,
+    "index": 2166,
     "redacted": false,
     "blacklisted": false
   },
@@ -169198,25 +169438,60 @@
   },
   "4011452308": {
     "displayProperties": {
-      "description": "Keep it secret.  Keep it safe.",
-      "name": "Classified",
-      "icon": "/img/misc/missing_icon_d2.png",
+      "description": "",
+      "name": "",
       "iconHash": 0,
-      "highResIcon": "/img/misc/missing_icon_d2.png",
       "hasIcon": false
     },
-    "nodeType": 0,
+    "nodeType": 2,
     "isSeasonal": false,
-    "scope": 0,
+    "scope": 1,
+    "objectiveHash": 2346988466,
+    "children": {
+      "presentationNodes": [],
+      "collectibles": [
+        {
+          "collectibleHash": 1338662763,
+          "nodeDisplayPriority": 0
+        },
+        {
+          "collectibleHash": 3955887194,
+          "nodeDisplayPriority": 0
+        },
+        {
+          "collectibleHash": 1211488942,
+          "nodeDisplayPriority": 0
+        },
+        {
+          "collectibleHash": 917391764,
+          "nodeDisplayPriority": 0
+        },
+        {
+          "collectibleHash": 1529583479,
+          "nodeDisplayPriority": 0
+        }
+      ],
+      "records": [],
+      "metrics": [],
+      "craftables": []
+    },
     "displayStyle": 0,
     "screenStyle": 0,
+    "requirements": {
+      "entitlementUnavailableMessage": ""
+    },
     "disableChildSubscreenNavigation": false,
     "categoryScoreUnlockValueHash": 0,
     "maxCategoryRecordScore": 0,
-    "presentationNodeType": 0,
+    "presentationNodeType": 1,
+    "traitIds": [],
+    "traitHashes": [],
+    "parentNodeHashes": [
+      466446949
+    ],
     "hash": 4011452308,
     "index": 255,
-    "redacted": true,
+    "redacted": false,
     "blacklisted": false
   },
   "4011848299": {
@@ -171348,7 +171623,7 @@
       3111288225
     ],
     "hash": 4064301839,
-    "index": 2110,
+    "index": 2113,
     "redacted": false,
     "blacklisted": false
   },
@@ -172617,7 +172892,7 @@
       2334031483
     ],
     "hash": 4101242422,
-    "index": 2101,
+    "index": 2104,
     "redacted": false,
     "blacklisted": false
   },
@@ -175211,7 +175486,7 @@
       562783996
     ],
     "hash": 4150930154,
-    "index": 2153,
+    "index": 2156,
     "redacted": false,
     "blacklisted": false
   },
@@ -175283,6 +175558,10 @@
         },
         {
           "collectibleHash": 58237375,
+          "nodeDisplayPriority": 0
+        },
+        {
+          "collectibleHash": 1943317985,
           "nodeDisplayPriority": 0
         }
       ],
@@ -178026,7 +178305,7 @@
       1074663644
     ],
     "hash": 4193411410,
-    "index": 2201,
+    "index": 2204,
     "redacted": false,
     "blacklisted": false
   },
@@ -178738,7 +179017,7 @@
     "traitHashes": [],
     "parentNodeHashes": [],
     "hash": 4205995363,
-    "index": 2076,
+    "index": 2079,
     "redacted": false,
     "blacklisted": false
   },
@@ -179966,7 +180245,7 @@
       3741753466
     ],
     "hash": 4242023272,
-    "index": 2116,
+    "index": 2119,
     "redacted": false,
     "blacklisted": false
   },
@@ -180149,7 +180428,7 @@
       1062988660
     ],
     "hash": 4253810211,
-    "index": 2250,
+    "index": 2253,
     "redacted": false,
     "blacklisted": false
   },
@@ -180274,7 +180553,7 @@
       1062988660
     ],
     "hash": 4253810212,
-    "index": 2249,
+    "index": 2252,
     "redacted": false,
     "blacklisted": false
   },
@@ -180399,7 +180678,7 @@
       1062988660
     ],
     "hash": 4253810213,
-    "index": 2248,
+    "index": 2251,
     "redacted": false,
     "blacklisted": false
   },
@@ -180524,7 +180803,7 @@
       1062988660
     ],
     "hash": 4253810214,
-    "index": 2247,
+    "index": 2250,
     "redacted": false,
     "blacklisted": false
   },
@@ -180649,7 +180928,7 @@
       1062988660
     ],
     "hash": 4253810215,
-    "index": 2246,
+    "index": 2249,
     "redacted": false,
     "blacklisted": false
   },
@@ -180882,7 +181161,7 @@
       3098463839
     ],
     "hash": 4266106702,
-    "index": 2178,
+    "index": 2181,
     "redacted": false,
     "blacklisted": false
   },
@@ -181007,7 +181286,7 @@
       1062988660
     ],
     "hash": 4270587794,
-    "index": 2244,
+    "index": 2247,
     "redacted": false,
     "blacklisted": false
   },
@@ -181132,7 +181411,7 @@
       1062988660
     ],
     "hash": 4270587795,
-    "index": 2245,
+    "index": 2248,
     "redacted": false,
     "blacklisted": false
   },
@@ -181257,7 +181536,7 @@
       1062988660
     ],
     "hash": 4270587800,
-    "index": 2238,
+    "index": 2241,
     "redacted": false,
     "blacklisted": false
   },
@@ -181382,7 +181661,7 @@
       1062988660
     ],
     "hash": 4270587801,
-    "index": 2239,
+    "index": 2242,
     "redacted": false,
     "blacklisted": false
   },
@@ -181507,7 +181786,7 @@
       1062988660
     ],
     "hash": 4270587802,
-    "index": 2236,
+    "index": 2239,
     "redacted": false,
     "blacklisted": false
   },
@@ -181632,7 +181911,7 @@
       1062988660
     ],
     "hash": 4270587803,
-    "index": 2237,
+    "index": 2240,
     "redacted": false,
     "blacklisted": false
   },
@@ -181757,7 +182036,7 @@
       1062988660
     ],
     "hash": 4270587804,
-    "index": 2242,
+    "index": 2245,
     "redacted": false,
     "blacklisted": false
   },
@@ -181882,7 +182161,7 @@
       1062988660
     ],
     "hash": 4270587805,
-    "index": 2243,
+    "index": 2246,
     "redacted": false,
     "blacklisted": false
   },
@@ -182007,7 +182286,7 @@
       1062988660
     ],
     "hash": 4270587806,
-    "index": 2240,
+    "index": 2243,
     "redacted": false,
     "blacklisted": false
   },
@@ -182132,7 +182411,7 @@
       1062988660
     ],
     "hash": 4270587807,
-    "index": 2241,
+    "index": 2244,
     "redacted": false,
     "blacklisted": false
   },
@@ -182577,7 +182856,7 @@
       861774511
     ],
     "hash": 4287709793,
-    "index": 2129,
+    "index": 2132,
     "redacted": false,
     "blacklisted": false
   },

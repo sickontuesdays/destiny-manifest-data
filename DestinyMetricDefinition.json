@@ -1450,6 +1450,40 @@
     "redacted": false,
     "blacklisted": false
   },
+  "436869697": {
+    "displayProperties": {
+      "description": "Tally of your daily Medallion points, used to determine class standings.",
+      "name": "Daily Medallion Score",
+      "icon": "/common/destiny2_content/icons/c3d05ec53f362d061bef551f022261aa.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/c3d05ec53f362d061bef551f022261aa.png",
+            "/common/destiny2_content/icons/0aea6ce3842ad12110ce7337a0dbcc4e.png",
+            "/common/destiny2_content/icons/15aed71f48cd6b4bba6f5f16254f4f67.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "trackingObjectiveHash": 3856107996,
+    "lowerValueIsBetter": false,
+    "presentationNodeType": 4,
+    "traitIds": [],
+    "traitHashes": [
+      1434215347,
+      2356777566
+    ],
+    "parentNodeHashes": [
+      3844527950,
+      3844527950
+    ],
+    "hash": 436869697,
+    "index": 396,
+    "redacted": false,
+    "blacklisted": false
+  },
   "444039684": {
     "displayProperties": {
       "description": "The number of Champions defeated in PsiOps Battlegrounds and the \"Vox Obscura\" Exotic quest.",
@@ -2525,6 +2559,40 @@
     "redacted": false,
     "blacklisted": false
   },
+  "870183833": {
+    "displayProperties": {
+      "description": "You are in the top X% of scoring for all players during the 2024 Guardian Games!",
+      "name": "Ranking",
+      "icon": "/common/destiny2_content/icons/3ce1fc54fe06e47eab23ef3474a7f71b.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/3ce1fc54fe06e47eab23ef3474a7f71b.png",
+            "/common/destiny2_content/icons/3fccbd4f3073e5d86f7be4c906371278.png",
+            "/common/destiny2_content/icons/4890a27cc5f9f50b010acd346e5131d1.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "trackingObjectiveHash": 1974046936,
+    "lowerValueIsBetter": true,
+    "presentationNodeType": 4,
+    "traitIds": [],
+    "traitHashes": [
+      1434215347,
+      2230116619
+    ],
+    "parentNodeHashes": [
+      3844527950,
+      3844527950
+    ],
+    "hash": 870183833,
+    "index": 392,
+    "redacted": false,
+    "blacklisted": false
+  },
   "870430854": {
     "displayProperties": {
       "description": "The total number of Guardians carried to their first completion of \"Scourge of the Past.\"\n\nTracks from Season 10 onward.",
@@ -3159,40 +3227,6 @@
     ],
     "hash": 1065851514,
     "index": 349,
-    "redacted": false,
-    "blacklisted": false
-  },
-  "1067433819": {
-    "displayProperties": {
-      "description": "You are in the top {var:3455510503}% of scoring for all players during the 2024 Guardian Games!",
-      "name": "Ranking",
-      "icon": "/common/destiny2_content/icons/3ce1fc54fe06e47eab23ef3474a7f71b.png",
-      "iconHash": 0,
-      "iconSequences": [
-        {
-          "frames": [
-            "/common/destiny2_content/icons/3ce1fc54fe06e47eab23ef3474a7f71b.png",
-            "/common/destiny2_content/icons/3fccbd4f3073e5d86f7be4c906371278.png",
-            "/common/destiny2_content/icons/4890a27cc5f9f50b010acd346e5131d1.png"
-          ]
-        }
-      ],
-      "hasIcon": true
-    },
-    "trackingObjectiveHash": 871314890,
-    "lowerValueIsBetter": true,
-    "presentationNodeType": 4,
-    "traitIds": [],
-    "traitHashes": [
-      1434215347,
-      2230116619
-    ],
-    "parentNodeHashes": [
-      3844527950,
-      3844527950
-    ],
-    "hash": 1067433819,
-    "index": 392,
     "redacted": false,
     "blacklisted": false
   },
@@ -5250,39 +5284,6 @@
     "redacted": false,
     "blacklisted": false
   },
-  "1757812403": {
-    "displayProperties": {
-      "description": "Highest score achieved by your fireteam during this year's Guardian Games.",
-      "name": "Top Fireteam Score",
-      "icon": "/common/destiny2_content/icons/c3d05ec53f362d061bef551f022261aa.png",
-      "iconHash": 0,
-      "iconSequences": [
-        {
-          "frames": [
-            "/common/destiny2_content/icons/c3d05ec53f362d061bef551f022261aa.png",
-            "/common/destiny2_content/icons/0aea6ce3842ad12110ce7337a0dbcc4e.png",
-            "/common/destiny2_content/icons/15aed71f48cd6b4bba6f5f16254f4f67.png"
-          ]
-        }
-      ],
-      "hasIcon": true
-    },
-    "trackingObjectiveHash": 2738934758,
-    "lowerValueIsBetter": false,
-    "presentationNodeType": 4,
-    "traitIds": [],
-    "traitHashes": [
-      1434215347
-    ],
-    "parentNodeHashes": [
-      3844527950,
-      3844527950
-    ],
-    "hash": 1757812403,
-    "index": 391,
-    "redacted": false,
-    "blacklisted": false
-  },
   "1765255052": {
     "displayProperties": {
       "description": "The number of tickets with 7 wins and 0 losses.\n\nTracked from Season 10 through Episode 2.",
@@ -7143,39 +7144,6 @@
     "redacted": false,
     "blacklisted": false
   },
-  "2330926603": {
-    "displayProperties": {
-      "description": "Tally of all the Medallions you deposited during this year's Guardian Games.",
-      "name": "Total Medallion Score",
-      "icon": "/common/destiny2_content/icons/c3d05ec53f362d061bef551f022261aa.png",
-      "iconHash": 0,
-      "iconSequences": [
-        {
-          "frames": [
-            "/common/destiny2_content/icons/c3d05ec53f362d061bef551f022261aa.png",
-            "/common/destiny2_content/icons/0aea6ce3842ad12110ce7337a0dbcc4e.png",
-            "/common/destiny2_content/icons/15aed71f48cd6b4bba6f5f16254f4f67.png"
-          ]
-        }
-      ],
-      "hasIcon": true
-    },
-    "trackingObjectiveHash": 2573045510,
-    "lowerValueIsBetter": false,
-    "presentationNodeType": 4,
-    "traitIds": [],
-    "traitHashes": [
-      1434215347
-    ],
-    "parentNodeHashes": [
-      3844527950,
-      3844527950
-    ],
-    "hash": 2330926603,
-    "index": 393,
-    "redacted": false,
-    "blacklisted": false
-  },
   "2337847483": {
     "displayProperties": {
       "description": "The total number of \"Garden of Salvation\" completions using Guided Games.\n\nTracks from Season 10 onward.",
@@ -7476,6 +7444,40 @@
     ],
     "hash": 2445590309,
     "index": 21,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2454266372": {
+    "displayProperties": {
+      "description": "Tally of your daily Medallion points, used to determine class standings.",
+      "name": "Daily Medallion Score",
+      "icon": "/common/destiny2_content/icons/c3d05ec53f362d061bef551f022261aa.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/c3d05ec53f362d061bef551f022261aa.png",
+            "/common/destiny2_content/icons/0aea6ce3842ad12110ce7337a0dbcc4e.png",
+            "/common/destiny2_content/icons/15aed71f48cd6b4bba6f5f16254f4f67.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "trackingObjectiveHash": 2646970031,
+    "lowerValueIsBetter": false,
+    "presentationNodeType": 4,
+    "traitIds": [],
+    "traitHashes": [
+      1434215347,
+      2356777566
+    ],
+    "parentNodeHashes": [
+      3844527950,
+      3844527950
+    ],
+    "hash": 2454266372,
+    "index": 394,
     "redacted": false,
     "blacklisted": false
   },
@@ -8994,40 +8996,6 @@
     "redacted": false,
     "blacklisted": false
   },
-  "2871558814": {
-    "displayProperties": {
-      "description": "Tally of your daily Medallion points, used to determine class standings.",
-      "name": "Daily Medallion Score",
-      "icon": "/common/destiny2_content/icons/c3d05ec53f362d061bef551f022261aa.png",
-      "iconHash": 0,
-      "iconSequences": [
-        {
-          "frames": [
-            "/common/destiny2_content/icons/c3d05ec53f362d061bef551f022261aa.png",
-            "/common/destiny2_content/icons/0aea6ce3842ad12110ce7337a0dbcc4e.png",
-            "/common/destiny2_content/icons/15aed71f48cd6b4bba6f5f16254f4f67.png"
-          ]
-        }
-      ],
-      "hasIcon": true
-    },
-    "trackingObjectiveHash": 1069935823,
-    "lowerValueIsBetter": false,
-    "presentationNodeType": 4,
-    "traitIds": [],
-    "traitHashes": [
-      1434215347,
-      2356777566
-    ],
-    "parentNodeHashes": [
-      3844527950,
-      3844527950
-    ],
-    "hash": 2871558814,
-    "index": 395,
-    "redacted": false,
-    "blacklisted": false
-  },
   "2881588237": {
     "displayProperties": {
       "description": "Number of Hawkmoons acquired from the Harbinger activity.\n\nExpires at the end of Season 15.",
@@ -9892,6 +9860,40 @@
     "redacted": false,
     "blacklisted": false
   },
+  "3204713344": {
+    "displayProperties": {
+      "description": "Tally of your daily Medallion points, used to determine class standings.",
+      "name": "Daily Medallion Score",
+      "icon": "/common/destiny2_content/icons/c3d05ec53f362d061bef551f022261aa.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/c3d05ec53f362d061bef551f022261aa.png",
+            "/common/destiny2_content/icons/0aea6ce3842ad12110ce7337a0dbcc4e.png",
+            "/common/destiny2_content/icons/15aed71f48cd6b4bba6f5f16254f4f67.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "trackingObjectiveHash": 2306092913,
+    "lowerValueIsBetter": false,
+    "presentationNodeType": 4,
+    "traitIds": [],
+    "traitHashes": [
+      1434215347,
+      2356777566
+    ],
+    "parentNodeHashes": [
+      3844527950,
+      3844527950
+    ],
+    "hash": 3204713344,
+    "index": 395,
+    "redacted": false,
+    "blacklisted": false
+  },
   "3207420772": {
     "displayProperties": {
       "description": "The lifetime high score for \"Exodus Crash\" in Nightfall.\n\nTracks from Season 10 onward.",
@@ -10426,40 +10428,6 @@
     ],
     "hash": 3284024615,
     "index": 224,
-    "redacted": false,
-    "blacklisted": false
-  },
-  "3290789770": {
-    "displayProperties": {
-      "description": "Tally of your daily Medallion points, used to determine class standings.",
-      "name": "Daily Medallion Score",
-      "icon": "/common/destiny2_content/icons/c3d05ec53f362d061bef551f022261aa.png",
-      "iconHash": 0,
-      "iconSequences": [
-        {
-          "frames": [
-            "/common/destiny2_content/icons/c3d05ec53f362d061bef551f022261aa.png",
-            "/common/destiny2_content/icons/0aea6ce3842ad12110ce7337a0dbcc4e.png",
-            "/common/destiny2_content/icons/15aed71f48cd6b4bba6f5f16254f4f67.png"
-          ]
-        }
-      ],
-      "hasIcon": true
-    },
-    "trackingObjectiveHash": 1466324045,
-    "lowerValueIsBetter": false,
-    "presentationNodeType": 4,
-    "traitIds": [],
-    "traitHashes": [
-      1434215347,
-      2356777566
-    ],
-    "parentNodeHashes": [
-      3844527950,
-      3844527950
-    ],
-    "hash": 3290789770,
-    "index": 394,
     "redacted": false,
     "blacklisted": false
   },
@@ -11099,6 +11067,39 @@
     ],
     "hash": 3543375894,
     "index": 333,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3556400209": {
+    "displayProperties": {
+      "description": "Tally of all the Medallions you deposited during this year's Guardian Games.",
+      "name": "Total Medallion Score",
+      "icon": "/common/destiny2_content/icons/c3d05ec53f362d061bef551f022261aa.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/c3d05ec53f362d061bef551f022261aa.png",
+            "/common/destiny2_content/icons/0aea6ce3842ad12110ce7337a0dbcc4e.png",
+            "/common/destiny2_content/icons/15aed71f48cd6b4bba6f5f16254f4f67.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "trackingObjectiveHash": 4272037876,
+    "lowerValueIsBetter": false,
+    "presentationNodeType": 4,
+    "traitIds": [],
+    "traitHashes": [
+      1434215347
+    ],
+    "parentNodeHashes": [
+      3844527950,
+      3844527950
+    ],
+    "hash": 3556400209,
+    "index": 393,
     "redacted": false,
     "blacklisted": false
   },
@@ -11743,40 +11744,6 @@
     ],
     "hash": 3725941205,
     "index": 133,
-    "redacted": false,
-    "blacklisted": false
-  },
-  "3738124663": {
-    "displayProperties": {
-      "description": "Tally of your daily Medallion points, used to determine class standings.",
-      "name": "Daily Medallion Score",
-      "icon": "/common/destiny2_content/icons/c3d05ec53f362d061bef551f022261aa.png",
-      "iconHash": 0,
-      "iconSequences": [
-        {
-          "frames": [
-            "/common/destiny2_content/icons/c3d05ec53f362d061bef551f022261aa.png",
-            "/common/destiny2_content/icons/0aea6ce3842ad12110ce7337a0dbcc4e.png",
-            "/common/destiny2_content/icons/15aed71f48cd6b4bba6f5f16254f4f67.png"
-          ]
-        }
-      ],
-      "hasIcon": true
-    },
-    "trackingObjectiveHash": 1771371394,
-    "lowerValueIsBetter": false,
-    "presentationNodeType": 4,
-    "traitIds": [],
-    "traitHashes": [
-      1434215347,
-      2356777566
-    ],
-    "parentNodeHashes": [
-      3844527950,
-      3844527950
-    ],
-    "hash": 3738124663,
-    "index": 396,
     "redacted": false,
     "blacklisted": false
   },
@@ -12956,6 +12923,39 @@
     ],
     "hash": 4074575609,
     "index": 67,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "4091647893": {
+    "displayProperties": {
+      "description": "Highest score achieved by your fireteam during this year's Guardian Games.",
+      "name": "Top Fireteam Score",
+      "icon": "/common/destiny2_content/icons/c3d05ec53f362d061bef551f022261aa.png",
+      "iconHash": 0,
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/c3d05ec53f362d061bef551f022261aa.png",
+            "/common/destiny2_content/icons/0aea6ce3842ad12110ce7337a0dbcc4e.png",
+            "/common/destiny2_content/icons/15aed71f48cd6b4bba6f5f16254f4f67.png"
+          ]
+        }
+      ],
+      "hasIcon": true
+    },
+    "trackingObjectiveHash": 27368200,
+    "lowerValueIsBetter": false,
+    "presentationNodeType": 4,
+    "traitIds": [],
+    "traitHashes": [
+      1434215347
+    ],
+    "parentNodeHashes": [
+      3844527950,
+      3844527950
+    ],
+    "hash": 4091647893,
+    "index": 391,
     "redacted": false,
     "blacklisted": false
   },

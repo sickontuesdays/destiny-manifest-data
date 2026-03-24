@@ -22,10 +22,6 @@
           },
           {
             "nodeActivityId": 3204913413,
-            "activityHash": 2773994913
-          },
-          {
-            "nodeActivityId": 3204913413,
             "activityHash": 1479362175
           }
         ],
@@ -1459,7 +1455,7 @@
     "uiScreen": 0,
     "ignoreForMilestones": false,
     "hash": 1239955057,
-    "index": 45,
+    "index": 46,
     "redacted": false,
     "blacklisted": false
   },
@@ -5278,6 +5274,37 @@
         "uiStyleHash": 0
       },
       {
+        "nodeId": 140782036,
+        "overrideDisplay": {
+          "description": "",
+          "name": "",
+          "iconHash": 0,
+          "hasIcon": false
+        },
+        "position": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "featuringStates": [],
+        "activities": [
+          {
+            "nodeActivityId": 140782036,
+            "activityHash": 3410259822
+          }
+        ],
+        "states": [
+          {
+            "state": 0
+          },
+          {
+            "state": 4
+          }
+        ],
+        "uiActivityTypeOverrideHash": 0,
+        "uiStyleHash": 0
+      },
+      {
         "nodeId": 3705722365,
         "overrideDisplay": {
           "description": "",
@@ -5340,6 +5367,37 @@
         "uiStyleHash": 0
       },
       {
+        "nodeId": 884989891,
+        "overrideDisplay": {
+          "description": "",
+          "name": "",
+          "iconHash": 0,
+          "hasIcon": false
+        },
+        "position": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "featuringStates": [],
+        "activities": [
+          {
+            "nodeActivityId": 884989891,
+            "activityHash": 2583725353
+          }
+        ],
+        "states": [
+          {
+            "state": 0
+          },
+          {
+            "state": 4
+          }
+        ],
+        "uiActivityTypeOverrideHash": 0,
+        "uiStyleHash": 0
+      },
+      {
         "nodeId": 763498686,
         "overrideDisplay": {
           "description": "",
@@ -5379,7 +5437,7 @@
     "uiScreen": 0,
     "ignoreForMilestones": false,
     "hash": 1733518967,
-    "index": 40,
+    "index": 41,
     "redacted": false,
     "blacklisted": false
   },
@@ -5479,229 +5537,6 @@
         "uiStyleHash": 0
       },
       {
-        "nodeId": 910991990,
-        "overrideDisplay": {
-          "description": "",
-          "name": "",
-          "iconHash": 0,
-          "hasIcon": false
-        },
-        "position": {
-          "x": 859,
-          "y": 88,
-          "z": 1
-        },
-        "featuringStates": [
-          {
-            "highlightType": 1
-          }
-        ],
-        "activities": [
-          {
-            "nodeActivityId": 910991990,
-            "activityHash": 1921003985
-          },
-          {
-            "nodeActivityId": 910991990,
-            "activityHash": 3432224095
-          }
-        ],
-        "states": [
-          {
-            "state": 0
-          },
-          {
-            "state": 4
-          }
-        ],
-        "uiActivityTypeOverrideHash": 0,
-        "uiStyleHash": 0
-      },
-      {
-        "nodeId": 3439094404,
-        "overrideDisplay": {
-          "description": "",
-          "name": "",
-          "iconHash": 0,
-          "hasIcon": false
-        },
-        "position": {
-          "x": 523,
-          "y": 88,
-          "z": 1
-        },
-        "featuringStates": [],
-        "activities": [
-          {
-            "nodeActivityId": 3439094404,
-            "activityHash": 4043393686
-          },
-          {
-            "nodeActivityId": 3439094404,
-            "activityHash": 3180675023
-          },
-          {
-            "nodeActivityId": 3439094404,
-            "activityHash": 1118369246
-          }
-        ],
-        "states": [
-          {
-            "state": 0
-          },
-          {
-            "state": 4
-          }
-        ],
-        "uiActivityTypeOverrideHash": 0,
-        "uiStyleHash": 0
-      },
-      {
-        "nodeId": 3872343013,
-        "overrideDisplay": {
-          "description": "",
-          "name": "",
-          "iconHash": 0,
-          "hasIcon": false
-        },
-        "position": {
-          "x": 355,
-          "y": 88,
-          "z": 1
-        },
-        "featuringStates": [],
-        "activities": [
-          {
-            "nodeActivityId": 3872343013,
-            "activityHash": 644549399
-          },
-          {
-            "nodeActivityId": 3872343013,
-            "activityHash": 1694347182
-          }
-        ],
-        "states": [
-          {
-            "state": 0
-          },
-          {
-            "state": 4
-          }
-        ],
-        "uiActivityTypeOverrideHash": 0,
-        "uiStyleHash": 0
-      },
-      {
-        "nodeId": 3047122276,
-        "overrideDisplay": {
-          "description": "",
-          "name": "",
-          "iconHash": 0,
-          "hasIcon": false
-        },
-        "position": {
-          "x": 1100,
-          "y": 180,
-          "z": 1
-        },
-        "featuringStates": [],
-        "activities": [
-          {
-            "nodeActivityId": 3047122276,
-            "activityHash": 3196581196
-          },
-          {
-            "nodeActivityId": 3047122276,
-            "activityHash": 3196581199
-          },
-          {
-            "nodeActivityId": 3047122276,
-            "activityHash": 3196581198
-          },
-          {
-            "nodeActivityId": 3047122276,
-            "activityHash": 3196581193
-          },
-          {
-            "nodeActivityId": 3047122276,
-            "activityHash": 3196581192
-          },
-          {
-            "nodeActivityId": 3047122276,
-            "activityHash": 3196581195
-          },
-          {
-            "nodeActivityId": 3047122276,
-            "activityHash": 3196581194
-          }
-        ],
-        "states": [
-          {
-            "state": 0
-          },
-          {
-            "state": 4
-          }
-        ],
-        "uiActivityTypeOverrideHash": 0,
-        "uiStyleHash": 0
-      },
-      {
-        "nodeId": 3047122279,
-        "overrideDisplay": {
-          "description": "",
-          "name": "",
-          "iconHash": 0,
-          "hasIcon": false
-        },
-        "position": {
-          "x": 1150,
-          "y": 80,
-          "z": 1
-        },
-        "featuringStates": [],
-        "activities": [
-          {
-            "nodeActivityId": 3047122279,
-            "activityHash": 3196581189
-          },
-          {
-            "nodeActivityId": 3047122279,
-            "activityHash": 3196581188
-          },
-          {
-            "nodeActivityId": 3047122279,
-            "activityHash": 1007101588
-          },
-          {
-            "nodeActivityId": 3047122279,
-            "activityHash": 1007101589
-          },
-          {
-            "nodeActivityId": 3047122279,
-            "activityHash": 1007101590
-          },
-          {
-            "nodeActivityId": 3047122279,
-            "activityHash": 1007101591
-          },
-          {
-            "nodeActivityId": 3047122279,
-            "activityHash": 1007101584
-          }
-        ],
-        "states": [
-          {
-            "state": 0
-          },
-          {
-            "state": 4
-          }
-        ],
-        "uiActivityTypeOverrideHash": 0,
-        "uiStyleHash": 0
-      },
-      {
         "nodeId": 2372658048,
         "overrideDisplay": {
           "description": "",
@@ -5723,100 +5558,6 @@
           {
             "nodeActivityId": 2372658048,
             "activityHash": 3830679567
-          }
-        ],
-        "states": [
-          {
-            "state": 0
-          },
-          {
-            "state": 4
-          }
-        ],
-        "uiActivityTypeOverrideHash": 0,
-        "uiStyleHash": 0
-      },
-      {
-        "nodeId": 3047122278,
-        "overrideDisplay": {
-          "description": "",
-          "name": "",
-          "iconHash": 0,
-          "hasIcon": false
-        },
-        "position": {
-          "x": 1200,
-          "y": 180,
-          "z": 1
-        },
-        "featuringStates": [],
-        "activities": [
-          {
-            "nodeActivityId": 3047122278,
-            "activityHash": 1007101585
-          },
-          {
-            "nodeActivityId": 3047122278,
-            "activityHash": 1007101586
-          },
-          {
-            "nodeActivityId": 3047122278,
-            "activityHash": 1007101587
-          },
-          {
-            "nodeActivityId": 3047122278,
-            "activityHash": 1007101596
-          },
-          {
-            "nodeActivityId": 3047122278,
-            "activityHash": 1007101597
-          },
-          {
-            "nodeActivityId": 3047122278,
-            "activityHash": 1057434477
-          },
-          {
-            "nodeActivityId": 3047122278,
-            "activityHash": 1057434476
-          }
-        ],
-        "states": [
-          {
-            "state": 0
-          },
-          {
-            "state": 4
-          }
-        ],
-        "uiActivityTypeOverrideHash": 0,
-        "uiStyleHash": 0
-      },
-      {
-        "nodeId": 1855713199,
-        "overrideDisplay": {
-          "description": "",
-          "name": "",
-          "iconHash": 0,
-          "hasIcon": false
-        },
-        "position": {
-          "x": 691,
-          "y": 88,
-          "z": 1
-        },
-        "featuringStates": [],
-        "activities": [
-          {
-            "nodeActivityId": 1855713199,
-            "activityHash": 957472909
-          },
-          {
-            "nodeActivityId": 1855713199,
-            "activityHash": 139413740
-          },
-          {
-            "nodeActivityId": 1855713199,
-            "activityHash": 584000470
           }
         ],
         "states": [
@@ -5968,6 +5709,41 @@
           {
             "nodeActivityId": 1540899845,
             "activityHash": 867864705
+          }
+        ],
+        "states": [
+          {
+            "state": 0
+          },
+          {
+            "state": 4
+          }
+        ],
+        "uiActivityTypeOverrideHash": 0,
+        "uiStyleHash": 0
+      },
+      {
+        "nodeId": 3867296218,
+        "overrideDisplay": {
+          "description": "",
+          "name": "",
+          "iconHash": 0,
+          "hasIcon": false
+        },
+        "position": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "featuringStates": [],
+        "activities": [
+          {
+            "nodeActivityId": 3867296218,
+            "activityHash": 1207804958
+          },
+          {
+            "nodeActivityId": 3867296218,
+            "activityHash": 3601731034
           }
         ],
         "states": [
@@ -6822,6 +6598,41 @@
         "uiStyleHash": 0
       },
       {
+        "nodeId": 3345945653,
+        "overrideDisplay": {
+          "description": "",
+          "name": "",
+          "iconHash": 0,
+          "hasIcon": false
+        },
+        "position": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "featuringStates": [],
+        "activities": [
+          {
+            "nodeActivityId": 3345945653,
+            "activityHash": 433385117
+          },
+          {
+            "nodeActivityId": 3345945653,
+            "activityHash": 701417737
+          }
+        ],
+        "states": [
+          {
+            "state": 0
+          },
+          {
+            "state": 4
+          }
+        ],
+        "uiActivityTypeOverrideHash": 0,
+        "uiStyleHash": 0
+      },
+      {
         "nodeId": 3740293834,
         "overrideDisplay": {
           "description": "",
@@ -6970,7 +6781,7 @@
     "uiScreen": 0,
     "ignoreForMilestones": false,
     "hash": 2021988413,
-    "index": 41,
+    "index": 42,
     "redacted": false,
     "blacklisted": false
   },
@@ -8422,6 +8233,41 @@
         "uiStyleHash": 0
       },
       {
+        "nodeId": 2863745307,
+        "overrideDisplay": {
+          "description": "",
+          "name": "",
+          "iconHash": 0,
+          "hasIcon": false
+        },
+        "position": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "featuringStates": [],
+        "activities": [
+          {
+            "nodeActivityId": 2863745307,
+            "activityHash": 1677357094
+          },
+          {
+            "nodeActivityId": 2863745307,
+            "activityHash": 2989816034
+          }
+        ],
+        "states": [
+          {
+            "state": 0
+          },
+          {
+            "state": 4
+          }
+        ],
+        "uiActivityTypeOverrideHash": 0,
+        "uiStyleHash": 0
+      },
+      {
         "nodeId": 572150056,
         "overrideDisplay": {
           "description": "",
@@ -8594,6 +8440,41 @@
           {
             "nodeActivityId": 585946518,
             "activityHash": 1948474391
+          }
+        ],
+        "states": [
+          {
+            "state": 0
+          },
+          {
+            "state": 4
+          }
+        ],
+        "uiActivityTypeOverrideHash": 0,
+        "uiStyleHash": 0
+      },
+      {
+        "nodeId": 344801337,
+        "overrideDisplay": {
+          "description": "",
+          "name": "",
+          "iconHash": 0,
+          "hasIcon": false
+        },
+        "position": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "featuringStates": [],
+        "activities": [
+          {
+            "nodeActivityId": 344801337,
+            "activityHash": 2469127664
+          },
+          {
+            "nodeActivityId": 344801337,
+            "activityHash": 824124764
           }
         ],
         "states": [
@@ -8942,7 +8823,21 @@
     "uiScreen": 0,
     "ignoreForMilestones": false,
     "hash": 2427019152,
-    "index": 43,
+    "index": 44,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2444546547": {
+    "nodes": [],
+    "artElements": [],
+    "connections": [],
+    "displayObjectives": [],
+    "displayProgressions": [],
+    "linkedGraphs": [],
+    "uiScreen": 0,
+    "ignoreForMilestones": false,
+    "hash": 2444546547,
+    "index": 40,
     "redacted": false,
     "blacklisted": false
   },
@@ -10767,7 +10662,7 @@
     "uiScreen": 0,
     "ignoreForMilestones": false,
     "hash": 2681843097,
-    "index": 44,
+    "index": 45,
     "redacted": false,
     "blacklisted": false
   },
@@ -14715,6 +14610,37 @@
         ],
         "uiActivityTypeOverrideHash": 0,
         "uiStyleHash": 0
+      },
+      {
+        "nodeId": 1917239993,
+        "overrideDisplay": {
+          "description": "",
+          "name": "",
+          "iconHash": 0,
+          "hasIcon": false
+        },
+        "position": {
+          "x": 500,
+          "y": 535,
+          "z": 1
+        },
+        "featuringStates": [],
+        "activities": [
+          {
+            "nodeActivityId": 1917239993,
+            "activityHash": 726724438
+          }
+        ],
+        "states": [
+          {
+            "state": 4
+          },
+          {
+            "state": 0
+          }
+        ],
+        "uiActivityTypeOverrideHash": 0,
+        "uiStyleHash": 0
       }
     ],
     "artElements": [],
@@ -14798,6 +14724,41 @@
         "uiStyleHash": 0
       },
       {
+        "nodeId": 3976933845,
+        "overrideDisplay": {
+          "description": "",
+          "name": "",
+          "iconHash": 0,
+          "hasIcon": false
+        },
+        "position": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "featuringStates": [],
+        "activities": [
+          {
+            "nodeActivityId": 3976933845,
+            "activityHash": 1358300725
+          },
+          {
+            "nodeActivityId": 3976933845,
+            "activityHash": 449763521
+          }
+        ],
+        "states": [
+          {
+            "state": 0
+          },
+          {
+            "state": 4
+          }
+        ],
+        "uiActivityTypeOverrideHash": 0,
+        "uiStyleHash": 0
+      },
+      {
         "nodeId": 798637364,
         "overrideDisplay": {
           "description": "",
@@ -14866,6 +14827,41 @@
         ],
         "uiActivityTypeOverrideHash": 0,
         "uiStyleHash": 0
+      },
+      {
+        "nodeId": 2019988964,
+        "overrideDisplay": {
+          "description": "",
+          "name": "",
+          "iconHash": 0,
+          "hasIcon": false
+        },
+        "position": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "featuringStates": [],
+        "activities": [
+          {
+            "nodeActivityId": 2019988964,
+            "activityHash": 3551516452
+          },
+          {
+            "nodeActivityId": 2019988964,
+            "activityHash": 1003423312
+          }
+        ],
+        "states": [
+          {
+            "state": 0
+          },
+          {
+            "state": 4
+          }
+        ],
+        "uiActivityTypeOverrideHash": 0,
+        "uiStyleHash": 0
       }
     ],
     "artElements": [],
@@ -14876,7 +14872,7 @@
     "uiScreen": 0,
     "ignoreForMilestones": false,
     "hash": 4109893017,
-    "index": 42,
+    "index": 43,
     "redacted": false,
     "blacklisted": false
   }

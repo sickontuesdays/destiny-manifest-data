@@ -5277,6 +5277,46 @@
     "redacted": false,
     "blacklisted": false
   },
+  "683601264": {
+    "vendorHash": 0,
+    "locationReleases": [
+      {
+        "displayProperties": {
+          "description": "Medallion Depository",
+          "name": "Guardian Games Podium",
+          "icon": "/common/destiny2_content/icons/a44c2df8bb57501a2f1ca31db698ba2b.png",
+          "iconHash": 0,
+          "iconSequences": [
+            {
+              "frames": [
+                "/common/destiny2_content/icons/a44c2df8bb57501a2f1ca31db698ba2b.png",
+                "/common/destiny2_content/icons/b298159317664811755fdbb3fad1585d.png",
+                "/common/destiny2_content/icons/0e72d6dc55973f7012503a303c4b1378.png"
+              ]
+            }
+          ],
+          "hasIcon": true
+        },
+        "smallTransparentIcon": "/common/destiny2_content/icons/a44c2df8bb57501a2f1ca31db698ba2b.png",
+        "mapIcon": "/common/destiny2_content/icons/b298159317664811755fdbb3fad1585d.png",
+        "largeTransparentIcon": "/common/destiny2_content/icons/0e72d6dc55973f7012503a303c4b1378.png",
+        "spawnPoint": 0,
+        "destinationHash": 1737926756,
+        "activityHash": 3737830648,
+        "activityGraphHash": 1737926756,
+        "activityGraphNodeHash": 0,
+        "activityBubbleName": 0,
+        "activityPathBundle": 0,
+        "activityPathDestination": 0,
+        "navPointType": 0,
+        "worldPosition": []
+      }
+    ],
+    "hash": 683601264,
+    "index": 798,
+    "redacted": false,
+    "blacklisted": false
+  },
   "684088204": {
     "vendorHash": 0,
     "locationReleases": [
@@ -7621,46 +7661,6 @@
     ],
     "hash": 910682222,
     "index": 567,
-    "redacted": false,
-    "blacklisted": false
-  },
-  "917058626": {
-    "vendorHash": 0,
-    "locationReleases": [
-      {
-        "displayProperties": {
-          "description": "Medallion Depository",
-          "name": "Guardian Games Podium",
-          "icon": "/common/destiny2_content/icons/a44c2df8bb57501a2f1ca31db698ba2b.png",
-          "iconHash": 0,
-          "iconSequences": [
-            {
-              "frames": [
-                "/common/destiny2_content/icons/a44c2df8bb57501a2f1ca31db698ba2b.png",
-                "/common/destiny2_content/icons/b298159317664811755fdbb3fad1585d.png",
-                "/common/destiny2_content/icons/0e72d6dc55973f7012503a303c4b1378.png"
-              ]
-            }
-          ],
-          "hasIcon": true
-        },
-        "smallTransparentIcon": "/common/destiny2_content/icons/a44c2df8bb57501a2f1ca31db698ba2b.png",
-        "mapIcon": "/common/destiny2_content/icons/b298159317664811755fdbb3fad1585d.png",
-        "largeTransparentIcon": "/common/destiny2_content/icons/0e72d6dc55973f7012503a303c4b1378.png",
-        "spawnPoint": 0,
-        "destinationHash": 1737926756,
-        "activityHash": 3737830648,
-        "activityGraphHash": 1737926756,
-        "activityGraphNodeHash": 0,
-        "activityBubbleName": 0,
-        "activityPathBundle": 0,
-        "activityPathDestination": 0,
-        "navPointType": 0,
-        "worldPosition": []
-      }
-    ],
-    "hash": 917058626,
-    "index": 798,
     "redacted": false,
     "blacklisted": false
   },
@@ -21813,46 +21813,6 @@
     "redacted": false,
     "blacklisted": false
   },
-  "2305436527": {
-    "vendorHash": 0,
-    "locationReleases": [
-      {
-        "displayProperties": {
-          "description": "Medallion Depository",
-          "name": "Guardian Games Podium",
-          "icon": "/common/destiny2_content/icons/a44c2df8bb57501a2f1ca31db698ba2b.png",
-          "iconHash": 0,
-          "iconSequences": [
-            {
-              "frames": [
-                "/common/destiny2_content/icons/a44c2df8bb57501a2f1ca31db698ba2b.png",
-                "/common/destiny2_content/icons/b298159317664811755fdbb3fad1585d.png",
-                "/common/destiny2_content/icons/0e72d6dc55973f7012503a303c4b1378.png"
-              ]
-            }
-          ],
-          "hasIcon": true
-        },
-        "smallTransparentIcon": "/common/destiny2_content/icons/a44c2df8bb57501a2f1ca31db698ba2b.png",
-        "mapIcon": "/common/destiny2_content/icons/b298159317664811755fdbb3fad1585d.png",
-        "largeTransparentIcon": "/common/destiny2_content/icons/0e72d6dc55973f7012503a303c4b1378.png",
-        "spawnPoint": 0,
-        "destinationHash": 1737926756,
-        "activityHash": 3737830648,
-        "activityGraphHash": 1737926756,
-        "activityGraphNodeHash": 0,
-        "activityBubbleName": 0,
-        "activityPathBundle": 0,
-        "activityPathDestination": 0,
-        "navPointType": 0,
-        "worldPosition": []
-      }
-    ],
-    "hash": 2305436527,
-    "index": 799,
-    "redacted": false,
-    "blacklisted": false
-  },
   "2305449281": {
     "vendorHash": 3161908920,
     "locationReleases": [
@@ -34886,6 +34846,46 @@
     ],
     "hash": 3939429058,
     "index": 688,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3943822733": {
+    "vendorHash": 0,
+    "locationReleases": [
+      {
+        "displayProperties": {
+          "description": "Medallion Depository",
+          "name": "Guardian Games Podium",
+          "icon": "/common/destiny2_content/icons/a44c2df8bb57501a2f1ca31db698ba2b.png",
+          "iconHash": 0,
+          "iconSequences": [
+            {
+              "frames": [
+                "/common/destiny2_content/icons/a44c2df8bb57501a2f1ca31db698ba2b.png",
+                "/common/destiny2_content/icons/b298159317664811755fdbb3fad1585d.png",
+                "/common/destiny2_content/icons/0e72d6dc55973f7012503a303c4b1378.png"
+              ]
+            }
+          ],
+          "hasIcon": true
+        },
+        "smallTransparentIcon": "/common/destiny2_content/icons/a44c2df8bb57501a2f1ca31db698ba2b.png",
+        "mapIcon": "/common/destiny2_content/icons/b298159317664811755fdbb3fad1585d.png",
+        "largeTransparentIcon": "/common/destiny2_content/icons/0e72d6dc55973f7012503a303c4b1378.png",
+        "spawnPoint": 0,
+        "destinationHash": 1737926756,
+        "activityHash": 3737830648,
+        "activityGraphHash": 1737926756,
+        "activityGraphNodeHash": 0,
+        "activityBubbleName": 0,
+        "activityPathBundle": 0,
+        "activityPathDestination": 0,
+        "navPointType": 0,
+        "worldPosition": []
+      }
+    ],
+    "hash": 3943822733,
+    "index": 799,
     "redacted": false,
     "blacklisted": false
   },

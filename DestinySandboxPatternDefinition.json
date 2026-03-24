@@ -89,7 +89,7 @@
       }
     ],
     "hash": 877384,
-    "index": 1036,
+    "index": 1048,
     "redacted": false,
     "blacklisted": false
   },
@@ -1597,7 +1597,7 @@
       }
     ],
     "hash": 71057630,
-    "index": 1020,
+    "index": 1032,
     "redacted": false,
     "blacklisted": false
   },
@@ -1785,7 +1785,7 @@
       }
     ],
     "hash": 74733286,
-    "index": 1049,
+    "index": 1061,
     "redacted": false,
     "blacklisted": false
   },
@@ -1879,7 +1879,7 @@
       }
     ],
     "hash": 76739872,
-    "index": 1087,
+    "index": 1099,
     "redacted": false,
     "blacklisted": false
   },
@@ -2928,7 +2928,7 @@
       }
     ],
     "hash": 135971347,
-    "index": 1046,
+    "index": 1058,
     "redacted": false,
     "blacklisted": false
   },
@@ -6136,7 +6136,7 @@
       }
     ],
     "hash": 337893613,
-    "index": 1051,
+    "index": 1063,
     "redacted": false,
     "blacklisted": false
   },
@@ -8518,7 +8518,7 @@
       }
     ],
     "hash": 437854388,
-    "index": 1079,
+    "index": 1091,
     "redacted": false,
     "blacklisted": false
   },
@@ -8612,7 +8612,7 @@
       }
     ],
     "hash": 437854389,
-    "index": 1075,
+    "index": 1087,
     "redacted": false,
     "blacklisted": false
   },
@@ -8706,7 +8706,7 @@
       }
     ],
     "hash": 437854390,
-    "index": 1071,
+    "index": 1083,
     "redacted": false,
     "blacklisted": false
   },
@@ -8800,7 +8800,7 @@
       }
     ],
     "hash": 437854391,
-    "index": 1067,
+    "index": 1079,
     "redacted": false,
     "blacklisted": false
   },
@@ -9244,7 +9244,7 @@
       }
     ],
     "hash": 474671201,
-    "index": 1064,
+    "index": 1076,
     "redacted": false,
     "blacklisted": false
   },
@@ -10095,7 +10095,7 @@
       }
     ],
     "hash": 527989828,
-    "index": 1063,
+    "index": 1075,
     "redacted": false,
     "blacklisted": false
   },
@@ -11048,6 +11048,100 @@
     "redacted": false,
     "blacklisted": false
   },
+  "583870834": {
+    "patternHash": 583870834,
+    "patternGlobalTagIdHash": 335996768,
+    "weaponContentGroupHash": 661279420,
+    "weaponTranslationGroupHash": 733612088,
+    "weaponTypeHash": 2134819735,
+    "weaponType": 25,
+    "filters": [
+      {
+        "artArrangementRegionHash": 2431786863,
+        "artArrangementRegionIndex": 3,
+        "statHash": 3291498656,
+        "arrangementIndexByStatValue": {
+          "0": 0,
+          "1": 1,
+          "2": 2,
+          "3": 3,
+          "4": 4,
+          "5": 5,
+          "6": 6,
+          "7": 7,
+          "8": 8,
+          "9": 9,
+          "10": 10,
+          "11": 11,
+          "12": 12,
+          "13": 13,
+          "14": 14
+        }
+      },
+      {
+        "artArrangementRegionHash": 442447909,
+        "artArrangementRegionIndex": 1,
+        "statHash": 0,
+        "arrangementIndexByStatValue": {}
+      },
+      {
+        "artArrangementRegionHash": 1848594060,
+        "artArrangementRegionIndex": 0,
+        "statHash": 0,
+        "arrangementIndexByStatValue": {}
+      },
+      {
+        "artArrangementRegionHash": 4196081331,
+        "artArrangementRegionIndex": 5,
+        "statHash": 3291498659,
+        "arrangementIndexByStatValue": {
+          "0": 0,
+          "1": 1,
+          "2": 2,
+          "3": 3,
+          "4": 4
+        }
+      },
+      {
+        "artArrangementRegionHash": 3328994727,
+        "artArrangementRegionIndex": 17,
+        "statHash": 3291498656,
+        "arrangementIndexByStatValue": {
+          "0": 0,
+          "1": 1,
+          "2": 2,
+          "3": 3,
+          "4": 4,
+          "5": 5,
+          "6": 6,
+          "7": 7,
+          "8": 8,
+          "9": 9,
+          "10": 10,
+          "11": 11,
+          "12": 12,
+          "13": 13,
+          "14": 14
+        }
+      },
+      {
+        "artArrangementRegionHash": 646625284,
+        "artArrangementRegionIndex": 2,
+        "statHash": 0,
+        "arrangementIndexByStatValue": {}
+      },
+      {
+        "artArrangementRegionHash": 1401519777,
+        "artArrangementRegionIndex": 4,
+        "statHash": 0,
+        "arrangementIndexByStatValue": {}
+      }
+    ],
+    "hash": 583870834,
+    "index": 1025,
+    "redacted": false,
+    "blacklisted": false
+  },
   "593808239": {
     "patternHash": 593808239,
     "patternGlobalTagIdHash": 1975385877,
@@ -11138,7 +11232,7 @@
       }
     ],
     "hash": 593808239,
-    "index": 1035,
+    "index": 1047,
     "redacted": false,
     "blacklisted": false
   },
@@ -11326,7 +11420,7 @@
       }
     ],
     "hash": 602331464,
-    "index": 1076,
+    "index": 1088,
     "redacted": false,
     "blacklisted": false
   },
@@ -11420,7 +11514,7 @@
       }
     ],
     "hash": 602331465,
-    "index": 1080,
+    "index": 1092,
     "redacted": false,
     "blacklisted": false
   },
@@ -11514,7 +11608,7 @@
       }
     ],
     "hash": 602331466,
-    "index": 1068,
+    "index": 1080,
     "redacted": false,
     "blacklisted": false
   },
@@ -11608,7 +11702,7 @@
       }
     ],
     "hash": 602331467,
-    "index": 1072,
+    "index": 1084,
     "redacted": false,
     "blacklisted": false
   },
@@ -12460,7 +12554,7 @@
       }
     ],
     "hash": 617566156,
-    "index": 1078,
+    "index": 1090,
     "redacted": false,
     "blacklisted": false
   },
@@ -12554,7 +12648,7 @@
       }
     ],
     "hash": 617566157,
-    "index": 1074,
+    "index": 1086,
     "redacted": false,
     "blacklisted": false
   },
@@ -12648,7 +12742,7 @@
       }
     ],
     "hash": 617566158,
-    "index": 1070,
+    "index": 1082,
     "redacted": false,
     "blacklisted": false
   },
@@ -12742,7 +12836,7 @@
       }
     ],
     "hash": 617566159,
-    "index": 1066,
+    "index": 1078,
     "redacted": false,
     "blacklisted": false
   },
@@ -13106,7 +13200,101 @@
       }
     ],
     "hash": 649691506,
-    "index": 1041,
+    "index": 1053,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "650857753": {
+    "patternHash": 650857753,
+    "patternGlobalTagIdHash": 2176516967,
+    "weaponContentGroupHash": 783547975,
+    "weaponTranslationGroupHash": 2717598868,
+    "weaponTypeHash": 532976594,
+    "weaponType": 11,
+    "filters": [
+      {
+        "artArrangementRegionHash": 2431786863,
+        "artArrangementRegionIndex": 3,
+        "statHash": 3291498656,
+        "arrangementIndexByStatValue": {
+          "0": 0,
+          "1": 1,
+          "2": 2,
+          "3": 3,
+          "4": 4,
+          "5": 5,
+          "6": 6,
+          "7": 7,
+          "8": 8,
+          "9": 9,
+          "10": 10,
+          "11": 11,
+          "12": 12,
+          "13": 13,
+          "14": 14
+        }
+      },
+      {
+        "artArrangementRegionHash": 442447909,
+        "artArrangementRegionIndex": 1,
+        "statHash": 0,
+        "arrangementIndexByStatValue": {}
+      },
+      {
+        "artArrangementRegionHash": 1848594060,
+        "artArrangementRegionIndex": 0,
+        "statHash": 0,
+        "arrangementIndexByStatValue": {}
+      },
+      {
+        "artArrangementRegionHash": 4196081331,
+        "artArrangementRegionIndex": 5,
+        "statHash": 3291498659,
+        "arrangementIndexByStatValue": {
+          "0": 0,
+          "1": 1,
+          "2": 2,
+          "3": 3,
+          "4": 4
+        }
+      },
+      {
+        "artArrangementRegionHash": 3328994727,
+        "artArrangementRegionIndex": 17,
+        "statHash": 3291498656,
+        "arrangementIndexByStatValue": {
+          "0": 0,
+          "1": 1,
+          "2": 2,
+          "3": 3,
+          "4": 4,
+          "5": 5,
+          "6": 6,
+          "7": 7,
+          "8": 8,
+          "9": 9,
+          "10": 10,
+          "11": 11,
+          "12": 12,
+          "13": 13,
+          "14": 14
+        }
+      },
+      {
+        "artArrangementRegionHash": 646625284,
+        "artArrangementRegionIndex": 2,
+        "statHash": 0,
+        "arrangementIndexByStatValue": {}
+      },
+      {
+        "artArrangementRegionHash": 1401519777,
+        "artArrangementRegionIndex": 4,
+        "statHash": 0,
+        "arrangementIndexByStatValue": {}
+      }
+    ],
+    "hash": 650857753,
+    "index": 1018,
     "redacted": false,
     "blacklisted": false
   },
@@ -13852,7 +14040,7 @@
       }
     ],
     "hash": 690412397,
-    "index": 1047,
+    "index": 1059,
     "redacted": false,
     "blacklisted": false
   },
@@ -15322,7 +15510,7 @@
       }
     ],
     "hash": 784540300,
-    "index": 1077,
+    "index": 1089,
     "redacted": false,
     "blacklisted": false
   },
@@ -15416,7 +15604,7 @@
       }
     ],
     "hash": 784540301,
-    "index": 1073,
+    "index": 1085,
     "redacted": false,
     "blacklisted": false
   },
@@ -15510,7 +15698,7 @@
       }
     ],
     "hash": 784540302,
-    "index": 1069,
+    "index": 1081,
     "redacted": false,
     "blacklisted": false
   },
@@ -15604,7 +15792,7 @@
       }
     ],
     "hash": 784540303,
-    "index": 1065,
+    "index": 1077,
     "redacted": false,
     "blacklisted": false
   },
@@ -17992,7 +18180,7 @@
       }
     ],
     "hash": 954563454,
-    "index": 1022,
+    "index": 1034,
     "redacted": false,
     "blacklisted": false
   },
@@ -20249,7 +20437,7 @@
       }
     ],
     "hash": 1085743380,
-    "index": 1023,
+    "index": 1035,
     "redacted": false,
     "blacklisted": false
   },
@@ -23116,7 +23304,7 @@
       }
     ],
     "hash": 1242785638,
-    "index": 1038,
+    "index": 1050,
     "redacted": false,
     "blacklisted": false
   },
@@ -24093,7 +24281,7 @@
       }
     ],
     "hash": 1288422452,
-    "index": 1054,
+    "index": 1066,
     "redacted": false,
     "blacklisted": false
   },
@@ -26506,7 +26694,7 @@
       }
     ],
     "hash": 1419158093,
-    "index": 1024,
+    "index": 1036,
     "redacted": false,
     "blacklisted": false
   },
@@ -29491,7 +29679,7 @@
       }
     ],
     "hash": 1572604081,
-    "index": 1059,
+    "index": 1071,
     "redacted": false,
     "blacklisted": false
   },
@@ -30260,7 +30448,7 @@
       }
     ],
     "hash": 1605599021,
-    "index": 1086,
+    "index": 1098,
     "redacted": false,
     "blacklisted": false
   },
@@ -30934,6 +31122,100 @@
     "redacted": false,
     "blacklisted": false
   },
+  "1651386202": {
+    "patternHash": 1651386202,
+    "patternGlobalTagIdHash": 2227666392,
+    "weaponContentGroupHash": 661279420,
+    "weaponTranslationGroupHash": 733612088,
+    "weaponTypeHash": 2134819735,
+    "weaponType": 25,
+    "filters": [
+      {
+        "artArrangementRegionHash": 2431786863,
+        "artArrangementRegionIndex": 3,
+        "statHash": 3291498656,
+        "arrangementIndexByStatValue": {
+          "0": 0,
+          "1": 1,
+          "2": 2,
+          "3": 3,
+          "4": 4,
+          "5": 5,
+          "6": 6,
+          "7": 7,
+          "8": 8,
+          "9": 9,
+          "10": 10,
+          "11": 11,
+          "12": 12,
+          "13": 13,
+          "14": 14
+        }
+      },
+      {
+        "artArrangementRegionHash": 442447909,
+        "artArrangementRegionIndex": 1,
+        "statHash": 0,
+        "arrangementIndexByStatValue": {}
+      },
+      {
+        "artArrangementRegionHash": 1848594060,
+        "artArrangementRegionIndex": 0,
+        "statHash": 0,
+        "arrangementIndexByStatValue": {}
+      },
+      {
+        "artArrangementRegionHash": 4196081331,
+        "artArrangementRegionIndex": 5,
+        "statHash": 3291498659,
+        "arrangementIndexByStatValue": {
+          "0": 0,
+          "1": 1,
+          "2": 2,
+          "3": 3,
+          "4": 4
+        }
+      },
+      {
+        "artArrangementRegionHash": 3328994727,
+        "artArrangementRegionIndex": 17,
+        "statHash": 3291498656,
+        "arrangementIndexByStatValue": {
+          "0": 0,
+          "1": 1,
+          "2": 2,
+          "3": 3,
+          "4": 4,
+          "5": 5,
+          "6": 6,
+          "7": 7,
+          "8": 8,
+          "9": 9,
+          "10": 10,
+          "11": 11,
+          "12": 12,
+          "13": 13,
+          "14": 14
+        }
+      },
+      {
+        "artArrangementRegionHash": 646625284,
+        "artArrangementRegionIndex": 2,
+        "statHash": 0,
+        "arrangementIndexByStatValue": {}
+      },
+      {
+        "artArrangementRegionHash": 1401519777,
+        "artArrangementRegionIndex": 4,
+        "statHash": 0,
+        "arrangementIndexByStatValue": {}
+      }
+    ],
+    "hash": 1651386202,
+    "index": 1024,
+    "redacted": false,
+    "blacklisted": false
+  },
   "1651812937": {
     "patternHash": 1651812937,
     "patternGlobalTagIdHash": 363079539,
@@ -31268,7 +31550,7 @@
       }
     ],
     "hash": 1665175977,
-    "index": 1013,
+    "index": 1020,
     "redacted": false,
     "blacklisted": false
   },
@@ -31632,7 +31914,7 @@
       }
     ],
     "hash": 1685137410,
-    "index": 1015,
+    "index": 1027,
     "redacted": false,
     "blacklisted": false
   },
@@ -31914,7 +32196,7 @@
       }
     ],
     "hash": 1685533876,
-    "index": 1056,
+    "index": 1068,
     "redacted": false,
     "blacklisted": false
   },
@@ -33285,7 +33567,7 @@
       }
     ],
     "hash": 1763361847,
-    "index": 1044,
+    "index": 1056,
     "redacted": false,
     "blacklisted": false
   },
@@ -35090,7 +35372,7 @@
       }
     ],
     "hash": 1863583117,
-    "index": 1018,
+    "index": 1030,
     "redacted": false,
     "blacklisted": false
   },
@@ -35354,7 +35636,7 @@
       }
     ],
     "hash": 1872906663,
-    "index": 1034,
+    "index": 1046,
     "redacted": false,
     "blacklisted": false
   },
@@ -37915,6 +38197,100 @@
     "redacted": false,
     "blacklisted": false
   },
+  "1976801635": {
+    "patternHash": 1976801635,
+    "patternGlobalTagIdHash": 3754187797,
+    "weaponContentGroupHash": 4284837933,
+    "weaponTranslationGroupHash": 3387622000,
+    "weaponTypeHash": 3387622000,
+    "weaponType": 10,
+    "filters": [
+      {
+        "artArrangementRegionHash": 2431786863,
+        "artArrangementRegionIndex": 3,
+        "statHash": 3291498656,
+        "arrangementIndexByStatValue": {
+          "0": 0,
+          "1": 1,
+          "2": 2,
+          "3": 3,
+          "4": 4,
+          "5": 5,
+          "6": 6,
+          "7": 7,
+          "8": 8,
+          "9": 9,
+          "10": 10,
+          "11": 11,
+          "12": 12,
+          "13": 13,
+          "14": 14
+        }
+      },
+      {
+        "artArrangementRegionHash": 442447909,
+        "artArrangementRegionIndex": 1,
+        "statHash": 0,
+        "arrangementIndexByStatValue": {}
+      },
+      {
+        "artArrangementRegionHash": 1848594060,
+        "artArrangementRegionIndex": 0,
+        "statHash": 0,
+        "arrangementIndexByStatValue": {}
+      },
+      {
+        "artArrangementRegionHash": 4196081331,
+        "artArrangementRegionIndex": 5,
+        "statHash": 3291498659,
+        "arrangementIndexByStatValue": {
+          "0": 0,
+          "1": 1,
+          "2": 2,
+          "3": 3,
+          "4": 4
+        }
+      },
+      {
+        "artArrangementRegionHash": 3328994727,
+        "artArrangementRegionIndex": 17,
+        "statHash": 3291498656,
+        "arrangementIndexByStatValue": {
+          "0": 0,
+          "1": 1,
+          "2": 2,
+          "3": 3,
+          "4": 4,
+          "5": 5,
+          "6": 6,
+          "7": 7,
+          "8": 8,
+          "9": 9,
+          "10": 10,
+          "11": 11,
+          "12": 12,
+          "13": 13,
+          "14": 14
+        }
+      },
+      {
+        "artArrangementRegionHash": 646625284,
+        "artArrangementRegionIndex": 2,
+        "statHash": 0,
+        "arrangementIndexByStatValue": {}
+      },
+      {
+        "artArrangementRegionHash": 1401519777,
+        "artArrangementRegionIndex": 4,
+        "statHash": 0,
+        "arrangementIndexByStatValue": {}
+      }
+    ],
+    "hash": 1976801635,
+    "index": 1023,
+    "redacted": false,
+    "blacklisted": false
+  },
   "1992309064": {
     "patternHash": 1992309064,
     "patternGlobalTagIdHash": 1696309010,
@@ -38670,7 +39046,7 @@
       }
     ],
     "hash": 2023002233,
-    "index": 1031,
+    "index": 1043,
     "redacted": false,
     "blacklisted": false
   },
@@ -40128,6 +40504,100 @@
     "redacted": false,
     "blacklisted": false
   },
+  "2094003971": {
+    "patternHash": 2094003971,
+    "patternGlobalTagIdHash": 3716728581,
+    "weaponContentGroupHash": 4284837933,
+    "weaponTranslationGroupHash": 3387622000,
+    "weaponTypeHash": 3387622000,
+    "weaponType": 10,
+    "filters": [
+      {
+        "artArrangementRegionHash": 2431786863,
+        "artArrangementRegionIndex": 3,
+        "statHash": 3291498656,
+        "arrangementIndexByStatValue": {
+          "0": 0,
+          "1": 1,
+          "2": 2,
+          "3": 3,
+          "4": 4,
+          "5": 5,
+          "6": 6,
+          "7": 7,
+          "8": 8,
+          "9": 9,
+          "10": 10,
+          "11": 11,
+          "12": 12,
+          "13": 13,
+          "14": 14
+        }
+      },
+      {
+        "artArrangementRegionHash": 442447909,
+        "artArrangementRegionIndex": 1,
+        "statHash": 0,
+        "arrangementIndexByStatValue": {}
+      },
+      {
+        "artArrangementRegionHash": 1848594060,
+        "artArrangementRegionIndex": 0,
+        "statHash": 0,
+        "arrangementIndexByStatValue": {}
+      },
+      {
+        "artArrangementRegionHash": 4196081331,
+        "artArrangementRegionIndex": 5,
+        "statHash": 3291498659,
+        "arrangementIndexByStatValue": {
+          "0": 0,
+          "1": 1,
+          "2": 2,
+          "3": 3,
+          "4": 4
+        }
+      },
+      {
+        "artArrangementRegionHash": 3328994727,
+        "artArrangementRegionIndex": 17,
+        "statHash": 3291498656,
+        "arrangementIndexByStatValue": {
+          "0": 0,
+          "1": 1,
+          "2": 2,
+          "3": 3,
+          "4": 4,
+          "5": 5,
+          "6": 6,
+          "7": 7,
+          "8": 8,
+          "9": 9,
+          "10": 10,
+          "11": 11,
+          "12": 12,
+          "13": 13,
+          "14": 14
+        }
+      },
+      {
+        "artArrangementRegionHash": 646625284,
+        "artArrangementRegionIndex": 2,
+        "statHash": 0,
+        "arrangementIndexByStatValue": {}
+      },
+      {
+        "artArrangementRegionHash": 1401519777,
+        "artArrangementRegionIndex": 4,
+        "statHash": 0,
+        "arrangementIndexByStatValue": {}
+      }
+    ],
+    "hash": 2094003971,
+    "index": 1022,
+    "redacted": false,
+    "blacklisted": false
+  },
   "2097055732": {
     "patternHash": 2097055732,
     "patternGlobalTagIdHash": 3279253922,
@@ -41142,7 +41612,7 @@
       }
     ],
     "hash": 2161618499,
-    "index": 1085,
+    "index": 1097,
     "redacted": false,
     "blacklisted": false
   },
@@ -43063,7 +43533,7 @@
       }
     ],
     "hash": 2246386812,
-    "index": 1062,
+    "index": 1074,
     "redacted": false,
     "blacklisted": false
   },
@@ -43282,7 +43752,7 @@
       }
     ],
     "hash": 2263462407,
-    "index": 1037,
+    "index": 1049,
     "redacted": false,
     "blacklisted": false
   },
@@ -44444,7 +44914,7 @@
       }
     ],
     "hash": 2316331767,
-    "index": 1084,
+    "index": 1096,
     "redacted": false,
     "blacklisted": false
   },
@@ -45084,7 +45554,7 @@
       }
     ],
     "hash": 2344383760,
-    "index": 1057,
+    "index": 1069,
     "redacted": false,
     "blacklisted": false
   },
@@ -45966,7 +46436,7 @@
       }
     ],
     "hash": 2370525224,
-    "index": 1060,
+    "index": 1072,
     "redacted": false,
     "blacklisted": false
   },
@@ -46284,6 +46754,100 @@
     "filters": [],
     "hash": 2392017610,
     "index": 223,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "2392813623": {
+    "patternHash": 2392813623,
+    "patternGlobalTagIdHash": 3143250865,
+    "weaponContentGroupHash": 1800696017,
+    "weaponTranslationGroupHash": 3202954117,
+    "weaponTypeHash": 3368851770,
+    "weaponType": 9,
+    "filters": [
+      {
+        "artArrangementRegionHash": 2431786863,
+        "artArrangementRegionIndex": 3,
+        "statHash": 3291498656,
+        "arrangementIndexByStatValue": {
+          "0": 0,
+          "1": 1,
+          "2": 2,
+          "3": 3,
+          "4": 4,
+          "5": 5,
+          "6": 6,
+          "7": 7,
+          "8": 8,
+          "9": 9,
+          "10": 10,
+          "11": 11,
+          "12": 12,
+          "13": 13,
+          "14": 14
+        }
+      },
+      {
+        "artArrangementRegionHash": 442447909,
+        "artArrangementRegionIndex": 1,
+        "statHash": 0,
+        "arrangementIndexByStatValue": {}
+      },
+      {
+        "artArrangementRegionHash": 1848594060,
+        "artArrangementRegionIndex": 0,
+        "statHash": 0,
+        "arrangementIndexByStatValue": {}
+      },
+      {
+        "artArrangementRegionHash": 4196081331,
+        "artArrangementRegionIndex": 5,
+        "statHash": 3291498659,
+        "arrangementIndexByStatValue": {
+          "0": 0,
+          "1": 1,
+          "2": 2,
+          "3": 3,
+          "4": 4
+        }
+      },
+      {
+        "artArrangementRegionHash": 3328994727,
+        "artArrangementRegionIndex": 17,
+        "statHash": 3291498656,
+        "arrangementIndexByStatValue": {
+          "0": 0,
+          "1": 1,
+          "2": 2,
+          "3": 3,
+          "4": 4,
+          "5": 5,
+          "6": 6,
+          "7": 7,
+          "8": 8,
+          "9": 9,
+          "10": 10,
+          "11": 11,
+          "12": 12,
+          "13": 13,
+          "14": 14
+        }
+      },
+      {
+        "artArrangementRegionHash": 646625284,
+        "artArrangementRegionIndex": 2,
+        "statHash": 0,
+        "arrangementIndexByStatValue": {}
+      },
+      {
+        "artArrangementRegionHash": 1401519777,
+        "artArrangementRegionIndex": 4,
+        "statHash": 0,
+        "arrangementIndexByStatValue": {}
+      }
+    ],
+    "hash": 2392813623,
+    "index": 1019,
     "redacted": false,
     "blacklisted": false
   },
@@ -47388,7 +47952,7 @@
       }
     ],
     "hash": 2462965802,
-    "index": 1033,
+    "index": 1045,
     "redacted": false,
     "blacklisted": false
   },
@@ -51408,7 +51972,7 @@
       }
     ],
     "hash": 2645567209,
-    "index": 1082,
+    "index": 1094,
     "redacted": false,
     "blacklisted": false
   },
@@ -51502,7 +52066,7 @@
       }
     ],
     "hash": 2659286158,
-    "index": 1032,
+    "index": 1044,
     "redacted": false,
     "blacklisted": false
   },
@@ -53379,7 +53943,7 @@
       }
     ],
     "hash": 2730237354,
-    "index": 1011,
+    "index": 1016,
     "redacted": false,
     "blacklisted": false
   },
@@ -53934,7 +54498,7 @@
       }
     ],
     "hash": 2770035786,
-    "index": 1030,
+    "index": 1042,
     "redacted": false,
     "blacklisted": false
   },
@@ -55272,7 +55836,7 @@
       }
     ],
     "hash": 2819552809,
-    "index": 1026,
+    "index": 1038,
     "redacted": false,
     "blacklisted": false
   },
@@ -56798,7 +57362,7 @@
       }
     ],
     "hash": 2873508409,
-    "index": 1019,
+    "index": 1031,
     "redacted": false,
     "blacklisted": false
   },
@@ -56892,7 +57456,7 @@
       }
     ],
     "hash": 2875763009,
-    "index": 1045,
+    "index": 1057,
     "redacted": false,
     "blacklisted": false
   },
@@ -57850,7 +58414,7 @@
       }
     ],
     "hash": 2908653246,
-    "index": 1088,
+    "index": 1100,
     "redacted": false,
     "blacklisted": false
   },
@@ -58406,7 +58970,7 @@
       }
     ],
     "hash": 2922964484,
-    "index": 1083,
+    "index": 1095,
     "redacted": false,
     "blacklisted": false
   },
@@ -59290,6 +59854,100 @@
     "redacted": false,
     "blacklisted": false
   },
+  "2996325132": {
+    "patternHash": 2996325132,
+    "patternGlobalTagIdHash": 2172786490,
+    "weaponContentGroupHash": 4284837933,
+    "weaponTranslationGroupHash": 3387622000,
+    "weaponTypeHash": 3387622000,
+    "weaponType": 10,
+    "filters": [
+      {
+        "artArrangementRegionHash": 2431786863,
+        "artArrangementRegionIndex": 3,
+        "statHash": 3291498656,
+        "arrangementIndexByStatValue": {
+          "0": 0,
+          "1": 1,
+          "2": 2,
+          "3": 3,
+          "4": 4,
+          "5": 5,
+          "6": 6,
+          "7": 7,
+          "8": 8,
+          "9": 9,
+          "10": 10,
+          "11": 11,
+          "12": 12,
+          "13": 13,
+          "14": 14
+        }
+      },
+      {
+        "artArrangementRegionHash": 442447909,
+        "artArrangementRegionIndex": 1,
+        "statHash": 0,
+        "arrangementIndexByStatValue": {}
+      },
+      {
+        "artArrangementRegionHash": 1848594060,
+        "artArrangementRegionIndex": 0,
+        "statHash": 0,
+        "arrangementIndexByStatValue": {}
+      },
+      {
+        "artArrangementRegionHash": 4196081331,
+        "artArrangementRegionIndex": 5,
+        "statHash": 3291498659,
+        "arrangementIndexByStatValue": {
+          "0": 0,
+          "1": 1,
+          "2": 2,
+          "3": 3,
+          "4": 4
+        }
+      },
+      {
+        "artArrangementRegionHash": 3328994727,
+        "artArrangementRegionIndex": 17,
+        "statHash": 3291498656,
+        "arrangementIndexByStatValue": {
+          "0": 0,
+          "1": 1,
+          "2": 2,
+          "3": 3,
+          "4": 4,
+          "5": 5,
+          "6": 6,
+          "7": 7,
+          "8": 8,
+          "9": 9,
+          "10": 10,
+          "11": 11,
+          "12": 12,
+          "13": 13,
+          "14": 14
+        }
+      },
+      {
+        "artArrangementRegionHash": 646625284,
+        "artArrangementRegionIndex": 2,
+        "statHash": 0,
+        "arrangementIndexByStatValue": {}
+      },
+      {
+        "artArrangementRegionHash": 1401519777,
+        "artArrangementRegionIndex": 4,
+        "statHash": 0,
+        "arrangementIndexByStatValue": {}
+      }
+    ],
+    "hash": 2996325132,
+    "index": 1015,
+    "redacted": false,
+    "blacklisted": false
+  },
   "2997911989": {
     "patternHash": 2997911989,
     "patternGlobalTagIdHash": 2201528671,
@@ -60161,7 +60819,7 @@
       }
     ],
     "hash": 3049715579,
-    "index": 1017,
+    "index": 1029,
     "redacted": false,
     "blacklisted": false
   },
@@ -62121,7 +62779,7 @@
       }
     ],
     "hash": 3146657388,
-    "index": 1028,
+    "index": 1040,
     "redacted": false,
     "blacklisted": false
   },
@@ -62215,7 +62873,7 @@
       }
     ],
     "hash": 3146657389,
-    "index": 1027,
+    "index": 1039,
     "redacted": false,
     "blacklisted": false
   },
@@ -63193,7 +63851,7 @@
       }
     ],
     "hash": 3201200906,
-    "index": 1055,
+    "index": 1067,
     "redacted": false,
     "blacklisted": false
   },
@@ -64433,6 +65091,100 @@
     "redacted": false,
     "blacklisted": false
   },
+  "3259487828": {
+    "patternHash": 3259487828,
+    "patternGlobalTagIdHash": 2904674586,
+    "weaponContentGroupHash": 513217828,
+    "weaponTranslationGroupHash": 3435608004,
+    "weaponTypeHash": 3024761479,
+    "weaponType": 6,
+    "filters": [
+      {
+        "artArrangementRegionHash": 2431786863,
+        "artArrangementRegionIndex": 3,
+        "statHash": 3291498656,
+        "arrangementIndexByStatValue": {
+          "0": 0,
+          "1": 1,
+          "2": 2,
+          "3": 3,
+          "4": 4,
+          "5": 5,
+          "6": 6,
+          "7": 7,
+          "8": 8,
+          "9": 9,
+          "10": 10,
+          "11": 11,
+          "12": 12,
+          "13": 13,
+          "14": 14
+        }
+      },
+      {
+        "artArrangementRegionHash": 442447909,
+        "artArrangementRegionIndex": 1,
+        "statHash": 0,
+        "arrangementIndexByStatValue": {}
+      },
+      {
+        "artArrangementRegionHash": 1848594060,
+        "artArrangementRegionIndex": 0,
+        "statHash": 0,
+        "arrangementIndexByStatValue": {}
+      },
+      {
+        "artArrangementRegionHash": 4196081331,
+        "artArrangementRegionIndex": 5,
+        "statHash": 3291498659,
+        "arrangementIndexByStatValue": {
+          "0": 0,
+          "1": 1,
+          "2": 2,
+          "3": 3,
+          "4": 4
+        }
+      },
+      {
+        "artArrangementRegionHash": 3328994727,
+        "artArrangementRegionIndex": 17,
+        "statHash": 3291498656,
+        "arrangementIndexByStatValue": {
+          "0": 0,
+          "1": 1,
+          "2": 2,
+          "3": 3,
+          "4": 4,
+          "5": 5,
+          "6": 6,
+          "7": 7,
+          "8": 8,
+          "9": 9,
+          "10": 10,
+          "11": 11,
+          "12": 12,
+          "13": 13,
+          "14": 14
+        }
+      },
+      {
+        "artArrangementRegionHash": 646625284,
+        "artArrangementRegionIndex": 2,
+        "statHash": 0,
+        "arrangementIndexByStatValue": {}
+      },
+      {
+        "artArrangementRegionHash": 1401519777,
+        "artArrangementRegionIndex": 4,
+        "statHash": 0,
+        "arrangementIndexByStatValue": {}
+      }
+    ],
+    "hash": 3259487828,
+    "index": 1026,
+    "redacted": false,
+    "blacklisted": false
+  },
   "3260753130": {
     "patternHash": 3260753130,
     "patternGlobalTagIdHash": 500706808,
@@ -64699,7 +65451,7 @@
       }
     ],
     "hash": 3266866780,
-    "index": 1012,
+    "index": 1017,
     "redacted": false,
     "blacklisted": false
   },
@@ -65455,7 +66207,7 @@
       }
     ],
     "hash": 3318545829,
-    "index": 1040,
+    "index": 1052,
     "redacted": false,
     "blacklisted": false
   },
@@ -67071,6 +67823,100 @@
     "redacted": false,
     "blacklisted": false
   },
+  "3382736601": {
+    "patternHash": 3382736601,
+    "patternGlobalTagIdHash": 189301315,
+    "weaponContentGroupHash": 3638138855,
+    "weaponTranslationGroupHash": 3479742393,
+    "weaponTypeHash": 546945295,
+    "weaponType": 31,
+    "filters": [
+      {
+        "artArrangementRegionHash": 2431786863,
+        "artArrangementRegionIndex": 3,
+        "statHash": 3291498656,
+        "arrangementIndexByStatValue": {
+          "0": 0,
+          "1": 1,
+          "2": 2,
+          "3": 3,
+          "4": 4,
+          "5": 5,
+          "6": 6,
+          "7": 7,
+          "8": 8,
+          "9": 9,
+          "10": 10,
+          "11": 11,
+          "12": 12,
+          "13": 13,
+          "14": 14
+        }
+      },
+      {
+        "artArrangementRegionHash": 442447909,
+        "artArrangementRegionIndex": 1,
+        "statHash": 0,
+        "arrangementIndexByStatValue": {}
+      },
+      {
+        "artArrangementRegionHash": 1848594060,
+        "artArrangementRegionIndex": 0,
+        "statHash": 0,
+        "arrangementIndexByStatValue": {}
+      },
+      {
+        "artArrangementRegionHash": 4196081331,
+        "artArrangementRegionIndex": 5,
+        "statHash": 3291498659,
+        "arrangementIndexByStatValue": {
+          "0": 0,
+          "1": 1,
+          "2": 2,
+          "3": 3,
+          "4": 4
+        }
+      },
+      {
+        "artArrangementRegionHash": 3328994727,
+        "artArrangementRegionIndex": 17,
+        "statHash": 3291498656,
+        "arrangementIndexByStatValue": {
+          "0": 0,
+          "1": 1,
+          "2": 2,
+          "3": 3,
+          "4": 4,
+          "5": 5,
+          "6": 6,
+          "7": 7,
+          "8": 8,
+          "9": 9,
+          "10": 10,
+          "11": 11,
+          "12": 12,
+          "13": 13,
+          "14": 14
+        }
+      },
+      {
+        "artArrangementRegionHash": 646625284,
+        "artArrangementRegionIndex": 2,
+        "statHash": 0,
+        "arrangementIndexByStatValue": {}
+      },
+      {
+        "artArrangementRegionHash": 1401519777,
+        "artArrangementRegionIndex": 4,
+        "statHash": 0,
+        "arrangementIndexByStatValue": {}
+      }
+    ],
+    "hash": 3382736601,
+    "index": 1012,
+    "redacted": false,
+    "blacklisted": false
+  },
   "3385165970": {
     "patternHash": 3385165970,
     "patternGlobalTagIdHash": 692166860,
@@ -67830,7 +68676,7 @@
       }
     ],
     "hash": 3421075982,
-    "index": 1043,
+    "index": 1055,
     "redacted": false,
     "blacklisted": false
   },
@@ -68471,6 +69317,100 @@
     ],
     "hash": 3437370193,
     "index": 915,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "3437391095": {
+    "patternHash": 3437391095,
+    "patternGlobalTagIdHash": 911144169,
+    "weaponContentGroupHash": 86680371,
+    "weaponTranslationGroupHash": 3156848353,
+    "weaponTypeHash": 3156848353,
+    "weaponType": 33,
+    "filters": [
+      {
+        "artArrangementRegionHash": 2431786863,
+        "artArrangementRegionIndex": 3,
+        "statHash": 3291498656,
+        "arrangementIndexByStatValue": {
+          "0": 0,
+          "1": 1,
+          "2": 2,
+          "3": 3,
+          "4": 4,
+          "5": 5,
+          "6": 6,
+          "7": 7,
+          "8": 8,
+          "9": 9,
+          "10": 10,
+          "11": 11,
+          "12": 12,
+          "13": 13,
+          "14": 14
+        }
+      },
+      {
+        "artArrangementRegionHash": 442447909,
+        "artArrangementRegionIndex": 1,
+        "statHash": 0,
+        "arrangementIndexByStatValue": {}
+      },
+      {
+        "artArrangementRegionHash": 1848594060,
+        "artArrangementRegionIndex": 0,
+        "statHash": 0,
+        "arrangementIndexByStatValue": {}
+      },
+      {
+        "artArrangementRegionHash": 4196081331,
+        "artArrangementRegionIndex": 5,
+        "statHash": 3291498659,
+        "arrangementIndexByStatValue": {
+          "0": 0,
+          "1": 1,
+          "2": 2,
+          "3": 3,
+          "4": 4
+        }
+      },
+      {
+        "artArrangementRegionHash": 3328994727,
+        "artArrangementRegionIndex": 17,
+        "statHash": 3291498656,
+        "arrangementIndexByStatValue": {
+          "0": 0,
+          "1": 1,
+          "2": 2,
+          "3": 3,
+          "4": 4,
+          "5": 5,
+          "6": 6,
+          "7": 7,
+          "8": 8,
+          "9": 9,
+          "10": 10,
+          "11": 11,
+          "12": 12,
+          "13": 13,
+          "14": 14
+        }
+      },
+      {
+        "artArrangementRegionHash": 646625284,
+        "artArrangementRegionIndex": 2,
+        "statHash": 0,
+        "arrangementIndexByStatValue": {}
+      },
+      {
+        "artArrangementRegionHash": 1401519777,
+        "artArrangementRegionIndex": 4,
+        "statHash": 0,
+        "arrangementIndexByStatValue": {}
+      }
+    ],
+    "hash": 3437391095,
+    "index": 1013,
     "redacted": false,
     "blacklisted": false
   },
@@ -69371,7 +70311,7 @@
       }
     ],
     "hash": 3481382332,
-    "index": 1061,
+    "index": 1073,
     "redacted": false,
     "blacklisted": false
   },
@@ -70615,7 +71555,7 @@
       }
     ],
     "hash": 3556730800,
-    "index": 1042,
+    "index": 1054,
     "redacted": false,
     "blacklisted": false
   },
@@ -72074,7 +73014,7 @@
       }
     ],
     "hash": 3615748501,
-    "index": 1039,
+    "index": 1051,
     "redacted": false,
     "blacklisted": false
   },
@@ -72273,7 +73213,7 @@
       }
     ],
     "hash": 3618823368,
-    "index": 1048,
+    "index": 1060,
     "redacted": false,
     "blacklisted": false
   },
@@ -72367,7 +73307,7 @@
       }
     ],
     "hash": 3620277039,
-    "index": 1050,
+    "index": 1062,
     "redacted": false,
     "blacklisted": false
   },
@@ -73911,7 +74851,7 @@
       }
     ],
     "hash": 3661051060,
-    "index": 1029,
+    "index": 1041,
     "redacted": false,
     "blacklisted": false
   },
@@ -74245,7 +75185,7 @@
       }
     ],
     "hash": 3685829362,
-    "index": 1081,
+    "index": 1093,
     "redacted": false,
     "blacklisted": false
   },
@@ -74515,7 +75455,7 @@
       }
     ],
     "hash": 3701326503,
-    "index": 1014,
+    "index": 1021,
     "redacted": false,
     "blacklisted": false
   },
@@ -79775,7 +80715,7 @@
       }
     ],
     "hash": 3984776322,
-    "index": 1025,
+    "index": 1037,
     "redacted": false,
     "blacklisted": false
   },
@@ -81487,7 +82427,7 @@
       }
     ],
     "hash": 4062069077,
-    "index": 1021,
+    "index": 1033,
     "redacted": false,
     "blacklisted": false
   },
@@ -81713,7 +82653,7 @@
       }
     ],
     "hash": 4069880346,
-    "index": 1058,
+    "index": 1070,
     "redacted": false,
     "blacklisted": false
   },
@@ -82397,7 +83337,7 @@
       }
     ],
     "hash": 4118334987,
-    "index": 1052,
+    "index": 1064,
     "redacted": false,
     "blacklisted": false
   },
@@ -83954,7 +84894,7 @@
       }
     ],
     "hash": 4176551594,
-    "index": 1053,
+    "index": 1065,
     "redacted": false,
     "blacklisted": false
   },
@@ -85524,6 +86464,100 @@
     "redacted": false,
     "blacklisted": false
   },
+  "4242153505": {
+    "patternHash": 4242153505,
+    "patternGlobalTagIdHash": 1082035075,
+    "weaponContentGroupHash": 661279420,
+    "weaponTranslationGroupHash": 733612088,
+    "weaponTypeHash": 2134819735,
+    "weaponType": 25,
+    "filters": [
+      {
+        "artArrangementRegionHash": 2431786863,
+        "artArrangementRegionIndex": 3,
+        "statHash": 3291498656,
+        "arrangementIndexByStatValue": {
+          "0": 0,
+          "1": 1,
+          "2": 2,
+          "3": 3,
+          "4": 4,
+          "5": 5,
+          "6": 6,
+          "7": 7,
+          "8": 8,
+          "9": 9,
+          "10": 10,
+          "11": 11,
+          "12": 12,
+          "13": 13,
+          "14": 14
+        }
+      },
+      {
+        "artArrangementRegionHash": 442447909,
+        "artArrangementRegionIndex": 1,
+        "statHash": 0,
+        "arrangementIndexByStatValue": {}
+      },
+      {
+        "artArrangementRegionHash": 1848594060,
+        "artArrangementRegionIndex": 0,
+        "statHash": 0,
+        "arrangementIndexByStatValue": {}
+      },
+      {
+        "artArrangementRegionHash": 4196081331,
+        "artArrangementRegionIndex": 5,
+        "statHash": 3291498659,
+        "arrangementIndexByStatValue": {
+          "0": 0,
+          "1": 1,
+          "2": 2,
+          "3": 3,
+          "4": 4
+        }
+      },
+      {
+        "artArrangementRegionHash": 3328994727,
+        "artArrangementRegionIndex": 17,
+        "statHash": 3291498656,
+        "arrangementIndexByStatValue": {
+          "0": 0,
+          "1": 1,
+          "2": 2,
+          "3": 3,
+          "4": 4,
+          "5": 5,
+          "6": 6,
+          "7": 7,
+          "8": 8,
+          "9": 9,
+          "10": 10,
+          "11": 11,
+          "12": 12,
+          "13": 13,
+          "14": 14
+        }
+      },
+      {
+        "artArrangementRegionHash": 646625284,
+        "artArrangementRegionIndex": 2,
+        "statHash": 0,
+        "arrangementIndexByStatValue": {}
+      },
+      {
+        "artArrangementRegionHash": 1401519777,
+        "artArrangementRegionIndex": 4,
+        "statHash": 0,
+        "arrangementIndexByStatValue": {}
+      }
+    ],
+    "hash": 4242153505,
+    "index": 1014,
+    "redacted": false,
+    "blacklisted": false
+  },
   "4248569242": {
     "patternHash": 4248569242,
     "patternGlobalTagIdHash": 4088847960,
@@ -86044,6 +87078,100 @@
     "redacted": false,
     "blacklisted": false
   },
+  "4264096644": {
+    "patternHash": 4264096644,
+    "patternGlobalTagIdHash": 2440312018,
+    "weaponContentGroupHash": 4119042976,
+    "weaponTranslationGroupHash": 2667449028,
+    "weaponTypeHash": 1662166672,
+    "weaponType": 23,
+    "filters": [
+      {
+        "artArrangementRegionHash": 2431786863,
+        "artArrangementRegionIndex": 3,
+        "statHash": 3291498656,
+        "arrangementIndexByStatValue": {
+          "0": 0,
+          "1": 1,
+          "2": 2,
+          "3": 3,
+          "4": 4,
+          "5": 5,
+          "6": 6,
+          "7": 7,
+          "8": 8,
+          "9": 9,
+          "10": 10,
+          "11": 11,
+          "12": 12,
+          "13": 13,
+          "14": 14
+        }
+      },
+      {
+        "artArrangementRegionHash": 442447909,
+        "artArrangementRegionIndex": 1,
+        "statHash": 0,
+        "arrangementIndexByStatValue": {}
+      },
+      {
+        "artArrangementRegionHash": 1848594060,
+        "artArrangementRegionIndex": 0,
+        "statHash": 0,
+        "arrangementIndexByStatValue": {}
+      },
+      {
+        "artArrangementRegionHash": 4196081331,
+        "artArrangementRegionIndex": 5,
+        "statHash": 3291498659,
+        "arrangementIndexByStatValue": {
+          "0": 0,
+          "1": 1,
+          "2": 2,
+          "3": 3,
+          "4": 4
+        }
+      },
+      {
+        "artArrangementRegionHash": 3328994727,
+        "artArrangementRegionIndex": 17,
+        "statHash": 3291498656,
+        "arrangementIndexByStatValue": {
+          "0": 0,
+          "1": 1,
+          "2": 2,
+          "3": 3,
+          "4": 4,
+          "5": 5,
+          "6": 6,
+          "7": 7,
+          "8": 8,
+          "9": 9,
+          "10": 10,
+          "11": 11,
+          "12": 12,
+          "13": 13,
+          "14": 14
+        }
+      },
+      {
+        "artArrangementRegionHash": 646625284,
+        "artArrangementRegionIndex": 2,
+        "statHash": 0,
+        "arrangementIndexByStatValue": {}
+      },
+      {
+        "artArrangementRegionHash": 1401519777,
+        "artArrangementRegionIndex": 4,
+        "statHash": 0,
+        "arrangementIndexByStatValue": {}
+      }
+    ],
+    "hash": 4264096644,
+    "index": 1011,
+    "redacted": false,
+    "blacklisted": false
+  },
   "4271038748": {
     "patternHash": 4271038748,
     "patternGlobalTagIdHash": 1655245054,
@@ -86378,7 +87506,7 @@
       }
     ],
     "hash": 4284533075,
-    "index": 1016,
+    "index": 1028,
     "redacted": false,
     "blacklisted": false
   },

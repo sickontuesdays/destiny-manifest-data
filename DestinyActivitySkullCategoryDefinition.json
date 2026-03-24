@@ -12,15 +12,15 @@
     "redacted": false,
     "blacklisted": false
   },
-  "494403391": {
+  "562753438": {
     "displayProperties": {
-      "description": "Adjust Player Stake Modifiers.",
-      "name": "Player Stakes",
+      "description": "Adjust Gameplay Stakes modifiers.",
+      "name": "Gameplay Stakes",
       "icon": "/common/destiny2_content/icons/72f558d605b5721453347fa8c1685656.png",
       "iconHash": 0,
       "hasIcon": true
     },
-    "hash": 494403391,
+    "hash": 562753438,
     "index": 2,
     "redacted": false,
     "blacklisted": false
@@ -73,6 +73,19 @@
     },
     "hash": 1470780789,
     "index": 0,
+    "redacted": false,
+    "blacklisted": false
+  },
+  "1492238292": {
+    "displayProperties": {
+      "description": "Adjust Buildcraft Stakes modifiers.",
+      "name": "Buildcraft Stakes",
+      "icon": "/common/destiny2_content/icons/48cee008ff157b38d22afc98884b09cf.png",
+      "iconHash": 0,
+      "hasIcon": true
+    },
+    "hash": 1492238292,
+    "index": 3,
     "redacted": false,
     "blacklisted": false
   },
@@ -150,19 +163,6 @@
     },
     "hash": 2981079369,
     "index": 12,
-    "redacted": false,
-    "blacklisted": false
-  },
-  "3814335300": {
-    "displayProperties": {
-      "description": "Adjust Player Stake Modifiers.",
-      "name": "Player Stakes",
-      "icon": "/common/destiny2_content/icons/48cee008ff157b38d22afc98884b09cf.png",
-      "iconHash": 0,
-      "hasIcon": true
-    },
-    "hash": 3814335300,
-    "index": 3,
     "redacted": false,
     "blacklisted": false
   },
