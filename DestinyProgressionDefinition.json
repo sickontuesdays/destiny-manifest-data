@@ -16817,31 +16817,31 @@
         "stepName": "Nobody",
         "displayEffectType": 0,
         "progressTotal": 1000,
-        "icon": "/common/destiny2_content/icons/96d91f09ce0ee8ce62bd748d275e0581.png"
+        "icon": "/common/destiny2_content/icons/d3ffbf571464be66ce8735060e05e0b5.png"
       },
       {
         "stepName": "Acquaintance",
         "displayEffectType": 0,
         "progressTotal": 2000,
-        "icon": "/common/destiny2_content/icons/e86f22e7df05f3ffd5f5784437bd7a29.png"
+        "icon": "/common/destiny2_content/icons/2f71c15be83e071c32261b77de7b160e.png"
       },
       {
         "stepName": "Friend",
         "displayEffectType": 0,
         "progressTotal": 3000,
-        "icon": "/common/destiny2_content/icons/93f0863b95f15821f2200801d96e02c8.png"
+        "icon": "/common/destiny2_content/icons/cae4c4395ea2a05fcd4863caba0311c0.png"
       },
       {
         "stepName": "Confidant",
         "displayEffectType": 0,
         "progressTotal": 4000,
-        "icon": "/common/destiny2_content/icons/bc37834523e801cf49eaf67cb63db338.png"
+        "icon": "/common/destiny2_content/icons/b8408ea8c17327a3109589686764e00b.png"
       },
       {
         "stepName": "Family",
         "displayEffectType": 0,
         "progressTotal": 2000,
-        "icon": "/common/destiny2_content/icons/c790cc1eb72933c5945c0a43898dda18.png"
+        "icon": "/common/destiny2_content/icons/460b77a6c434a7fb7e660beffb93861b.png"
       }
     ],
     "visible": true,
@@ -37200,31 +37200,31 @@
         "stepName": "Nothing",
         "displayEffectType": 0,
         "progressTotal": 1000,
-        "icon": "/common/destiny2_content/icons/3b5358d8c328473ba4d45cac04439ad4.png"
+        "icon": "/common/destiny2_content/icons/b5cf8383b635485e5d80d21878ec4330.png"
       },
       {
         "stepName": "Known Entity",
         "displayEffectType": 0,
         "progressTotal": 2000,
-        "icon": "/common/destiny2_content/icons/6b2f197caf622586c91f0c1da1b8641c.png"
+        "icon": "/common/destiny2_content/icons/3aee1212dbfc56d83a4a20734e3a5318.png"
       },
       {
         "stepName": "Implicit Ally",
         "displayEffectType": 0,
         "progressTotal": 3000,
-        "icon": "/common/destiny2_content/icons/f8cab5f2696af1bdebf78933f6df8695.png"
+        "icon": "/common/destiny2_content/icons/096e4426ae1ebba701bb7eca1699ce93.png"
       },
       {
         "stepName": "Honored Asset",
         "displayEffectType": 0,
         "progressTotal": 4000,
-        "icon": "/common/destiny2_content/icons/df6e4f2873c57dfa03ef32ad5ae175d6.png"
+        "icon": "/common/destiny2_content/icons/96fa8a6d63ac1f8d73d4e49f43b38770.png"
       },
       {
         "stepName": "Esteemed Operator",
         "displayEffectType": 0,
         "progressTotal": 2000,
-        "icon": "/common/destiny2_content/icons/213aedd1571f5c9905c90eb46caeb477.png"
+        "icon": "/common/destiny2_content/icons/35c8f72bd2ed09f3a0402bc8c6e9e454.png"
       }
     ],
     "visible": true,
@@ -38089,31 +38089,31 @@
         "stepName": "Null Data",
         "displayEffectType": 0,
         "progressTotal": 1000,
-        "icon": "/common/destiny2_content/icons/8f95c00e6690967c404790a90671090a.png"
+        "icon": "/common/destiny2_content/icons/ae1189a32f7a8642e1d61d04c508237c.png"
       },
       {
         "stepName": "Open Connection",
         "displayEffectType": 0,
         "progressTotal": 2000,
-        "icon": "/common/destiny2_content/icons/d1e5e109c534f9b70400bcb1a85df86d.png"
+        "icon": "/common/destiny2_content/icons/f5b9b740cf4c34d13757d0fb250265cc.png"
       },
       {
         "stepName": "Reliable Backup",
         "displayEffectType": 0,
         "progressTotal": 3000,
-        "icon": "/common/destiny2_content/icons/31d19d7b509035c484ca0ae47894d674.png"
+        "icon": "/common/destiny2_content/icons/908d16af615d706483457dbc50f6909e.png"
       },
       {
         "stepName": "Authorized User",
         "displayEffectType": 0,
         "progressTotal": 4000,
-        "icon": "/common/destiny2_content/icons/ab26ba7227dacbe745bff84c8c44fe9f.png"
+        "icon": "/common/destiny2_content/icons/da31ac799e8b0baf0ce31aa02dcc056c.png"
       },
       {
         "stepName": "Trusted System",
         "displayEffectType": 0,
         "progressTotal": 2000,
-        "icon": "/common/destiny2_content/icons/b2c47eb4e3d1daf32bee877db6736017.png"
+        "icon": "/common/destiny2_content/icons/17816d40f30cbcb04166b901941dcdfc.png"
       }
     ],
     "visible": true,

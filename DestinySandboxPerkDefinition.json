@@ -5035,34 +5035,56 @@
   },
   "193266674": {
     "displayProperties": {
-      "description": "Keep it secret.  Keep it safe.",
-      "name": "Classified",
-      "icon": "/img/misc/missing_icon_d2.png",
+      "description": "",
+      "name": "",
+      "icon": "/common/destiny2_content/icons/d303a19d807e6cfb2d6928f36c66dac9.png",
       "iconHash": 0,
-      "highResIcon": "/img/misc/missing_icon_d2.png",
-      "hasIcon": false
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/d303a19d807e6cfb2d6928f36c66dac9.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/eef398daebcbdbaed599d34ce24fc685.png"
+          ]
+        }
+      ],
+      "hasIcon": true
     },
     "isDisplayable": false,
     "damageType": 0,
     "hash": 193266674,
     "index": 2189,
-    "redacted": true,
+    "redacted": false,
     "blacklisted": false
   },
   "193266675": {
     "displayProperties": {
-      "description": "Keep it secret.  Keep it safe.",
-      "name": "Classified",
-      "icon": "/img/misc/missing_icon_d2.png",
+      "description": "",
+      "name": "",
+      "icon": "/common/destiny2_content/icons/d303a19d807e6cfb2d6928f36c66dac9.png",
       "iconHash": 0,
-      "highResIcon": "/img/misc/missing_icon_d2.png",
-      "hasIcon": false
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/d303a19d807e6cfb2d6928f36c66dac9.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/eef398daebcbdbaed599d34ce24fc685.png"
+          ]
+        }
+      ],
+      "hasIcon": true
     },
     "isDisplayable": false,
     "damageType": 0,
     "hash": 193266675,
     "index": 2188,
-    "redacted": true,
+    "redacted": false,
     "blacklisted": false
   },
   "193266676": {
@@ -17390,34 +17412,56 @@
   },
   "679036008": {
     "displayProperties": {
-      "description": "Keep it secret.  Keep it safe.",
-      "name": "Classified",
-      "icon": "/img/misc/missing_icon_d2.png",
+      "description": "",
+      "name": "",
+      "icon": "/common/destiny2_content/icons/d303a19d807e6cfb2d6928f36c66dac9.png",
       "iconHash": 0,
-      "highResIcon": "/img/misc/missing_icon_d2.png",
-      "hasIcon": false
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/d303a19d807e6cfb2d6928f36c66dac9.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/eef398daebcbdbaed599d34ce24fc685.png"
+          ]
+        }
+      ],
+      "hasIcon": true
     },
     "isDisplayable": false,
     "damageType": 0,
     "hash": 679036008,
     "index": 2203,
-    "redacted": true,
+    "redacted": false,
     "blacklisted": false
   },
   "679036009": {
     "displayProperties": {
-      "description": "Keep it secret.  Keep it safe.",
-      "name": "Classified",
-      "icon": "/img/misc/missing_icon_d2.png",
+      "description": "",
+      "name": "",
+      "icon": "/common/destiny2_content/icons/d303a19d807e6cfb2d6928f36c66dac9.png",
       "iconHash": 0,
-      "highResIcon": "/img/misc/missing_icon_d2.png",
-      "hasIcon": false
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/d303a19d807e6cfb2d6928f36c66dac9.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/eef398daebcbdbaed599d34ce24fc685.png"
+          ]
+        }
+      ],
+      "hasIcon": true
     },
     "isDisplayable": false,
     "damageType": 0,
     "hash": 679036009,
     "index": 2202,
-    "redacted": true,
+    "redacted": false,
     "blacklisted": false
   },
   "679036010": {
@@ -88120,34 +88164,56 @@
   },
   "3297340152": {
     "displayProperties": {
-      "description": "Keep it secret.  Keep it safe.",
-      "name": "Classified",
-      "icon": "/img/misc/missing_icon_d2.png",
+      "description": "",
+      "name": "",
+      "icon": "/common/destiny2_content/icons/d303a19d807e6cfb2d6928f36c66dac9.png",
       "iconHash": 0,
-      "highResIcon": "/img/misc/missing_icon_d2.png",
-      "hasIcon": false
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/d303a19d807e6cfb2d6928f36c66dac9.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/eef398daebcbdbaed599d34ce24fc685.png"
+          ]
+        }
+      ],
+      "hasIcon": true
     },
     "isDisplayable": false,
     "damageType": 0,
     "hash": 3297340152,
     "index": 2181,
-    "redacted": true,
+    "redacted": false,
     "blacklisted": false
   },
   "3297340153": {
     "displayProperties": {
-      "description": "Keep it secret.  Keep it safe.",
-      "name": "Classified",
-      "icon": "/img/misc/missing_icon_d2.png",
+      "description": "",
+      "name": "",
+      "icon": "/common/destiny2_content/icons/d303a19d807e6cfb2d6928f36c66dac9.png",
       "iconHash": 0,
-      "highResIcon": "/img/misc/missing_icon_d2.png",
-      "hasIcon": false
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/d303a19d807e6cfb2d6928f36c66dac9.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/eef398daebcbdbaed599d34ce24fc685.png"
+          ]
+        }
+      ],
+      "hasIcon": true
     },
     "isDisplayable": false,
     "damageType": 0,
     "hash": 3297340153,
     "index": 2182,
-    "redacted": true,
+    "redacted": false,
     "blacklisted": false
   },
   "3297340154": {
@@ -90368,34 +90434,56 @@
   },
   "3369784254": {
     "displayProperties": {
-      "description": "Keep it secret.  Keep it safe.",
-      "name": "Classified",
-      "icon": "/img/misc/missing_icon_d2.png",
+      "description": "",
+      "name": "",
+      "icon": "/common/destiny2_content/icons/d303a19d807e6cfb2d6928f36c66dac9.png",
       "iconHash": 0,
-      "highResIcon": "/img/misc/missing_icon_d2.png",
-      "hasIcon": false
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/d303a19d807e6cfb2d6928f36c66dac9.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/eef398daebcbdbaed599d34ce24fc685.png"
+          ]
+        }
+      ],
+      "hasIcon": true
     },
     "isDisplayable": false,
     "damageType": 0,
     "hash": 3369784254,
     "index": 2195,
-    "redacted": true,
+    "redacted": false,
     "blacklisted": false
   },
   "3369784255": {
     "displayProperties": {
-      "description": "Keep it secret.  Keep it safe.",
-      "name": "Classified",
-      "icon": "/img/misc/missing_icon_d2.png",
+      "description": "",
+      "name": "",
+      "icon": "/common/destiny2_content/icons/d303a19d807e6cfb2d6928f36c66dac9.png",
       "iconHash": 0,
-      "highResIcon": "/img/misc/missing_icon_d2.png",
-      "hasIcon": false
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/d303a19d807e6cfb2d6928f36c66dac9.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/eef398daebcbdbaed599d34ce24fc685.png"
+          ]
+        }
+      ],
+      "hasIcon": true
     },
     "isDisplayable": false,
     "damageType": 0,
     "hash": 3369784255,
     "index": 2196,
-    "redacted": true,
+    "redacted": false,
     "blacklisted": false
   },
   "3369841643": {
@@ -96225,34 +96313,56 @@
   },
   "3546213476": {
     "displayProperties": {
-      "description": "Keep it secret.  Keep it safe.",
-      "name": "Classified",
-      "icon": "/img/misc/missing_icon_d2.png",
+      "description": "",
+      "name": "",
+      "icon": "/common/destiny2_content/icons/d303a19d807e6cfb2d6928f36c66dac9.png",
       "iconHash": 0,
-      "highResIcon": "/img/misc/missing_icon_d2.png",
-      "hasIcon": false
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/d303a19d807e6cfb2d6928f36c66dac9.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/eef398daebcbdbaed599d34ce24fc685.png"
+          ]
+        }
+      ],
+      "hasIcon": true
     },
     "isDisplayable": false,
     "damageType": 0,
     "hash": 3546213476,
     "index": 2175,
-    "redacted": true,
+    "redacted": false,
     "blacklisted": false
   },
   "3546213477": {
     "displayProperties": {
-      "description": "Keep it secret.  Keep it safe.",
-      "name": "Classified",
-      "icon": "/img/misc/missing_icon_d2.png",
+      "description": "",
+      "name": "",
+      "icon": "/common/destiny2_content/icons/d303a19d807e6cfb2d6928f36c66dac9.png",
       "iconHash": 0,
-      "highResIcon": "/img/misc/missing_icon_d2.png",
-      "hasIcon": false
+      "iconSequences": [
+        {
+          "frames": [
+            "/common/destiny2_content/icons/d303a19d807e6cfb2d6928f36c66dac9.png"
+          ]
+        },
+        {
+          "frames": [
+            "/common/destiny2_content/icons/eef398daebcbdbaed599d34ce24fc685.png"
+          ]
+        }
+      ],
+      "hasIcon": true
     },
     "isDisplayable": false,
     "damageType": 0,
     "hash": 3546213477,
     "index": 2174,
-    "redacted": true,
+    "redacted": false,
     "blacklisted": false
   },
   "3546213478": {
