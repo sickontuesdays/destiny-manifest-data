@@ -19,8 +19,6 @@ jobs:
 
     steps:
     - uses: actions/checkout@v4
-      with:
-        retry-on-error: true
 
     - uses: actions/setup-node@v4
       with:
@@ -50,13 +48,13 @@ jobs:
 
     - name: Convert manifest
       run: |
-        node .github/workflows/full-convert-and-optimize.js manifest.content
+        node --max-old-space-size=6144 .github/workflows/full-convert-and-optimize.js manifest.content
 
     - name: Commit results
       run: |
         git config user.name "GitHub Action"
         git config user.email "action@github.com"
-        git add *.json
+        git add -A -- '*.json'
         git commit -m "Auto-update manifest $(cat .manifest_version)" || exit 0
         git push
         

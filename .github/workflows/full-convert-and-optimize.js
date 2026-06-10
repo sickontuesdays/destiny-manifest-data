@@ -14,8 +14,9 @@ const JSZip = require('jszip');
 
 const INPUT_FILE = process.argv[2] || 'manifest.content';
 const OUTPUT_DIR = process.cwd();
-const MAX_FILE_SIZE_MB = 70;
-const CHUNK_FILES = ['DestinyInventoryItemDefinition'];
+// Measured against COMPACT JSON (what we now write). 60MB keeps every file well under
+// GitHub's hard 100MB push limit, with margin for future growth.
+const MAX_FILE_SIZE_MB = 60;
 
 function fail(msg) {
   console.error(`❌ ${msg}`);
@@ -28,6 +29,17 @@ if (!fs.existsSync(INPUT_FILE)) {
 
 function getFileSizeMB(obj) {
   return Buffer.byteLength(JSON.stringify(obj), 'utf8') / 1024 / 1024;
+}
+
+// Remove any prior output for a table so we never leave stale single/part files behind
+// when a table switches between single<->chunked or its part count changes.
+function cleanupTableFiles(table) {
+  const single = `${table}.json`;
+  if (fs.existsSync(single)) fs.rmSync(single, { force: true });
+  for (let i = 1; i <= 50; i++) {
+    const part = `${table}_part${i}.json`;
+    if (fs.existsSync(part)) fs.rmSync(part, { force: true });
+  }
 }
 
 function chunkTable(tableName, tableData) {
@@ -76,7 +88,7 @@ async function extractDatabase(buffer) {
   db.all("SELECT name FROM sqlite_master WHERE type='table'", (err, tables) => {
     if (err) fail(err.message);
 
-    const allData = {};
+    const extractedTables = [];
     let index = 0;
 
     const next = () => {
@@ -84,7 +96,7 @@ async function extractDatabase(buffer) {
         const metadata = {
           extractedAt: new Date().toISOString(),
           source: 'github-actions',
-          tablesExtracted: Object.keys(allData),
+          tablesExtracted: extractedTables,
           totalTables: tables.length
         };
 
@@ -115,20 +127,20 @@ async function extractDatabase(buffer) {
         }
 
         if (Object.keys(tableData).length) {
-          allData[table] = tableData;
+          extractedTables.push(table);
 
-          if (CHUNK_FILES.includes(table) && getFileSizeMB(tableData) > MAX_FILE_SIZE_MB) {
+          // Clear stale output for this table first.
+          cleanupTableFiles(table);
+
+          // Write COMPACT JSON (parses identically, ~half the size) and chunk ANY table
+          // that exceeds the limit (not just InventoryItem) so no single file can cross
+          // GitHub's 100MB push limit. The site's loader + API proxy already merge _part files.
+          if (getFileSizeMB(tableData) > MAX_FILE_SIZE_MB) {
             chunkTable(table, tableData).forEach((chunk, i) => {
-              fs.writeFileSync(
-                `${table}_part${i + 1}.json`,
-                JSON.stringify(chunk, null, 2)
-              );
+              fs.writeFileSync(`${table}_part${i + 1}.json`, JSON.stringify(chunk));
             });
           } else {
-            fs.writeFileSync(
-              `${table}.json`,
-              JSON.stringify(tableData, null, 2)
-            );
+            fs.writeFileSync(`${table}.json`, JSON.stringify(tableData));
           }
         }
 
