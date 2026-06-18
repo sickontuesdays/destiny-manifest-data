@@ -1,0 +1,12 @@
+# Node dependencies (installed fresh each CI run; must never be committed —
+# the commit step's `git add -A -- '*.json'` pathspec matches nested *.json files)
+node_modules/
+package-lock.json
+
+# Downloaded / temp manifest artifacts (only the extracted *Definition.json +
+# metadata.json belong in the repo)
+manifest.content
+manifest.db
+manifest-response.json
+.manifest_version
+.manifest_url
