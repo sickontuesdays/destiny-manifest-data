@@ -1,7 +1,9 @@
 # Node dependencies (installed fresh each CI run; must never be committed —
-# the commit step's `git add -A -- '*.json'` pathspec matches nested *.json files)
+# the commit step's `git add -A -- '*.json'` pathspec matches nested *.json files).
+# package.json + package-lock.json ARE committed so `npm ci` installs a complete,
+# deterministic tree (the old `npm install <pkg> --no-save` with no manifest produced
+# broken partial installs — missing setimmediate / napi-build-utils files).
 node_modules/
-package-lock.json
 
 # Downloaded / temp manifest artifacts (only the extracted *Definition.json +
 # metadata.json belong in the repo)

@@ -1,0 +1,10 @@
+{
+  "name": "destiny-manifest-data",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Weekly Destiny 2 manifest extractor (GitHub Action).",
+  "dependencies": {
+    "jszip": "^3.10.1",
+    "sql.js": "^1.13.0"
+  }
+}

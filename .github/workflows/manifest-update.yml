@@ -44,7 +44,7 @@ jobs:
         curl -fSL "https://www.bungie.net$(cat .manifest_url)" -o manifest.content
 
     - name: Install Node dependencies
-      run: npm install sql.js jszip --no-save
+      run: npm ci
 
     - name: Convert manifest
       run: |
